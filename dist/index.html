@@ -1,0 +1,1170 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="generator" content="Observable Framework v1.12.0">
+<title>Observable Tool</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
+<link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,wide.4b0e2451.css">
+<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
+<link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,wide.4b0e2451.css">
+<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="modulepreload" href="./_observablehq/client.447ca871.js">
+<link rel="modulepreload" href="./_observablehq/runtime.39ae6dc7.js">
+<link rel="modulepreload" href="./_observablehq/stdlib.80c30913.js">
+<link rel="modulepreload" href="./_node/d3-tip@0.9.1/index.e96538a9.js">
+<link rel="modulepreload" href="./_node/tippy.js@6.3.7/index.7102b061.js">
+<link rel="modulepreload" href="./_npm/d3@7.9.0/7055d4c5.js">
+<link rel="modulepreload" href="./_npm/htl@0.3.1/063eb405.js">
+<link rel="modulepreload" href="./_observablehq/stdlib/inputs.1ecb4bca.js">
+<link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.14/0bada646.js">
+<link rel="modulepreload" href="./_npm/isoformat@0.2.1/c68fbd73.js">
+<link rel="modulepreload" href="./_node/d3-collection@1.0.7/index.0f51bab4.js">
+<link rel="modulepreload" href="./_node/d3-selection@1.4.2/index.5ec599a4.js">
+<link rel="modulepreload" href="./_node/@popperjs/core@2.11.8/index.95f1652c.js">
+<link rel="modulepreload" href="./_npm/d3-array@3.2.4/e95f898e.js">
+<link rel="modulepreload" href="./_npm/d3-axis@3.0.0/d44feff9.js">
+<link rel="modulepreload" href="./_npm/d3-brush@3.0.0/5830b12a.js">
+<link rel="modulepreload" href="./_npm/d3-chord@3.0.1/84d7b8e9.js">
+<link rel="modulepreload" href="./_npm/d3-color@3.1.0/2c0cdfa2.js">
+<link rel="modulepreload" href="./_npm/d3-contour@4.0.2/626bedc4.js">
+<link rel="modulepreload" href="./_npm/d3-delaunay@6.0.4/00c41b5d.js">
+<link rel="modulepreload" href="./_npm/d3-dispatch@3.0.1/b5f7cdc6.js">
+<link rel="modulepreload" href="./_npm/d3-drag@3.0.0/b22c5864.js">
+<link rel="modulepreload" href="./_npm/d3-dsv@3.0.1/407f7a1f.js">
+<link rel="modulepreload" href="./_npm/d3-ease@3.0.1/6f15f633.js">
+<link rel="modulepreload" href="./_npm/d3-fetch@3.0.1/ef1ec490.js">
+<link rel="modulepreload" href="./_npm/d3-force@3.0.0/5e1ff060.js">
+<link rel="modulepreload" href="./_npm/d3-format@3.1.0/5851d7ef.js">
+<link rel="modulepreload" href="./_npm/d3-geo@3.1.1/dcd02767.js">
+<link rel="modulepreload" href="./_npm/d3-hierarchy@3.1.2/f1db2593.js">
+<link rel="modulepreload" href="./_npm/d3-interpolate@3.0.1/034b7bcb.js">
+<link rel="modulepreload" href="./_npm/d3-path@3.1.0/4bb53638.js">
+<link rel="modulepreload" href="./_npm/d3-polygon@3.0.1/bbafde58.js">
+<link rel="modulepreload" href="./_npm/d3-quadtree@3.0.1/aa5b35a8.js">
+<link rel="modulepreload" href="./_npm/d3-random@3.0.1/32c7fec2.js">
+<link rel="modulepreload" href="./_npm/d3-scale@4.0.2/567840a0.js">
+<link rel="modulepreload" href="./_npm/d3-scale-chromatic@3.1.0/cf9b720b.js">
+<link rel="modulepreload" href="./_npm/d3-selection@3.0.0/5dcd62f4.js">
+<link rel="modulepreload" href="./_npm/d3-shape@3.2.0/f8e03c56.js">
+<link rel="modulepreload" href="./_npm/d3-time@3.1.0/5bc129e1.js">
+<link rel="modulepreload" href="./_npm/d3-time-format@4.1.0/19c92b44.js">
+<link rel="modulepreload" href="./_npm/d3-timer@3.0.1/f31b5398.js">
+<link rel="modulepreload" href="./_npm/d3-transition@3.0.1/8debb4ba.js">
+<link rel="modulepreload" href="./_npm/d3-zoom@3.0.0/4b0cc581.js">
+<link rel="modulepreload" href="./_npm/interval-tree-1d@1.0.4/a62ae5ce.js">
+<link rel="modulepreload" href="./_npm/internmap@2.0.3/5eed35fd.js">
+<link rel="modulepreload" href="./_npm/delaunator@5.0.1/e67acb27.js">
+<link rel="modulepreload" href="./_npm/binary-search-bounds@2.0.5/1ee6c50d.js">
+<link rel="modulepreload" href="./_npm/robust-predicates@3.0.2/8ac9039b.js">
+<link rel="icon" href="./_file/observable.1af93621.png" type="image/png" sizes="32x32">
+<script type="module">
+
+import {define} from "./_observablehq/client.447ca871.js";
+import {registerFile} from "./_observablehq/stdlib.80c30913.js";
+
+registerFile("./data/painting_data_full_images.json", {"name":"./data/painting_data_full_images.json","mimeType":"application/json","path":"./_file/data/painting_data_full_images.1fb20827.json","lastModified":1729697727804,"size":121799});
+registerFile("./data/period_data.json", {"name":"./data/period_data.json","mimeType":"application/json","path":"./_file/data/period_data.28efcb3a.json","lastModified":1729244980695,"size":1531});
+registerFile("./data/vgm_paintings_real_letter_counts.json", {"name":"./data/vgm_paintings_real_letter_counts.json","mimeType":"application/json","path":"./_file/data/vgm_paintings_real_letter_counts.101bdbce.json","lastModified":1720446415253,"size":999});
+registerFile("./data/vgm_pigment_counts.json", {"name":"./data/vgm_pigment_counts.json","mimeType":"application/json","path":"./_file/data/vgm_pigment_counts.00cfea4f.json","lastModified":1728296596190,"size":219048});
+
+define({id: "06ba86fc", inputs: ["paintingsImages","view","Inputs"], outputs: ["titleIdArray","paintingSearch"], body: (paintingsImages,view,Inputs) => {
+// Make a combination of main ID and title to ensure the unique look-up of paintings
+const titleIdArray = paintingsImages.map((d) => d.title + ", " + d.fnumber);
+
+// Create a search bar to look up paintings in the tool (searched paintings act as clicked paintings)
+const paintingSearch = view(Inputs.text({
+  placeholder: "Catalogue nr. or (partial) title", 
+  submit: true,
+  datalist: titleIdArray}));
+return {titleIdArray,paintingSearch};
+}});
+
+define({id: "6314ea62", inputs: ["setClickId","paintingSearch","titleIdArray"], outputs: ["searchPainting","clickArray"], body: (setClickId,paintingSearch,titleIdArray) => {
+// Map the searched painting to its original index and set this as the clickID for the rest of the program
+function searchPainting(searchedPainting, indexList) {
+  if (searchedPainting == "") {
+    return null;
+  } else {
+    let searchIndex = indexList.indexOf(searchedPainting);
+    return searchIndex;
+  }
+}
+
+setClickId(searchPainting(paintingSearch, titleIdArray));
+const clickArray = [];
+return {searchPainting,clickArray};
+}});
+
+define({id: "0356aebb", inputs: ["paintingSubset","paintingsImages","clickArray"], outputs: ["clickArrayContainerContent","displayClickArray"], body: (paintingSubset,paintingsImages,clickArray) => {
+// A toggle to turn the selection of multiple paintings on/off
+// const multipleSelection = view(Inputs.toggle({label: "Select multiple paintings?", value: false}));
+// A button to add a clicked painting to a painting subset
+let clickArrayContainerContent = document.querySelector("#clickArrayContainer");
+
+function displayClickArray(paintingData, clickedArray) {
+  if (clickedArray.length == 0) {
+    clickArrayContainerContent.innerHTML = `
+    Select paintings for the subset by clicking the <br> painting and confirming with the button
+    `;
+  } else {
+    const displayArray = [];
+    for (let i=0; i<clickedArray.length; i++) {
+      if (!displayArray.includes(paintingData[Number(clickedArray[i])].fnumber) && typeof clickedArray[i] != "number") {
+        displayArray.push(paintingData[Number(clickedArray[i])].fnumber);
+      }
+    }
+    
+    clickArrayContainerContent.innerHTML = `
+    Paintings in the subset: ${displayArray}
+    `;
+  }
+}
+
+// These two lines should stay in the same code block otherwise the subset clicks will break :3
+paintingSubset;
+displayClickArray(paintingsImages, clickArray);
+return {clickArrayContainerContent,displayClickArray};
+}});
+
+define({id: "7d863ffb", inputs: ["view","Inputs"], outputs: ["selection"], body: (view,Inputs) => {
+// Create radio boxes for timeline layout
+const selection = view(Inputs.radio(["Time points - Start", "Time points - Middle", "Time points - End", "Time ranges"], {label: "Choose timeline", value: "Time points - Middle"}));
+return {selection};
+}});
+
+define({id: "0fb372d8", inputs: ["lanesData","paintingsAnalyzed","selection","disabledChoice","view","Inputs"], outputs: ["nrows","n","disabledSlider","radiusSize"], body: (lanesData,paintingsAnalyzed,selection,disabledChoice,view,Inputs) => {
+const nrows = (Math.max(...lanesData(paintingsAnalyzed).map(o => o.yIndex))) + 1;
+const n = (nrows < 50) ? 25 : 50;
+
+// Allow for the slider to be disabled when the time ranges option is clicked (then radius does not apply)
+const disabledSlider = [];
+if (selection === "Time ranges") {
+  disabledSlider.push(true);
+} else { 
+  disabledChoice.push(false);
+};
+
+// Create a slider to adjust radius of time points
+const radiusSize = view(Inputs.range([0, 25], {label: "Set point radius", step: 0.5, value: 650 / (nrows + n), disabled: disabledSlider[0]}));
+return {nrows,n,disabledSlider,radiusSize};
+}});
+
+define({id: "7c76a378", inputs: ["view","Inputs"], outputs: ["analyzedChoice"], body: (view,Inputs) => {
+const analyzedChoice = view(Inputs.radio(["All paintings", "Analyzed paintings", "Not analyzed paintings"], 
+{label: "Pigment analysis filter", value: "All paintings"}));
+return {analyzedChoice};
+}});
+
+define({id: "89500e27", inputs: ["view","Inputs"], outputs: ["pigmentRadio"], body: (view,Inputs) => {
+const pigmentRadio = view(Inputs.radio(new Map([["Pigments", "pigment"], ["Colorgroups", "Colorgroup"]]), {label: "Choose display", value: "pigment"}));
+return {pigmentRadio};
+}});
+
+define({id: "214797c6", inputs: ["d3","pigment_counts","extractNames"], outputs: ["pigmentNames","colorgroupNames"], body: (d3,pigment_counts,extractNames) => {
+const pigmentNames = d3.groupSort(pigment_counts, 
+    ([d]) => d.Colorgroup,
+    (d) => d.pigment
+  );
+const colorgroupNames = extractNames(pigment_counts, 'Colorgroup');
+return {pigmentNames,colorgroupNames};
+}});
+
+define({id: "3c87c790", inputs: ["pigmentRadio","view","Inputs","pigmentNames","display","setPigmentClicked"], outputs: ["disabledChoice","pigmentSelect"], body: (pigmentRadio,view,Inputs,pigmentNames,display,setPigmentClicked) => {
+const disabledChoice = [];
+if (pigmentRadio === "pigment") {
+  disabledChoice.push(false)
+};
+if (pigmentRadio === "Colorgroup") {
+  disabledChoice.push(true)
+};
+
+// This just creates an array, so way to go is probably to create an empty array under this name and then fill it depending on what option is selected (user selection or painting click)
+let pigmentSelect = [];
+pigmentSelect = view(Inputs.select(pigmentNames, {disabled: disabledChoice[0], multiple: true, label: "Choose pigment(s)"}));
+
+display(Inputs.button("Reset pigment selection (clicked painting)", {reduce: () => setPigmentClicked([])}));
+return {disabledChoice,pigmentSelect};
+}});
+
+define({id: "03ccb432", inputs: ["pigment_counts","view","Inputs"], outputs: ["techniqueOptions","techniqueChoice"], body: (pigment_counts,view,Inputs) => {
+// Pigment filters: on technique, on uncertainty, on notes (yes/no)
+// Idea: technique options that are not in the current dataset are greyed out?
+// Also watch out because entries can be in list form!
+
+// Only show options for technique that are present in the current pigment data selection
+const techniqueOptions = [];
+
+for (let i=0; i<pigment_counts.length; i++) {
+  if (pigment_counts[i].technique != null && pigment_counts[i].technique.length > 0) {
+    for (let j=0; j<pigment_counts[i].technique.length; j++) {
+      if (!techniqueOptions.includes(pigment_counts[i].technique[j])) {
+        techniqueOptions.push(pigment_counts[i].technique[j]);
+      }
+    }
+  } else {
+    if (!techniqueOptions.includes("No info")) {
+      techniqueOptions.push("No info");
+    }
+  }
+}
+
+const techniqueChoice = view(Inputs.checkbox(techniqueOptions, {label: "Choose technique(s)", value: techniqueOptions}));
+return {techniqueOptions,techniqueChoice};
+}});
+
+define({id: "136cca00", inputs: ["view","Inputs"], outputs: ["uncertaintyChoice"], body: (view,Inputs) => {
+const uncertaintyChoice = view(Inputs.checkbox(["No info", "Possibly", "Probably"], {label: "Choose uncertainty", value: ["No info", "Possibly", "Probably"]}));
+return {uncertaintyChoice};
+}});
+
+define({id: "d930cf37", inputs: ["paintingsImages","clickId"], outputs: ["containerContent","full_month","paintingView"], body: (paintingsImages,clickId) => {
+let containerContent = document.querySelector('#container');
+const full_month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+function paintingView(paintingData, clickedId = null) {
+
+  if (clickedId == null) {
+    containerContent.innerHTML = `
+    <br>
+    <h3>Painting details - Click on a painting to display more details here</h3>
+    `;
+  } else {
+    const clickedPainting = paintingData[Number(clickedId)];
+
+    // Create a list of letterIDs with correct associated URLs
+    let letterArray = [];
+    for (let i = 0; i < clickedPainting.letterIDs.length; i++) {
+      if (clickedPainting.letterIDs[i] == null) {
+        letterArray.push(null);
+      } else {
+        letterArray.push("<a href='" + clickedPainting.letterURLs[i] + "' target='_blank'>" + clickedPainting.letterIDs[i] + "</a>");
+      }
+    }
+    
+    containerContent.innerHTML = `
+      <br>
+      <h3>Painting details - ${clickedPainting.title}</h3>
+      <a href=${clickedPainting.link} target="_blank">Van Gogh Worldwide page</a>
+      <table><tr>
+        <td>F-number</td>
+        <td id="clickedF">${clickedPainting.fnumber}</td>
+      </tr><tr>
+        <td>JH-number</td>
+        <td>${clickedPainting.jhnumber}</td>
+      </tr><tr>
+        <td>Museum ID</td>
+        <td>${clickedPainting.museum_id}</td>
+      </tr><tr>
+        <td>Date</td>
+        <td>${clickedPainting.display}</td>
+      </tr><tr>
+        <td>Production location</td>
+        <td>${clickedPainting.location}</td>
+      </tr><tr>
+        <td>Current owner</td>
+        <td>${clickedPainting.current_owner}</td>
+      </tr><tr>
+        <td>Pigment analysis?</td>
+        <td>${clickedPainting.analyzed}</td>
+      </tr><tr>
+        <td>Associated letter(s)</td>
+        <td>${letterArray}</td>
+      </tr></table>
+
+      <img id="clickedImage" src=${clickedPainting.image}>
+      `;
+  }
+}
+
+paintingView(paintingsImages, clickId);
+return {containerContent,full_month,paintingView};
+}});
+
+define({id: "f951d98a", inputs: ["setPigmentClicked","paintingsImages","pigment_counts","clickId"], outputs: ["pigmentClick"], body: (setPigmentClicked,paintingsImages,pigment_counts,clickId) => {
+// Function to fill the pigmentChoice array with pigments based on the clicked painting
+function pigmentClick(paintingData, pigmentData, clickedId) {
+  
+  const clickedPainting = paintingData[Number(clickedId)];
+  const resultArray = [];
+
+  if (clickedId == null) {
+    return [];
+  } else if (clickedPainting.analyzed == "No") {
+    return ["placeholder"];
+  } else {
+    for (let i=0; i < pigmentData.length; i++) {
+      if (pigmentData[i].fnumber == clickedPainting.fnumber) {
+        resultArray.push(pigmentData[i].pigment);
+      }
+    }
+    return resultArray;
+  } 
+} 
+
+setPigmentClicked(pigmentClick(paintingsImages, pigment_counts, clickId));
+
+// display(Inputs.button("Reset pigment selection (clicked painting)", {reduce: () => setPigmentClicked([])}));
+return {pigmentClick};
+}});
+
+define({id: "f6470b4d", inputs: ["d3","Inputs","paintingsImages","pigment_counts","clickId"], outputs: ["containerTable","pigmentTable"], body: (d3,Inputs,paintingsImages,pigment_counts,clickId) => {
+let containerTable = document.querySelector('#container2');
+// Function to set the pigment table at the bottom of the painting details view
+function pigmentTable(paintingData, pigmentData, clickedId = null) {
+  
+  if (clickedId == null) {
+    containerTable.innerHTML = ``;
+  } else {
+    const clickedPainting = paintingData[Number(clickedId)];
+    
+    if (clickedPainting.analyzed == "No"){
+      containerTable.innerHTML = `
+      <br>
+      <h3>No pigment data to display</h3>
+      `;
+    } else {
+      let clickedPigments = pigmentData.filter(function(el) {
+        return el.fnumber == clickedPainting.fnumber;
+      });
+
+      // A map to display the encoded source as a nicely written source
+      const sourceMap = new Map([
+        ["dutch_table", "Van Gogh's Dutch Palette - Van Gogh's Studio Practice by M. Geldof, L. Megens, and J. Salvant (2013)"],
+        ["antwerp_table", "Vincent van Gogh Paintings: Volume 2: Antwerp, Paris 1885-1888 by E. Hendriks and L. van Tilborgh (2011)"], 
+        ["paris_table", "Vincent van Gogh Paintings: Volume 2: Antwerp, Paris 1885-1888 by E. Hendriks and L. van Tilborgh (2011)"],
+        ["olive_table", "Creating Olive Groves in Saint-Rémy: A Comparative Study of Van Gogh's Painting Technique and Materials - Van Gogh and the Olive Groves by K. Pilz and M. Geldof (2021)"],
+        ["astra_table", "Van Gogh's Palette in Arles, Saint-Rémy and Auvers-Sur-Oise - Van Gogh's Studio Practice by M. Geldof, L. Megens, and J. Salvant (2013)"]
+      ]);
+
+      // Ensure the display order of pigments in the table is the same as in the pigment dots plot
+      let sortedPigmentNames = d3.groupSort(clickedPigments, ([d]) => d.Colorgroup, (d) => d.pigment);
+      
+      function mapOrder(array, order, key) {
+        array.sort(function(a, b) {
+          let A = a[key], B = b[key];
+
+          if (order.indexOf(A) > order.indexOf(B)) {
+            return 1;
+          } else {
+            return -1;
+          }
+        });
+
+        return array;
+      };
+
+      const sortedPigments = mapOrder(clickedPigments, sortedPigmentNames, "pigment");
+
+      const pigmentsTable = Inputs.table(sortedPigments, {
+        columns: [
+          "pigment",
+          "certainty",
+          "technique",
+          "notes"
+        ],
+        header: {
+          pigment: "🎨",
+          certainty: "❔",
+          technique: "🔎",
+          notes: "📝"
+        },
+        layout: "auto",
+        rows: 25
+      });
+
+      containerTable.innerHTML = `
+      <br>
+      <i>Pigment analysis source:</i> ${sourceMap.get(clickedPigments[0].source)}
+      <br>
+      <br>
+      `;
+      containerTable.appendChild(pigmentsTable);
+    };
+  };
+};
+
+pigmentTable(paintingsImages, pigment_counts, clickId);
+return {containerTable,pigmentTable};
+}});
+
+define({id: "bdb2b32b", inputs: ["FileAttachment"], outputs: ["paintingsRawImages","pigment_counts_raw","counts","periods_raw"], body: (FileAttachment) => {
+// display(clickId);
+// Data imports
+const paintingsRawImages = FileAttachment("./data/painting_data_full_images.json").json();
+// const paintingsRawImages = FileAttachment("./data/paintingdlf_data_full_images.json").json();
+// const paintingsRawImages = FileAttachment("./data/mockup_painting_images.json").json();
+const pigment_counts_raw = FileAttachment("./data/vgm_pigment_counts.json").json();
+const counts = FileAttachment("./data/vgm_paintings_real_letter_counts.json").json();
+const periods_raw = FileAttachment("./data/period_data.json").json();
+return {paintingsRawImages,pigment_counts_raw,counts,periods_raw};
+}});
+
+define({id: "2abd59ee", outputs: ["d3Tip","tippy"], body: async () => {
+const [{default: d3Tip}, {default: tippy}] = await Promise.all([import("./_node/d3-tip@0.9.1/index.e96538a9.js"), import("./_node/tippy.js@6.3.7/index.7102b061.js")]);
+// display(pigmentSelect);
+// Package imports
+ 
+return {d3Tip,tippy};
+}});
+
+define({id: "4ba32734", inputs: ["periods_raw"], outputs: ["parsePeriods","periods"], body: (periods_raw) => {
+function parsePeriods(element) {
+  return {
+    period: element.period,
+    start: new Date(element.start),
+    end: new Date(element.end),
+    middle: new Date(new Date(element.start).getTime() + (new Date(element.end).getTime() - new Date(element.start).getTime()) / 2),
+    locations: element.locations, 
+    background: element.background
+  }
+};
+
+const periods = periods_raw.map(parsePeriods);
+return {parsePeriods,periods};
+}});
+
+define({id: "9977f524", outputs: ["clickedPeriod"], body: () => {
+// Creates a subset of periods based on the location of the clicked painting
+function clickedPeriod(paintingData, periodData, clickedId = null) {
+  
+  if (clickedId == null) {
+    return [];
+  } else {
+    const clickedPainting = paintingData[Number(clickedId)];
+    const periodOut = [];
+    
+    for (let i=0; i<periodData.length; i++) {
+      if (periodData[i].locations.includes(clickedPainting.location)) {
+        periodOut.push(periodData[i].period);
+      } 
+    }
+    return periodOut;
+  }
+}
+return {clickedPeriod};
+}});
+
+define({id: "dac269d1", inputs: ["clickedPeriod","paintingsImages","periods","clickId","display","Plot","width","xScale"], outputs: ["periodSubset"], body: (clickedPeriod,paintingsImages,periods,clickId,display,Plot,width,xScale) => {
+let periodSubset = clickedPeriod(paintingsImages, periods, clickId);
+if (periodSubset.length == 0) {
+  periodSubset = periods.map((d) => d.period);
+}
+
+display(
+  Plot.plot({
+    height: 100,
+    width: width, 
+    marginLeft: 150,
+    x: {domain: [new Date("1881-01-01"), new Date("1891-01-01")]}, 
+    y: {domain: [0, 1], axis: null},
+    marks: [
+      Plot.ruleY([0]),
+      Plot.axisX({label: null, fontSize: 15}),
+      Plot.image(periods, {
+        x: "middle", 
+        y: 0.5, 
+        src: "background",
+        height: 50,
+        width: d => 
+        (d.start >= d.end
+          ? 3
+          : xScale(d.end) - xScale(d.start)
+        ),
+        preserveAspectRatio: "none",
+        channels: {
+          start: {
+            value: "start",
+            label: "Start"
+          },
+          end: {
+            value: "end",
+            label: "End"
+          }
+        },
+        tip: {
+          fontSize: 15,
+          format: {
+            x: false,
+            y: false,
+            width: false,
+            start: true,
+            end: true
+          }
+        }
+      }), 
+      Plot.text(periods, {
+        x: "middle", 
+        y: [0.5, 1, 0.5, 0.5, 0.5, 0.5, 1], 
+        text: "period", 
+        fontSize: 20,
+        opacity: (d) => (
+          periodSubset.includes(d.period) ? 1 : 0.3
+        ),
+      })
+    ]
+  })
+)
+return {periodSubset};
+}});
+
+define({id: "3420f55b", inputs: ["display","Plot","width","counts"], body: (display,Plot,width,counts) => {
+// Letter and painting counts bar chart
+// TODO: add real data instead of using a mock-up dataset (letters done, paintings only for VGM for now)
+// Idea: make the letters bar stacked by letter sender, make the paintings bar stacked by analyzed/not analyzed
+display(
+    Plot.plot({
+        style: {fontSize: "15px"},
+        x: {axis: null, tickFormat: "%Y", label: null},
+        fx: {label: null},
+        y: {tickFormat: "s", grid: true, label: "Count"},
+        width: width,
+        height: 100, 
+        marginLeft: 150, 
+        color: {type: "categorical", range: ["#00abff", "#ffa420"], legend: true},
+        marks: [
+            Plot.barY(counts, {
+                x: "key",
+                y: "count",
+                fill: "key",
+                fx: "year",
+                channels: {
+                  count: {
+                    value: "count", 
+                    label: "Count"
+                  }, 
+                  year: {
+                    value: "year",
+                    label: "Year"
+                  }, 
+                  key: {
+                    value: "key", 
+                    label: "Data"
+                  }
+                },
+                tip: {
+                  fontSize: 15, 
+                  format: {
+                    x: false, 
+                    y: false, 
+                    fill: false,
+                    fx: false
+                  }
+                }
+            }),
+            Plot.ruleY([0])
+        ]
+    })
+);
+}});
+
+define({id: "6595a661", inputs: ["view","Inputs","html","paintingsImages","clickId","clickArray","setPigmentClicked","setSubsetPigments","pigment_counts"], outputs: ["paintingSubset"], body: (view,Inputs,html,paintingsImages,clickId,clickArray,setPigmentClicked,setSubsetPigments,pigment_counts) => {
+// const paintingSubset = view(Inputs.button(html`Add ${paintingsImages[Number(clickId)].fnumber} to subset`, {value: clickId, reduce: value => clickArray.push(value)}));
+const paintingSubset = view(Inputs.button([
+  [html`Add ${paintingsImages[Number(clickId)].fnumber} to subset`, value => clickArray.push(value)],
+  ["Show pigment overlap for subset", () => setPigmentClicked(setSubsetPigments(paintingsImages, pigment_counts, clickArray))],
+  ["Reset pigment subset", () => clickArray.length = 0]
+], {value: clickId}));
+return {paintingSubset};
+}});
+
+define({id: "da829a00", inputs: ["pigmentClick"], outputs: ["setSubsetPigments"], body: (pigmentClick) => {
+function setSubsetPigments(paintingData, pigmentData, subsetArray) {
+
+  const resultArray = [];
+  const placeholderArray = [];
+  const counter = {};
+
+  if (subsetArray.length == 0) {
+    return [];
+  } else if (subsetArray.length == 1) {
+    const firstPaintingArray = pigmentClick(paintingData, pigmentData, subsetArray[0]);
+    return firstPaintingArray;
+  } else {
+    const subsetArrayUnique = [...new Set(subsetArray)];
+    const subsetArrayFinal = subsetArrayUnique.filter(item => typeof item === "string");
+
+    for (let i=0; i<subsetArrayFinal.length; i++) {
+      if (typeof subsetArrayFinal[i] == "string") {
+        let singlePaintingArray = pigmentClick(paintingData, pigmentData, subsetArrayFinal[i]);
+        for (let j=0; j<singlePaintingArray.length; j++) {
+          placeholderArray.push(singlePaintingArray[j]);
+        }
+      }
+    }
+
+    // Compute how many times each pigment has been added
+    // Only pigments that have been added as many times as subsetArray is long, will be considered for the final result
+    placeholderArray.forEach(el => {
+      if (counter[el]) {
+        counter[el] += 1;
+      } else {
+        counter[el] = 1;
+      }
+    });
+    
+    for (const [key, value] of Object.entries(counter)) {
+      if (value === subsetArrayFinal.length) {
+        resultArray.push(key);
+      }
+    }
+    return resultArray;
+  }
+}
+return {setSubsetPigments};
+}});
+
+define({id: "67264b78", inputs: ["d3","paintingsRawImages","analyzedChoice"], outputs: ["lanesData","START_YEAR","END_YEAR","parseDates","paintingsImages","paintingsAnalyzed","month","placedPaintings"], body: (d3,paintingsRawImages,analyzedChoice) => {
+// Necessary functions for the painting timelines: stacking algorithm and data parser
+const lanesData = data => {
+  const lanesData = []
+  let stack = [];
+  data.slice().forEach(e => {
+    const lane = stack.findIndex(
+      s => s[END_YEAR] <= e[START_YEAR] && s[START_YEAR] < e[START_YEAR]
+      // s => s[END_YEAR] < e[START_YEAR] || e[END_YEAR] < s[START_YEAR]
+    );
+    const yIndex = lane === -1 ? stack.length : lane
+    lanesData.push({
+      ...e,
+      yIndex
+    })
+    stack[yIndex] = e;
+  })
+  return lanesData
+}
+
+const START_YEAR = "start";
+const END_YEAR = "end";
+
+// Be careful when filtering: make sure the new dataset always passes through this function (or make a separate function for the sorting + index assignment!)
+function parseDates(data) {
+  const parsedArray = [];
+  for (let i = 0; i < data.length; i++) {
+    const element = data[i];
+    parsedArray.push({
+      start: new Date(element.start),
+      end: new Date(element.end),
+      middle: new Date(new Date(element.start).getTime() + (new Date(element.end).getTime() - new Date(element.start).getTime()) / 2),
+      display: element.display,
+      title: element.title,
+      image: element.Image, 
+      fnumber: element.fnumber,
+      jhnumber: element.jhnumber,
+      museum_id: element.museumid,
+      location: element.location,
+      current_owner: element.current_owner,
+      link: element.link,
+      analyzed: element.analyzed,
+      letterIDs: element.letterID,
+      letterURLs: element.letterURL});
+  }
+  
+  const sortedArray = parsedArray.sort(
+    (a, b) => 
+    d3.ascending(a[START_YEAR], b[START_YEAR]) ||
+    d3.ascending(a[END_YEAR], b[END_YEAR])
+  );
+
+  for (let i = 0; i < data.length; i++) {
+    sortedArray[i].index = i.toString();
+  };
+
+  return sortedArray;
+};
+
+const paintingsImages = parseDates(paintingsRawImages)
+// For now change the index of the second F25 manually to make it match the first (should think of an automated way to fix this!!)
+paintingsImages[41].index = 6;
+
+// A filtered dataset based on the pigment analysis radio choice
+let paintingsAnalyzed;
+if (analyzedChoice == "Analyzed paintings") {
+  paintingsAnalyzed = paintingsImages.filter(item => item.analyzed == "Yes");
+} else if (analyzedChoice == "Not analyzed paintings") {
+  paintingsAnalyzed = paintingsImages.filter(item => item.analyzed == "No");
+} else {
+  paintingsAnalyzed = paintingsImages;
+}
+
+const month = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+const placedPaintings = lanesData(paintingsImages); // I think this line is redundant?
+return {lanesData,START_YEAR,END_YEAR,parseDates,paintingsImages,paintingsAnalyzed,month,placedPaintings};
+}});
+
+define({id: "516842b6", inputs: ["paintingsImages"], outputs: ["tip"], body: (paintingsImages) => {
+// Function that accepts a painting index and generates the html tooltip accordingly
+function tip(id) {
+  let d = paintingsImages.filter((c) => c.index == id)[0];
+  return `<h4>${d.title} (${d.fnumber})</h4>
+  ${d.location}
+  <br> ${d.display}
+  <br> <img src=${d.image} width="200">
+  `;
+}
+return {tip};
+}});
+
+define({id: "5d8bce6a", inputs: ["pigmentDot","paintingsImages"], outputs: ["fArray"], body: (pigmentDot,paintingsImages) => {
+// Code to create an f-array to pass to the opacity option in the timeline plots
+const fArray = [];
+
+if (Array.isArray(pigmentDot)) {
+  for (let i = 0; i < pigmentDot.length; i++) {
+    fArray.push(pigmentDot[i].fnumber);
+  }
+}
+
+// If the f-array is empty, pass all f-numbers in the current set to ensure opacity is 1 in 'rest'
+// (otherwise, just keep the f-array as is)
+if (fArray.length === 0) {
+  for (let i = 0; i < paintingsImages.length; i++) {
+    fArray.push(paintingsImages[i].fnumber);
+  }
+}
+return {fArray};
+}});
+
+define({id: "04a58a5d", inputs: ["Mutable"], outputs: ["clickId","setClickId","pigmentClicked","setPigmentClicked"], body: (Mutable) => {
+const clickId = Mutable(null);
+const setClickId = (value) => clickId.value = value;
+
+const pigmentClicked = Mutable([]);
+const setPigmentClicked = (value) => pigmentClicked.value = value;
+return {clickId,setClickId,pigmentClicked,setPigmentClicked};
+}});
+
+define({id: "745a21ed", inputs: ["d3","width","paintingsAnalyzed","Plot","radiusSize","setClickId","tippy","tip","clickId","nrows","lanesData"], outputs: ["xScale","maxHeight","zeroArray","points_timeline","range_timeline"], body: (d3,width,paintingsAnalyzed,Plot,radiusSize,setClickId,tippy,tip,clickId,nrows,lanesData) => {
+// Painting timelines: point and range based
+const xScale = d3
+    .scaleTime()
+    .domain([new Date("1881-01-01"), new Date("1890-01-01")])
+    .nice()
+    .range([40, width - 15]);
+
+const maxHeight = 600;  
+const zeroArray = new Array(paintingsAnalyzed.length).fill(0);
+
+function points_timeline(paintingData, position, subset) {
+  let points_timeline = Plot.plot({
+    height: maxHeight,
+    width: width,
+    marginLeft: 150,
+    x: {domain: [new Date("1881-01-01"), new Date("1891-01-01")]},
+    color: {
+      range: ["white", "white"]
+    },
+    marks: [
+      Plot.axisX({label: null, fontSize: 15}),
+      Plot.image(
+        paintingData,
+        Plot.dodgeY({
+          x: position, 
+          r: radiusSize,
+          padding: -0.5,
+          opacity: (d) => (
+              subset.includes(d.fnumber) ? 1 : 0.3
+            ),
+          preserveAspectRatio: "xMidYMind slice",
+          src: "image",
+          title: "index",
+        })
+      ),
+      Plot.dotX(
+        paintingData,
+        Plot.dodgeY({
+          x: position,
+          r: radiusSize,
+          padding: -0.5,
+          fill: "black",
+          fillOpacity: zeroArray,
+          title: "index"
+        })
+      )
+    ]
+  });
+  
+  let boxDots = d3.select(points_timeline).selectAll("circle");
+  boxDots
+    .on("click", function() {
+      let t = d3.select(this).select("title").text();
+      setClickId(t);
+    })
+    .each(function () {
+      let t = d3.select(this).select("title").text(); 
+      tippy(this, {
+        content: tip(t),
+        theme: 'custom',
+        allowHTML: true,
+        maxWidth: 200,
+        interactive: true,
+        appendTo: () => document.body
+      })
+    })
+    .each(function () {
+      let t = d3.select(this).select("title").text();
+      if (t == clickId) {
+        d3.select(this).attr("stroke", "red").style("stroke-width", 4);
+      }
+    })
+  
+  return points_timeline;
+}
+
+function range_timeline(paintingData, subset) {
+  let range_timeline = Plot.plot({
+    height: maxHeight,
+    width: width,
+    marginLeft: 150,
+    x: {domain: [new Date("1881-01-01"), new Date("1891-01-01")]},
+    y: {domain: [0, nrows], axis: null},
+    marks: [
+      Plot.axisX({label: null, fontSize: 15}),
+      Plot.image(lanesData(paintingData), {
+        x: "middle",
+        y: d => (d.yIndex + 0.5), 
+        src: "image",
+        height: maxHeight / nrows,
+        width: d =>
+        (d.start >= d.end
+          ? 3
+          : xScale(d.end) - xScale(d.start)),
+        opacity: (d) => (
+              subset.includes(d.fnumber) ? 1 : 0.3
+            ),
+        preserveAspectRatio: "none",
+        title: "index"
+
+      })
+    ]
+  })
+
+  const borderId = "outline";
+  const borderRadius = 5;
+  const borderStroke = "red";
+
+  let paintings = d3.select(range_timeline).selectAll("image");
+  paintings
+    .on("click", function() {
+      let t = d3.select(this).select("title").text();
+      setClickId(t);
+    })
+    .each(function () {
+      let t = d3.select(this).select("title").text(); 
+      tippy(this, {
+        content: tip(t),
+        theme: 'custom',
+        allowHTML: true,
+        maxWidth: 200,
+        interactive: true,
+        appendTo: () => document.body
+      })
+    })
+    .each(function () {
+      let t = d3.select(this).select("title").text();
+      if (t == clickId) {
+        d3.select(this).attr("filter", `url(#${borderId})`);
+      }
+    })
+
+    d3.select(range_timeline).append("defs").html(`<filter id="${borderId}">
+      <feMorphology in="SourceAlpha" result="expanded" operator="dilate" radius="${borderRadius}"/>
+      <feFlood flood-color="${borderStroke}"/>
+      <feComposite in2="expanded" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>`);
+  
+  return range_timeline;
+}
+return {xScale,maxHeight,zeroArray,points_timeline,range_timeline};
+}});
+
+define({id: "0da125c8", inputs: ["points_timeline","paintingsAnalyzed","fArray","range_timeline","display","selection"], outputs: ["makeTimeline"], body: (points_timeline,paintingsAnalyzed,fArray,range_timeline,display,selection) => {
+// Function to display the plot chosen with the radio boxes above
+function makeTimeline(selection) {
+  let plot;
+  if (selection === "Time points - Start") {
+    plot = points_timeline(paintingsAnalyzed, "start", fArray);
+  } else if (selection === "Time points - Middle") {
+    plot = points_timeline(paintingsAnalyzed, "middle", fArray);
+  } else if (selection === "Time points - End") {
+    plot = points_timeline(paintingsAnalyzed, "end", fArray);
+  } else {
+    plot = range_timeline(paintingsAnalyzed, fArray);
+  }
+
+  return plot
+};
+
+display(makeTimeline(selection));
+return {makeTimeline};
+}});
+
+define({id: "01ba4719", body: () => {
+
+}});
+
+define({id: "b272c5ea", inputs: ["pigment_counts_raw"], outputs: ["parseYears","pigment_counts"], body: (pigment_counts_raw) => {
+// Function for pigment data parsing
+function parseYears(element) {
+    return {
+        pigment: element.pigment,
+        yearMiddle: new Date(new Date(element.year).setMonth(new Date(element.year).getMonth()+6)),
+        year: element.year,
+        Colorgroup: element.colorgroup,
+        fnumber: element.painting,
+        details: element.details,
+        source: element.source,
+        certainty: element.uncertainty,
+        technique: element.technique,
+        notes: element.notes
+    }
+};
+
+const pigment_counts = pigment_counts_raw.map(parseYears);
+return {parseYears,pigment_counts};
+}});
+
+define({id: "8c607c2c", inputs: ["pigmentSelect","pigmentClicked"], outputs: ["pigmentChoice"], body: (pigmentSelect,pigmentClicked) => {
+let pigmentChoice = [];
+if (pigmentSelect.length > 0) {
+  pigmentChoice = pigmentSelect;
+} else if (pigmentClicked.length > 0 && pigmentSelect.length == 0) {
+  pigmentChoice = pigmentClicked;
+}
+return {pigmentChoice};
+}});
+
+define({id: "1f1f528c", inputs: ["pigmentChoice","pigment_counts","techniqueChoice","uncertaintyChoice","pigmentRadio","d3","colorgroupNames","pigmentNames","view","Plot","width"], outputs: ["pigment_counts_filtered","filteredInput","finalInput","yDomain","pigmentHeight","plotHeight","minHeight","pigmentDot"], body: (pigmentChoice,pigment_counts,techniqueChoice,uncertaintyChoice,pigmentRadio,d3,colorgroupNames,pigmentNames,view,Plot,width) => {
+// Pigment overview plot
+const pigment_counts_filtered = [];
+
+if (pigmentChoice.length > 0) {
+  for (let i = 0; i < pigment_counts.length; i++) {
+    if (pigmentChoice.includes(pigment_counts[i]["pigment"])) {
+      pigment_counts_filtered.push(pigment_counts[i]);
+    }
+  }
+}
+const filteredInput = (pigmentChoice.length <= 0) ? pigment_counts : pigment_counts_filtered;
+
+const finalInput = [];
+// Select from filteredInput based on the chosen techniques and uncertainty
+for (let i=0; i<filteredInput.length; i++) {
+  let technique = filteredInput[i].technique;
+  let uncertainty = filteredInput[i].certainty;
+
+  // Case 1 where both technique and certainty are null
+  if (technique == null && uncertainty == null && techniqueChoice.includes("No info") && uncertaintyChoice.includes("No info")) {
+    finalInput.push(filteredInput[i]);
+  }
+
+  // Case 2 where technique is null and the certainty is a string
+  if (technique == null && uncertainty != null && techniqueChoice.includes("No info") && uncertaintyChoice.includes(uncertainty)) {
+    finalInput.push(filteredInput[i]);
+  }
+
+  // Case 3 where technique is an array and the certainty is a string
+  if (technique != null && uncertainty != null) {
+    if (technique.length == 0) {
+      if (techniqueChoice.includes("No info") && uncertaintyChoice.includes(uncertainty)) {
+        finalInput.push(filteredInput[i]);
+      } 
+    } else {
+      for (let j=0; j<technique.length; j++) {
+        if (techniqueChoice.includes(technique[j]) && uncertaintyChoice.includes(uncertainty) && !finalInput.includes(filteredInput[i])) {
+          finalInput.push(filteredInput[i]);
+        }
+      }
+    }
+  }
+
+  // Case 4 where technique is an array and the uncertainty is null
+  if (technique != null && uncertainty == null) {
+    if (technique.length == 0) {
+      if (techniqueChoice.includes("No info") && uncertaintyChoice.includes("No info")) {
+        finalInput.push(filteredInput[i]);
+      }
+    } else {
+      for (let j=0; j<technique.length; j++) {
+        if (techniqueChoice.includes(technique[j]) && uncertaintyChoice.includes("No info") && !finalInput.includes(filteredInput[i])) {
+          finalInput.push(filteredInput[i]);
+        }
+      }
+    }
+  }
+}
+
+const yDomain = (pigmentRadio === "pigment") ? d3.groupSort(
+    finalInput, 
+    ([d]) => d.Colorgroup,
+    (d) => d.pigment
+  ) : colorgroupNames;
+
+const pigmentHeight = (pigmentChoice.length > 0) ? 40*pigmentChoice.length : 25*pigmentNames.length;
+
+const plotHeight = (pigmentRadio === "pigment") ? pigmentHeight : 40*colorgroupNames.length;
+
+const minHeight = (plotHeight > 160) ? plotHeight : 160;
+
+const pigmentDot = view(Plot.plot({
+  label: null, 
+  marginLeft: 150,
+  height: minHeight,
+  width: width,
+  grid: true,
+  x: {domain: [new Date("1881-01-01"), new Date("1891-01-01")], label: "Year"},
+  y: {domain: yDomain, label: "Pigment"},
+  r: {range: [0, 20], label: "Absolute count"},
+  marks: [
+    Plot.axisY({anchor: "left", tickRotate: 0, fontSize: 15, label: null}),
+    Plot.axisX({fontSize: 15, label: null}),
+    Plot.dot(finalInput, 
+    Plot.group({
+      r: "count"
+    },
+    {
+      x: "yearMiddle", 
+      y: pigmentRadio, 
+      stroke: "black",
+      fill: "Colorgroup",
+      fillOpacity: 0.5,
+      tip: {
+        fontSize: 15,
+        format: {
+          x: (d) => `${d.getFullYear()}`, 
+          stroke: false
+        }
+      }
+    }
+  ))
+  ]
+})
+)
+return {pigment_counts_filtered,filteredInput,finalInput,yDomain,pigmentHeight,plotHeight,minHeight,pigmentDot};
+}});
+
+define({id: "3dbad28a", outputs: ["extractNames"], body: () => {
+//Function to extract the unique pigments and colorgroups from the counts and store in an array
+function extractNames(data, groupName) {
+  const result = [];
+  const lookup = [];
+
+  for (let i = 0; i < data.length; i++) {
+      let name = data[i][groupName]
+
+      if (!(name in lookup)) {
+        lookup[name] = 1;
+        result.push(name);
+      }
+  }
+
+  return result.sort()
+}
+
+// Perhaps the order should be the same as in the plot?
+// const pigmentNames = d3.groupSort(pigment_counts, 
+//     ([d]) => d.colorgroup,
+//     (d) => d.pigment
+//   )
+// const colorgroupNames = extractNames(pigment_counts, 'colorgroup')
+
+// const pigmentRadio = view(Inputs.radio(new Map([["Pigments", "pigment"], ["Colorgroups", "colorgroup"]]), {label: "Choose display", value: "pigment"}))
+return {extractNames};
+}});
+
+define({id: "e070ae49", body: () => {
+// const disabledChoice = []
+// if (pigmentRadio === "pigment") {
+//   disabledChoice.push(false)
+// } 
+// if (pigmentRadio === "colorgroup") {
+//   disabledChoice.push(true)
+// }
+
+// const pigmentChoice = view(Inputs.select(pigmentNames, {disabled: disabledChoice[0], multiple: true, label: "Choose pigment(s)"}));
+
+// const colorChoice = view(Inputs.select(colorgroupNames, {disabled: !disabledChoice[0], multiple: true, label: "Choose colorgroup(s)"}));
+}});
+
+</script>
+<div id="observablehq-center">
+<main id="observablehq-main" class="observablehq">
+<style>
+  .tippy-box[data-theme~='custom'] {
+    background-color: white;
+    border: 1px solid black;
+  }
+
+  .container img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+  }
+  
+  .pigmentTable {
+    display: block;
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
+
+</style>
+<div class="grid grid-cols-4">
+  <div class="card">
+  <h3>Search for a painting</h3>
+<div class="observablehq observablehq--block"><!--:06ba86fc:--></div>
+<div class="observablehq observablehq--block"><!--:6314ea62:--></div>
+  <h3>Painting timeline options</h3>
+<div class="observablehq observablehq--block"><!--:0356aebb:--></div>
+<div class="observablehq observablehq--block"><!--:7d863ffb:--></div>
+<div class="observablehq observablehq--block"><!--:0fb372d8:--></div>
+<div class="observablehq observablehq--block"><!--:7c76a378:--></div>
+  <h3>Pigment overview options</h3>
+<div class="observablehq observablehq--block"><!--:89500e27:--></div>
+<div class="observablehq observablehq--block"><!--:214797c6:--></div>
+<div class="observablehq observablehq--block"><!--:3c87c790:--></div>
+<div class="observablehq observablehq--block"><!--:03ccb432:--></div>
+<div class="observablehq observablehq--block"><!--:136cca00:--></div>
+  <!-- ```js
+  const sizeRadio = view(Inputs.radio(["Absolute", "Relative - analyzed paintings", "Relative - per colorgroup", "Relative - per pigment"], {label: "Pigment dot size display", value: "Absolute"}));
+  ``` -->
+<div class="observablehq observablehq--block"><!--:d930cf37:--></div>
+<div class="observablehq observablehq--block"><!--:f951d98a:--></div>
+  <div class="container" id="container"></div>
+<div class="observablehq observablehq--block"><!--:f6470b4d:--></div>
+  <div class="container2" id="container2"></div>
+  </div>
+  <div class="grid-colspan-3">
+<div class="observablehq observablehq--block"><!--:bdb2b32b:--></div>
+<div class="observablehq observablehq--block"><!--:2abd59ee:--></div>
+<div class="observablehq observablehq--block"><!--:4ba32734:--></div>
+<div class="observablehq observablehq--block"><!--:9977f524:--></div>
+<div class="observablehq observablehq--block"><!--:dac269d1:--></div>
+<div class="observablehq observablehq--block"><!--:3420f55b:--></div>
+  <div class="clickArrayContainer" id="clickArrayContainer"></div>
+<div class="observablehq observablehq--block"><!--:6595a661:--></div>
+<div class="observablehq observablehq--block"><!--:da829a00:--></div>
+<div class="observablehq observablehq--block"><!--:67264b78:--></div>
+<div class="observablehq observablehq--block"><!--:516842b6:--></div>
+<div class="observablehq observablehq--block"><!--:5d8bce6a:--></div>
+<div class="observablehq observablehq--block"><!--:04a58a5d:--></div>
+<div class="observablehq observablehq--block"><!--:745a21ed:--></div>
+<div class="observablehq observablehq--block"><!--:0da125c8:--></div>
+<div class="observablehq observablehq--block"><!--:01ba4719:--></div>
+<div class="observablehq observablehq--block"><!--:b272c5ea:--></div>
+<div class="observablehq observablehq--block"><!--:8c607c2c:--></div>
+<div class="observablehq observablehq--block"><!--:1f1f528c:--></div>
+<div class="observablehq observablehq--block"><!--:3dbad28a:--></div>
+<div class="observablehq observablehq--block"><!--:e070ae49:--></div>
+  </div>
+</div>
+</main>
+<footer id="observablehq-footer">
+<div>Painting and period data taken from <a href="https://data.spinque.com/ld/data/vangoghworldwide/" target="_blank" rel="noopener noreferrer">Van Gogh Worldwide</a> <br>
+          Letter data taken from <a href="https://data.spinque.com/ld/data/vangoghworldwide/van_gogh_letters/" target="_blank" rel="noopener noreferrer">Vincent Van Gogh - The Letters (Jansen, Luijten, and Bakker, 2009)</a> <br>
+          Painting images taken from <a href="https://data.mendeley.com/datasets/3sjjtjfhx7/2" target="_blank" rel="noopener noreferrer">Van Gogh Paintings dataset (Kim, 2022)</a> <br>
+          Last built Wed Oct 23 2024 17:38:31 GMT+0200 (Central European Summer Time)</div>
+</footer>
+</div>
