@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "clean": "rimraf src/.observablehq/cache",
+    "build": "rimraf dist && observable build",
+    "dev": "observable preview",
+    "deploy": "observable deploy",
+    "observable": "observable"
+  },
+  "dependencies": {
+    "@observablehq/framework": "^1.7.0",
+    "d3-dsv": "^3.0.1",
+    "d3-time-format": "^4.1.0",
+    "d3-tip": "^0.9.1",
+    "http-server": "^14.1.1",
+    "npm": "^10.8.3",
+    "tippy.js": "^6.3.7"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
