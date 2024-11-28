@@ -1,0 +1,1498 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7006926> a ns1:E53_Place ;
+    rdfs:label "Utrecht" .
+
+<http://vocab.getty.edu/tgn/7011492> a ns1:E53_Place ;
+    rdfs:label "Falmer" .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://courtauld.ac.uk/data/artwork/D.1948.SC.155/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The Courtauld Gallery, London (Samuel Courtauld Trust). Photo © The Courtauld" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/artwork/D.1948.SC.155/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1888-03-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-03-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://courtauld.ac.uk/data/artwork/P.1932.SC.176/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The Courtauld Gallery, London (Samuel Courtauld Trust). Photo © The Courtauld" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/P.1932.SC.176> .
+
+<https://courtauld.ac.uk/data/artwork/P.1932.SC.176/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/artwork/P.1932.SC.176> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1889-03-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1889-03-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://courtauld.ac.uk/data/artwork/P.1948.SC.175/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The Courtauld Gallery, London (Samuel Courtauld Trust). Photo © The Courtauld" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> .
+
+<https://courtauld.ac.uk/data/artwork/P.1948.SC.175/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1889-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1889-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/1/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/1> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/1/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/1/publisher> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2012-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2013-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/10/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/10/publisher> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/10> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1988-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1988-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/11/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/11> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1984-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1984-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004472> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/12/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/12/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/12> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/12/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/12> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1968-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1968-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003321> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/13/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/359164> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/13> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/13/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/13> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/14/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/359164> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/14> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/14/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/14> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/15/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/15> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/15/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/15> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1911-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1911-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/16/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/347903> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/16> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/16/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/16> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/17/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/17> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/17/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1953-03-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1953-03-01"^^xsd:date ] .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/18/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/18> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/18/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/2/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/2/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/2> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/2/publisher> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1954-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1954-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/3/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/3> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/3/publisher> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1994-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1994-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/4/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/4> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/4/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/494239> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1998-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <ttp://vocab.getty.edu/tgn/7013284> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/5/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/5/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/5> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/5/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1962-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1962-01-01"^^xsd:date ] .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/6/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495916> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1983-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1983-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/7/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/7/publisher> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/7> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/8/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/8/author> ;
+    ns1:P94_has_created <https://courtauld.ac.uk/data/document/D.1948.SC.155/8> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/8/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/8/publisher> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1955-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1955-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/9/publisher> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/document/D.1948.SC.155/9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1959-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1959-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/494239/1998-06-14/1998-06-14> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/494239> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/494239/1998-06-14/1998-06-14/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/494239/1998-06-14/1998-06-14/timespan> ;
+    ns1:P7_took_place_at <ttp://vocab.getty.edu/tgn/7013284> .
+
+<https://courtauld.ac.uk/data/exhibition/495916/1983-02-24/1983-06-19> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495916> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/495916/1983-02-24/1983-06-19/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/495916/1983-02-24/1983-06-19/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/500241109/1995-07-07/1995-09-10> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500241109> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500241109/1995-07-07/1995-09-10/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500241109/1995-07-07/1995-09-10/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/500300443/1977-01-01/1979-01-01> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500300443/1977-01-01/1979-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500300443/1977-01-01/1979-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7010692> .
+
+<https://courtauld.ac.uk/data/exhibition/500300443/1995-05-13/1995-06-25> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300443> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500300443/1995-05-13/1995-06-25/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500300443/1995-05-13/1995-06-25/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7010370> .
+
+<https://courtauld.ac.uk/data/exhibition/500302006/1948-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302006> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500302006/1948-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500302006/1948-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/500302021/1976-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302021> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500302021/1976-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500302021/1976-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/500302553/1962-11-17/1962-12-22> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302553> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500302553/1962-11-17/1962-12-22/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500302553/1962-11-17/1962-12-22/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7010477> .
+
+<https://courtauld.ac.uk/data/exhibition/500303594/2012-10-02/2013-01-27> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303594> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500303594/2012-10-02/2013-01-27/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500303594/2012-10-02/2013-01-27/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://courtauld.ac.uk/data/exhibition/500307648/1984-06-01/1984-08-06> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500307648> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/500307648/1984-06-01/1984-08-06/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/500307648/1984-06-01/1984-08-06/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7001867> .
+
+<https://courtauld.ac.uk/data/exhibition/501260/2003-06-30/2003-10-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501260> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/501260/2003-06-30/2003-10-15/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/501260/2003-06-30/2003-10-15/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://courtauld.ac.uk/data/exhibition/501571/2006-07-07/2006-09-24> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501571> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/501571/2006-07-07/2006-09-24/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/501571/2006-07-07/2006-09-24/timespan> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1955-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1955-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1955-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1959-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1959-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1959-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-01-12/1984-02-28> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1984-01-12/1984-02-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1984-01-12/1984-02-28/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004472> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-03-03/1984-04-03> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1984-03-03/1984-04-03/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1984-03-03/1984-04-03/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004603> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-04-12/1984-05-08> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1984-04-12/1984-05-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1984-04-12/1984-05-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004756> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1988-05-11/1988-09-04> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1988-05-11/1988-09-04/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1988-05-11/1988-09-04/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1995-03-18/1995-04-30> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1995-03-18/1995-04-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1995-03-18/1995-04-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7010477> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1997-12-26/1998-05-12> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1997-12-26/1998-05-12/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1997-12-26/1998-05-12/timespan> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1998-10-30/1999-01-24> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/1998-10-30/1999-01-24/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/1998-10-30/1999-01-24/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/2012-06-14/2012-09-09> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/2012-06-14/2012-09-09/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/2012-06-14/2012-09-09/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/2019-02-20/2019-06-17> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/2019-02-20/2019-06-17/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/2019-02-20/2019-06-17/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/34712-01-01/34763-01-01> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/exhibition/organisation/34712-01-01/34763-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://courtauld.ac.uk/data/exhibition/organisation/34712-01-01/34763-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011385> .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/4/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/technical/P.1932.SC.176/4> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/P.1932.SC.176> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300051964> .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/5/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/technical/P.1932.SC.176/5> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/P.1932.SC.176> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300190692> .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/6/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/technical/P.1932.SC.176/6> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/P.1932.SC.176> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300419323> .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/technical/P.1948.SC.175/1> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300051964> .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/technical/P.1948.SC.175/2> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300051964> .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/3/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://courtauld.ac.uk/data/technical/P.1948.SC.175/3> ;
+    ns1:P16_used_specific_object <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300051964> .
+
+<https://data.rkd.nl/artists/495488> a ns1:E39_Actor ;
+    rdfs:label "Stedelijk Museum Amsterdam" .
+
+<https://media.rkd.nl/iiif/10770809> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770873> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/artwork/P.1932.SC.176> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770874> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/technical/P.1932.SC.176/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770875> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/technical/P.1932.SC.176/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770876> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/technical/P.1932.SC.176/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770877> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770878> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/technical/P.1948.SC.175/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770879> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/technical/P.1948.SC.175/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770880> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://courtauld.ac.uk/data/technical/P.1948.SC.175/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://vocab.getty.edu/aat/300014187> a ns1:E57_Material ;
+    rdfs:label "wove paper" .
+
+<http://vocab.getty.edu/aat/300015571> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300022452> a ns1:E57_Material ;
+    rdfs:label "pen" .
+
+<http://vocab.getty.edu/aat/300033973> a ns1:E55_Type ;
+    rdfs:label "Drawings" .
+
+<http://vocab.getty.edu/aat/300124534> a rdfs:Resource ;
+    rdfs:label "Self-portraits" .
+
+<http://vocab.getty.edu/aat/300190692> a ns1:E55_Type ;
+    rdfs:label "Verso" .
+
+<http://vocab.getty.edu/aat/300419323> a ns1:E55_Type ;
+    rdfs:label "x-radiography" .
+
+<http://vocab.getty.edu/aat/300419325> a ns1:E55_Type ;
+    rdfs:label "X-radiograph" .
+
+<http://vocab.getty.edu/tgn/7001867> a ns1:E53_Place ;
+    rdfs:label "Canberra" .
+
+<http://vocab.getty.edu/tgn/7003321> a ns1:E53_Place ;
+    rdfs:label "Wenen" .
+
+<http://vocab.getty.edu/tgn/7004603> a ns1:E53_Place ;
+    rdfs:label "Kyoto" .
+
+<http://vocab.getty.edu/tgn/7004756> a ns1:E53_Place ;
+    rdfs:label "Osaka" .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://vocab.getty.edu/tgn/7010370> a ns1:E53_Place ;
+    rdfs:label "Kingston-Upon-Hull" .
+
+<http://vocab.getty.edu/tgn/7010692> a ns1:E53_Place ;
+    rdfs:label "Sheffield ; Hull" .
+
+<http://vocab.getty.edu/tgn/7011385> a ns1:E53_Place ;
+    rdfs:label "Southampton" .
+
+<http://vocab.getty.edu/ulan/500241109> a ns1:E39_Actor ;
+    rdfs:label "Whitechapel Art Gallery" .
+
+<http://vocab.getty.edu/ulan/500300443> a ns1:E39_Actor ;
+    rdfs:label "Ferens Art Gallery" .
+
+<http://vocab.getty.edu/ulan/500302006> a ns1:E39_Actor ;
+    rdfs:label "Tate Gallery" .
+
+<http://vocab.getty.edu/ulan/500302021> a ns1:E39_Actor ;
+    rdfs:label "Courtauld Institute Galleries" .
+
+<http://vocab.getty.edu/ulan/500302553> a ns1:E39_Actor ;
+    rdfs:label "Whitworth Art Gallery" .
+
+<http://vocab.getty.edu/ulan/500303594> a ns1:E39_Actor ;
+    rdfs:label "The Frick Collection," .
+
+<http://vocab.getty.edu/ulan/500307648> a ns1:E39_Actor ;
+    rdfs:label "Australia National Gallery" .
+
+ns1:E56_Language a rdfs:Resource .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/1/author> a ns1:E21_Person ;
+    rdfs:label "Bailey, C. ; Buck, S. ; Allen, D." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/1/publisher> a ns1:E74_Group ;
+    rdfs:label "Courtauld Gallery" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Mantegna to Matisse - Master Drawings from The Courtauld Gallery" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/10> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/10/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/10/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/10/publisher> a ns1:E74_Group ;
+    rdfs:label "Courtauld Gallery" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/10/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionist, Post-Impressionist and Related Drawings from the Courtauld Collections" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/11> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/11/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/11/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/11/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Impressionists and Post-Impressionists from the Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/12/author> a ns1:E21_Person ;
+    rdfs:label "Novotny, F." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Uber das \"Elementare\" in der Kunstgeschichte und andere Aufsatze" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/13/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L'oeuvre de Vincent van Gogh: catalogue raisonné" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/14/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Works of Vincent van Gogh: His Paintings and Drawings" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/15/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Lettres de Vincent van Gogh a Emile Bernard" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/16/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Complete van Gogh. Paintings, drawings, sketches. Revised and enlarged edition of the catalogue raisonne of the works of Vincent van Gogh," .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17/author> a ns1:E21_Person ;
+    rdfs:label "Novotny, F." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/17> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/17/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Art Bulletin (XXXV)" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "'Reflections on a drawing by van Gogh'" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18/author> a ns1:E21_Person ;
+    rdfs:label "Wylie, A.S." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/18> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/18/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Oud Holland (85)" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "'An interpretation of the vocabulary of line in Vincent van Gogh's expression of space'" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/2/author> a ns1:E21_Person ;
+    rdfs:label "Cooper, D." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/2/publisher> a ns1:E74_Group ;
+    rdfs:label "Athlone Press" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/3/author> a ns1:E21_Person ;
+    rdfs:label "House, J." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/3/publisher> a ns1:E74_Group ;
+    rdfs:label "Courtauld Institute Galleries" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionism for England: Samuel Courtauld as Patron and Collector" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/4/author> a ns1:E21_Person ;
+    rdfs:label "Chong, A." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Courtauld Collection: Masterpieces of Impressionism and Post-Impressionism" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/5/author> a ns1:E21_Person ;
+    rdfs:label "Blunt, A. ; Troutman, P." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Master Drawings from the Witt and Courtauld Collections" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/6> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/6/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Mantegna to Cezanne: Master Drawings from the Courtauld" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/7> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/7/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/7/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/7/publisher> a ns1:E74_Group ;
+    rdfs:label "Council" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawings from the Courtauld" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/8/author> a ns1:E21_Person ;
+    rdfs:label "Cooper, D." .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/8/publisher> a ns1:E74_Group ;
+    rdfs:label "Musée de l'Orangerie" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionistes de la Collection Courtauld de Londres" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/9/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/9/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/9/publisher> a ns1:E74_Group ;
+    rdfs:label "Courtauld Institute Galleries" .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawings and engravings from the Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/exhibition/494239/1998-06-14/1998-06-14/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Courtauld Collection: Masterpieces of Impressionism and Post-Impressionism" .
+
+<https://courtauld.ac.uk/data/exhibition/494239/1998-06-14/1998-06-14/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-06-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-06-14"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/495916/1983-02-24/1983-06-19/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Mantegna to Cezanne - Master Drawings from the Courtauld" .
+
+<https://courtauld.ac.uk/data/exhibition/495916/1983-02-24/1983-06-19/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1983-02-24"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1983-06-19"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500241109/1995-07-07/1995-09-10/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawing the Line - Reappraising Drawing Past and Present (selected by Michael Craig-Martin)" .
+
+<https://courtauld.ac.uk/data/exhibition/500241109/1995-07-07/1995-09-10/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1995-07-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1995-09-10"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500300443/1977-01-01/1979-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawings from the Courtauld" .
+
+<https://courtauld.ac.uk/data/exhibition/500300443/1977-01-01/1979-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1979-01-01"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500300443/1995-05-13/1995-06-25/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawing the Line - Reappraising Drawing Past and Present (selected by Michael Craig-Martin)" .
+
+<https://courtauld.ac.uk/data/exhibition/500300443/1995-05-13/1995-06-25/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1995-05-13"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1995-06-25"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500302006/1948-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Samuel Courtauld memorial exhibition" .
+
+<https://courtauld.ac.uk/data/exhibition/500302006/1948-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1948-01-01"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500302021/1976-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Samuel Courtauld's collection of French 19th century paintings and drawings: a centenary exhibition to commemorate the birth of Samuel Courtauld" .
+
+<https://courtauld.ac.uk/data/exhibition/500302021/1976-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1976-01-01"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500302553/1962-11-17/1962-12-22/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Master Drawings from the Witt and Courtauld Collections" .
+
+<https://courtauld.ac.uk/data/exhibition/500302553/1962-11-17/1962-12-22/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1962-11-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1962-12-22"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500303594/2012-10-02/2013-01-27/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Mantegna to Matisse - Master Drawings from The Courtauld Gallery" .
+
+<https://courtauld.ac.uk/data/exhibition/500303594/2012-10-02/2013-01-27/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2012-10-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2013-01-27"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/500307648/1984-06-01/1984-08-06/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Impressionists and Post-Impressionists from the Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/exhibition/500307648/1984-06-01/1984-08-06/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-08-06"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/501260/2003-06-30/2003-10-15/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh at Arles" .
+
+<https://courtauld.ac.uk/data/exhibition/501260/2003-06-30/2003-10-15/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2003-06-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2003-10-15"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/501571/2006-07-07/2006-09-24/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Britain" .
+
+<https://courtauld.ac.uk/data/exhibition/501571/2006-07-07/2006-09-24/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2006-07-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2006-09-24"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1955-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionistes de la Collection Courtauld de Londres" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1955-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1955-01-01"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1959-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawings and engravings from the Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1959-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1959-01-01"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-01-12/1984-02-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Impressionists and Post-Impressionists from the Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-01-12/1984-02-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-01-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-02-28"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-03-03/1984-04-03/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Impressionists and Post-Impressionists from the Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-03-03/1984-04-03/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-03-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-04-03"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-04-12/1984-05-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Impressionists and Post-Impressionists from the Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1984-04-12/1984-05-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-04-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-05-08"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1988-05-11/1988-09-04/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionist, Post-Impressionist and Related Drawings from the Courtauld Collections" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1988-05-11/1988-09-04/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1988-05-11"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1988-09-04"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1995-03-18/1995-04-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawing the Line - Reappraising Drawing Past and Present (selected by Michael Craig-Martin)" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1995-03-18/1995-04-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1995-03-18"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1995-04-30"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1997-12-26/1998-05-12/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Courtauld Collection" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1997-12-26/1998-05-12/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1997-12-26"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-05-12"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1998-10-30/1999-01-24/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Material Evidence" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/1998-10-30/1999-01-24/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-10-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1999-01-24"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/2012-06-14/2012-09-09/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Mantegna to Matisse - Master Drawings from The Courtauld Gallery" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/2012-06-14/2012-09-09/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2012-06-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2012-09-09"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/2019-02-20/2019-06-17/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Courtauld Collection. A Vision for Impressionism" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/2019-02-20/2019-06-17/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2019-02-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2019-06-17"^^xsd:date .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/34712-01-01/34763-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawing the Line - Reappraising Drawing Past and Present (selected by Michael Craig-Martin)" .
+
+<https://courtauld.ac.uk/data/exhibition/organisation/34712-01-01/34763-01-01/timespan> a ns1:E52_Time-Span .
+
+<https://courtauld.ac.uk/data/identifier/D.1948.SC.155> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "D.1948.SC.155" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://courtauld.ac.uk/data/identifier/F1500> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1500" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://courtauld.ac.uk/data/identifier/F514> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F514" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://courtauld.ac.uk/data/identifier/F527> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F527" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://courtauld.ac.uk/data/identifier/JH1373> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1373" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://courtauld.ac.uk/data/identifier/JH1657> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1657" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://courtauld.ac.uk/data/identifier/JH1681> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1681" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://courtauld.ac.uk/data/identifier/P.1932.SC.176> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "P.1932.SC.176" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://courtauld.ac.uk/data/identifier/P.1948.SC.175> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "P.1948.SC.175" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Painting with frame" .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Recto, normal light" .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "X-radiograph" .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Detail" .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Detail" .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Detail" .
+
+<https://data.rkd.nl/artists/347903> a ns1:E21_Person ;
+    rdfs:label "Hulsker, J." .
+
+<https://data.rkd.nl/artists/501260> a ns1:E39_Actor ;
+    rdfs:label "Fondation Van Gogh" .
+
+<https://data.rkd.nl/artists/501571> a ns1:E39_Actor ;
+    rdfs:label "Dean Gallery" .
+
+<https://vangoghworldwide.org/data/artwork/F1500> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F514> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F527> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "landscapes" .
+
+<http://vocab.getty.edu/aat/300026657> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Paintings" .
+
+<http://vocab.getty.edu/aat/300048715> a ns1:E55_Type ;
+    rdfs:label "article" .
+
+<http://vocab.getty.edu/aat/300379097> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7004472> a ns1:E53_Place ;
+    rdfs:label "Tokyo" .
+
+<http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York" .
+
+<http://vocab.getty.edu/tgn/7010477> a ns1:E53_Place ;
+    rdfs:label "Manchester" .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/1/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/10/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/11/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/12/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/12/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/13> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/13/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/13/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/13/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/14> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/14/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/14/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/14/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/15> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/15/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/15/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/15/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/16> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/16/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/16/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/16/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/17/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/17/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/17/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/18/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/18/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/18/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/2> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/2/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/2/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/3/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/4/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/5> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/5/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/5/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/6/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/7/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/8> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://courtauld.ac.uk/data/document/D.1948.SC.155/8/part> ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/document/D.1948.SC.155/8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/8/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/document/D.1948.SC.155/9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/4> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/technical/P.1932.SC.176/4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300128359> .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/5> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/technical/P.1932.SC.176/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300128359> .
+
+<https://courtauld.ac.uk/data/technical/P.1932.SC.176/6> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/technical/P.1932.SC.176/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300419325> .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/technical/P.1948.SC.175/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300128359> .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/technical/P.1948.SC.175/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300128359> .
+
+<https://courtauld.ac.uk/data/technical/P.1948.SC.175/3> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://courtauld.ac.uk/data/technical/P.1948.SC.175/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300128359> .
+
+<https://data.rkd.nl/artists/359164> a ns1:E21_Person ;
+    rdfs:label "J.B. de la Faille" .
+
+<https://data.rkd.nl/artists/494239> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Art Gallery of Ontario" .
+
+<https://data.rkd.nl/artists/495916> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "British Museum" .
+
+<ttp://vocab.getty.edu/tgn/7013284> a ns1:E53_Place ;
+    rdfs:label "Toronto" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<https://data.rkd.nl/artists/505080> a ns1:E39_Actor ;
+    rdfs:label "The Courtauld Gallery, London (Samuel Courtauld Trust)" .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300051964> a ns1:E55_Type ;
+    rdfs:label "normal light" .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/7008775> a ns1:E53_Place ;
+    rdfs:label "Arles" .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E21_Person,
+        ns1:E39_Actor ;
+    rdfs:label "Gogh, V. van",
+        "Vincent van Gogh" .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalogs" .
+
+<http://vocab.getty.edu/aat/300128359> a ns1:E55_Type ;
+    rdfs:label "color photograph" .
+
+<http://vocab.getty.edu/tgn/7250304> a ns1:E53_Place ;
+    rdfs:label "Parijs" .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+<https://courtauld.ac.uk/data/artwork/P.1932.SC.176> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peach Trees in Blossom" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://courtauld.ac.uk/data/identifier/F514>,
+        <https://courtauld.ac.uk/data/identifier/JH1681>,
+        <https://courtauld.ac.uk/data/identifier/P.1932.SC.176> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 65.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 81.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/505080> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F514> .
+
+<https://courtauld.ac.uk/data/artwork/P.1948.SC.175> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Self-Portrait with Bandaged Ear" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://courtauld.ac.uk/data/identifier/F527>,
+        <https://courtauld.ac.uk/data/identifier/JH1657>,
+        <https://courtauld.ac.uk/data/identifier/P.1948.SC.175> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 50.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 60.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/505080> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300124534> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F527> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E74_Group a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "book" .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7011781> a ns1:E53_Place ;
+    rdfs:label "Londen" .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+<https://courtauld.ac.uk/data/artwork/D.1948.SC.155> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "A tile factory" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://courtauld.ac.uk/data/identifier/D.1948.SC.155>,
+        <https://courtauld.ac.uk/data/identifier/F1500>,
+        <https://courtauld.ac.uk/data/identifier/JH1373> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 348.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 256.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300022452> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014187> ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/505080> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ],
+        [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015571> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1500> .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil paint" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 23, ill .pl. 5" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/9/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 80, ill. 203" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/3/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "graphite, pen and brown ink on wove paper, with pinholes at four corners" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 108, ill. 110" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/6/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 23, ill. front and back cover" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/10/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "JH 1373, p. 308-309" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/16/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 92" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/8/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "F1500" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/14/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil paint" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/P.1932.SC.176> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "the artist's brother, Theo van Gogh, Paris (1857-1891), 1888; the artist's sister-in-law, Johanna van Gogh-Bonger, Amsterdam (1862-1925), 1891; by descent to her son, Vincent Willem van Gogh, Laren (1890-1978), 1925; presumably purchased from him by Leicester Galleries (London), 1926; purchased there by Samuel Courtauld, London (1876-1947), 26 April 1927 (£178 10s); Courtauld Bequest 1948" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/D.1948.SC.155> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 99" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/11/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp. 35-43, ill. pl. 1 facing p. 36" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/17/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp. 213-18" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/18/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp. 37-45" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/12/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 48, ill. p. 97" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/4/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 21, ill. p. 26" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/5/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 77, p. 32" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/7/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 155, ill. pl. 60" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/2/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "F1500" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/13/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. 68, p. 26, ill. p. 27" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/15/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 55, pp. 244-247, ill. p. 245-246" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/document/D.1948.SC.155/1/part> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The artist’s brother, Theo van Gogh, Paris; by descent to Theo’s widow, Johanna van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris and Amsterdam, 1891; consigned by Johanna van Gogh-Bonger to [Ambroise Vollard, Paris], November 1896; sold by him to Count Antoine de La Rochefoucauld, Paris, 21 December 1896; sold by him to [Paul Rosenberg, Paris] after 1925; sold by him to Samuel Courtauld, London, October 1928 for £10,000; bequeathed by him to the Home House Society (now Samuel Courtauld Trust), 1948" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://courtauld.ac.uk/data/artwork/P.1948.SC.175> .
+

@@ -1,0 +1,1004 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770901> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://museum.mcmaster.ca/data/technical/1984.007.0058/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770902> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://museum.mcmaster.ca/data/technical/1984.007.0058/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770903> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770904> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://museum.mcmaster.ca/data/technical/1984.007.0058/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://museum.mcmaster.ca/data/actor/Lucretia+Buisjman+%28later+Mrs.+G.+W.+van+Dyk-Buysman%29+of+Nuenen> a ns1:E39_Actor ;
+    rdfs:label "Lucretia Buisjman (later Mrs. G. W. van Dyk-Buysman) of Nuenen" .
+
+<https://museum.mcmaster.ca/data/actor/Private+collection%2C+Great+Britain+%28according+to+Hulsker%2C+1977%2F80+p.204%29> a ns1:E39_Actor ;
+    rdfs:label "Private collection, Great Britain (according to Hulsker, 1977/80 p.204)" .
+
+<https://museum.mcmaster.ca/data/actor/Private+collection%2C+Paris+%28according+to%3A+Faille+1970%2C+p.79%29> a ns1:E39_Actor ;
+    rdfs:label "Private collection, Paris (according to: Faille 1970, p.79)" .
+
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of Herman H. Levy, 1984, McMaster Museum of Art, McMaster University, Hamilton, Ontario" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "September, 1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-09-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-09-30"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<https://museum.mcmaster.ca/data/document/155660811X/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500452045> ;
+    ns1:P94_has_created <https://museum.mcmaster.ca/data/document/155660811X> .
+
+<https://museum.mcmaster.ca/data/document/155660811X/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.mcmaster.ca/data/document/155660811X/publisher> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/155660811X> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500434822> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/1984.007.0058/9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1958-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1958-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011798> .
+
+<https://museum.mcmaster.ca/data/document/8.10917017E8/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/347903> ;
+    ns1:P94_has_created <https://museum.mcmaster.ca/data/document/8.10917017E8> .
+
+<https://museum.mcmaster.ca/data/document/8.10917017E8/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500313006> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/8.10917017E8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1980-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1980-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://museum.mcmaster.ca/data/document/8.877370491E9/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500238023> ;
+    ns1:P94_has_created <https://museum.mcmaster.ca/data/document/8.877370491E9> .
+
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.mcmaster.ca/data/document/8.877370491E9/publisher> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/8.877370491E9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003163> .
+
+<https://museum.mcmaster.ca/data/document/9.20603068E8/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.mcmaster.ca/data/document/9.20603068E8/author> ;
+    ns1:P94_has_created <https://museum.mcmaster.ca/data/document/9.20603068E8> .
+
+<https://museum.mcmaster.ca/data/document/9.20603068E8/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/9.20603068E8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1987-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.mcmaster.ca/data/document/9.781926632124E12/author> ;
+    ns1:P94_has_created <https://museum.mcmaster.ca/data/document/9.781926632124E12> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/9.781926632124E12> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2016-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2016-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.mcmaster.ca/data/document/9.781926632186E12/author> ;
+    ns1:P94_has_created <https://museum.mcmaster.ca/data/document/9.781926632186E12> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/9.781926632186E12> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2018-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2018-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.mcmaster.ca/data/document/9.783836557153E12/author> ;
+    ns1:P94_has_created <https://museum.mcmaster.ca/data/document/9.783836557153E12> .
+
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500237751> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/document/9.783836557153E12> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1993-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1993-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004446> .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500254710> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013135> .
+
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300919> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7017654> .
+
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/500949> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011798> .
+
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/506932> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/506932> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/506933> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013032> .
+
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/506934> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013040> .
+
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/506936> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013057> .
+
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/507613> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/timespan> ;
+    ns1:P9_consists_of <https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/acquisition> .
+
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/496475> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/timespan> ;
+    ns1:P9_consists_of <https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/acquisition> .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://museum.mcmaster.ca/data/technical/1984.007.0058/1> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300419323> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2012-02-12"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2012-02-12"^^xsd:date ] .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://museum.mcmaster.ca/data/technical/1984.007.0058/2> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300053465> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2013-08-26"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2013-08-26"^^xsd:date ] .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://museum.mcmaster.ca/data/technical/1984.007.0058/3> ;
+    ns1:P16_used_specific_object <https://museum.mcmaster.ca/data/artwork/1984.007.0058> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300379538> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2011-10-22"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2011-10-22"^^xsd:date ] .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015638> a rdfs:Resource ;
+    rdfs:label "still life" .
+
+<http://vocab.getty.edu/aat/300026068> a ns1:E55_Type ;
+    rdfs:label "auction catalogue" .
+
+<http://vocab.getty.edu/aat/300028702> a ns1:E55_Type ;
+    rdfs:label "inscriptions" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300028749> a ns1:E55_Type ;
+    rdfs:label "watermarks" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "paintings" .
+
+<http://vocab.getty.edu/aat/300053465> a ns1:E55_Type ;
+    rdfs:label "UV Fluorescence" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300207379> a ns1:E55_Type ;
+    rdfs:label "stickers" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379538> a ns1:E55_Type ;
+    rdfs:label "Infrared Reflectography (IRR)" .
+
+<http://vocab.getty.edu/aat/300417641> a ns1:E55_Type ;
+    rdfs:label "Bequest" .
+
+<http://vocab.getty.edu/aat/300417642> a ns1:E55_Type ;
+    rdfs:label "purchase" .
+
+<http://vocab.getty.edu/aat/300417644> a ns1:E55_Type ;
+    rdfs:label "Transfer" .
+
+<http://vocab.getty.edu/aat/300419323> a ns1:E55_Type ;
+    rdfs:label "x-radiography" .
+
+<http://vocab.getty.edu/aat/300419325> a ns1:E55_Type ;
+    rdfs:label "x-radiographs" .
+
+<http://vocab.getty.edu/tgn/7003163> a ns1:E53_Place ;
+    rdfs:label "Firenze, Italia" .
+
+<http://vocab.getty.edu/tgn/7004446> a ns1:E53_Place ;
+    rdfs:label "Cologne, Germany" .
+
+<http://vocab.getty.edu/tgn/7006835> a ns1:E53_Place ;
+    rdfs:label "Nuenen, Netherlands" .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam, Netherlands" .
+
+<http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York, New York" .
+
+<http://vocab.getty.edu/tgn/7013032> a ns1:E53_Place ;
+    rdfs:label "Edmonton, Alberta" .
+
+<http://vocab.getty.edu/tgn/7013040> a ns1:E53_Place ;
+    rdfs:label "Thunder Bay, Ontario" .
+
+<http://vocab.getty.edu/tgn/7013057> a ns1:E53_Place ;
+    rdfs:label "Kelowna, B.C." .
+
+<http://vocab.getty.edu/tgn/7013135> a ns1:E53_Place ;
+    rdfs:label "Vancouver, B.C." .
+
+<http://vocab.getty.edu/tgn/7017654> a ns1:E53_Place ;
+    rdfs:label "Kingston, Ontario" .
+
+<http://vocab.getty.edu/ulan/500237751> a ns1:E74_Group ;
+    rdfs:label "Taschen" .
+
+<http://vocab.getty.edu/ulan/500238023> a ns1:E21_Person ;
+    rdfs:label "Testori, Giovanni ; Arrigoni, Luisa" .
+
+<http://vocab.getty.edu/ulan/500254710> a ns1:E39_Actor ;
+    rdfs:label "Vancouver Art Gallery, Vancouver, British Columbia" .
+
+<http://vocab.getty.edu/ulan/500300919> a ns1:E39_Actor ;
+    rdfs:label "Agnes Etherington Art Centre, Queens University, Kingston, Ontario" .
+
+<http://vocab.getty.edu/ulan/500313006> a ns1:E74_Group ;
+    rdfs:label "Harry N. Abrams" .
+
+<http://vocab.getty.edu/ulan/500434822> a ns1:E74_Group ;
+    rdfs:label "Marlborough Gallery, London, UK" .
+
+<http://vocab.getty.edu/ulan/500452045> a ns1:E21_Person ;
+    rdfs:label "Faille, J.-B. de la" .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://data.rkd.nl/artists/347903> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<https://data.rkd.nl/artists/506933> a ns1:E39_Actor ;
+    rdfs:label "Art Gallery of Alberta, Edmonton, Alberta" .
+
+<https://data.rkd.nl/artists/506934> a ns1:E39_Actor ;
+    rdfs:label "Thunder Bay Art Gallery, Thunder Bay, Ontario" .
+
+<https://data.rkd.nl/artists/506936> a ns1:E39_Actor ;
+    rdfs:label "Kelowna Art Gallery, Kelowna, British Columbia" .
+
+<https://museum.mcmaster.ca/data/document/155660811X/publisher> a ns1:E74_Group ;
+    rdfs:label "Reynal & Company" .
+
+<https://museum.mcmaster.ca/data/document/155660811X/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The works of Vincent van Gogh" .
+
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/1984.007.0058/9/part> ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/document/1984.007.0058/9/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026068> .
+
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "XIX and XX Century European Masters. Marlborough, London, Summer 1958" .
+
+<https://museum.mcmaster.ca/data/document/8.10917017E8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Complete Van Gogh: Paintings, Drawings, Sketches" .
+
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publisher> a ns1:E74_Group ;
+    rdfs:label "Cantini" .
+
+<https://museum.mcmaster.ca/data/document/8.877370491E9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, Catalogo completo dei Dipinti" .
+
+<https://museum.mcmaster.ca/data/document/9.20603068E8/author> a ns1:E21_Person ;
+    rdfs:label "Ness, Kim (compiled by)" .
+
+<https://museum.mcmaster.ca/data/document/9.20603068E8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Art Collection of McMaster University: European, Canadian, American, Chinese and Japanese paintings, prints, drawings, sculpture and ceramics" .
+
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/author> a ns1:E21_Person ;
+    rdfs:label "MacDonald, Brandi Lee ; Hathaway, Nenagh, et al." .
+
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Unvarnished Truth: exploring the material history of paintings" .
+
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/author> a ns1:E21_Person ;
+    rdfs:label "Holubizky, Ihor, et al." .
+
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Cultivating Journey: The Herman H. Levy Collection" .
+
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/author> a ns1:E21_Person ;
+    rdfs:label "Walther, Ingo F. ; Metzger, Rainer" .
+
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: The Complete Paintings, Volume 1" .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Herman H. Levy Collection" .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1994-06-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2006-05-15"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Synesthesia: Art and the Mind" .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2008-09-18"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2008-12-20"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Oil cloth lunch, and other reasons to be cheerful" .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2010-03-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2010-08-14"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Unvarnished Truth: exploring the material history of paintings" .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2015-09-05"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-12-19"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Herman H. Levy Legacy: A Cultivating Journey" .
+
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2017-09-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2017-12-09"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Herman H. Levy Legacy: A Cultivating Journey" .
+
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2018-03-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2018-05-31"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Unvarnished Truth: exploring the material history of paintings" .
+
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2017-01-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2017-04-09"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "XIX and XX Century European Masters" .
+
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1958-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1958-08-31"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Great Masters Series: Vincent van Gogh" .
+
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2006-05-28"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2006-09-23"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The World is An Apple: The Still Lifes of Paul Cézanne" .
+
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-11-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-02-08"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Unvarnished Truth: exploring the material history of paintings" .
+
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2016-04-29"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2016-09-18"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Unvarnished Truth: exploring the material history of paintings" .
+
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2016-10-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2016-11-27"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Herman H. Levy Legacy: A Cultivating Journey" .
+
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2018-06-16"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2018-10-31"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/identifier/1984.007.0058> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1984.007.0058" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://museum.mcmaster.ca/data/identifier/F104a> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F104a" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://museum.mcmaster.ca/data/identifier/JH924> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH924" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/507613> ;
+    ns1:P24_transferred_title_of <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The painting was a bequest gift made in 1984, to be transferred to McMaster upon the death of Mr. Levy (in 1990)." ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "1959-05-21"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-08-20"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/500949> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/timespan> ;
+    ns1:P9_consists_of <https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/acquisition> .
+
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/500949> ;
+    ns1:P24_transferred_title_of <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Auction date described as \"summer of 1958\"." ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "1958-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1959-05-21"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/496475> ;
+    ns1:P24_transferred_title_of <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The painting officially entered the McMaster collection on August 18, 1990." ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "1984-08-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1990-08-18"^^xsd:date .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "X-radiograph" .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Ultraviolet fluorescent light" .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Infrared reflectography" .
+
+<https://vangoghworldwide.org/data/artwork/F104a> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300046300> a ns1:E55_Type ;
+    rdfs:label "photographs" .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/7011798> a ns1:E53_Place ;
+    rdfs:label "London, England" .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://data.rkd.nl/artists/506932> a ns1:E39_Actor ;
+    rdfs:label "Art Gallery of Hamilton, Hamilton, Ontario" .
+
+<https://data.rkd.nl/artists/507613> a ns1:E39_Actor ;
+    rdfs:label "Herman H. Levy" .
+
+<https://museum.mcmaster.ca/data/document/155660811X> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/155660811X/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "155660811X" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://museum.mcmaster.ca/data/document/155660811X/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.mcmaster.ca/data/document/155660811X/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/document/8.10917017E8> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/8.10917017E8/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "8.10917017E8" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://museum.mcmaster.ca/data/document/8.10917017E8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.mcmaster.ca/data/document/8.10917017E8/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/document/8.877370491E9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/8.877370491E9/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "8.877370491E9" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://museum.mcmaster.ca/data/document/8.877370491E9/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.mcmaster.ca/data/document/8.877370491E9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/document/9.20603068E8> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/9.20603068E8/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9.20603068E8" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://museum.mcmaster.ca/data/document/9.20603068E8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.mcmaster.ca/data/document/9.20603068E8/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632124E12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/9.781926632124E12/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9.781926632124E12" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://museum.mcmaster.ca/data/document/9.781926632124E12/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632186E12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/9.781926632186E12/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9.781926632186E12" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://museum.mcmaster.ca/data/document/9.781926632186E12/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/document/9.783836557153E12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.mcmaster.ca/data/document/9.783836557153E12/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9.783836557153E12" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://museum.mcmaster.ca/data/document/9.783836557153E12/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/technical/1984.007.0058/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300419325> .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/technical/1984.007.0058/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300046300> .
+
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://museum.mcmaster.ca/data/technical/1984.007.0058/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300046300> .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500949> a ns1:E39_Actor ;
+    rdfs:label "Marlborough Gallery (London)",
+        "Marlborough Gallery, London, England" .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E74_Group a rdfs:Resource .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7013047> a ns1:E53_Place ;
+    rdfs:label "Hamilton, Ontario" .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<https://data.rkd.nl/artists/496475> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "McMaster Museum of Art",
+        "McMaster Museum of Art, McMaster University, Hamilton, Ontario" .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "ISBN",
+        "book" .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Nature morte : pot de gingembre et oignons" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Still Life: Ginger Pot and Onions" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Still Life with Ginger Jar and Onions" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Nature morte au pot de gingembre et oignons" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        <https://museum.mcmaster.ca/data/identifier/1984.007.0058>,
+        <https://museum.mcmaster.ca/data/identifier/F104a>,
+        <https://museum.mcmaster.ca/data/identifier/JH924> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 49.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 34.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "No inscription" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Signed at lower left (extremely faint) \"Vincent\" in purple/brown paint" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028749> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300207379> ] ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/496475> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015638> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F104a> .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 125 repro. in colour in reverse, Cataloguing references: F[aille] 104a, JH[ulsker] 924" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/9.783836557153E12/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 98, no. 73" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/1984.007.0058/9/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp. 134-137, 188-191; repro. p. 134, 188" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/9.781926632124E12/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+[] a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "unknown date or method of transfer" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "unknown date or method of transfer" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp. 148-149; repro. p. 148" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/9.781926632186E12/part> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Lucretia Buisjman (later Mrs. G. W. van Dyk-Buysman) of Nuenen; Private collection, Paris; Private collection, Great Britain; Purchased by Herman Levy, Hamilton, from Marlborough Fine Art Ltd., London, May, 1959; Gift to McMaster Museum of Art (formerly McMaster University Art Gallery), 1984." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/artwork/1984.007.0058> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Auction, XIX and XX Century European Masters. Marlborough Gallery, London, Summer 1958, No. 73, p. 98. Purchase made on May 21, 1959 by Herman Levy." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 191 repro. In Faille 1928 as No. F104" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/9.20603068E8/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Cat. No. 104a" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/155660811X/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp. 204-205, cat. 924" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/8.10917017E8/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 85, cat. 190, F 104a; C.d.A. 189; JH 924; Lettera T 424 and T 427" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.mcmaster.ca/data/document/8.877370491E9/part> .
+
+[] a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "unknown date or method of transfer" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+

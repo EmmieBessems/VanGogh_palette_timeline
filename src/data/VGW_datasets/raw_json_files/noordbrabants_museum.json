@@ -1,0 +1,2988 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <https://linked.art/ns/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/11357/credit_line> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Bruikleen Rijksdienst voor het Cultureel Erfgoed" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/11357/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1885-03-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-03-30"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/719> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/11577/credit_line> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Verworven met steun van de Vereniging Rembrandt, mede dankzij het Prins Bernhard Cultuurfonds." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/11577/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1885-07-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-09-30"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/719> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/12680/credit_line> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Bruikleen Rijksdienst voor het Cultureel Erfgoed" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/12680/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1884-11-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1884-11-30"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/719> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17710/credit_line> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Verworven met steun van BankGiro Loterij, Mondriaan Fonds, VSBfonds, Vrienden van Het Noordbrabants Museum, Renschdael Art Foundation en de heer Coen Teulings" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17710/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1885-10-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-11-30"^^xsd:date ] .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17808/credit_line> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Verworven dankzij de financiële steun van de provincie Noord-Brabant, Mondriaan Fonds, de Vereniging Rembrandt (mede dankzij haar Alida Fonds en Jheronimus Fonds) en legaat H.M.J. van Oppenraaij" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17808/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1884-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1884-12-31"^^xsd:date ] .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17827/credit_line> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Verworven dankzij een lening van de provincie Noord-Brabant, de jaarlijkse bijdrage van de BankGiro Loterij, een legaat van Th.M.J.A. Verstappen en Het Noordbrabants Museum Fonds (officieel)." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17827/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1884-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1884-12-31"^^xsd:date ] .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17905/credit_line> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Het Noordbrabants Museum, 's-Hertogenbosch. Verworven met steun van BankGiro Loterij, Het Noordbrabants Museum Fonds, Fonds Merifin, beheerd door de Koning Boudewijnstichting, John & Patricia Groenewoud en JK Art Foundation. Het Noordbrabants Museum, 's-Hertogenbosch. Acquired with support of the BankGiro Lottery, Het Noordbrabants Museum Fund, Merifin Foundation, managed by King Baudouin Foundation, John & Patricia Groenewoud, and the JK Art Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17905/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1884-12-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-01-30"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/719> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/0/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/0> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/12536/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/12536> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/12537/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Nordenfalk%2C+Carl> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/12537> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/13996/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/13996> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17163/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Faille%2C+J.-B.+de+la> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/17163> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17430/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/17430> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17457/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Brouwer%2C+Ton+de> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/17457> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17480/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Tilborgh%2C+Louis+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/17480> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17700/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/17700> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17786/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Dirven%2C+Ron> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/17786> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18302/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Toorians%2C+Lauran> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/18302> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18418/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Blom%2C+Ad+van+der> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/18418> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18664/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Boven%2C+Margriet+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/18664> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18797/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Dumas%2C+Charles> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/18797> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/19782/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Jansen%2C+L.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/19782> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200000745/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Bodt%2C+Saskia+de> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200000745> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200000980/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Trappeniers%2C+Maureen+S.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200000980> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001148/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Berger%2C+H.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200001148> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001162/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200001162> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001168/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Berger%2C+Helewise> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200001168> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001208/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Trappeniers%2C+M.S.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200001208> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001528/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Nordenfalk%2C+Carl> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200001528> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001537/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Bremmer%2C+H.P.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200001537> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001538/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Overbruggen%2C+P.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/200001538> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/20247/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Oudheusden%2C+Jan+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/20247> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/21647/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Overbruggen%2C+P.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/21647> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23264/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/23264> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23731/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/23731> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23897/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/23897> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24051/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Nelemans%2C+Rebecca> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24165/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24165> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24283/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Denekamp%2C+Nienke> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24283> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24359/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Heugten%2C+Sjraar+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24359> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24360/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Heugten%2C+Sjraar+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24360> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24422/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Westheider%2C+Ortrud> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24422> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24423/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Reesing%2C+Ingmar> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24423> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24438/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Westheider%2C+Ortrud> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24438> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24564/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Balk%2C+Hilde+A.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24564> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24580/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Vanbeselaere%2C+W.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24580> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24581/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Hofmannsthal%2C+H.+von> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24581> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24582/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24582> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24583/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Hammacher%2C+A.M.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24583> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24584/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Nonne%2C+Monique> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24584> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24587/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Faille%2C+J.-B.+de+la> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24587> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24588/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Faille%2C+J.-B.+de+la> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24588> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24589/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Walther%2C+I.F.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24589> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24591/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24591> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24592/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24592> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24593/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Tralbaut%2C+M.E.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24593> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24594/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Testori%2C+Giovanni> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24594> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24595/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Denekamp%2C+Nienke> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/24595> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3041/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Brouwer%2C+Ton+de> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/3041> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3153/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Jong%2C+Koos+de> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/3153> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3240/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Mooij%2C+Charles+C.+M.+de> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/3240> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/400000415/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Bremmer%2C+H.P.> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/400000415> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4104/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Uitert%2C+E.+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/4104> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4114/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/4114> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4143/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Heugten%2C+Sjraar+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/4143> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4803/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Julhiet-Charvet%2C+C%C3%A9line> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/4803> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/5183/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Esner%2C+Rachel> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/5183> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/9557/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/person/Boven%2C+Margriet+M.A.+van> ;
+    ns1:P94_has_created <http://hetnoordbrabantsmuseum.nl/data/document/9557> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/147> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/Stedelijk+Museum+Breda> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "De kisten van Van Gogh" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2003-05-16"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2003-08-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Breda> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/163> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/Hokkaido+Museum+of+Modern+Art> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Vincent & Theo van Gogh 1" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-05-07"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-08-25"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Sapporo> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/164> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/Hyogo+Prefectural+Museum+of+Art> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Vincent & Theo van Gogh 2" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-09-07"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-11-04"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Kobe%2C+Hyogo> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/39> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/Mus%C3%A9e+des+Beaux-Arts+de+Valenciennes> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/11357>,
+        <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Le printemps des musées, Paysages" ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Le printemps des musées, Paysages" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2001-03-06"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2001-06-15"^^xsd:date ],
+        [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2001-03-06"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2001-06-15"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Valenciennes> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/40> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/Funda%C3%A7ao+Bienal+de+Sao+Paulo> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/11357>,
+        <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "XXIV Bienale, 'Nucleo Historico'" ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "XXIV Bienale, 'Nucleo Historico'" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-10-04"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1998-12-13"^^xsd:date ],
+        [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-10-04"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1998-12-13"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Sao+Paulo> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/52> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/R%C3%A9union+des+mus%C3%A9es+nationaux> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Millet-Van Gogh" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-09-14"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1999-01-29"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Parijs> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/53> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/O%27Hana+Gallery> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Summer exhibition" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1972-06-21"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1972-09-21"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Londen> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/631> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/Complesso+del+Vittoriano> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Vincent van Gogh: Tineless Country - Modern City" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-10-08"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2011-02-20"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/Rome> .
+
+<http://hetnoordbrabantsmuseum.nl/data/exhibition/759> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/organization/Noordbrabants+Museum+%28Stichting%29> ;
+    ns1:P16_used_specific_object <http://hetnoordbrabantsmuseum.nl/data/artwork/12680>,
+        <http://hetnoordbrabantsmuseum.nl/data/artwork/17710>,
+        <http://hetnoordbrabantsmuseum.nl/data/artwork/17808>,
+        <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Van Goghs intimi. Vrienden, familie. modellen" ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Van Goghs intimi. Vrienden, familie. modellen" ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Van Goghs intimi. Vrienden, familie. modellen" ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Van Goghs intimi. Vrienden, familie. modellen" ] ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2019-09-21"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2020-01-12"^^xsd:date ],
+        [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2019-09-21"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2020-01-12"^^xsd:date ],
+        [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2019-09-21"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2020-01-12"^^xsd:date ],
+        [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2019-09-21"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2020-01-12"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/%27s-Hertogenbosch> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1976-04-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417645> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1976-04-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1976-04-01"^^xsd:date ] ;
+    ns1:P9_consists_of <http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1976-04-01/custody> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1984-03-28> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1984-03-28"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1984-03-28"^^xsd:date ] ;
+    ns1:P9_consists_of <http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1984-03-28/acquisition> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1990-05-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417645> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-05-15"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-05-15"^^xsd:date ] ;
+    ns1:P9_consists_of <http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1990-05-15/custody> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2016-09-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2016-09-15"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2016-09-15"^^xsd:date ] ;
+    ns1:P9_consists_of <http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2016-09-15/acquisition> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2017-11-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2017-11-15"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2017-11-15"^^xsd:date ] ;
+    ns1:P9_consists_of <http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2017-11-15/acquisition> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2018-04-12> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2018-04-12"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2018-04-12"^^xsd:date ] ;
+    ns1:P9_consists_of <http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2018-04-12/acquisition> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2020-08-27> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2020-08-27"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2020-08-27"^^xsd:date ] ;
+    ns1:P9_consists_of <http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2020-08-27/acquisition> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P28_custody_surrendered_by a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P30_transferred_custody_of a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+skos:exactMatch a rdfs:Resource .
+
+skos:prefLabel a rdfs:Resource .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fbrabantsmuseum%2F11357.JP2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fbrabantsmuseum%2F11577.JP2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fbrabantsmuseum%2F12680.JP2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fbrabantsmuseum%2F17710.JP2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fbrabantsmuseum%2F17808.JP2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fbrabantsmuseum%2F17827.JP2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fbrabantsmuseum%2F17905.JP2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+ns2:phase_of a rdfs:Resource .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/0> a ns1:E39_Actor .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/14044> a ns1:E39_Actor ;
+    rdfs:label "Christie's Londen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/14137> a ns1:E39_Actor ;
+    rdfs:label "O'Hana Gallery" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/14822> a ns1:E39_Actor ;
+    rdfs:label "particuliere verzamelaar" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/14842> a ns1:E39_Actor ;
+    rdfs:label "Sotheby's New York" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/14952> a ns1:E39_Actor ;
+    rdfs:label "Smit, R. (kunsthandel)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15492> a ns1:E39_Actor ;
+    rdfs:label "Valentin, F. (gallerie)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15588> a ns1:E39_Actor ;
+    rdfs:label "Haan, M." .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15589> a ns1:E39_Actor ;
+    rdfs:label "Brugmans-Beukema, E." .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15590> a ns1:E39_Actor ;
+    rdfs:label "Neseker, W. (kunsthandel)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15592> a ns1:E39_Actor ;
+    rdfs:label "Kunstzalen Oldenzeel (kunsthandel)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15593> a ns1:E39_Actor ;
+    rdfs:label "Bolleurs, W.H.C. (collectie)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15594> a ns1:E39_Actor ;
+    rdfs:label "Nijgh, H. (collectie)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15595> a ns1:E39_Actor ;
+    rdfs:label "Bosch, E. van den (collectie)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15596> a ns1:E39_Actor ;
+    rdfs:label "Breckpot, Galerie Jos. (veiling)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15597> a ns1:E39_Actor ;
+    rdfs:label "Bosch, C. van den (collectie)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15598> a ns1:E39_Actor ;
+    rdfs:label "Société auxiliaire des expositions du Palais des Beaux Arts (collectie)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15599> a ns1:E39_Actor ;
+    rdfs:label "Buffa & Zonen, F. (kunsthandel)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/1856> a ns1:E39_Actor ;
+    rdfs:label "Muller" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/25582> a ns1:E39_Actor ;
+    rdfs:label "Bremmer, Collectie Dr. H. P." .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/25583> a ns1:E39_Actor ;
+    rdfs:label "Erven Dr. H.P. Bremmer" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26254> a ns1:E39_Actor ;
+    rdfs:label "Oldenzeel Art Gallery" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26255> a ns1:E39_Actor ;
+    rdfs:label "Bremmer, Floris" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26256> a ns1:E39_Actor ;
+    rdfs:label "Maele, R. van de" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26257> a ns1:E39_Actor ;
+    rdfs:label "Bouve, R." .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26960> a ns1:E39_Actor ;
+    rdfs:label "Nieuwenhuizen Segaar, G.J. (kunsthandel)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26963> a ns1:E39_Actor ;
+    rdfs:label "Stolk, Georgette P. van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/2956> a ns1:E39_Actor ;
+    rdfs:label "Stedelijk Museum Amsterdam" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/367> a ns1:E39_Actor ;
+    rdfs:label "Rijksdienst Beeldende Kunst" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/8566> a ns1:E39_Actor ;
+    rdfs:label "Bremmer, H.P." .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/0> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na6e2a66757794910bceb7fa11a477207 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/0/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/0/title> a ns1:E33_E41_Linguistic_Appellation .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/12536> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nabf368d3cb5445fa813811eb298da49f ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/12536/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/12536/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionist and Modern painting and sculpture" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/12537> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N341215280fca4f0bbf8db13af04bd6a6 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/12537/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/12537/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Swedish Van Gogh Studies" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/13996> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5971ee686cde44bc97011f9ff0b25182,
+        _:N59b5c239e972435f8adf8c8ce359d444,
+        _:N891bea79b08d4e089ee980f676ae95d7,
+        _:N9808841dbaa44ff1933e5c0b2fa961f0,
+        _:Naf71e8408cd746e5b8ee474096617eeb ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/13996/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/13996/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh en zijn weg : het complete werk" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17163> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0ef13de4e94643e2a5d541164763ee43,
+        _:N369a9cfccadd4299955e4289dbc9578c,
+        _:N3ab6a46390fa44ea87c81ac4d28c5970,
+        _:N5247fd02f151441ab48e6b0ab924df71,
+        _:N7eb31bdf78a54cdf8831ecbd02b83bb5,
+        _:Nb6302742104a4f2bb97a4ac4c9423e6d,
+        _:Nd9eb2c38804f4b21a90bfe59da89869f ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/17163/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17163/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "works of Vincent van Gogh : his paintings and drawings" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17430> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nf96e1e022cd94df5a2f740e46e16797d ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/17430/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17430/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Herkomst Gezocht : deelrapportage III" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17457> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ndc04496eaffc448d9363dcdba9f1f879 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/17457/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17457/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "oude toren en van Gogh in Nuenen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17480> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nfa4391dd904d43e6be5998fff75d4dca ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/17480/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17480/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh schilderijen. 1 : Nederlandse periode 1881-1885" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17700> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N9665a33f942d45deada51c924a7ec85e ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/17700/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17700/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent & Theo van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17786> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nc34a22c81cc54ca39a3ae13558cf6b85,
+        _:Ncb9e75e9d2414de99b6d614977e9a107 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/17786/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/17786/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh : verloren vondsten, het mysterie van de Bredase kisten" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18302> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N786f550304914d8ea88ab75a3b31c392,
+        _:Nbe711191bef740139d41a7abbfa530f8 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/18302/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18302/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "verhaal over Noord-Brabant" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18418> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ndd7c315cfaa741cfa05d7683c3c3e72a ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/18418/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18418/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Nederlandse kunst tussen detail en grandeur" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18664> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N72ea03caa8194d4dad983d898cccdf9f ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/18664/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18664/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Noordbrabants Museum" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18797> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0cfd54b001a44dbd9584e5114083c81c ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/18797/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/18797/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Meesters en molens : van Rembrandt tot Mondriaan" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/19782> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N14927cd6c04448b0871533e08f415836 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/19782/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/19782/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh : De brieven. Deel 3: Drenthe - Parijs, 1883-1887" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200000745> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na835c4389d82431ca70f7956f9e9cce7 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200000745/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200000745/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Museumaanwinsten : een keuze uit het Noordbrabants Museum te 's-Hertogenbosch" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200000980> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N1a7f2fac33f24160a74e80b9b9d126a6,
+        _:N8275c54c5efe490bb532de69964ac74a ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200000980/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200000980/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Nieuwe Van Gogh-presentatie : tentoonstelling vanaf 25 november 2006" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001148> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N2f8bef06aeae4797beb0e873aa3958a2 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200001148/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001148/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "tuin van de pastorie te Nuenen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001162> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N43a3f64807fc482aad470a235f59f61d ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200001162/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001162/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Museum verwerft derde Van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001168> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nad85453d256e4f6a913004877750ac1e ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200001168/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001168/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "vroege Van Gogh voor Het Noordbrabants Museum : het verhaal van een ambitieuze aankoop" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001208> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nfb82fd1fabe44718933d8a79f0c4449f ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200001208/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001208/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Spittende boerin, Vincent van Gogh, 1853-1890" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001528> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd01d5a94064b4a34a4238bc9b1f6d66e ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200001528/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001528/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Sweden" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001537> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N99e1edcb5e5b4460b6ee1628ad6a6212,
+        _:Nf725f19e3e914775a805a70568543090 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200001537/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001537/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001538> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5fbfe790267b4dc984fafbff2a720b89 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/200001538/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/200001538/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Weer een Nuenense Van Gogh gestolen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/20247> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N9ad2b4c3637f454b885f0a2065b1dd44 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/20247/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/20247/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Verhalen van Brabant : Geschiedenis en erfgoed in tien tijdvakken" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/21647> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0f9a60867488490e848e7669c4c4f33d ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/21647/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/21647/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van domineeshuis tot Van Goghhuis 1764 - 2014 : 250 jaar pastorie Nuenen en haar bewoners" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23264> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N051cb5e7fe444dabb9239337768d7a7a,
+        _:N1dec2b9267494bc3865de275d3de8445,
+        _:N4c4319ec4fb64df58872ea3c256a7101,
+        _:N5b67c49164a242bdab7ad58aedf6aa0b,
+        _:N74e26bdd6e49459d8caf882feffad1df,
+        _:N88415edbd4aa4b4480fb2472faf77132,
+        _:Ne6d4c19e3926464cb3961391a1f6bb6b ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/23264/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23264/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "New Complete Van Gogh : Paintings, Drawings, Sketches" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23731> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N387e9243861e4c10b1e7484f906193ef ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/23731/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23731/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Jiangsu - Brabant : Twintig jaar vriendschap, eeuwenlang verbonden" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23897> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N9a28257ea8e547cab3a3e3ade661c894 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/23897/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/23897/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Brabant : Paintings and drawings from Etten and Nuenen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24051> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N9dcdb4bf39ff47028a6748d6e38bad9e,
+        _:Na6242355fc8b44f6a1e723c176c0e3f2,
+        _:Ne3923b8e1a7f4ee186ee32638c00bb35 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24051/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24051/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh & Brabant" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24165> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5d8f15f20126490ba3b83ca0239354ab,
+        _:N77f0db8538ae4349a64b268bfcb090eb ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24165/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24165/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Brabant : Vincent's Homeland" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24283> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nc18bc29bd7b84c219ef0744c019e1725 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24283/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24283/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "grote van Gogh atlas" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24359> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N3b63e78adb2b4d27a301e3ec8199cb80,
+        _:Na9dfff30430f420b91aab40d5345d8e3,
+        _:Nc2becbf27c4145d0b248167ef696f88b,
+        _:Nc4f1b388c69b44aabf48312640c27dd9 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24359/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24359/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Goghs intimi : vrienden, familie, modellen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24360> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N3cb25b465e4c48e0a21f0694deb3cc8c,
+        _:Ncd32901e6dbe4ee0a637dfb4464fc8bd,
+        _:Ncf89191811c84d5baca330319a7cbe72,
+        _:Ne74d5423dead4257b6b31b1ac0a526b5 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24360/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24360/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh's Inner Circle : Friends, Family, Models" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24422> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N907c6943639b46b9a9fb9774b7cc6c80 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24422/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24422/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh : Stilleben" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24423> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N886ac7f64dd64761a4e748c09b8b3381 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24423/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24423/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Stilleven : het Nederlandse en Belgische stilleven vanaf 1870" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24438> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N3e55b10a2d1146628b9cf7c4ddfcd5eb ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24438/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24438/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh : Still Lifes" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24564> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N7d2354b6f5c24aa98e31c02660dc59b8 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24564/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24564/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "kunstpaus H.P. Bremmer, 1871-1956 : academisch proefschrift ... Vrije Universiteit Amsterdam ... 18 november 2004" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24580> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5cd3f86a98ef4107a50b24de3fc2d62d,
+        _:N602f617189ea429793d888bb89a75b3e,
+        _:N61b1cf5817a84c65aee048f9a81683e1 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24580/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24580/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Hollandsche periode in het werk van Vincent van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24581> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N626a841b0fba4c2d85d6bdce4b38b465 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24581/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24581/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Zeichnungen und Aquarelle von Vincent van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24582> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na05ec5067283442887bf046108df3b47 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24582/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24582/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Dagboek van Van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24583> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N8cffa4e4ef00425da0e2adb5836b83ca ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24583/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24583/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh : a documentary biography" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24584> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N7edcf23117c04ddba2a3fe94079cb91b ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24584/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24584/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "jardin de Van gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24587> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ned70875dbdcb412fb9356513bb877e98 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24587/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24587/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Oeuvre de Vincent van Gogh : catalogue raisonné" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24588> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N3c8b9524bef64d4db3349a582a2e5691 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24588/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24588/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24589> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N83bab5b330414cf882556f247b8ff841,
+        _:Naf43bd89b8114266b7f9c3237a55a09d ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24589/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24589/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh : The complete paintings" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24591> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N50ea35f1cb2444f69134472d4032e7f1 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24591/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24591/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Complete Van Gogh : Paintings, drawings, Sketches" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24592> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na3812469fd98456d8e6ce8963b0e0a67 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24592/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24592/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Onze Kunst" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24593> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd63e46b2fe8141438a18580348e7c0f4 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24593/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24593/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24594> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N8811c090664c4a9780b4f99b7e14ad39 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24594/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24594/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh : catalogo completo dei dipinti" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24595> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N8f8618e526b8443abd368f6297ab8e7d ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/24595/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/24595/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh Atlas" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3041> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N9a9b0118ddf04ed093dd2b95f15ec423,
+        _:Nd8f224638f344896b995f53666d448c0 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/3041/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3041/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Brabantse van Gogh ervaring" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3153> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd1ad057369c14ae4aff9d153b1ec424f ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/3153/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3153/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Aanwinstencatalogus 1984-1989 : Rijksdienst Beeldende Kunst" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3240> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5e8ec40cbbdc48e285de36f66000569a,
+        _:Na226149ad5dc41cb86ca3619cdc502d7,
+        _:Ndc261ded52b1450dbedd43b56b371c67 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/3240/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/3240/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Muze als motor : beeldende kunst en de ontwikkeling van het moderne Brabant I : 1796-1940" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/400000415> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5606ca2ce1b742cd9a8e88a0b129133b ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/400000415/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/400000415/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Moderne Kunstwerken" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4104> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nfb296988e09e4709854a158e83fd0992 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/4104/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4104/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Brabant : schilderijen en tekeningen uit Etten en Nuenen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4114> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N04602a5aca2c4facb7bf17c60838a9f9 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/4114/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4114/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Dutch painting from the century of Van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4143> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N2a670b89320a46738ed9212505c96d3f ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/4143/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4143/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh tekeningen. 2 : Nuenen 1883-1885" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4803> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N4943d223f6374000b6e80374fc69a645 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/4803/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/4803/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Millet, Van Gogh" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/5183> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N09b08ae4a5f046f78d06bc178de5641f ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/5183/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/5183/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Museum Journal : 1997-1998" .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/9557> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na8f07ce453b74381a8531f4c273b5425 ;
+    ns1:P1_is_identified_by <http://hetnoordbrabantsmuseum.nl/data/document/9557/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://hetnoordbrabantsmuseum.nl/data/document/9557/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Noordbrabants Museum : bezoekersgids" .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/11357> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "11357" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/11577> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "11577" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/12680> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "12680" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/17710> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "17710" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/17808> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "17808" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/17827> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "17827" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/17905> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "17905" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/AB9414> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "AB9414" .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/F1234> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1234" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/F133> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F133" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/F144a> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F144a" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/F46> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F46" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/F48a> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F48a" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/F64> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F64" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/F94> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F94" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/JH488> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH488" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/JH524> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH524" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/JH537> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH537" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/JH584> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH584" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/JH704> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH704" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/JH893> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH893" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/JH954> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH954" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/NK2371> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "NK2371" .
+
+<http://hetnoordbrabantsmuseum.nl/data/identifier/cat.OMPnr.808> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "cat.OMPnr.808" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/Complesso+del+Vittoriano> a ns1:E39_Actor ;
+    rdfs:label "Complesso del Vittoriano" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/Funda%C3%A7ao+Bienal+de+Sao+Paulo> a ns1:E39_Actor ;
+    rdfs:label "Fundaçao Bienal de Sao Paulo" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/Hokkaido+Museum+of+Modern+Art> a ns1:E39_Actor ;
+    rdfs:label "Hokkaido Museum of Modern Art" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/Hyogo+Prefectural+Museum+of+Art> a ns1:E39_Actor ;
+    rdfs:label "Hyogo Prefectural Museum of Art" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/Mus%C3%A9e+des+Beaux-Arts+de+Valenciennes> a ns1:E39_Actor ;
+    rdfs:label "Musée des Beaux-Arts de Valenciennes" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/Noordbrabants+Museum+%28Stichting%29> a ns1:E39_Actor ;
+    rdfs:label "Noordbrabants Museum (Stichting)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/O%27Hana+Gallery> a ns1:E39_Actor ;
+    rdfs:label "O'Hana Gallery" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/R%C3%A9union+des+mus%C3%A9es+nationaux> a ns1:E39_Actor ;
+    rdfs:label "Réunion des musées nationaux" .
+
+<http://hetnoordbrabantsmuseum.nl/data/organization/Stedelijk+Museum+Breda> a ns1:E39_Actor ;
+    rdfs:label "Stedelijk Museum Breda" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Balk%2C+Hilde+A.> a ns1:E21_Person ;
+    rdfs:label "Balk, Hilde A." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Berger%2C+H.> a ns1:E21_Person ;
+    rdfs:label "Berger, H." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Berger%2C+Helewise> a ns1:E21_Person ;
+    rdfs:label "Berger, Helewise" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Blom%2C+Ad+van+der> a ns1:E21_Person ;
+    rdfs:label "Blom, Ad van der" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Bodt%2C+Saskia+de> a ns1:E21_Person ;
+    rdfs:label "Bodt, Saskia de" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Boven%2C+Margriet+M.A.+van> a ns1:E21_Person ;
+    rdfs:label "Boven, Margriet M.A. van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Boven%2C+Margriet+van> a ns1:E21_Person ;
+    rdfs:label "Boven, Margriet van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Dirven%2C+Ron> a ns1:E21_Person ;
+    rdfs:label "Dirven, Ron" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Dumas%2C+Charles> a ns1:E21_Person ;
+    rdfs:label "Dumas, Charles" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Esner%2C+Rachel> a ns1:E21_Person ;
+    rdfs:label "Esner, Rachel" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Hammacher%2C+A.M.> a ns1:E21_Person ;
+    rdfs:label "Hammacher, A.M." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Hofmannsthal%2C+H.+von> a ns1:E21_Person ;
+    rdfs:label "Hofmannsthal, H. von" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Jansen%2C+L.> a ns1:E21_Person ;
+    rdfs:label "Jansen, L." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Jong%2C+Koos+de> a ns1:E21_Person ;
+    rdfs:label "Jong, Koos de" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Julhiet-Charvet%2C+C%C3%A9line> a ns1:E21_Person ;
+    rdfs:label "Julhiet-Charvet, Céline" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Mooij%2C+Charles+C.+M.+de> a ns1:E21_Person ;
+    rdfs:label "Mooij, Charles C. M. de" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Nelemans%2C+Rebecca> a ns1:E21_Person ;
+    rdfs:label "Nelemans, Rebecca" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Nonne%2C+Monique> a ns1:E21_Person ;
+    rdfs:label "Nonne, Monique" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Oudheusden%2C+Jan+van> a ns1:E21_Person ;
+    rdfs:label "Oudheusden, Jan van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Reesing%2C+Ingmar> a ns1:E21_Person ;
+    rdfs:label "Reesing, Ingmar" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Testori%2C+Giovanni> a ns1:E21_Person ;
+    rdfs:label "Testori, Giovanni" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Tilborgh%2C+Louis+van> a ns1:E21_Person ;
+    rdfs:label "Tilborgh, Louis van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Toorians%2C+Lauran> a ns1:E21_Person ;
+    rdfs:label "Toorians, Lauran" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Tralbaut%2C+M.E.> a ns1:E21_Person ;
+    rdfs:label "Tralbaut, M.E." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Trappeniers%2C+M.S.> a ns1:E21_Person ;
+    rdfs:label "Trappeniers, M.S." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Trappeniers%2C+Maureen+S.> a ns1:E21_Person ;
+    rdfs:label "Trappeniers, Maureen S." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Uitert%2C+E.+van> a ns1:E21_Person ;
+    rdfs:label "Uitert, E. van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Vanbeselaere%2C+W.> a ns1:E21_Person ;
+    rdfs:label "Vanbeselaere, W." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Walther%2C+I.F.> a ns1:E21_Person ;
+    rdfs:label "Walther, I.F." .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/%27s-Hertogenbosch> a ns1:E53_Place ;
+    rdfs:label "'s-Hertogenbosch" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/16447> a ns1:E53_Place ;
+    rdfs:label "Duitsland, Stuttgart" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/19083> a ns1:E53_Place ;
+    rdfs:label "Stockholm" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/2044> a ns1:E53_Place ;
+    rdfs:label "Den Haag" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/25167> a ns1:E53_Place ;
+    rdfs:label "Nuenen/Breda" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/3545> a ns1:E53_Place ;
+    rdfs:label "België, Brussel" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/4674> a ns1:E53_Place ;
+    rdfs:label "Scheveningen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/5014> a ns1:E53_Place ;
+    rdfs:label "Rijswijk" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/839> a ns1:E53_Place ;
+    rdfs:label "Utrecht" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Breda> a ns1:E53_Place ;
+    rdfs:label "Breda" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Kobe%2C+Hyogo> a ns1:E53_Place ;
+    rdfs:label "Kobe, Hyogo" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Londen> a ns1:E53_Place ;
+    rdfs:label "Londen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Parijs> a ns1:E53_Place ;
+    rdfs:label "Parijs" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Rome> a ns1:E53_Place ;
+    rdfs:label "Rome" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Sao+Paulo> a ns1:E53_Place ;
+    rdfs:label "Sao Paulo" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Sapporo> a ns1:E53_Place ;
+    rdfs:label "Sapporo" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/Valenciennes> a ns1:E53_Place ;
+    rdfs:label "Valenciennes" .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1976-04-01/custody> a ns1:crm%3AE10_Transfer_of_Custody ;
+    ns1:P28_custody_surrendered_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417645> ;
+    ns1:P30_transferred_custody_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1984-03-28/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/495487> ;
+    ns1:P24_transferred_title_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417642> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/1990-05-15/custody> a ns1:crm%3AE10_Transfer_of_Custody ;
+    ns1:P28_custody_surrendered_by <https://data.rkd.nl/artists/495487> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417645> ;
+    ns1:P30_transferred_custody_of <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2016-09-15/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/495487> ;
+    ns1:P24_transferred_title_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417642> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2017-11-15/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/495487> ;
+    ns1:P24_transferred_title_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417642> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2018-04-12/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/495487> ;
+    ns1:P24_transferred_title_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417642> .
+
+<http://hetnoordbrabantsmuseum.nl/data/provenance/495487/2020-08-27/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/495487> ;
+    ns1:P24_transferred_title_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417642> .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/2584> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015638> ;
+    skos:prefLabel "stilleven" .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/2827> a ns1:E57_Material ;
+    rdfs:label "papier" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014109> .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/3897> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033973> ;
+    skos:prefLabel "tekening" .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/5107> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015045> ;
+    skos:prefLabel "aquarel" .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/6672> a ns1:E57_Material ;
+    rdfs:label "waterverf" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015045> .
+
+<http://vocab.getty.edu/aat/300014078> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014109> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014657> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015050> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015638> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300033618> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300033973> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300189808> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7006835> a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1234> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F133> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F144a> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F46> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F48a> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F64> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F94> a rdfs:Resource .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/15591> a ns1:E39_Actor ;
+    rdfs:label "Mouwen jr., C. (collectie)" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26258> a ns1:E39_Actor ;
+    rdfs:label "Privé collectie Parijs" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26962> a ns1:E39_Actor ;
+    rdfs:label "Oldenzeel, Kunstzalen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Bremmer%2C+H.P.> a ns1:E21_Person ;
+    rdfs:label "Bremmer, H.P." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Brouwer%2C+Ton+de> a ns1:E21_Person ;
+    rdfs:label "Brouwer, Ton de" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Denekamp%2C+Nienke> a ns1:E21_Person ;
+    rdfs:label "Denekamp, Nienke" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Nordenfalk%2C+Carl> a ns1:E21_Person ;
+    rdfs:label "Nordenfalk, Carl" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Overbruggen%2C+P.> a ns1:E21_Person ;
+    rdfs:label "Overbruggen, P." .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Westheider%2C+Ortrud> a ns1:E21_Person ;
+    rdfs:label "Westheider, Ortrud" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/2588> a ns1:E53_Place ;
+    rdfs:label "Groningen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/15918> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300189808> ;
+    skos:prefLabel "figuurstuk" .
+
+<http://vocab.getty.edu/aat/300015045> a rdfs:Resource .
+
+ns1:crm%3AE10_Transfer_of_Custody a rdfs:Resource .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/10581> a ns1:E39_Actor ;
+    rdfs:label "Sotheby's Londen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26250> a ns1:E39_Actor ;
+    rdfs:label "Gogh-Carbentus, Anna Cornelia van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26251> a ns1:E39_Actor ;
+    rdfs:label "Schrauwen, Janus" .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26252> a ns1:E39_Actor ;
+    rdfs:label "Couvreur, Jan C." .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/26253> a ns1:E39_Actor ;
+    rdfs:label "Mouwen Jr en Willem van Bakel, Kees" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Faille%2C+J.-B.+de+la> a ns1:E21_Person ;
+    rdfs:label "Faille, J.-B. de la" .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Heugten%2C+Sjraar+van> a ns1:E21_Person ;
+    rdfs:label "Heugten, Sjraar van" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/16480> a ns1:E53_Place ;
+    rdfs:label "België, Antwerpen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/49> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/571> a ns1:E53_Place ;
+    rdfs:label "New York" .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/3883> a ns1:E57_Material ;
+    rdfs:label "paneel" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014657> .
+
+<http://hetnoordbrabantsmuseum.nl/data/person/Hulsker%2C+Jan> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/4471> a ns1:E53_Place ;
+    rdfs:label "Londen" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/704> a ns1:E53_Place ;
+    rdfs:label "Rotterdam" .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/719> a ns1:E53_Place ;
+    rdfs:label "Nuenen" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006835> .
+
+<http://vocab.getty.edu/aat/300417645> a ns1:E55_Type .
+
+<http://hetnoordbrabantsmuseum.nl/data/actor/12461> a ns1:E39_Actor ;
+    rdfs:label "particuliere collectie" .
+
+ns1:E57_Material a rdfs:Resource .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/3839> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033618> ;
+    skos:prefLabel "schilderij" .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/3840> a ns1:E57_Material ;
+    rdfs:label "olieverf" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015050> .
+
+<http://hetnoordbrabantsmuseum.nl/data/term/3868> a ns1:E57_Material ;
+    rdfs:label "doek" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014078> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/ulan/500115588> a ns1:E39_Actor .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type .
+
+<http://hetnoordbrabantsmuseum.nl/data/place/255> a ns1:E53_Place ;
+    rdfs:label "Breda" .
+
+<http://vocab.getty.edu/aat/300417642> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17808> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Collse watermolen" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/17808>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/F48a>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/JH488> ;
+    ns1:P2_has_type <http://hetnoordbrabantsmuseum.nl/data/term/3839> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 60.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 80.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://hetnoordbrabantsmuseum.nl/data/term/3840>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3868> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495487> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F48a> .
+
+<https://data.rkd.nl/artists/495487> a ns1:E39_Actor .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17905> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kop van een vrouw" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/17905>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/F133>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/JH584> ;
+    ns1:P2_has_type <http://hetnoordbrabantsmuseum.nl/data/term/3839> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 29.6 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 40.1 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://hetnoordbrabantsmuseum.nl/data/term/3840>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3868>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3883> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495487> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F133> .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17827> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Stilleven met flessen en kauri schelp" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Stilleven met flessen en schelp" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/17827>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/F64>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/JH537> ;
+    ns1:P2_has_type <http://hetnoordbrabantsmuseum.nl/data/term/2584>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3839> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 31.8 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 41.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://hetnoordbrabantsmuseum.nl/data/term/3840>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3868>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3883> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495487> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F64> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/11357> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Brabantse boerin" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Brabantse boerin, zittend, en profil gezien" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Zittende boerin met daagse muts" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/11357>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/F144a>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/JH704>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/NK2371>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/cat.OMPnr.808> ;
+    ns1:P2_has_type <http://hetnoordbrabantsmuseum.nl/data/term/15918>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3839> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 26.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 36.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://hetnoordbrabantsmuseum.nl/data/term/3840>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3868>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3883> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495487> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F144a> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/12680> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Raderen van de Genneper watermolen" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "De watermolen te Gennep" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/12680>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/AB9414>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/F46>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/JH524> ;
+    ns1:P2_has_type <http://hetnoordbrabantsmuseum.nl/data/term/3839> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 80.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 61.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://hetnoordbrabantsmuseum.nl/data/term/3840>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3868> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495487> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F46> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/17710> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "De tuin van de pastorie te Nuenen" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/17710>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/F1234>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/JH954> ;
+    ns1:P2_has_type <http://hetnoordbrabantsmuseum.nl/data/term/3897>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/5107> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 38.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 49.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://hetnoordbrabantsmuseum.nl/data/term/2827>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/6672> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495487> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1234> .
+
+<http://hetnoordbrabantsmuseum.nl/data/artwork/11577> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Spittende boerin" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/11577>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/F94>,
+        <http://hetnoordbrabantsmuseum.nl/data/identifier/JH893> ;
+    ns1:P2_has_type <http://hetnoordbrabantsmuseum.nl/data/term/15918>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3839> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 25.7 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 37.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://hetnoordbrabantsmuseum.nl/data/term/3840>,
+        <http://hetnoordbrabantsmuseum.nl/data/term/3868> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495487> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F94> .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+ns2:Phase a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028051> a ns1:E55_Type .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 210" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N9808841dbaa44ff1933e5c0b2fa961f0 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nc18bc29bd7b84c219ef0744c019e1725 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15596> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1936-12-21"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/16480> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26258> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2014-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 46" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N3b63e78adb2b4d27a301e3ec8199cb80 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nd01d5a94064b4a34a4238bc9b1f6d66e .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/12461> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2007-05-10"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/571> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nc34a22c81cc54ca39a3ae13558cf6b85 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N9665a33f942d45deada51c924a7ec85e .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 13 met afb." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N99e1edcb5e5b4460b6ee1628ad6a6212 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 90" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N0ef13de4e94643e2a5d541164763ee43 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 176" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nc2becbf27c4145d0b248167ef696f88b .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26251> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1888-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N09b08ae4a5f046f78d06bc178de5641f .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15591> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1904-05-03"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "dl 1, p. 40" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N83bab5b330414cf882556f247b8ff841 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26255> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nabf368d3cb5445fa813811eb298da49f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 160; p. 136" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N3c8b9524bef64d4db3349a582a2e5691 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na835c4389d82431ca70f7956f9e9cce7 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 89" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ncb9e75e9d2414de99b6d614977e9a107 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nfb296988e09e4709854a158e83fd0992 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ne6d4c19e3926464cb3961391a1f6bb6b .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 74" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nb6302742104a4f2bb97a4ac4c9423e6d .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 155" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N59b5c239e972435f8adf8c8ce359d444 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 60" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nd9eb2c38804f4b21a90bfe59da89869f .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/10581> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1968-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26963> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1906-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15589> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/2588> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N9a9b0118ddf04ed093dd2b95f15ec423 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 584; p. 132,133" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N4c4319ec4fb64df58872ea3c256a7101 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N1a7f2fac33f24160a74e80b9b9d126a6 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N1dec2b9267494bc3865de275d3de8445 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 123" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Naf71e8408cd746e5b8ee474096617eeb .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 38; p. 241" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N907c6943639b46b9a9fb9774b7cc6c80 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15593> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/704> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ndc261ded52b1450dbedd43b56b371c67 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26250> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1885-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/25167> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 61; 93" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5247fd02f151441ab48e6b0ab924df71 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N387e9243861e4c10b1e7484f906193ef .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N0cfd54b001a44dbd9584e5114083c81c .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/12461> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 108, pl. 71; p. 236" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N8cffa4e4ef00425da0e2adb5836b83ca .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 48" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N3cb25b465e4c48e0a21f0694deb3cc8c .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 38-39" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N7edcf23117c04ddba2a3fe94079cb91b .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "jrg. 6, afl. 2, nr. 14" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5606ca2ce1b742cd9a8e88a0b129133b .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N04602a5aca2c4facb7bf17c60838a9f9 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 133; p. 86, 87" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N7eb31bdf78a54cdf8831ecbd02b83bb5 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15594> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1933-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/704> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N8275c54c5efe490bb532de69964ac74a .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 284, 330, 414" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N61b1cf5817a84c65aee048f9a81683e1 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15598> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/3545> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26251> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1886-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N9ad2b4c3637f454b885f0a2065b1dd44 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 584, p. 133" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N50ea35f1cb2444f69134472d4032e7f1 .
+
+[] a ns1:E33_Linguistic_Object .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/14952> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/839> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nfb82fd1fabe44718933d8a79f0c4449f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 176" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ncf89191811c84d5baca330319a7cbe72 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/25583> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N341215280fca4f0bbf8db13af04bd6a6 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na226149ad5dc41cb86ca3619cdc502d7 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26253> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1902-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26257> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1967-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/14044> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1982-03-29"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/4471> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/1856> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1904-05-03"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/49> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 199" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5971ee686cde44bc97011f9ff0b25182 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15588> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/2588> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 48" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na9dfff30430f420b91aab40d5345d8e3 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N7d2354b6f5c24aa98e31c02660dc59b8 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N9a28257ea8e547cab3a3e3ade661c894 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/10581> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-07-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/4471> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/2956> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/4674> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 210" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N74e26bdd6e49459d8caf882feffad1df .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 64" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N3ab6a46390fa44ea87c81ac4d28c5970 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 153" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N14927cd6c04448b0871533e08f415836 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26962> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1903-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 96" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N8f8618e526b8443abd368f6297ab8e7d .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26252> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1902-08-14"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26960> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1946-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/704> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N43a3f64807fc482aad470a235f59f61d .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N2f8bef06aeae4797beb0e873aa3958a2 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na6e2a66757794910bceb7fa11a477207 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 133" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5cd3f86a98ef4107a50b24de3fc2d62d .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15590> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/49> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26254> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1904-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5e8ec40cbbdc48e285de36f66000569a .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nd1ad057369c14ae4aff9d153b1ec424f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nd8f224638f344896b995f53666d448c0 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na8f07ce453b74381a8531f4c273b5425 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26252> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1902-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26256> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1966-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26252> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1902-08-14"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26250> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1885-11-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N9dcdb4bf39ff47028a6748d6e38bad9e .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15599> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/49> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/8566> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1903-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nfa4391dd904d43e6be5998fff75d4dca .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5d8f15f20126490ba3b83ca0239354ab .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N2a670b89320a46738ed9212505c96d3f .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/367> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/5014> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N72ea03caa8194d4dad983d898cccdf9f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "dl. 1, p. 115" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na3812469fd98456d8e6ce8963b0e0a67 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nad85453d256e4f6a913004877750ac1e .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26962> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 133, pl. XXVI" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ned70875dbdcb412fb9356513bb877e98 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15595> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1936-12-21"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/16480> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15492> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/16447> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 17, 24-25" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N886ac7f64dd64761a4e748c09b8b3381 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 14 met afb." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nf725f19e3e914775a805a70568543090 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 278, nr. 1343" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N602f617189ea429793d888bb89a75b3e .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nbe711191bef740139d41a7abbfa530f8 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 114" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N891bea79b08d4e089ee980f676ae95d7 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 77" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na05ec5067283442887bf046108df3b47 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N0f9a60867488490e848e7669c4c4f33d .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/12461> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/2044> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 49" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ncd32901e6dbe4ee0a637dfb4464fc8bd .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/14137> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/4471> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 17-18" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5fbfe790267b4dc984fafbff2a720b89 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15597> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/16480> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/25582> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1904-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N786f550304914d8ea88ab75a3b31c392 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N051cb5e7fe444dabb9239337768d7a7a .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26253> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N77f0db8538ae4349a64b268bfcb090eb .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 46; p. 32" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N8811c090664c4a9780b4f99b7e14ad39 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/10581> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1984-03-28"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/4471> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/12461> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1969-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "vol. I, p. 69" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Naf43bd89b8114266b7f9c3237a55a09d .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na6242355fc8b44f6a1e723c176c0e3f2 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/14842> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1975-05-21"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/571> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 12" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N626a841b0fba4c2d85d6bdce4b38b465 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15592> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/704> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/0> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 49" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nc4f1b388c69b44aabf48312640c27dd9 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 137" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nd63e46b2fe8141438a18580348e7c0f4 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nf96e1e022cd94df5a2f740e46e16797d .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ne3923b8e1a7f4ee186ee32638c00bb35 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26258> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1968-07-03"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5b67c49164a242bdab7ad58aedf6aa0b .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26253> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1902-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "nr. 1234; p. 441; p. 571" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N369a9cfccadd4299955e4289dbc9578c .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/12461> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2000-05-09"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/571> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/15591> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1904-05-03"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/255> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26250> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1885-11-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/26251> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1888-01-01"^^xsd:date ] ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N4943d223f6374000b6e80374fc69a645 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 46" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ne74d5423dead4257b6b31b1ac0a526b5 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 38; p. 241" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N3e55b10a2d1146628b9cf7c4ddfcd5eb .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 125" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N88415edbd4aa4b4480fb2472faf77132 .
+
+[] a ns2:Phase ;
+    ns1:P14_carried_out_by <http://hetnoordbrabantsmuseum.nl/data/actor/14822> ;
+    ns1:P7_took_place_at <http://hetnoordbrabantsmuseum.nl/data/place/19083> ;
+    ns2:phase_of <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ndc04496eaffc448d9363dcdba9f1f879 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ndd7c315cfaa741cfa05d7683c3c3e72a .
+
+_:N04602a5aca2c4facb7bf17c60838a9f9 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:N051cb5e7fe444dabb9239337768d7a7a a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N09b08ae4a5f046f78d06bc178de5641f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:N0cfd54b001a44dbd9584e5114083c81c a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:N0ef13de4e94643e2a5d541164763ee43 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:N0f9a60867488490e848e7669c4c4f33d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N14927cd6c04448b0871533e08f415836 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N1a7f2fac33f24160a74e80b9b9d126a6 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:N1dec2b9267494bc3865de275d3de8445 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:N2a670b89320a46738ed9212505c96d3f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N2f8bef06aeae4797beb0e873aa3958a2 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N341215280fca4f0bbf8db13af04bd6a6 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N369a9cfccadd4299955e4289dbc9578c a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N387e9243861e4c10b1e7484f906193ef a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N3ab6a46390fa44ea87c81ac4d28c5970 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N3b63e78adb2b4d27a301e3ec8199cb80 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N3c8b9524bef64d4db3349a582a2e5691 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:N3cb25b465e4c48e0a21f0694deb3cc8c a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N3e55b10a2d1146628b9cf7c4ddfcd5eb a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N43a3f64807fc482aad470a235f59f61d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N4943d223f6374000b6e80374fc69a645 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N4c4319ec4fb64df58872ea3c256a7101 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:N50ea35f1cb2444f69134472d4032e7f1 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:N5247fd02f151441ab48e6b0ab924df71 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N5606ca2ce1b742cd9a8e88a0b129133b a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N5971ee686cde44bc97011f9ff0b25182 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N59b5c239e972435f8adf8c8ce359d444 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:N5b67c49164a242bdab7ad58aedf6aa0b a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:N5cd3f86a98ef4107a50b24de3fc2d62d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:N5d8f15f20126490ba3b83ca0239354ab a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N5e8ec40cbbdc48e285de36f66000569a a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N5fbfe790267b4dc984fafbff2a720b89 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N602f617189ea429793d888bb89a75b3e a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N61b1cf5817a84c65aee048f9a81683e1 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N626a841b0fba4c2d85d6bdce4b38b465 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N72ea03caa8194d4dad983d898cccdf9f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:N74e26bdd6e49459d8caf882feffad1df a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N77f0db8538ae4349a64b268bfcb090eb a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N786f550304914d8ea88ab75a3b31c392 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N7d2354b6f5c24aa98e31c02660dc59b8 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N7eb31bdf78a54cdf8831ecbd02b83bb5 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:N7edcf23117c04ddba2a3fe94079cb91b a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N8275c54c5efe490bb532de69964ac74a a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N83bab5b330414cf882556f247b8ff841 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N8811c090664c4a9780b4f99b7e14ad39 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N88415edbd4aa4b4480fb2472faf77132 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N886ac7f64dd64761a4e748c09b8b3381 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N891bea79b08d4e089ee980f676ae95d7 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N8cffa4e4ef00425da0e2adb5836b83ca a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N8f8618e526b8443abd368f6297ab8e7d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:N907c6943639b46b9a9fb9774b7cc6c80 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N9665a33f942d45deada51c924a7ec85e a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:N9808841dbaa44ff1933e5c0b2fa961f0 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:N99e1edcb5e5b4460b6ee1628ad6a6212 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:N9a28257ea8e547cab3a3e3ade661c894 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N9a9b0118ddf04ed093dd2b95f15ec423 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:N9ad2b4c3637f454b885f0a2065b1dd44 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:N9dcdb4bf39ff47028a6748d6e38bad9e a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:Na05ec5067283442887bf046108df3b47 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:Na226149ad5dc41cb86ca3619cdc502d7 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Na3812469fd98456d8e6ce8963b0e0a67 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:Na6242355fc8b44f6a1e723c176c0e3f2 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Na6e2a66757794910bceb7fa11a477207 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:Na835c4389d82431ca70f7956f9e9cce7 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Na8f07ce453b74381a8531f4c273b5425 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Na9dfff30430f420b91aab40d5345d8e3 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:Nabf368d3cb5445fa813811eb298da49f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Nad85453d256e4f6a913004877750ac1e a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:Naf43bd89b8114266b7f9c3237a55a09d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:Naf71e8408cd746e5b8ee474096617eeb a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Nb6302742104a4f2bb97a4ac4c9423e6d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Nbe711191bef740139d41a7abbfa530f8 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Nc18bc29bd7b84c219ef0744c019e1725 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:Nc2becbf27c4145d0b248167ef696f88b a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:Nc34a22c81cc54ca39a3ae13558cf6b85 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Nc4f1b388c69b44aabf48312640c27dd9 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Ncb9e75e9d2414de99b6d614977e9a107 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:Ncd32901e6dbe4ee0a637dfb4464fc8bd a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Ncf89191811c84d5baca330319a7cbe72 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:Nd01d5a94064b4a34a4238bc9b1f6d66e a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Nd1ad057369c14ae4aff9d153b1ec424f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Nd63e46b2fe8141438a18580348e7c0f4 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
+
+_:Nd8f224638f344896b995f53666d448c0 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:Nd9eb2c38804f4b21a90bfe59da89869f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Ndc04496eaffc448d9363dcdba9f1f879 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:Ndc261ded52b1450dbedd43b56b371c67 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:Ndd7c315cfaa741cfa05d7683c3c3e72a a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Ne3923b8e1a7f4ee186ee32638c00bb35 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Ne6d4c19e3926464cb3961391a1f6bb6b a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+
+_:Ne74d5423dead4257b6b31b1ac0a526b5 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
+
+_:Ned70875dbdcb412fb9356513bb877e98 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17905> .
+
+_:Nf725f19e3e914775a805a70568543090 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:Nf96e1e022cd94df5a2f740e46e16797d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11357> .
+
+_:Nfa4391dd904d43e6be5998fff75d4dca a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
+
+_:Nfb296988e09e4709854a158e83fd0992 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/12680> .
+
+_:Nfb82fd1fabe44718933d8a79f0c4449f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
+

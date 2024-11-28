@@ -1,0 +1,856 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770923> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.sompo-museum.org/data/artwork/LO-175> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.sompo-museum.org/data/artwork/LO-175/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Sompo Museum of Art, Tokyo (Sompo Japan Insurance Inc.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/artwork/LO-175/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.sompo-museum.org/data/artwork/LO-175> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300054216> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "November - early December 1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-11-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-12-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://www.sompo-museum.org/data/document/0+7148+8043+4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/LO-157/2> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "0 7148 8043 4" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://www.sompo-museum.org/data/document/0+7148+8043+4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<https://www.sompo-museum.org/data/document/0007+6287> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/LO-157/3> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "0007 6287" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> ],
+        <https://www.sompo-museum.org/data/document/0007+6287/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://www.sompo-museum.org/data/document/90+400+94101/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/document/90+400+94101/author> ;
+    ns1:P94_has_created <https://www.sompo-museum.org/data/document/90+400+94101> .
+
+<https://www.sompo-museum.org/data/document/90+400+94101/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://viaf.org/viaf/154316680/#Van_Gogh_museum_Amsterdam> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/document/90+400+94101> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1999-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1999-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://www.sompo-museum.org/data/document/90+6987+030+4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/document/90+6987+030+4/author> ;
+    ns1:P94_has_created <https://www.sompo-museum.org/data/document/90+6987+030+4> .
+
+<https://www.sompo-museum.org/data/document/90+6987+030+4/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://viaf.org/viaf/154316680/#Van_Gogh_museum_Amsterdam> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/document/90+6987+030+4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2001-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2001-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://www.sompo-museum.org/data/document/978+0+7112+3298+3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/document/978+0+7112+3298+3/author> ;
+    ns1:P94_has_created <https://www.sompo-museum.org/data/document/978+0+7112+3298+3> .
+
+<https://www.sompo-museum.org/data/document/978+0+7112+3298+3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://viaf.org/viaf/151369928/#Frances_Lincoln_Limited> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/document/978+0+7112+3298+3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2013-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2013-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://www.sompo-museum.org/data/document/LO-157/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500322383> ;
+    ns1:P94_has_created <https://www.sompo-museum.org/data/document/LO-157/1> .
+
+<https://www.sompo-museum.org/data/document/LO-157/1/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/LO-157/1> ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/document/LO-157/1/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<https://www.sompo-museum.org/data/document/LO-157/1/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/document/LO-157/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1910-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1910-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004333> .
+
+<https://www.sompo-museum.org/data/document/LO-157/2/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/document/LO-157/2/author> ;
+    ns1:P94_has_created <https://www.sompo-museum.org/data/document/LO-157/2> .
+
+<https://www.sompo-museum.org/data/document/LO-157/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://viaf.org/viaf/123681958/#Phaidon_Press.> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/document/LO-157/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1987-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://www.sompo-museum.org/data/document/LO-157/3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/document/LO-157/3/author> ;
+    ns1:P94_has_created <https://www.sompo-museum.org/data/document/LO-157/3> .
+
+<https://www.sompo-museum.org/data/document/LO-157/3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://viaf.org/processed/DNB%7C1086952413> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/document/LO-157/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1998-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://www.sompo-museum.org/data/document/LO-157/6/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/document/LO-157/6/author> ;
+    ns1:P94_has_created <https://www.sompo-museum.org/data/document/LO-157/6> .
+
+<https://www.sompo-museum.org/data/document/LO-157/6/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://viaf.org/processed/LC%7Cn%20%2086066833> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/document/LO-157/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2001-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013596> .
+
+<https://www.sompo-museum.org/data/exhibition/500275558/2002-02-09/2002-06-02> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/artwork/LO-175> ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/exhibition/500275558/2002-02-09/2002-06-02/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/exhibition/500275558/2002-02-09/2002-06-02/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://www.sompo-museum.org/data/exhibition/500301795/1910-11-08/1911-01-16> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500301795> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/artwork/LO-175> ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/exhibition/500301795/1910-11-08/1911-01-16/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/exhibition/500301795/1910-11-08/1911-01-16/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://www.sompo-museum.org/data/exhibition/500304669/2001-09-22/2002-01-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304669> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/artwork/LO-175> ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/exhibition/500304669/2001-09-22/2002-01-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/exhibition/500304669/2001-09-22/2002-01-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013596> .
+
+<https://www.sompo-museum.org/data/exhibition/500434185/1901-03-15/1901-03-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500434185> ;
+    ns1:P16_used_specific_object <https://www.sompo-museum.org/data/artwork/LO-175> ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/exhibition/500434185/1901-03-15/1901-03-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/exhibition/500434185/1901-03-15/1901-03-31/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008038> .
+
+<https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty+Jr./1968-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/actor/Alfred+Chester+Beatty+Jr.> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty+Jr./1968-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty+Jr./1968-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty/1952-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500314050> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty/1952-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty/1952-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Amed%C3%A9e+Schuffenecker/1903-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://rkd.nl/explore/artists/494462> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Amed%C3%A9e+Schuffenecker/1903-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Amed%C3%A9e+Schuffenecker/1903-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Edith+Beatty/1935-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500444453> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Edith+Beatty/1935-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Edith+Beatty/1935-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Emile+Schuffenecker/1894-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500013470> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Emile+Schuffenecker/1894-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Emile+Schuffenecker/1894-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Galerie+Druet/1908-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500310292> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Galerie+Druet/1908-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Galerie+Druet/1908-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Galerie+Paul+Rosenberg/1934-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500310368> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Galerie+Paul+Rosenberg/1934-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Galerie+Paul+Rosenberg/1934-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Helen+Chester+Beatty/1983-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/actor/Helen+Chester+Beatty> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Helen+Chester+Beatty/1983-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Helen+Chester+Beatty/1983-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Jo+Bonger%2C+Bussum/1891-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500073337> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Jo+Bonger%2C+Bussum/1891-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Jo+Bonger%2C+Bussum/1891-01-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Paul+von+Mendelssohn-Bartholdy/1910-09-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.sompo-museum.org/data/actor/Paul+von+Mendelssohn-Bartholdy> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Paul+von+Mendelssohn-Bartholdy/1910-09-01/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Paul+von+Mendelssohn-Bartholdy/1910-09-01/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Theo+van+Gogh/1889-05-02> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500339434> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Theo+van+Gogh/1889-05-02/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Theo+van+Gogh/1889-05-02/acquisition> .
+
+<https://www.sompo-museum.org/data/provenance/Yasuda+Fire+%26+Marine%2FSompo+Japan+Insurance+Inc.%28Sompo+Museum+of+Art%29/1987-03-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500309728> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.sompo-museum.org/data/provenance/Yasuda+Fire+%26+Marine%2FSompo+Japan+Insurance+Inc.%28Sompo+Museum+of+Art%29/1987-03-30/timespan> ;
+    ns1:P9_consists_of <https://www.sompo-museum.org/data/provenance/Yasuda+Fire+%26+Marine%2FSompo+Japan+Insurance+Inc.%28Sompo+Museum+of+Art%29/1987-03-30/acquisition> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015638> a rdfs:Resource ;
+    rdfs:label "still lifes" .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalogue" .
+
+<http://vocab.getty.edu/aat/300026642> a ns1:E55_Type ;
+    rdfs:label "serial" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Paintings" .
+
+<http://vocab.getty.edu/aat/300054216> a ns1:E55_Type ;
+    rdfs:label "painting (image-making)" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7004333> a ns1:E53_Place ;
+    rdfs:label "Munich" .
+
+<http://vocab.getty.edu/tgn/7008038> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+<http://vocab.getty.edu/tgn/7008775> a ns1:E53_Place ;
+    rdfs:label "Arles" .
+
+<http://vocab.getty.edu/ulan/500275558> a ns1:E39_Actor ;
+    rdfs:label "Van Gogh Museum" .
+
+<http://vocab.getty.edu/ulan/500301795> a ns1:E39_Actor ;
+    rdfs:label "Grafton Galleries" .
+
+<http://vocab.getty.edu/ulan/500304669> a ns1:E39_Actor ;
+    rdfs:label "Art Institute of Chicago" .
+
+<http://vocab.getty.edu/ulan/500322383> a ns1:E21_Person ;
+    rdfs:label "Julius Meier-Graefe" .
+
+<http://vocab.getty.edu/ulan/500434185> a ns1:E39_Actor ;
+    rdfs:label "Galerie Bernheim-Jeune" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van gogh" .
+
+<https://vangoghworldwide.org/data/artwork/F457> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<https://viaf.org/processed/DNB%7C1086952413> a ns1:E74_Group ;
+    rdfs:label "The Burlington Magazine Foundation" .
+
+<https://viaf.org/processed/LC%7Cn%20%2086066833> a ns1:E74_Group ;
+    rdfs:label "Thames and Hudson" .
+
+<https://viaf.org/viaf/123681958/#Phaidon_Press.> a ns1:E74_Group ;
+    rdfs:label "Phaidon" .
+
+<https://viaf.org/viaf/151369928/#Frances_Lincoln_Limited> a ns1:E74_Group ;
+    rdfs:label "Frances Lincoln Limited" .
+
+<https://www.sompo-museum.org/data/document/0+7148+8043+4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Christie's Review of the Season 1987" .
+
+<https://www.sompo-museum.org/data/document/0007+6287/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Burlington Magazine" .
+
+<https://www.sompo-museum.org/data/document/90+400+94101/author> a ns1:E21_Person ;
+    rdfs:label "Roland Dorn" .
+
+<https://www.sompo-museum.org/data/document/90+400+94101/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Museum Journal",
+        "Van Gogh's Sunflowers series: the fifth toile de 30" .
+
+<https://www.sompo-museum.org/data/document/90+6987+030+4/author> a ns1:E21_Person ;
+    rdfs:label "Louis van Tilborgh, Ella Hendriks" .
+
+<https://www.sompo-museum.org/data/document/90+6987+030+4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Tokyo Sunflowers: a genuin repetition by Van Gogh or a Schuffenecker forgery?",
+        "Van Gogh Museum Journal" .
+
+<https://www.sompo-museum.org/data/document/978+0+7112+3298+3/author> a ns1:E21_Person ;
+    rdfs:label "Martin Bailey" .
+
+<https://www.sompo-museum.org/data/document/978+0+7112+3298+3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Sunflowers are Mine, The Story of Van Gogh's Masterpiece" .
+
+<https://www.sompo-museum.org/data/document/LO-157/1/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://www.sompo-museum.org/data/document/LO-157/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://www.sompo-museum.org/data/document/LO-157/2/author> a ns1:E21_Person ;
+    rdfs:label "Ronald Pickvance" .
+
+<https://www.sompo-museum.org/data/document/LO-157/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh's Sunflowers" .
+
+<https://www.sompo-museum.org/data/document/LO-157/3/author> a ns1:E21_Person ;
+    rdfs:label "Bogomila Welsh-Ovcharov" .
+
+<https://www.sompo-museum.org/data/document/LO-157/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The ownership of Vincent van Gogh's 'Sunflowers'" .
+
+<https://www.sompo-museum.org/data/document/LO-157/6/author> a ns1:E21_Person ;
+    rdfs:label "Douglas W. Druick, Peter Kort Zegers" .
+
+<https://www.sompo-museum.org/data/exhibition/500275558/2002-02-09/2002-06-02/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Gauguin, Studio of the South" .
+
+<https://www.sompo-museum.org/data/exhibition/500275558/2002-02-09/2002-06-02/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2002-02-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2002-06-02"^^xsd:date .
+
+<https://www.sompo-museum.org/data/exhibition/500301795/1910-11-08/1911-01-16/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Manet and the Post -Impressionists" .
+
+<https://www.sompo-museum.org/data/exhibition/500301795/1910-11-08/1911-01-16/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1910-11-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1911-01-16"^^xsd:date .
+
+<https://www.sompo-museum.org/data/exhibition/500304669/2001-09-22/2002-01-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Gauguin, Studio of the South" .
+
+<https://www.sompo-museum.org/data/exhibition/500304669/2001-09-22/2002-01-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2001-09-22"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2002-01-13"^^xsd:date .
+
+<https://www.sompo-museum.org/data/exhibition/500434185/1901-03-15/1901-03-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://www.sompo-museum.org/data/exhibition/500434185/1901-03-15/1901-03-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1901-03-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1901-03-31"^^xsd:date .
+
+<https://www.sompo-museum.org/data/identifier/F457> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F457" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.sompo-museum.org/data/identifier/JH1666> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1666" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.sompo-museum.org/data/identifier/LO-175> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "LO-175" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty+Jr./1968-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.sompo-museum.org/data/actor/Alfred+Chester+Beatty+Jr.> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty+Jr./1968-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1968-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1983-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty/1952-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500314050> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Alfred+Chester+Beatty/1952-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1952-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1968-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Amed%C3%A9e+Schuffenecker/1903-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://rkd.nl/explore/artists/494462> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Amed%C3%A9e+Schuffenecker/1903-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1903-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1908-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Edith+Beatty/1935-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500444453> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Edith+Beatty/1935-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1935-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1952-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Emile+Schuffenecker/1894-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500013470> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Emile+Schuffenecker/1894-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1894-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1903-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Galerie+Druet/1908-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500310292> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Galerie+Druet/1908-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1908-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1910-09-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Galerie+Paul+Rosenberg/1934-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500310368> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Galerie+Paul+Rosenberg/1934-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1934-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1935-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Helen+Chester+Beatty/1983-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.sompo-museum.org/data/actor/Helen+Chester+Beatty> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Helen+Chester+Beatty/1983-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1983-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Jo+Bonger%2C+Bussum/1891-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500073337> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Jo+Bonger%2C+Bussum/1891-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1891-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1894-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Paul+von+Mendelssohn-Bartholdy/1910-09-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.sompo-museum.org/data/actor/Paul+von+Mendelssohn-Bartholdy> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Paul+von+Mendelssohn-Bartholdy/1910-09-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1910-09-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1934-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Theo+van+Gogh/1889-05-02/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500339434> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Theo+van+Gogh/1889-05-02/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1889-05-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1891-01-01"^^xsd:date .
+
+<https://www.sompo-museum.org/data/provenance/Yasuda+Fire+%26+Marine%2FSompo+Japan+Insurance+Inc.%28Sompo+Museum+of+Art%29/1987-03-30/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500309728> ;
+    ns1:P24_transferred_title_of <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+<https://www.sompo-museum.org/data/provenance/Yasuda+Fire+%26+Marine%2FSompo+Japan+Insurance+Inc.%28Sompo+Museum+of+Art%29/1987-03-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1987-03-30"^^xsd:date .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300215390> a ns1:E55_Type ;
+    rdfs:label "journal" .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300417644> a ns1:E55_Type ;
+    rdfs:label "Transfer" .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/7013596> a ns1:E53_Place ;
+    rdfs:label "Chicago" .
+
+<http://vocab.getty.edu/ulan/500013470> a ns1:E39_Actor ;
+    rdfs:label "Emile Schuffenecker" .
+
+<http://vocab.getty.edu/ulan/500073337> a ns1:E39_Actor ;
+    rdfs:label "Jo Bonger, Bussum" .
+
+<http://vocab.getty.edu/ulan/500310292> a ns1:E39_Actor ;
+    rdfs:label "Galerie Druet" .
+
+<http://vocab.getty.edu/ulan/500310368> a ns1:E39_Actor ;
+    rdfs:label "Galerie Paul Rosenberg" .
+
+<http://vocab.getty.edu/ulan/500314050> a ns1:E39_Actor ;
+    rdfs:label "Alfred Chester Beatty" .
+
+<http://vocab.getty.edu/ulan/500339434> a ns1:E39_Actor ;
+    rdfs:label "Theo van Gogh" .
+
+<http://vocab.getty.edu/ulan/500444453> a ns1:E39_Actor ;
+    rdfs:label "Edith Beatty" .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://rkd.nl/explore/artists/494462> a ns1:E39_Actor ;
+    rdfs:label "Amedée Schuffenecker" .
+
+<https://viaf.org/viaf/154316680/#Van_Gogh_museum_Amsterdam> a ns1:E74_Group ;
+    rdfs:label "van gogh museum" .
+
+<https://www.sompo-museum.org/data/actor/Alfred+Chester+Beatty+Jr.> a ns1:E39_Actor ;
+    rdfs:label "Alfred Chester Beatty Jr." .
+
+<https://www.sompo-museum.org/data/actor/Helen+Chester+Beatty> a ns1:E39_Actor ;
+    rdfs:label "Helen Chester Beatty" .
+
+<https://www.sompo-museum.org/data/actor/Paul+von+Mendelssohn-Bartholdy> a ns1:E39_Actor ;
+    rdfs:label "Paul von Mendelssohn-Bartholdy" .
+
+<https://www.sompo-museum.org/data/document/90+400+94101/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-157> .
+
+<https://www.sompo-museum.org/data/document/90+6987+030+4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-157> .
+
+<https://www.sompo-museum.org/data/document/978+0+7112+3298+3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/978+0+7112+3298+3/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "978 0 7112 3298 3" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://www.sompo-museum.org/data/document/978+0+7112+3298+3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<https://www.sompo-museum.org/data/document/978+0+7112+3298+3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-157> .
+
+<https://www.sompo-museum.org/data/document/LO-157/2/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-157> .
+
+<https://www.sompo-museum.org/data/document/LO-157/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-157> .
+
+<https://www.sompo-museum.org/data/document/LO-157/6> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/LO-157/6/part> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://www.sompo-museum.org/data/document/LO-157/6/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-157> .
+
+<http://vocab.getty.edu/aat/300026657> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300417430> a ns1:E55_Type ;
+    rdfs:label "ISSN" .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://vocab.getty.edu/ulan/500309728> a ns1:E39_Actor ;
+    rdfs:label "Sompo Japan Insurance Inc.(Sompo Musum of Art)",
+        "Yasuda Fire & Marine/Sompo Japan Insurance Inc.(Sompo Museum of Art)" .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<https://www.sompo-museum.org/data/document/90+400+94101> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/90+400+94101>,
+        <https://www.sompo-museum.org/data/document/90+400+94101/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "90 400 94101" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "90 400 94101" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> ],
+        <https://www.sompo-museum.org/data/document/90+400+94101/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657>,
+        <http://vocab.getty.edu/aat/300215390> .
+
+<https://www.sompo-museum.org/data/document/90+6987+030+4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/90+6987+030+4>,
+        <https://www.sompo-museum.org/data/document/90+6987+030+4/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "90 6987 030 4" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "90 6987 030 4" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> ],
+        <https://www.sompo-museum.org/data/document/90+6987+030+4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657>,
+        <http://vocab.getty.edu/aat/300215390> .
+
+<https://www.sompo-museum.org/data/document/LO-157/1> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/document/LO-157/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-157> .
+
+<https://www.sompo-museum.org/data/document/LO-157/2> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/LO-157/2/part> ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/document/LO-157/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<https://www.sompo-museum.org/data/document/LO-157/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.sompo-museum.org/data/document/LO-157/3/part> ;
+    ns1:P1_is_identified_by <https://www.sompo-museum.org/data/document/LO-157/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026642> .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "ISBN" .
+
+<http://vocab.getty.edu/aat/300417641> a ns1:E55_Type ;
+    rdfs:label "bequest" .
+
+<http://vocab.getty.edu/tgn/7011781> a ns1:E53_Place ;
+    rdfs:label "London" .
+
+<http://vocab.getty.edu/aat/300028051> a ns1:E55_Type ;
+    rdfs:label "book" .
+
+ns1:E74_Group a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417642> a ns1:E55_Type ;
+    rdfs:label "purchase" .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+<https://www.sompo-museum.org/data/artwork/LO-157> a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<https://www.sompo-museum.org/data/artwork/LO-175> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Sunflowers" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.sompo-museum.org/data/identifier/F457>,
+        <https://www.sompo-museum.org/data/identifier/JH1666>,
+        <https://www.sompo-museum.org/data/identifier/LO-175> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 100.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 76.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500309728> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015638> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F457> .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.27" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/document/LO-157/2/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.184-192" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/document/LO-157/3/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "99.17-43" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/document/90+6987+030+4/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.241" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/document/LO-157/6/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on jute" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/artwork/LO-175> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.43-57" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/document/90+400+94101/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.167-177" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.sompo-museum.org/data/document/978+0+7112+3298+3/part> .
+

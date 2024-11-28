@@ -1,0 +1,262 @@
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4a4c4a707f24a9dbbf61e16d87f966fb> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-0452689579b64a5b2d65395fc5be1596> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007856>,
+        <http://vocab.getty.edu/tgn/7008038> .
+
+<https://vangoghworldwide.org/data/period/arles-1888> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-5fc36df9a9728e8899a5a0f6cb732a9b> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d87a16cbc30346b377a370bdca72fb7d> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775>,
+        <http://vocab.getty.edu/tgn/7008783>,
+        <http://vocab.getty.edu/tgn/7008792> .
+
+<https://vangoghworldwide.org/data/period/auvers-sur-oise-1890> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-11cf68503e975020365274b693699e50> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-64d3fccfa675f95e31190d5d5ea47554> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008030> .
+
+<https://vangoghworldwide.org/data/period/brussel-1878> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-025ca8a763299879a1661cfa015876a3> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-369d35815282340cf8c493989d6e197a> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1026382>,
+        <http://vocab.getty.edu/tgn/4012066>,
+        <http://vocab.getty.edu/tgn/7007868> .
+
+<https://vangoghworldwide.org/data/period/den_haag-1881> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d42411c54e964ab2f516dc7cb46b68b6> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4816f5a5c2030248fa3186c11c4a5334> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006810> .
+
+<https://vangoghworldwide.org/data/period/drenthe-1883> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-1f2944b26897c485e770fff4a0921d7e> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-125dc7bb24bc1fe02838da603b931d40> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1047858>,
+        <http://vocab.getty.edu/tgn/1047973>,
+        <http://vocab.getty.edu/tgn/7003614> .
+
+<https://vangoghworldwide.org/data/period/early_period> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2663e3ba89aa6eb4c1f46c98f35ff431> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59c91320afde970cebf7346821382e15> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1047843>,
+        <http://vocab.getty.edu/tgn/7006798>,
+        <http://vocab.getty.edu/tgn/7006952>,
+        <http://vocab.getty.edu/tgn/7011562>,
+        <http://vocab.getty.edu/tgn/7011781>,
+        <http://vocab.getty.edu/tgn/7012090>,
+        <http://vocab.getty.edu/tgn/7016995>,
+        <http://vocab.getty.edu/tgn/7027263> .
+
+<https://vangoghworldwide.org/data/period/etten-1881> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-db455fe0812b0db5166d822326d1e2d6> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2a7906f336812fb8054f97dd02fb9481> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006824> .
+
+<https://vangoghworldwide.org/data/period/nuenen-1883> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-ebbfb7d77ed064aecd155bd261039dee> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-c747279a78fb77bd752121d4f436b7c9> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835>,
+        <http://vocab.getty.edu/tgn/7006842> .
+
+<https://vangoghworldwide.org/data/period/saint-remy-1889> a ns1:E7_Activity ;
+    rdfs:label "Period in the life of Vincent van Gogh" ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P1_is_identified_by <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59f9fbb9e7d6e5195ecf52e608921919> ;
+    ns1:P4_has_time-span <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-17ec90f83348063d8fe9e0af1a0f262b> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009654> .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-025ca8a763299879a1661cfa015876a3> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Borinage/Brussels (1878 - 81)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-0452689579b64a5b2d65395fc5be1596> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1885-11-24"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1888-02-19"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-11cf68503e975020365274b693699e50> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Auvers-sur-Oise (1890)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-125dc7bb24bc1fe02838da603b931d40> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1883-09-11"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1883-12-04"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-17ec90f83348063d8fe9e0af1a0f262b> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1889-05-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1890-05-16"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-1f2944b26897c485e770fff4a0921d7e> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drenthe (1883)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2663e3ba89aa6eb4c1f46c98f35ff431> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Early period (- 1878)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2a7906f336812fb8054f97dd02fb9481> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1881-04-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1881-09-11"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-369d35815282340cf8c493989d6e197a> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1878-05-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1881-04-11"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4816f5a5c2030248fa3186c11c4a5334> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1881-11-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1883-09-11"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4a4c4a707f24a9dbbf61e16d87f966fb> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Antwerp/Paris (1885 - 88)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59c91320afde970cebf7346821382e15> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1860-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1878-04-30"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59f9fbb9e7d6e5195ecf52e608921919> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Saint-Rémy (1889 - 90)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-5fc36df9a9728e8899a5a0f6cb732a9b> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Arles (1888 - 89)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-64d3fccfa675f95e31190d5d5ea47554> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1890-05-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1890-07-29"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-c747279a78fb77bd752121d4f436b7c9> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1883-12-05"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1885-11-24"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d42411c54e964ab2f516dc7cb46b68b6> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Hague (1881 - 83)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d87a16cbc30346b377a370bdca72fb7d> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1888-02-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1889-05-08"^^xsd:date .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-db455fe0812b0db5166d822326d1e2d6> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Etten (1881)" .
+
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-ebbfb7d77ed064aecd155bd261039dee> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Nuenen (1883 - 85)" .
+
+<http://vocab.getty.edu/tgn/1026382> a rdfs:Resource ;
+    rdfs:label "Cuesmes" .
+
+<http://vocab.getty.edu/tgn/1047843> a rdfs:Resource ;
+    rdfs:label "Helvoirt" .
+
+<http://vocab.getty.edu/tgn/1047858> a rdfs:Resource ;
+    rdfs:label "Hoogeveen" .
+
+<http://vocab.getty.edu/tgn/1047973> a rdfs:Resource ;
+    rdfs:label "Nieuw-Amsterdam" .
+
+<http://vocab.getty.edu/tgn/4012066> a rdfs:Resource ;
+    rdfs:label "Wasmes" .
+
+<http://vocab.getty.edu/tgn/7003614> a rdfs:Resource ;
+    rdfs:label "Drenthe" .
+
+<http://vocab.getty.edu/tgn/7006798> a rdfs:Resource ;
+    rdfs:label "Dordrecht" .
+
+<http://vocab.getty.edu/tgn/7006810> a rdfs:Resource ;
+    rdfs:label "Den Haag" .
+
+<http://vocab.getty.edu/tgn/7006824> a rdfs:Resource ;
+    rdfs:label "Etten" .
+
+<http://vocab.getty.edu/tgn/7006835> a rdfs:Resource ;
+    rdfs:label "Nuenen" .
+
+<http://vocab.getty.edu/tgn/7006842> a rdfs:Resource ;
+    rdfs:label "Eindhoven" .
+
+<http://vocab.getty.edu/tgn/7006952> a rdfs:Resource ;
+    rdfs:label "Amsterdam" .
+
+<http://vocab.getty.edu/tgn/7007856> a rdfs:Resource ;
+    rdfs:label "Antwerp" .
+
+<http://vocab.getty.edu/tgn/7007868> a rdfs:Resource ;
+    rdfs:label "Brussel" .
+
+<http://vocab.getty.edu/tgn/7008030> a rdfs:Resource ;
+    rdfs:label "Auvers-sur-Oise" .
+
+<http://vocab.getty.edu/tgn/7008038> a rdfs:Resource ;
+    rdfs:label "Paris" .
+
+<http://vocab.getty.edu/tgn/7008775> a rdfs:Resource ;
+    rdfs:label "Arles" .
+
+<http://vocab.getty.edu/tgn/7008783> a rdfs:Resource ;
+    rdfs:label "Montmajour" .
+
+<http://vocab.getty.edu/tgn/7008792> a rdfs:Resource ;
+    rdfs:label "Les-Saintes-Maries-de-la-Mer" .
+
+<http://vocab.getty.edu/tgn/7009654> a rdfs:Resource ;
+    rdfs:label "Saint-Rémy" .
+
+<http://vocab.getty.edu/tgn/7011562> a rdfs:Resource ;
+    rdfs:label "Ramsgate" .
+
+<http://vocab.getty.edu/tgn/7011781> a rdfs:Resource ;
+    rdfs:label "London" .
+
+<http://vocab.getty.edu/tgn/7012090> a rdfs:Resource ;
+    rdfs:label "Isleworth" .
+
+<http://vocab.getty.edu/tgn/7016995> a rdfs:Resource ;
+    rdfs:label "Laken" .
+
+<http://vocab.getty.edu/tgn/7027263> a rdfs:Resource ;
+    rdfs:label "Welwyn" .
+
+<http://vocab.getty.edu/ulan/500115588> a rdfs:Resource ;
+    rdfs:label "Vincent van Gogh" .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+

@@ -1,0 +1,2518 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://collection.imamuseum.org/data/artwork/44.74/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of Mrs. James W. Fesler in memory of Daniel W. and Elizabeth C. Marmon" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/artwork/44.74/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "finished early October 1889" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1889-10-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1889-10-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009654> .
+
+<http://collection.imamuseum.org/data/document/44.74/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/1/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/1> .
+
+<http://collection.imamuseum.org/data/document/44.74/1/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/1/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1905-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<http://collection.imamuseum.org/data/document/44.74/10/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/10/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/10> .
+
+<http://collection.imamuseum.org/data/document/44.74/10/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/10/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/10> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1940-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1940-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/11/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/11/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/11> .
+
+<http://collection.imamuseum.org/data/document/44.74/11/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/11/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1942-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1942-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/12/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/12/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/12> .
+
+<http://collection.imamuseum.org/data/document/44.74/12/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/12/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/12> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1943-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1943-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/13/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/13/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/13> .
+
+<http://collection.imamuseum.org/data/document/44.74/13/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500444007> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/13/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1944-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1944-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/14/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/14/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/14> .
+
+<http://collection.imamuseum.org/data/document/44.74/14/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500306739> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/14/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1944-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1944-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013547> .
+
+<http://collection.imamuseum.org/data/document/44.74/15/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/15/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/15> .
+
+<http://collection.imamuseum.org/data/document/44.74/15/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/15/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/15> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1948-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1948-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/16/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/16/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/16> .
+
+<http://collection.imamuseum.org/data/document/44.74/16/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/16/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/16> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1951-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1951-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/17/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500218573> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/17> .
+
+<http://collection.imamuseum.org/data/document/44.74/17/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500218573> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/17> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1958-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1958-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7002883> .
+
+<http://collection.imamuseum.org/data/document/44.74/18/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/18/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/18> .
+
+<http://collection.imamuseum.org/data/document/44.74/18/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/18> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/19/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/19/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/19> .
+
+<http://collection.imamuseum.org/data/document/44.74/19/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/19/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/19> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<http://collection.imamuseum.org/data/document/44.74/2/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/2> .
+
+<http://collection.imamuseum.org/data/document/44.74/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500327786> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1911-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1911-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7002883> .
+
+<http://collection.imamuseum.org/data/document/44.74/20/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/20/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/20> .
+
+<http://collection.imamuseum.org/data/document/44.74/20/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/20> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1980-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1980-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/21/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/21/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/21> .
+
+<http://collection.imamuseum.org/data/document/44.74/21/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/21> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1981-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1981-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/22/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/22/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/22> .
+
+<http://collection.imamuseum.org/data/document/44.74/22/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/22/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1982-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1982-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/23/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/23/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/23> .
+
+<http://collection.imamuseum.org/data/document/44.74/23/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125157> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/23> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1985-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1985-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/24/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/24/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/24> .
+
+<http://collection.imamuseum.org/data/document/44.74/24/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/24/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/24> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1986-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1986-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1002366> .
+
+<http://collection.imamuseum.org/data/document/44.74/25/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/25/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/25> .
+
+<http://collection.imamuseum.org/data/document/44.74/25/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/25> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1988-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1988-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/26/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/26/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/26> .
+
+<http://collection.imamuseum.org/data/document/44.74/26/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/476089> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/26> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1988-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1988-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7274566> .
+
+<http://collection.imamuseum.org/data/document/44.74/27/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/27/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/27> .
+
+<http://collection.imamuseum.org/data/document/44.74/27/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/27> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1989-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1989-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<http://collection.imamuseum.org/data/document/44.74/28/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/28/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/28> .
+
+<http://collection.imamuseum.org/data/document/44.74/28/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/28/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/28> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/29/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/29/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/29> .
+
+<http://collection.imamuseum.org/data/document/44.74/29/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/29/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/29> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1994-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1994-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005108> .
+
+<http://collection.imamuseum.org/data/document/44.74/3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500214312> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/3> .
+
+<http://collection.imamuseum.org/data/document/44.74/3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500214312> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/3/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1927-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1927-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1003127> .
+
+<http://collection.imamuseum.org/data/document/44.74/30/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/30/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/30> .
+
+<http://collection.imamuseum.org/data/document/44.74/30/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/30/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/30> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1994-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1994-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/31/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/31/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/31> .
+
+<http://collection.imamuseum.org/data/document/44.74/31/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500313006> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/31> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1995-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1995-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/32/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/32/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/32> .
+
+<http://collection.imamuseum.org/data/document/44.74/32/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/32/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/32> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<http://collection.imamuseum.org/data/document/44.74/33/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/33/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/33> .
+
+<http://collection.imamuseum.org/data/document/44.74/33/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500237751> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/33> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1997-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1997-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004446> .
+
+<http://collection.imamuseum.org/data/document/44.74/34/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/34/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/34> .
+
+<http://collection.imamuseum.org/data/document/44.74/34/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/34/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/34> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1998-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://collection.imamuseum.org/data/document/44.74/34/place> .
+
+<http://collection.imamuseum.org/data/document/44.74/35/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/35/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/35> .
+
+<http://collection.imamuseum.org/data/document/44.74/35/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500310800> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/35> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1998-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7002883> .
+
+<http://collection.imamuseum.org/data/document/44.74/36/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/36/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/36> .
+
+<http://collection.imamuseum.org/data/document/44.74/36/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/36/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/36> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1999-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1999-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1002366> .
+
+<http://collection.imamuseum.org/data/document/44.74/37/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/37/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/37> .
+
+<http://collection.imamuseum.org/data/document/44.74/37/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/37/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/37> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013304> .
+
+<http://collection.imamuseum.org/data/document/44.74/38/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/38/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/38> .
+
+<http://collection.imamuseum.org/data/document/44.74/38/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500305639> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/38> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005286> .
+
+<http://collection.imamuseum.org/data/document/44.74/39/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/39/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/39> .
+
+<http://collection.imamuseum.org/data/document/44.74/39/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500235923> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/39> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2003-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2003-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006900> .
+
+<http://collection.imamuseum.org/data/document/44.74/4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/4> .
+
+<http://collection.imamuseum.org/data/document/44.74/4/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/4/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7002883> .
+
+<http://collection.imamuseum.org/data/document/44.74/40/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/40/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/40> .
+
+<http://collection.imamuseum.org/data/document/44.74/40/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245395> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/40> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2003-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2003-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014378> .
+
+<http://collection.imamuseum.org/data/document/44.74/41/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/41/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/41> .
+
+<http://collection.imamuseum.org/data/document/44.74/41/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/41> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2005-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2005-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/42/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/42/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/42> .
+
+<http://collection.imamuseum.org/data/document/44.74/42/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/42/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/42> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2007-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2007-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/document/44.74/43/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/43/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/43> .
+
+<http://collection.imamuseum.org/data/document/44.74/43/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/43/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/43> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2009-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2009-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011798> .
+
+<http://collection.imamuseum.org/data/document/44.74/44/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/44/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/44> .
+
+<http://collection.imamuseum.org/data/document/44.74/44/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115632> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/44> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011798> .
+
+<http://collection.imamuseum.org/data/document/44.74/45/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/45/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/45> .
+
+<http://collection.imamuseum.org/data/document/44.74/45/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125194> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/45> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2015-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2015-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014630> .
+
+<http://collection.imamuseum.org/data/document/44.74/46/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/46/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/46> .
+
+<http://collection.imamuseum.org/data/document/44.74/46/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/46> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2017-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2017-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/document/44.74/5/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/5> .
+
+<http://collection.imamuseum.org/data/document/44.74/5/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/5/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1929-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1929-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011798> .
+
+<http://collection.imamuseum.org/data/document/44.74/6/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/6/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/6> .
+
+<http://collection.imamuseum.org/data/document/44.74/6/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/6/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1932-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1932-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003627> .
+
+<http://collection.imamuseum.org/data/document/44.74/7/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/7/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/7> .
+
+<http://collection.imamuseum.org/data/document/44.74/7/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/7/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/7/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1932-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1932-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<http://collection.imamuseum.org/data/document/44.74/8/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/8/author> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/8> .
+
+<http://collection.imamuseum.org/data/document/44.74/8/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/8/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1938-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1938-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011798> .
+
+<http://collection.imamuseum.org/data/document/44.74/9/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <http://collection.imamuseum.org/data/document/44.74/9> .
+
+<http://collection.imamuseum.org/data/document/44.74/9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/document/44.74/9/publisher> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/document/44.74/9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1939-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1939-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7002883> .
+
+<http://collection.imamuseum.org/data/exhibition/439154/1927-01-09/1927-02-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/439154> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/439154/1927-01-09/1927-02-15/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/439154/1927-01-09/1927-02-15/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<http://collection.imamuseum.org/data/exhibition/500115632/2010-01-23/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115632> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500115632/2010-01-23/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500115632/2010-01-23/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011798> .
+
+<http://collection.imamuseum.org/data/exhibition/500125157/1986-10-27/1987-03-22> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125157> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500125157/1986-10-27/1987-03-22/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500125157/1986-10-27/1987-03-22/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/exhibition/500125194/2015-06-14/2015-09-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125194> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500125194/2015-06-14/2015-09-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500125194/2015-06-14/2015-09-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014630> .
+
+<http://collection.imamuseum.org/data/exhibition/500125792/1921-01-01/1921-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125792> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500125792/1921-01-01/1921-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500125792/1921-01-01/1921-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<http://collection.imamuseum.org/data/exhibition/500213367/2021-10-17/2022-02-06> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500213367> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500213367/2021-10-17/2022-02-06/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500213367/2021-10-17/2022-02-06/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013503> .
+
+<http://collection.imamuseum.org/data/exhibition/500245395/2003-02-21/2003-02-21> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245395> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500245395/2003-02-21/2003-02-21/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500245395/2003-02-21/2003-02-21/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014378> .
+
+<http://collection.imamuseum.org/data/exhibition/500275558/1990-03-30/1990-07-29> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500275558/1990-03-30/1990-07-29/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500275558/1990-03-30/1990-07-29/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1961-11-15/1961-12-17> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500300517/1961-11-15/1961-12-17/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500300517/1961-11-15/1961-12-17/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1976-08-04/1976-10-10> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500300517/1976-08-04/1976-10-10/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500300517/1976-08-04/1976-10-10/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1995-02-09/1995-10-29> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500300517/1995-02-09/1995-10-29/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500300517/1995-02-09/1995-10-29/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/2002-01-15/2002-06-09> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500300517/2002-01-15/2002-06-09/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500300517/2002-01-15/2002-06-09/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/2022-02-10/2022-05-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500300517/2022-02-10/2022-05-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500300517/2022-02-10/2022-05-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7012924> .
+
+<http://collection.imamuseum.org/data/exhibition/500303622/2007-09-28/2008-01-06> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303622> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500303622/2007-09-28/2008-01-06/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500303622/2007-09-28/2008-01-06/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/exhibition/500304375/1943-10-06/1943-11-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304375> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500304375/1943-10-06/1943-11-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500304375/1943-10-06/1943-11-07/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/exhibition/500306982/1942-09-18/1942-10-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500306982> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500306982/1942-09-18/1942-10-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500306982/1942-09-18/1942-10-18/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7016099> .
+
+<http://collection.imamuseum.org/data/exhibition/500310001/1998-09-17/1999-01-03> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500310001> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500310001/1998-09-17/1999-01-03/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500310001/1998-09-17/1999-01-03/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7002883> .
+
+<http://collection.imamuseum.org/data/exhibition/500311791/1942-10-28/1942-11-28> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500311791> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/500311791/1942-10-28/1942-11-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/500311791/1942-10-28/1942-11-28/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014647> .
+
+<http://collection.imamuseum.org/data/exhibition/organisation/1940-01-01/1940-01-01> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/exhibition/organisation/1940-01-01/1940-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/exhibition/organisation/1940-01-01/1940-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://collection.imamuseum.org/data/provenance/Caroline+Marmon+Fesler/1944-04-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500445025> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Caroline+Marmon+Fesler/1944-04-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Caroline+Marmon+Fesler/1944-04-01/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani/1917-08-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/actor/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300444188> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani/1917-08-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani/1917-08-01/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/Johanna+van+Gogh-Bonger/1891-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500073337> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300444188> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Johanna+van+Gogh-Bonger/1891-01-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Johanna+van+Gogh-Bonger/1891-01-01/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/John+Herron+Art+Institute+%28later+became+Indianapolis+Museum+of+Art+at+Newfields%29/16208-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500444007> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417637> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/John+Herron+Art+Institute+%28later+became+Indianapolis+Museum+of+Art+at+Newfields%29/16208-01-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/John+Herron+Art+Institute+%28later+became+Indianapolis+Museum+of+Art+at+Newfields%29/16208-01-01/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/Paul+Cassirer/1905-04-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500315529> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Paul+Cassirer/1905-04-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Paul+Cassirer/1905-04-01/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/Robert+von+Mendelssohn/1905-05-09> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/actor/Robert+von+Mendelssohn> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Robert+von+Mendelssohn/1905-05-09/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Robert+von+Mendelssohn/1905-05-09/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/Seligman%2C+Rey+%26+Co.+%28likely+in+conjunction+with+Justin+Thannhauser%29/1940-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500434840> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417650> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Seligman%2C+Rey+%26+Co.+%28likely+in+conjunction+with+Justin+Thannhauser%29/1940-01-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Seligman%2C+Rey+%26+Co.+%28likely+in+conjunction+with+Justin+Thannhauser%29/1940-01-01/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/Theo+van+Gogh/1890-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500339434> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300444188> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Theo+van+Gogh/1890-01-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Theo+van+Gogh/1890-01-01/acquisition> .
+
+<http://collection.imamuseum.org/data/technical/44.74/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://collection.imamuseum.org/data/technical/44.74/1> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300266009> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1986-08-18"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1986-10-03"^^xsd:date ] .
+
+<http://collection.imamuseum.org/data/technical/44.74/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://collection.imamuseum.org/data/technical/44.74/2> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300266009> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1986-08-18"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1986-10-03"^^xsd:date ] .
+
+<http://collection.imamuseum.org/data/technical/44.74/3/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://collection.imamuseum.org/data/technical/44.74/3> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300266009> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1986-08-18"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1986-10-03"^^xsd:date ] .
+
+<http://collection.imamuseum.org/data/technical/44.74/4/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://collection.imamuseum.org/data/technical/44.74/4> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300387591> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-02-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-02-01"^^xsd:date ] .
+
+<http://collection.imamuseum.org/data/technical/44.74/5/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://collection.imamuseum.org/data/technical/44.74/5> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300387591> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-02-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-02-01"^^xsd:date ] .
+
+<http://collection.imamuseum.org/data/technical/44.74/6/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://collection.imamuseum.org/data/technical/44.74/6> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300387591> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-02-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-02-01"^^xsd:date ] .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770885> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://collection.imamuseum.org/data/artwork/44.74> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://collection.imamuseum.org/data/document/44.74/1/author> a ns1:E21_Person ;
+    rdfs:label "Cassirer, Bruno" .
+
+<http://collection.imamuseum.org/data/document/44.74/1/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/1> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/1/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<http://collection.imamuseum.org/data/document/44.74/1/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Kunst und Künstler (vol. 3, no. 5 (February 1905))" .
+
+<http://collection.imamuseum.org/data/document/44.74/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Aus der Correspondenz Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/10/author> a ns1:E21_Person ;
+    rdfs:label "Pach, Walter et al." .
+
+<http://collection.imamuseum.org/data/document/44.74/10/publisher> a ns1:E74_Group ;
+    rdfs:label "Art Aid Corporation" .
+
+<http://collection.imamuseum.org/data/document/44.74/10/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalogue of European & American Paintings" .
+
+<http://collection.imamuseum.org/data/document/44.74/11/author> a ns1:E21_Person ;
+    rdfs:label "Loon, Hendrik Willem von" .
+
+<http://collection.imamuseum.org/data/document/44.74/11/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/11> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/11/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<http://collection.imamuseum.org/data/document/44.74/11/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Art News (October 1942)" .
+
+<http://collection.imamuseum.org/data/document/44.74/11/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh in Baltimore and Worcester" .
+
+<http://collection.imamuseum.org/data/document/44.74/12/author> a ns1:E21_Person ;
+    rdfs:label "Batz, George de" .
+
+<http://collection.imamuseum.org/data/document/44.74/12/publisher> a ns1:E74_Group ;
+    rdfs:label "Wildenstein" .
+
+<http://collection.imamuseum.org/data/document/44.74/12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Art and Life of Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/13/author> a ns1:E21_Person ;
+    rdfs:label "Stillson, Blanche" .
+
+<http://collection.imamuseum.org/data/document/44.74/13/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/13> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/13/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<http://collection.imamuseum.org/data/document/44.74/13/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Bulletin (vol. XXXI, no. 2 (October 1944))" .
+
+<http://collection.imamuseum.org/data/document/44.74/13/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Landscape at Saint-Remy by Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/14/author> a ns1:E21_Person ;
+    rdfs:label "Valentiner, W.R. ; Richardson, E.P., eds." .
+
+<http://collection.imamuseum.org/data/document/44.74/14/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/14> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/14/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<http://collection.imamuseum.org/data/document/44.74/14/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Art Quarterly (vol. VII, no. 4 (Autumn 1944))" .
+
+<http://collection.imamuseum.org/data/document/44.74/14/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Recent Acquisitions: the Landscape at Saint-Rémy by Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/15/author> a ns1:E21_Person ;
+    rdfs:label "Stillson, Blanche" .
+
+<http://collection.imamuseum.org/data/document/44.74/15/publisher> a ns1:E74_Group ;
+    rdfs:label "Art Association of Indianapolis" .
+
+<http://collection.imamuseum.org/data/document/44.74/15/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Marmon Memorial Collection of Paintings" .
+
+<http://collection.imamuseum.org/data/document/44.74/16/author> a ns1:E21_Person ;
+    rdfs:label "Art Association of Indianapolis" .
+
+<http://collection.imamuseum.org/data/document/44.74/16/publisher> a ns1:E74_Group ;
+    rdfs:label "Art Association of Indianapolis" .
+
+<http://collection.imamuseum.org/data/document/44.74/16/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "105 Paintings in the John Herron Art Museum" .
+
+<http://collection.imamuseum.org/data/document/44.74/17/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalogue of Colour Reproductions of Paintings 1860 to Today" .
+
+<http://collection.imamuseum.org/data/document/44.74/18/author> a ns1:E21_Person ;
+    rdfs:label "Miller, Dwight C." .
+
+<http://collection.imamuseum.org/data/document/44.74/18/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Catalogue of European Paintings" .
+
+<http://collection.imamuseum.org/data/document/44.74/19/author> a ns1:E21_Person ;
+    rdfs:label "Faille, Jacob Baart de la" .
+
+<http://collection.imamuseum.org/data/document/44.74/19/publisher> a ns1:E74_Group ;
+    rdfs:label "Meulenhoff International" .
+
+<http://collection.imamuseum.org/data/document/44.74/19/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Works of Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Lettres de Vincent van Gogh à Émile Bernard" .
+
+<http://collection.imamuseum.org/data/document/44.74/20/author> a ns1:E21_Person ;
+    rdfs:label "Janson, Anthony F ; Fraser, Ian" .
+
+<http://collection.imamuseum.org/data/document/44.74/20/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "100 Masterpieces of Painting, Indianapolis Museum of Art" .
+
+<http://collection.imamuseum.org/data/document/44.74/21/author> a ns1:E21_Person ;
+    rdfs:label "Janson, Anthony F ; Fraser, Ian" .
+
+<http://collection.imamuseum.org/data/document/44.74/21/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Indianapolis Museum of Art Handbook of European and American Paintings to 1945" .
+
+<http://collection.imamuseum.org/data/document/44.74/22/author> a ns1:E21_Person ;
+    rdfs:label "Hammacher, Abraham Marie ; Hammacher-Van den Brande, Renilde" .
+
+<http://collection.imamuseum.org/data/document/44.74/22/publisher> a ns1:E74_Group ;
+    rdfs:label "Macmillan Publishing" .
+
+<http://collection.imamuseum.org/data/document/44.74/22/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, A Documentary Biography" .
+
+<http://collection.imamuseum.org/data/document/44.74/23/author> a ns1:E21_Person ;
+    rdfs:label "Pickvance, Ronald" .
+
+<http://collection.imamuseum.org/data/document/44.74/23/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in St. Rémy and Auvers" .
+
+<http://collection.imamuseum.org/data/document/44.74/24/author> a ns1:E21_Person ;
+    rdfs:label "Stein, Susan Alyson" .
+
+<http://collection.imamuseum.org/data/document/44.74/24/publisher> a ns1:E74_Group ;
+    rdfs:label "Hugh Lauter Levin Associates" .
+
+<http://collection.imamuseum.org/data/document/44.74/24/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: A Retrospective" .
+
+<http://collection.imamuseum.org/data/document/44.74/25/author> a ns1:E21_Person ;
+    rdfs:label "Day, Holliday T., ed." .
+
+<http://collection.imamuseum.org/data/document/44.74/25/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Indianapolis Museum of Art: Collections Handbook" .
+
+<http://collection.imamuseum.org/data/document/44.74/26/author> a ns1:E21_Person ;
+    rdfs:label "Feilchenfeldt, Walter" .
+
+<http://collection.imamuseum.org/data/document/44.74/26/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh & Paul Cassirer: The Reception of Van Gogh in Germany, 1901-1914" .
+
+<http://collection.imamuseum.org/data/document/44.74/27/author> a ns1:E21_Person ;
+    rdfs:label "Uitert, Evert van ; Tilborgh, Louis van ; Heugten, Sjraar van" .
+
+<http://collection.imamuseum.org/data/document/44.74/27/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh 1990" .
+
+<http://collection.imamuseum.org/data/document/44.74/28/author> a ns1:E21_Person ;
+    rdfs:label "Guillaud, Jacqueline ; Guilland, Maurice" .
+
+<http://collection.imamuseum.org/data/document/44.74/28/publisher> a ns1:E74_Group ;
+    rdfs:label "Crown Publishing/Clarkson Potter" .
+
+<http://collection.imamuseum.org/data/document/44.74/28/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: the Vertigo of Light" .
+
+<http://collection.imamuseum.org/data/document/44.74/29/author> a ns1:E21_Person ;
+    rdfs:label "Noll, Thomas" .
+
+<http://collection.imamuseum.org/data/document/44.74/29/publisher> a ns1:E74_Group ;
+    rdfs:label "Wernersche Verlagsgesellschaft" .
+
+<http://collection.imamuseum.org/data/document/44.74/29/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Der Grosse Sämann: Zur Sinnbildlichkeit in der Kunst von Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/3/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/3> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/3/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<http://collection.imamuseum.org/data/document/44.74/3/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Kunst und Dekoration (vol. XXX, no. 6 (March 1927))" .
+
+<http://collection.imamuseum.org/data/document/44.74/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Klassiker der Französischen Moderne" .
+
+<http://collection.imamuseum.org/data/document/44.74/30/author> a ns1:E21_Person ;
+    rdfs:label "Gruitrooy, Gerhard" .
+
+<http://collection.imamuseum.org/data/document/44.74/30/publisher> a ns1:E74_Group ;
+    rdfs:label "Smithmark" .
+
+<http://collection.imamuseum.org/data/document/44.74/30/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: An Appreciation of His Art" .
+
+<http://collection.imamuseum.org/data/document/44.74/31/author> a ns1:E21_Person ;
+    rdfs:label "Kostenevich, Albert G." .
+
+<http://collection.imamuseum.org/data/document/44.74/31/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Hidden Treasures Revealed" .
+
+<http://collection.imamuseum.org/data/document/44.74/32/author> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<http://collection.imamuseum.org/data/document/44.74/32/publisher> a ns1:E74_Group ;
+    rdfs:label "John Benjamins Publishing" .
+
+<http://collection.imamuseum.org/data/document/44.74/32/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The New Complete Van Gogh: Paintings, Drawings and Sketches" .
+
+<http://collection.imamuseum.org/data/document/44.74/33/author> a ns1:E21_Person ;
+    rdfs:label "Walther, Ingo F. ; Metzger, Rainer" .
+
+<http://collection.imamuseum.org/data/document/44.74/33/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: The Complete Paintings" .
+
+<http://collection.imamuseum.org/data/document/44.74/34/author> a ns1:E21_Person ;
+    rdfs:label "Mühlberger, Richard" .
+
+<http://collection.imamuseum.org/data/document/44.74/34/place> a ns1:E53_Place ;
+    rdfs:label "Cobb, CA" .
+
+<http://collection.imamuseum.org/data/document/44.74/34/publisher> a ns1:E74_Group ;
+    rdfs:label "First Glance Books" .
+
+<http://collection.imamuseum.org/data/document/44.74/34/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Unseen van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/35/author> a ns1:E21_Person ;
+    rdfs:label "Heutgen, Sjraar van ; Conisbee, Philip" .
+
+<http://collection.imamuseum.org/data/document/44.74/35/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Millet-Van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/36/author> a ns1:E21_Person ;
+    rdfs:label "Welsh-Ovcharov, Bogomila" .
+
+<http://collection.imamuseum.org/data/document/44.74/36/publisher> a ns1:E74_Group ;
+    rdfs:label "Hugh Lauter Levin Associates" .
+
+<http://collection.imamuseum.org/data/document/44.74/36/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Provence and Auvers" .
+
+<http://collection.imamuseum.org/data/document/44.74/37/author> a ns1:E21_Person ;
+    rdfs:label "Stolwijk, Chris ; Veenenbos, Han" .
+
+<http://collection.imamuseum.org/data/document/44.74/37/publisher> a ns1:E74_Group ;
+    rdfs:label "University of Michigan Press" .
+
+<http://collection.imamuseum.org/data/document/44.74/37/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Account Book of Theo van Gogh and Jo van Gogh-Bonger" .
+
+<http://collection.imamuseum.org/data/document/44.74/38/author> a ns1:E21_Person ;
+    rdfs:label "Hansen, Dorothee ; Dorn, Roland ; Nierhoff, Barbara" .
+
+<http://collection.imamuseum.org/data/document/44.74/38/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Felder, Das Mohnfeld und der Kunstlerstreit" .
+
+<http://collection.imamuseum.org/data/document/44.74/39/author> a ns1:E21_Person ;
+    rdfs:label "Berge, Jos ten et al." .
+
+<http://collection.imamuseum.org/data/document/44.74/39/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Paintings of Vincent van Gogh in the Collection of the Kröller-Müller Museum" .
+
+<http://collection.imamuseum.org/data/document/44.74/4/publisher> a ns1:E74_Group ;
+    rdfs:label "Van Oest" .
+
+<http://collection.imamuseum.org/data/document/44.74/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L'Oeuvre de Vincent van Gogh, Catalogue Raisonne" .
+
+<http://collection.imamuseum.org/data/document/44.74/40/author> a ns1:E21_Person ;
+    rdfs:label "Hansen, Dorothee ; Nichols, Lawrence ; Sund, Judy" .
+
+<http://collection.imamuseum.org/data/document/44.74/40/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Fields" .
+
+<http://collection.imamuseum.org/data/document/44.74/41/author> a ns1:E21_Person ;
+    rdfs:label "Lee, Ellen, ed." .
+
+<http://collection.imamuseum.org/data/document/44.74/41/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Indianapolis Museum of Art: Highlights of the Collection" .
+
+<http://collection.imamuseum.org/data/document/44.74/42/author> a ns1:E21_Person ;
+    rdfs:label "Jansen, Leo ; Luitjen, Hans ; Bakker, Nienke" .
+
+<http://collection.imamuseum.org/data/document/44.74/42/publisher> a ns1:E74_Group ;
+    rdfs:label "Rizzoli" .
+
+<http://collection.imamuseum.org/data/document/44.74/42/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh, Painted with Words: The Letters to Emile Bernard" .
+
+<http://collection.imamuseum.org/data/document/44.74/43/author> a ns1:E21_Person ;
+    rdfs:label "Jansen, Leo ; Luitjen, Hans ; Bakker, Nienke" .
+
+<http://collection.imamuseum.org/data/document/44.74/43/publisher> a ns1:E74_Group ;
+    rdfs:label "Thames & Hudson" .
+
+<http://collection.imamuseum.org/data/document/44.74/43/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Letters of Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/document/44.74/44/author> a ns1:E21_Person ;
+    rdfs:label "Baker, Nienke" .
+
+<http://collection.imamuseum.org/data/document/44.74/44/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Real Van Gogh: The Artist and His Letters" .
+
+<http://collection.imamuseum.org/data/document/44.74/45/author> a ns1:E21_Person ;
+    rdfs:label "Stolwijk, Chris ; Heugten, Sjraar van ; Kendall, Richard" .
+
+<http://collection.imamuseum.org/data/document/44.74/45/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Nature" .
+
+<http://collection.imamuseum.org/data/document/44.74/46/author> a ns1:E21_Person ;
+    rdfs:label "Venable, Charles, contr." .
+
+<http://collection.imamuseum.org/data/document/44.74/46/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Newfields: A Place for Nature & the Arts" .
+
+<http://collection.imamuseum.org/data/document/44.74/5/publisher> a ns1:E74_Group ;
+    rdfs:label "Constable" .
+
+<http://collection.imamuseum.org/data/document/44.74/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Further Letters of Vincent van Gogh to His Brother, 1886-1889" .
+
+<http://collection.imamuseum.org/data/document/44.74/6/author> a ns1:E21_Person ;
+    rdfs:label "Scherjon, W." .
+
+<http://collection.imamuseum.org/data/document/44.74/6/publisher> a ns1:E74_Group ;
+    rdfs:label "A. Oosthoek" .
+
+<http://collection.imamuseum.org/data/document/44.74/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalogue des Tableaux par Vincent van Gogh, Périodes: St. Rémy et Auvers" .
+
+<http://collection.imamuseum.org/data/document/44.74/7/author> a ns1:E21_Person ;
+    rdfs:label "Voss, Hermann" .
+
+<http://collection.imamuseum.org/data/document/44.74/7/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/7> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/7/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<http://collection.imamuseum.org/data/document/44.74/7/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Zeitschrift für Kunstgeschichte (1 Bd., H. 4 (1932))" .
+
+<http://collection.imamuseum.org/data/document/44.74/7/publisher> a ns1:E74_Group ;
+    rdfs:label "Deutscher Kunstverlag GmbH" .
+
+<http://collection.imamuseum.org/data/document/44.74/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Meisterwerke der Landschaftsmalerei. Zur III. Sonderausstellung der Staatlichen Museen, Berlin" .
+
+<http://collection.imamuseum.org/data/document/44.74/8/author> a ns1:E21_Person ;
+    rdfs:label "Cooper, Douglas" .
+
+<http://collection.imamuseum.org/data/document/44.74/8/publisher> a ns1:E74_Group ;
+    rdfs:label "Cresset Press" .
+
+<http://collection.imamuseum.org/data/document/44.74/8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: Letters to Emile Bernard" .
+
+<http://collection.imamuseum.org/data/document/44.74/9/publisher> a ns1:E74_Group ;
+    rdfs:label "Hyperion" .
+
+<http://collection.imamuseum.org/data/document/44.74/9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Works of Vincent van Gogh" .
+
+<http://collection.imamuseum.org/data/exhibition/439154/1927-01-09/1927-02-15/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Erste Sonderausstellung in Berlin" .
+
+<http://collection.imamuseum.org/data/exhibition/439154/1927-01-09/1927-02-15/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1927-01-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1927-02-15"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500115632/2010-01-23/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Real Van Gogh: The Artist and His Letters" .
+
+<http://collection.imamuseum.org/data/exhibition/500115632/2010-01-23/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2010-01-23"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500125157/1986-10-27/1987-03-22/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Saint Remy and Auvers" .
+
+<http://collection.imamuseum.org/data/exhibition/500125157/1986-10-27/1987-03-22/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-10-27"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1987-03-22"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500125194/2015-06-14/2015-09-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Nature" .
+
+<http://collection.imamuseum.org/data/exhibition/500125194/2015-06-14/2015-09-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2015-06-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-09-13"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500125792/1921-01-01/1921-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Exhibition" .
+
+<http://collection.imamuseum.org/data/exhibition/500125792/1921-01-01/1921-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1921-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1921-01-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500213367/2021-10-17/2022-02-06/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and the Olive Groves" .
+
+<http://collection.imamuseum.org/data/exhibition/500213367/2021-10-17/2022-02-06/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2021-10-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2022-02-06"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500245395/2003-02-21/2003-02-21/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Fields" .
+
+<http://collection.imamuseum.org/data/exhibition/500245395/2003-02-21/2003-02-21/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2003-02-21"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2003-02-21"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500275558/1990-03-30/1990-07-29/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh 1990" .
+
+<http://collection.imamuseum.org/data/exhibition/500275558/1990-03-30/1990-07-29/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1990-03-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1990-07-29"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1961-11-15/1961-12-17/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Tribute to Caroline Marmon Fesler, Collector" .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1961-11-15/1961-12-17/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1961-11-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1961-12-17"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1976-08-04/1976-10-10/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Caroline Marmon Fesler Collection" .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1976-08-04/1976-10-10/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1976-08-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1976-10-10"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1995-02-09/1995-10-29/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Juxtapositions" .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/1995-02-09/1995-10-29/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1995-02-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1995-10-29"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/2002-01-15/2002-06-09/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and the Labors of the Fields" .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/2002-01-15/2002-06-09/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2002-01-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2002-06-09"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/2022-02-10/2022-05-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Lume: Van Gogh" .
+
+<http://collection.imamuseum.org/data/exhibition/500300517/2022-02-10/2022-05-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2022-02-10"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2022-05-30"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500303622/2007-09-28/2008-01-06/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Painted with Words: Vincent Van Gogh's Letters to Emile Bernard, 1887-1889" .
+
+<http://collection.imamuseum.org/data/exhibition/500303622/2007-09-28/2008-01-06/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2007-09-28"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2008-01-06"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500304375/1943-10-06/1943-11-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Art and Life of Vincent Van Gogh: Exhibition in aid of American and Dutch War Relief" .
+
+<http://collection.imamuseum.org/data/exhibition/500304375/1943-10-06/1943-11-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1943-10-06"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1943-11-07"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500306982/1942-09-18/1942-10-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings by Vincent Van Gogh" .
+
+<http://collection.imamuseum.org/data/exhibition/500306982/1942-09-18/1942-10-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1942-09-18"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1942-10-18"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500310001/1998-09-17/1999-01-03/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Millet - Van Gogh" .
+
+<http://collection.imamuseum.org/data/exhibition/500310001/1998-09-17/1999-01-03/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-09-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1999-01-03"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/500311791/1942-10-28/1942-11-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings by Vincent Van Gogh" .
+
+<http://collection.imamuseum.org/data/exhibition/500311791/1942-10-28/1942-11-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1942-10-28"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1942-11-28"^^xsd:date .
+
+<http://collection.imamuseum.org/data/exhibition/organisation/1940-01-01/1940-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces of Art: European and American Painting 1500 -1900" .
+
+<http://collection.imamuseum.org/data/exhibition/organisation/1940-01-01/1940-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1940-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1940-01-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/identifier/44.74> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "44.74" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://collection.imamuseum.org/data/identifier/F641> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F641" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://collection.imamuseum.org/data/identifier/JH1795> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1795" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://collection.imamuseum.org/data/provenance/Caroline+Marmon+Fesler/1944-04-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500445025> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Caroline+Marmon+Fesler/1944-04-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1944-04-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/provenance/Eleonora+%26+Francesco+von+Mendelssohn/1935-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://collection.imamuseum.org/data/actor/Eleonora+%26+Francesco+von+Mendelssohn> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <http://collection.imamuseum.org/data/provenance/Eleonora+%26+Francesco+von+Mendelssohn/1935-01-01/timespan> ;
+    ns1:P9_consists_of <http://collection.imamuseum.org/data/provenance/Eleonora+%26+Francesco+von+Mendelssohn/1935-01-01/acquisition> .
+
+<http://collection.imamuseum.org/data/provenance/Eleonora+%26+Francesco+von+Mendelssohn/1935-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://collection.imamuseum.org/data/actor/Eleonora+%26+Francesco+von+Mendelssohn> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Eleonora+%26+Francesco+von+Mendelssohn/1935-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1935-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1940-01-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/provenance/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani/1917-08-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://collection.imamuseum.org/data/actor/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani/1917-08-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1917-08-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/provenance/Johanna+van+Gogh-Bonger/1891-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500073337> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Johanna+van+Gogh-Bonger/1891-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1891-01-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/provenance/John+Herron+Art+Institute+%28later+became+Indianapolis+Museum+of+Art+at+Newfields%29/16208-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500444007> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/John+Herron+Art+Institute+%28later+became+Indianapolis+Museum+of+Art+at+Newfields%29/16208-01-01/timespan> a ns1:E52_Time-Span .
+
+<http://collection.imamuseum.org/data/provenance/Paul+Cassirer/1905-04-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500315529> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Paul+Cassirer/1905-04-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-04-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/provenance/Robert+von+Mendelssohn/1905-05-09/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://collection.imamuseum.org/data/actor/Robert+von+Mendelssohn> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Robert+von+Mendelssohn/1905-05-09/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-05-09"^^xsd:date .
+
+<http://collection.imamuseum.org/data/provenance/Seligman%2C+Rey+%26+Co.+%28likely+in+conjunction+with+Justin+Thannhauser%29/1940-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500434840> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Seligman%2C+Rey+%26+Co.+%28likely+in+conjunction+with+Justin+Thannhauser%29/1940-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1940-01-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/provenance/Theo+van+Gogh/1890-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500339434> ;
+    ns1:P24_transferred_title_of <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/provenance/Theo+van+Gogh/1890-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date .
+
+<http://collection.imamuseum.org/data/technical/44.74/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/technical/44.74/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300134722> .
+
+<http://collection.imamuseum.org/data/technical/44.74/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Treatment Report" .
+
+<http://collection.imamuseum.org/data/technical/44.74/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/technical/44.74/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300053465> .
+
+<http://collection.imamuseum.org/data/technical/44.74/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Treatment Report" .
+
+<http://collection.imamuseum.org/data/technical/44.74/3> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/technical/44.74/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300134530> .
+
+<http://collection.imamuseum.org/data/technical/44.74/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Treatment Report" .
+
+<http://collection.imamuseum.org/data/technical/44.74/4> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/technical/44.74/4/title> .
+
+<http://collection.imamuseum.org/data/technical/44.74/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Thread Count Report" .
+
+<http://collection.imamuseum.org/data/technical/44.74/5> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/technical/44.74/5/title> .
+
+<http://collection.imamuseum.org/data/technical/44.74/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Thread Count Report" .
+
+<http://collection.imamuseum.org/data/technical/44.74/6> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/technical/44.74/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300412049> .
+
+<http://collection.imamuseum.org/data/technical/44.74/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Thread Count Report" .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "Landscapes" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "paintings" .
+
+<http://vocab.getty.edu/aat/300053465> a ns1:E55_Type ;
+    rdfs:label "Ultraviolet photography" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300134530> a ns1:E55_Type ;
+    rdfs:label "Color photography" .
+
+<http://vocab.getty.edu/aat/300134722> a ns1:E55_Type ;
+    rdfs:label "Radiographs" .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300388344> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300412049> a ns1:E55_Type ;
+    rdfs:label "Histogram" .
+
+<http://vocab.getty.edu/aat/300417637> a ns1:E55_Type ;
+    rdfs:label "gift" .
+
+<http://vocab.getty.edu/aat/300417644> a ns1:E55_Type ;
+    rdfs:label "transfer" .
+
+<http://vocab.getty.edu/aat/300417650> a ns1:E55_Type ;
+    rdfs:label "consignment" .
+
+<http://vocab.getty.edu/tgn/1003127> a ns1:E53_Place ;
+    rdfs:label "Darmstadt" .
+
+<http://vocab.getty.edu/tgn/7003627> a ns1:E53_Place ;
+    rdfs:label "Utrecht" .
+
+<http://vocab.getty.edu/tgn/7004446> a ns1:E53_Place ;
+    rdfs:label "Köln" .
+
+<http://vocab.getty.edu/tgn/7005108> a ns1:E53_Place ;
+    rdfs:label "Worms am Rhein" .
+
+<http://vocab.getty.edu/tgn/7005286> a ns1:E53_Place ;
+    rdfs:label "Bremen" .
+
+<http://vocab.getty.edu/tgn/7006900> a ns1:E53_Place ;
+    rdfs:label "Otterlo" .
+
+<http://vocab.getty.edu/tgn/7009654> a ns1:E53_Place ;
+    rdfs:label "Saint-Rémy-de-Provence" .
+
+<http://vocab.getty.edu/tgn/7013304> a ns1:E53_Place ;
+    rdfs:label "Ann Arbor, MI" .
+
+<http://vocab.getty.edu/tgn/7013503> a ns1:E53_Place ;
+    rdfs:label "Dallas" .
+
+<http://vocab.getty.edu/tgn/7013547> a ns1:E53_Place ;
+    rdfs:label "Detroit, MI" .
+
+<http://vocab.getty.edu/tgn/7014647> a ns1:E53_Place ;
+    rdfs:label "Worcester" .
+
+<http://vocab.getty.edu/tgn/7016099> a ns1:E53_Place ;
+    rdfs:label "Baltimore" .
+
+<http://vocab.getty.edu/tgn/7274566> a ns1:E53_Place ;
+    rdfs:label "Zwolle" .
+
+<http://vocab.getty.edu/ulan/500125792> a ns1:E39_Actor ;
+    rdfs:label "National Gallery, Berlin" .
+
+<http://vocab.getty.edu/ulan/500213367> a ns1:E39_Actor ;
+    rdfs:label "Dallas Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500235923> a ns1:E74_Group ;
+    rdfs:label "Kröller-Müller Museum" .
+
+<http://vocab.getty.edu/ulan/500237751> a ns1:E74_Group ;
+    rdfs:label "Taschen" .
+
+<http://vocab.getty.edu/ulan/500303622> a ns1:E39_Actor ;
+    rdfs:label "Pierpont Morgan Library" .
+
+<http://vocab.getty.edu/ulan/500304375> a ns1:E39_Actor ;
+    rdfs:label "Wildenstein & Co." .
+
+<http://vocab.getty.edu/ulan/500305639> a ns1:E74_Group ;
+    rdfs:label "Kunsthalle Bremen" .
+
+<http://vocab.getty.edu/ulan/500306739> a ns1:E74_Group ;
+    rdfs:label "Detroit Institute of Arts" .
+
+<http://vocab.getty.edu/ulan/500306982> a ns1:E39_Actor ;
+    rdfs:label "Baltimore Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500310001> a ns1:E39_Actor ;
+    rdfs:label "Musee d'Orsay, Paris" .
+
+<http://vocab.getty.edu/ulan/500310800> a ns1:E74_Group ;
+    rdfs:label "Réunion des musées nationaux" .
+
+<http://vocab.getty.edu/ulan/500311791> a ns1:E39_Actor ;
+    rdfs:label "Worcester Art Museum" .
+
+<http://vocab.getty.edu/ulan/500313006> a ns1:E74_Group ;
+    rdfs:label "Harry N. Abrams Inc." .
+
+<http://vocab.getty.edu/ulan/500327786> a ns1:E74_Group ;
+    rdfs:label "Ambroise Vollard" .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://data.rkd.nl/artists/439154> a ns1:E39_Actor ;
+    rdfs:label "Galerien Thannhauser" .
+
+<https://data.rkd.nl/artists/476089> a ns1:E74_Group ;
+    rdfs:label "Uitgeverij Waanders" .
+
+<https://vangoghworldwide.org/data/artwork/F641> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://collection.imamuseum.org/data/actor/Eleonora+%26+Francesco+von+Mendelssohn> a ns1:E39_Actor ;
+    rdfs:label "Eleonora & Francesco von Mendelssohn" .
+
+<http://collection.imamuseum.org/data/actor/Giulietta+Mendelssohn%2C+n%C3%A9e+Gordigiani> a ns1:E39_Actor ;
+    rdfs:label "Giulietta Mendelssohn, née Gordigiani" .
+
+<http://collection.imamuseum.org/data/actor/Robert+von+Mendelssohn> a ns1:E39_Actor ;
+    rdfs:label "Robert von Mendelssohn" .
+
+<http://collection.imamuseum.org/data/document/44.74/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/1/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<http://collection.imamuseum.org/data/document/44.74/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/10> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/10/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/10/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/10/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/11> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/11/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/11/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<http://collection.imamuseum.org/data/document/44.74/11/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/12/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/12/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/13> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/13/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/14> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/14/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/14/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<http://collection.imamuseum.org/data/document/44.74/14/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/15> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/15/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/15/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/15/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/16> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/16/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/16/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/16/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/17> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/17/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/18> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/18/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/18/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/18/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/19> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/19/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/19/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<http://collection.imamuseum.org/data/document/44.74/19/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/2> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/20> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/20/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/20/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/20/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/21> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/21/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/22> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/22/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/22/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/22/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/23> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/23/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/23/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/23/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/24> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/24/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/25> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/25/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/25/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/25/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/26> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/26/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/26/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/26/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/27> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/27/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/27/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/27/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/28> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/28/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/29> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/29/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/29/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/29/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/3/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<http://collection.imamuseum.org/data/document/44.74/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/30> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/30/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/31> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/31/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/31/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/31/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/32> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/32/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/32/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/32/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/33> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/33/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/33/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/33/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/34> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/34/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/34/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/34/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/35> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/35/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/35/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/35/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/36> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/36/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/36/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/36/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/37> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/37/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/37/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/37/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/38> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/38/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/38/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/38/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/39> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/39/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/39/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/39/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/4/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<http://collection.imamuseum.org/data/document/44.74/4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/40> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/40/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/40/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/40/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/41> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/41/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/41/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/41/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/42> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/42/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/42/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/42/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/43> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/43/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/44> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/44/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/44/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/44/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/45> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/45/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/45/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<http://collection.imamuseum.org/data/document/44.74/45/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/46> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/46/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/46/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/46/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/5> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/5/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/5/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/6> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/6/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/6/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/7> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/7/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/7/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<http://collection.imamuseum.org/data/document/44.74/7/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/8> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/8/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<http://collection.imamuseum.org/data/document/44.74/8/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://collection.imamuseum.org/data/document/44.74/9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <http://collection.imamuseum.org/data/document/44.74/9/part> ;
+    ns1:P1_is_identified_by <http://collection.imamuseum.org/data/document/44.74/9/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<http://collection.imamuseum.org/data/document/44.74/9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/1002366> a ns1:E53_Place ;
+    rdfs:label "Fairfield, CT" .
+
+<http://vocab.getty.edu/tgn/7014378> a ns1:E53_Place ;
+    rdfs:label "Toledo",
+        "Toledo, OH" .
+
+<http://vocab.getty.edu/tgn/7014630> a ns1:E53_Place ;
+    rdfs:label "Williamstown",
+        "Williamstown, MA" .
+
+<http://vocab.getty.edu/ulan/500073337> a ns1:E39_Actor ;
+    rdfs:label "Johanna van Gogh-Bonger" .
+
+<http://vocab.getty.edu/ulan/500115588> a ns1:E21_Person ;
+    rdfs:label "Gogh, Vincent van" .
+
+<http://vocab.getty.edu/ulan/500115632> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Royal Academy of Arts" .
+
+<http://vocab.getty.edu/ulan/500125157> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Metropolitan Museum of Art",
+        "Metropolitan Museum of Art; Harry N. Abrams" .
+
+<http://vocab.getty.edu/ulan/500125194> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Clark Institute",
+        "Sterling and Francine Clark Art Institute" .
+
+<http://vocab.getty.edu/ulan/500214312> a ns1:E21_Person,
+        ns1:E74_Group ;
+    rdfs:label "Koch, Alexander",
+        "Verlagsanstalt Alexander Koch" .
+
+<http://vocab.getty.edu/ulan/500218573> a ns1:E21_Person,
+        ns1:E74_Group ;
+    rdfs:label "Unesco" .
+
+<http://vocab.getty.edu/ulan/500245395> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Toledo Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500315529> a ns1:E39_Actor ;
+    rdfs:label "Paul Cassirer" .
+
+<http://vocab.getty.edu/ulan/500339434> a ns1:E39_Actor ;
+    rdfs:label "Theo van Gogh" .
+
+<http://vocab.getty.edu/ulan/500434840> a ns1:E39_Actor ;
+    rdfs:label "Seligman, Rey & Co. (likely in conjunction with Justin Thannhauser)" .
+
+<http://vocab.getty.edu/ulan/500445025> a ns1:E39_Actor ;
+    rdfs:label "Caroline Marmon Fesler" .
+
+<http://vocab.getty.edu/ulan/500645379> a ns1:E21_Person ;
+    rdfs:label "Faille, Jacob Baart de la" .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026061> a ns1:E55_Type ;
+    rdfs:label "catalogues raisonnés" .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300266009> a ns1:E55_Type ;
+    rdfs:label "Condition report" .
+
+<http://vocab.getty.edu/aat/300387591> a ns1:E55_Type ;
+    rdfs:label "Thread Count" .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300417642> a ns1:E55_Type ;
+    rdfs:label "purchase" .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300444188> a ns1:E55_Type ;
+    rdfs:label "inheritance" .
+
+<http://vocab.getty.edu/ulan/500444007> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "John Herron Art Institute",
+        "John Herron Art Institute (later became Indianapolis Museum of Art at Newfields)" .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7003712> a ns1:E53_Place ;
+    rdfs:label "Berlin" .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/tgn/7011798> a ns1:E53_Place ;
+    rdfs:label "London" .
+
+<http://vocab.getty.edu/ulan/500275558> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Van Gogh Museum",
+        "Van Gogh Museum with the Thread Count Automation Project of Cornell University and Rice University" .
+
+<http://vocab.getty.edu/aat/300026657> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300048715> a ns1:E55_Type ;
+    rdfs:label "article" .
+
+<http://vocab.getty.edu/tgn/7002883> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+ns1:E12_Production a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalog" .
+
+<http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York",
+        "New York, NY" .
+
+<http://vocab.getty.edu/tgn/7012924> a ns1:E53_Place ;
+    rdfs:label "Indianapolis",
+        "Indianapolis, IN",
+        "Indianapolis, IN." .
+
+<http://vocab.getty.edu/ulan/500300517> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Indianapolis Museum of Art",
+        "Indianapolis Museum of Art at Newfields" .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028051> a ns1:E55_Type ;
+    rdfs:label "book" .
+
+ns1:E55_Type a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+ns1:E74_Group a rdfs:Resource .
+
+ns1:E21_Person a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+<http://collection.imamuseum.org/data/artwork/44.74> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Umfriedetes Feld mit Bauer, eine Garbe tragend" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Landscape at Saint-Rémy" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Enclosed Field with Peasant" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Paysage à St-Rémy" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Wheat Field with Peasant Bearing a Sheaf" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Ploughed field with a man carrying a bundle of straw" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <http://collection.imamuseum.org/data/identifier/44.74>,
+        <http://collection.imamuseum.org/data/identifier/F641>,
+        <http://collection.imamuseum.org/data/identifier/JH1795> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 76.2 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 95.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500300517> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F641> .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 125-127 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/34/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 64" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/6/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 127 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/41/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 109 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/26/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 18 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/11/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 217 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/1/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 414 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/32/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "about 1940" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/provenance/Eleonora+%26+Francesco+von+Mendelssohn/1935-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 43 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/29/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 42 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/38/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 33 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/15/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 338 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/3/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 206 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/36/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 182 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/37/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 59 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/35/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 196 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/18/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 447 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/9/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 26 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/16/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 255 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/44/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 214 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/22/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 92 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/12/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 92, letter no. 20" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/8/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 361 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/39/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 69 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/40/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 247" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/10/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 64-65 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/46/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 399-400, letter no. 610; p. 424; letter no. 621" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/5/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "vol. 1, p. 555 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/33/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 187 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/20/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 641" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/4/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/artwork/44.74> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 179 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/45/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 223 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/27/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 294" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/7/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 330 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/42/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 256 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/19/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 238 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/31/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 67 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/25/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 306 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/23/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 294 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <http://collection.imamuseum.org/data/document/44.74/14/part> .
+

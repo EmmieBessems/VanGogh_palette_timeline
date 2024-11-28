@@ -1,0 +1,2567 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <http://purl.org/dc/> .
+@prefix ns3: <https://linked.art/ns/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns2:elements%2F1.1%2Fformat a rdfs:Resource .
+
+dc:format a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P129_is_about a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+skos:exactMatch a rdfs:Resource .
+
+<https://collection.kunsthaus.ch/multimedia/0/multimedia-1454210.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/0/multimedia-897270.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0055> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/1/multimedia-323221.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/1/multimedia-630211.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/1860> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/2/multimedia-1007212.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0174> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/4/multimedia-336184.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/1398> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/4/multimedia-897264.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/5/multimedia-897265.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0049> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/7/multimedia-480287.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/7/multimedia-481237.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/7/multimedia-897267.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0051> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/8/multimedia-897268.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0052> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://collection.kunsthaus.ch/multimedia/9/multimedia-897269.extra-large.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://digital.kunsthaus.ch/data/artwork/BU+0054> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://digital.kunsthaus.ch/data/artwork/1398/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1398> .
+
+<https://digital.kunsthaus.ch/data/artwork/1398/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/1398> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/1316> .
+
+<https://digital.kunsthaus.ch/data/artwork/1398/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/1398> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1890" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1890-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/1860/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1860> .
+
+<https://digital.kunsthaus.ch/data/artwork/1860/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/1860> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/951> .
+
+<https://digital.kunsthaus.ch/data/artwork/1860/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/1860> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/1995%2F0006/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> .
+
+<https://digital.kunsthaus.ch/data/artwork/1995%2F0006/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/872> .
+
+<https://digital.kunsthaus.ch/data/artwork/1995%2F0006/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/2414/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/2414> .
+
+<https://digital.kunsthaus.ch/data/artwork/2414/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/740> .
+
+<https://digital.kunsthaus.ch/data/artwork/2414/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1886" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1886-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1886-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0049/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0049> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0049/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0049> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/586967> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0049/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0049> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0050/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0050> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0050/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/586968> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0050/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1887" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1887-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1887-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0051/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0051> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0051/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0051> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/604960> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0051/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0051> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1884" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1884-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1884-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0052/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0052> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0052/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0052> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/604961> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0052/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0052> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0053/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0053> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0053/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/586966> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0053/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1890" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1890-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0054/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0054> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0054/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0054> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/604962> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0054/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0054> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1887" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1887-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1887-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0055/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0055> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0055/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0055> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/604963> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0055/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0055> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1890" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1890-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0174/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0174> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0174/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/BU+0174> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/805958> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0174/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/BU+0174> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1897/1898" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1897-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1898-01-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "gemeinfrei" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> .
+
+<https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://collection.kunsthaus.ch/de/collection/item/8539> .
+
+<https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/118540416> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300054196> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "April 1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-04-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-04-01"^^xsd:date ] .
+
+<https://digital.kunsthaus.ch/data/exhibition/10012396-X/2019-03-27/2019-08-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/10012396-X> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/10012396-X/2019-03-27/2019-08-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/10012396-X/2019-03-27/2019-08-01/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/London> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1003322-1/2024-09-14/2025-01-19> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1003322-1> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0049> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1003322-1/2024-09-14/2025-01-19/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1003322-1/2024-09-14/2025-01-19/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/London> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1007965-8/2006-12-01/2007-03-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1007965-8> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1007965-8/2006-12-01/2007-03-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1007965-8/2006-12-01/2007-03-20/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Budapest> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1008914-7/2005-10-12/2005-12-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1008914-7> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1008914-7/2005-10-12/2005-12-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1008914-7/2005-10-12/2005-12-31/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/New+York> .
+
+<https://digital.kunsthaus.ch/data/exhibition/10097612-8/2008-09-04/2008-12-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/10097612-8> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/10097612-8/2008-09-04/2008-12-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/10097612-8/2008-09-04/2008-12-07/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Wien> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1023738-0/2010-01-23/2010-04-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1023738-0> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1023738-0/2010-01-23/2010-04-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1023738-0/2010-01-23/2010-04-18/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/London> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2005-07-01/2005-09-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1035547-9> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2005-07-01/2005-09-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2005-07-01/2005-09-18/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Amsterdam> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2018-03-23/2018-06-24> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1035547-9> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2018-03-23/2018-06-24/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2018-03-23/2018-06-24/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Amsterdam> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-05-12/2023-09-03> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1035547-9> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-05-12/2023-09-03/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-05-12/2023-09-03/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Amsterdam> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-10-13/2024-01-14> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1035547-9> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-10-13/2024-01-14/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-10-13/2024-01-14/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Amsterdam> .
+
+<https://digital.kunsthaus.ch/data/exhibition/1056275-8/2015-06-06/2015-09-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/1056275-8> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/1056275-8/2015-06-06/2015-09-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/1056275-8/2015-06-06/2015-09-13/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Williamstown> .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2014-02-07/2014-05-11> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/2016862-7> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2014-02-07/2014-05-11/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2014-02-07/2014-05-11/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Z%C3%BCrich> .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2015-01-23/2015-04-19> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/2016862-7> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2015-01-23/2015-04-19/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2015-01-23/2015-04-19/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Z%C3%BCrich> .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2020-07-17/2020-11-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/2016862-7> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/1398>,
+        <https://digital.kunsthaus.ch/data/artwork/1860>,
+        <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2020-07-17/2020-11-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2020-07-17/2020-11-08/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Z%C3%BCrich> .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2021-10-09/2021-10-10> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/2016862-7> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2021-10-09/2021-10-10/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2021-10-09/2021-10-10/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Z%C3%BCrich> .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2023-11-03/2024-11-03> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/2016862-7> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0049>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0051>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0052>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0053>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0054>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0055>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0174> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2023-11-03/2024-11-03/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/2016862-7/2023-11-03/2024-11-03/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Z%C3%BCrich> .
+
+<https://digital.kunsthaus.ch/data/exhibition/26120-8/2020-06-01/2020-08-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/26120-8> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/1995%2F0006>,
+        <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/26120-8/2020-06-01/2020-08-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/26120-8/2020-06-01/2020-08-31/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Detroit> .
+
+<https://digital.kunsthaus.ch/data/exhibition/36827-1/2022-02-03/2022-05-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/36827-1> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0054> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/36827-1/2022-02-03/2022-05-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/36827-1/2022-02-03/2022-05-08/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/London> .
+
+<https://digital.kunsthaus.ch/data/exhibition/5337960-3/2020-10-02/2021-06-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/5337960-3> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0049>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0050>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0051>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0052>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0053>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0054>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0055> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/5337960-3/2020-10-02/2021-06-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/5337960-3/2020-10-02/2021-06-30/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Wien> .
+
+<https://digital.kunsthaus.ch/data/exhibition/805837-4/2024-10-01/2025-01-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://d-nb.info/gnd/805837-4> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0049>,
+        <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/805837-4/2024-10-01/2025-01-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/805837-4/2024-10-01/2025-01-31/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Groningen> .
+
+<https://digital.kunsthaus.ch/data/exhibition/Compton%2BVerney%252C%2BWarwickshire%2B%2528UK%2529/2006-03-31/2006-06-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/Compton+Verney%2C+Warwickshire+%28UK%29> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/Compton%2BVerney%252C%2BWarwickshire%2B%2528UK%2529/2006-03-31/2006-06-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/Compton%2BVerney%252C%2BWarwickshire%2B%2528UK%2529/2006-03-31/2006-06-18/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Warwickshire> .
+
+<https://digital.kunsthaus.ch/data/exhibition/Drents%2BMuseum/2023-09-11/2024-01-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/Drents+Museum> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/Drents%2BMuseum/2023-09-11/2024-01-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/Drents%2BMuseum/2023-09-11/2024-01-07/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Assen> .
+
+<https://digital.kunsthaus.ch/data/exhibition/Fondation%2BPierre%2BGianadda%252C%2BMartigny/2000-06-21/2000-11-26> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/Fondation+Pierre+Gianadda%2C+Martigny> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/Fondation%2BPierre%2BGianadda%252C%2BMartigny/2000-06-21/2000-11-26/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/Fondation%2BPierre%2BGianadda%252C%2BMartigny/2000-06-21/2000-11-26/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Martigny> .
+
+<https://digital.kunsthaus.ch/data/exhibition/Fondation%2BVincent%2Bvan%2BGogh%252C%2BArles/2003-07-04/2003-10-16> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/Fondation+Vincent+van+Gogh%2C+Arles> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/Fondation%2BVincent%2Bvan%2BGogh%252C%2BArles/2003-07-04/2003-10-16/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/Fondation%2BVincent%2Bvan%2BGogh%252C%2BArles/2003-07-04/2003-10-16/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Arles> .
+
+<https://digital.kunsthaus.ch/data/exhibition/Mus%25C3%25A9e%2Bd%2527Orsay/2023-09-25/2024-01-28> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/Mus%C3%A9e+d%27Orsay> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/Mus%25C3%25A9e%2Bd%2527Orsay/2023-09-25/2024-01-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/Mus%25C3%25A9e%2Bd%2527Orsay/2023-09-25/2024-01-28/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Paris> .
+
+<https://digital.kunsthaus.ch/data/exhibition/National%2BGalleries%2Bof%2BScotland/2006-07-07/2006-09-24> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/National+Galleries+of+Scotland> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/National%2BGalleries%2Bof%2BScotland/2006-07-07/2006-09-24/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/National%2BGalleries%2Bof%2BScotland/2006-07-07/2006-09-24/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Edinburgh> .
+
+<https://digital.kunsthaus.ch/data/exhibition/National%2BGallery%2Bof%2BAustralia%252C%2BCanberra/2017-11-03/2018-02-25> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/National+Gallery+of+Australia%2C+Canberra> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/National%2BGallery%2Bof%2BAustralia%252C%2BCanberra/2017-11-03/2018-02-25/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/National%2BGallery%2Bof%2BAustralia%252C%2BCanberra/2017-11-03/2018-02-25/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Canberra> .
+
+<https://digital.kunsthaus.ch/data/exhibition/Singer%2BLaren/2023-09-13/2024-01-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/Singer+Laren> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/Singer%2BLaren/2023-09-13/2024-01-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/Singer%2BLaren/2023-09-13/2024-01-08/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Laren> .
+
+<https://digital.kunsthaus.ch/data/exhibition/Sompo%2BArt%2BMuseum/2023-10-17/2024-01-21> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/Sompo+Art+Museum> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/Sompo%2BArt%2BMuseum/2023-10-17/2024-01-21/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/Sompo%2BArt%2BMuseum/2023-10-17/2024-01-21/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Sompo> .
+
+<https://digital.kunsthaus.ch/data/exhibition/St%25C3%25A4del%2BMuseum/2019-10-23/2020-02-16> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://digital.kunsthaus.ch/data/actor/St%C3%A4del+Museum> ;
+    ns1:P16_used_specific_object <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P1_is_identified_by <https://digital.kunsthaus.ch/data/exhibition/St%25C3%25A4del%2BMuseum/2019-10-23/2020-02-16/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://digital.kunsthaus.ch/data/exhibition/St%25C3%25A4del%2BMuseum/2019-10-23/2020-02-16/timespan> ;
+    ns1:P7_took_place_at <https://digital.kunsthaus.ch/data/place/Frankfurt+am+Main> .
+
+<https://digital.kunsthaus.ch/data/term/Blume> a rdfs:Resource ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300265045> .
+
+ns3:access_point a rdfs:Resource .
+
+<http://d-nb.info/gnd/10012396-X> a ns1:E39_Actor ;
+    rdfs:label "Tate Britain" ;
+    skos:exactMatch <https://data.rkd.nl/artists/501957> .
+
+<http://d-nb.info/gnd/1003322-1> a ns1:E39_Actor ;
+    rdfs:label "The National Gallery" ;
+    skos:exactMatch <http://vocab.getty.edu/ulan/500125190> .
+
+<http://d-nb.info/gnd/1007965-8> a ns1:E39_Actor ;
+    rdfs:label "Szépművészeti Museum" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500789> .
+
+<http://d-nb.info/gnd/1008914-7> a ns1:E39_Actor ;
+    rdfs:label "The Metropolitan Museum of Art" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500948> .
+
+<http://d-nb.info/gnd/10097612-8> a ns1:E39_Actor ;
+    rdfs:label "Albertina" ;
+    skos:exactMatch <https://data.rkd.nl/artists/495615> .
+
+<http://d-nb.info/gnd/1023738-0> a ns1:E39_Actor ;
+    rdfs:label "Royal Academy of Arts" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500780> .
+
+<http://d-nb.info/gnd/1056275-8> a ns1:E39_Actor ;
+    rdfs:label "The Clark Art Institute" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500876> .
+
+<http://d-nb.info/gnd/26120-8> a ns1:E39_Actor ;
+    rdfs:label "Detroit Institute of Arts" ;
+    skos:exactMatch <http://vocab.getty.edu/ulan/500306739> .
+
+<http://d-nb.info/gnd/36827-1> a ns1:E39_Actor ;
+    rdfs:label "The Courtauld" ;
+    skos:exactMatch <https://data.rkd.nl/artists/487838> .
+
+<http://d-nb.info/gnd/5337960-3> a ns1:E39_Actor ;
+    rdfs:label "Leopold Museum" ;
+    skos:exactMatch <http://vocab.getty.edu/ulan/500457323> .
+
+<http://d-nb.info/gnd/805837-4> a ns1:E39_Actor ;
+    rdfs:label "Groninger Museum" .
+
+<http://vocab.getty.edu/aat/300014109> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300014187> a ns1:E57_Material ;
+    rdfs:label "wove paper" .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "Ölgemälde" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300022464> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300033973> a ns1:E55_Type ;
+    rdfs:label "Zeichnung",
+        "drawing" .
+
+<http://vocab.getty.edu/aat/300054196> a ns1:E55_Type ;
+    rdfs:label "drawing" .
+
+<http://vocab.getty.edu/aat/300265045> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300428768> a ns1:E57_Material .
+
+<http://vocab.getty.edu/tgn/7001867> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7003321> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7004472> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7005293> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7006280> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7006952> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7007302> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7007567> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7008178> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7008775> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7009546> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7011781> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7013547> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7014630> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7250304> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/8711450> a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500125190> a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500306739> a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500457323> a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://collection.kunsthaus.ch/de/collection/item/1316> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/586966> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/586967> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/586968> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/604960> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/604961> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/604962> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/604963> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/740> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/805958> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/8539> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/872> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://collection.kunsthaus.ch/de/collection/item/951> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://data.rkd.nl/artists/32439> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/487838> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/494007> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/495615> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/499366> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/499369> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500780> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500785> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500787> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500789> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500876> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500948> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/501260> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/501567> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/501570> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/501713> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/501957> a rdfs:Resource .
+
+<https://digital.kunsthaus.ch/data/actor/Compton+Verney%2C+Warwickshire+%28UK%29> a ns1:E39_Actor ;
+    rdfs:label "Compton Verney, Warwickshire (UK)" ;
+    skos:exactMatch <https://data.rkd.nl/artists/501570> .
+
+<https://digital.kunsthaus.ch/data/actor/Drents+Museum> a ns1:E39_Actor ;
+    rdfs:label "Drents Museum" .
+
+<https://digital.kunsthaus.ch/data/actor/Fondation+Pierre+Gianadda%2C+Martigny> a ns1:E39_Actor ;
+    rdfs:label "Fondation Pierre Gianadda, Martigny" ;
+    skos:exactMatch <https://data.rkd.nl/artists/501713> .
+
+<https://digital.kunsthaus.ch/data/actor/Fondation+Vincent+van+Gogh%2C+Arles> a ns1:E39_Actor ;
+    rdfs:label "Fondation Vincent van Gogh, Arles" ;
+    skos:exactMatch <https://data.rkd.nl/artists/501260> .
+
+<https://digital.kunsthaus.ch/data/actor/Mus%C3%A9e+d%27Orsay> a ns1:E39_Actor ;
+    rdfs:label "Musée d'Orsay" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500787> .
+
+<https://digital.kunsthaus.ch/data/actor/National+Galleries+of+Scotland> a ns1:E39_Actor ;
+    rdfs:label "National Galleries of Scotland" ;
+    skos:exactMatch <https://data.rkd.nl/artists/501567> .
+
+<https://digital.kunsthaus.ch/data/actor/National+Gallery+of+Australia%2C+Canberra> a ns1:E39_Actor ;
+    rdfs:label "National Gallery of Australia, Canberra" ;
+    skos:exactMatch <https://data.rkd.nl/artists/499366> .
+
+<https://digital.kunsthaus.ch/data/actor/Singer+Laren> a ns1:E39_Actor ;
+    rdfs:label "Singer Laren" .
+
+<https://digital.kunsthaus.ch/data/actor/Sompo+Art+Museum> a ns1:E39_Actor ;
+    rdfs:label "Sompo Art Museum" ;
+    skos:exactMatch <https://data.rkd.nl/artists/499369> .
+
+<https://digital.kunsthaus.ch/data/actor/St%C3%A4del+Museum> a ns1:E39_Actor ;
+    rdfs:label "Städel Museum" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500785> .
+
+<https://digital.kunsthaus.ch/data/exhibition/10012396-X/2019-03-27/2019-08-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Britain" .
+
+<https://digital.kunsthaus.ch/data/exhibition/10012396-X/2019-03-27/2019-08-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "273.2019 - 018.2019" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2019-03-27"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2019-08-01"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1003322-1/2024-09-14/2025-01-19/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: Gardens for Poets and Lovers" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1003322-1/2024-09-14/2025-01-19/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "149.2024 - 191.2025" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2024-09-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2025-01-19"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1007965-8/2006-12-01/2007-03-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1007965-8/2006-12-01/2007-03-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "01.12.2006 - 203.2007" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2006-12-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2007-03-20"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1008914-7/2005-10-12/2005-12-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Drawings" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1008914-7/2005-10-12/2005-12-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "12.10.2005 - 31.12.2005" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2005-10-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2005-12-31"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/10097612-8/2008-09-04/2008-12-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh, Zeichnungen und Gemälde" .
+
+<https://digital.kunsthaus.ch/data/exhibition/10097612-8/2008-09-04/2008-12-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "049.2008 - 07.12.2008" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2008-09-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2008-12-07"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1023738-0/2010-01-23/2010-04-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Real van Gogh: The Artist and his Letters" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1023738-0/2010-01-23/2010-04-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "231.2010 - 184.2010" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2010-01-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2010-04-18"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2005-07-01/2005-09-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Drawings" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2005-07-01/2005-09-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "017.2005 - 189.2005" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2005-07-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2005-09-18"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2018-03-23/2018-06-24/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh und Japan" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2018-03-23/2018-06-24/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "233.2018 - 246.2018" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2018-03-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2018-06-24"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-05-12/2023-09-03/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh & Auvers" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-05-12/2023-09-03/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "125.2023 - 039.2023" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2023-05-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2023-09-03"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-10-13/2024-01-14/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Along the Seine: Post-Impressionism at Asnières" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1035547-9/2023-10-13/2024-01-14/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "13.10.2023 - 141.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2023-10-13"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2024-01-14"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/1056275-8/2015-06-06/2015-09-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Nature" .
+
+<https://digital.kunsthaus.ch/data/exhibition/1056275-8/2015-06-06/2015-09-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "066.2015 - 139.2015" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2015-06-06"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-09-13"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2014-02-07/2014-05-11/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Von Matisse zum Blauen Reiter. Expressionismus in Deutschland und Frankreich" .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2014-02-07/2014-05-11/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "072.2014 - 115.2014" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2014-02-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-05-11"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2015-01-23/2015-04-19/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Meisterzeichnungen. 100 Jahre Grafische Sammlung" .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2015-01-23/2015-04-19/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "231.2015 - 194.2015" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2015-01-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-04-19"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2020-07-17/2020-11-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Landschaften – Orte der Malerei" .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2020-07-17/2020-11-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "177.2020 - 08.11.2020" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "177.2020 - 08.11.2020" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "177.2020 - 08.11.2020" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2020-07-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-11-08"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2021-10-09/2021-10-10/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "EKH-Dokumentation MO - 02. OG (D)" .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2021-10-09/2021-10-10/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "09.10.2021 - 10.10.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2021-10-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2021-10-10"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2023-11-03/2024-11-03/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Bührle-Kontextualisierung" .
+
+<https://digital.kunsthaus.ch/data/exhibition/2016862-7/2023-11-03/2024-11-03/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2023 - 03.11.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2023 - 03.11.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2023 - 03.11.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2023 - 03.11.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2023 - 03.11.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2023 - 03.11.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2023 - 03.11.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2023-11-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2024-11-03"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/26120-8/2020-06-01/2020-08-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in America" .
+
+<https://digital.kunsthaus.ch/data/exhibition/26120-8/2020-06-01/2020-08-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "016.2020 - 318.2020" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "016.2020 - 318.2020" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2020-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-08-31"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/36827-1/2022-02-03/2022-05-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh's Self-Portraits" .
+
+<https://digital.kunsthaus.ch/data/exhibition/36827-1/2022-02-03/2022-05-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "032.2022 - 085.2022" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2022-02-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2022-05-08"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/5337960-3/2020-10-02/2021-06-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Sammlung Emil Bührle im Museum Leopold" .
+
+<https://digital.kunsthaus.ch/data/exhibition/5337960-3/2020-10-02/2021-06-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "02.10.2020 - 306.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "02.10.2020 - 306.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "02.10.2020 - 306.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "02.10.2020 - 306.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "02.10.2020 - 306.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "02.10.2020 - 306.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "02.10.2020 - 306.2021" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2020-10-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2021-06-30"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/805837-4/2024-10-01/2025-01-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh und Groningen" .
+
+<https://digital.kunsthaus.ch/data/exhibition/805837-4/2024-10-01/2025-01-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "01.10.2024 - 311.2025" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "01.10.2024 - 311.2025" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2024-10-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2025-01-31"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/Compton%2BVerney%252C%2BWarwickshire%2B%2528UK%2529/2006-03-31/2006-06-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "van Gogh and Britain Pioneer Collectors" .
+
+<https://digital.kunsthaus.ch/data/exhibition/Compton%2BVerney%252C%2BWarwickshire%2B%2528UK%2529/2006-03-31/2006-06-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "313.2006 - 186.2006" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2006-03-31"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2006-06-18"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/Drents%2BMuseum/2023-09-11/2024-01-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Drenthe" .
+
+<https://digital.kunsthaus.ch/data/exhibition/Drents%2BMuseum/2023-09-11/2024-01-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "119.2023 - 071.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2023-09-11"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2024-01-07"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/Fondation%2BPierre%2BGianadda%252C%2BMartigny/2000-06-21/2000-11-26/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh" .
+
+<https://digital.kunsthaus.ch/data/exhibition/Fondation%2BPierre%2BGianadda%252C%2BMartigny/2000-06-21/2000-11-26/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "216.2000 - 26.11.2000" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2000-06-21"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2000-11-26"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/Fondation%2BVincent%2Bvan%2BGogh%252C%2BArles/2003-07-04/2003-10-16/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Arles" .
+
+<https://digital.kunsthaus.ch/data/exhibition/Fondation%2BVincent%2Bvan%2BGogh%252C%2BArles/2003-07-04/2003-10-16/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "047.2003 - 16.10.2003" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2003-07-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2003-10-16"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/Mus%25C3%25A9e%2Bd%2527Orsay/2023-09-25/2024-01-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh & Auvers" .
+
+<https://digital.kunsthaus.ch/data/exhibition/Mus%25C3%25A9e%2Bd%2527Orsay/2023-09-25/2024-01-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "259.2023 - 281.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2023-09-25"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2024-01-28"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/National%2BGalleries%2Bof%2BScotland/2006-07-07/2006-09-24/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "van Gogh and Britain Pioneer Collectors" .
+
+<https://digital.kunsthaus.ch/data/exhibition/National%2BGalleries%2Bof%2BScotland/2006-07-07/2006-09-24/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "077.2006 - 249.2006" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2006-07-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2006-09-24"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/National%2BGallery%2Bof%2BAustralia%252C%2BCanberra/2017-11-03/2018-02-25/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: Painting and drawing" .
+
+<https://digital.kunsthaus.ch/data/exhibition/National%2BGallery%2Bof%2BAustralia%252C%2BCanberra/2017-11-03/2018-02-25/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "03.11.2017 - 252.2018" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2017-11-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2018-02-25"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/Singer%2BLaren/2023-09-13/2024-01-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La Grande Bleue, Painters of the Méditerranée" .
+
+<https://digital.kunsthaus.ch/data/exhibition/Singer%2BLaren/2023-09-13/2024-01-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "139.2023 - 081.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2023-09-13"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2024-01-08"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/Sompo%2BArt%2BMuseum/2023-10-17/2024-01-21/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Still Life: from Tradition to Innovation" .
+
+<https://digital.kunsthaus.ch/data/exhibition/Sompo%2BArt%2BMuseum/2023-10-17/2024-01-21/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "17.10.2023 - 211.2024" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2023-10-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2024-01-21"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/exhibition/St%25C3%25A4del%2BMuseum/2019-10-23/2020-02-16/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh und Deutschland" .
+
+<https://digital.kunsthaus.ch/data/exhibition/St%25C3%25A4del%2BMuseum/2019-10-23/2020-02-16/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "23.10.2019 - 162.2020" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "2019-10-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-02-16"^^xsd:date .
+
+<https://digital.kunsthaus.ch/data/identifier/1398> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1398" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/1860> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1860" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/1995%2F0006> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1995/0006" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/2414> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "2414" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0049> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0049" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0050> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0050" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0051> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0051" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0052> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0052" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0053> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0053" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0054> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0054" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0055> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0055" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/BU+0174> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "BU 0174" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/identifier/F129a> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F129a" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F1502> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1502" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F235> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F235" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F301> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F301" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F366> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F366" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F419> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F419" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F450> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F450" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F695> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F695" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F780> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F780" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F80> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F80" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F820> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F820" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/F88> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F88" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/JH1136> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1136" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/JH1465> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1465" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/JH1492> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1492" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/JH2115> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH2115" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/JH490> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH490" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/JH727> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH727" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://digital.kunsthaus.ch/data/identifier/Z.1940%2F0001> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "Z.1940/0001" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://digital.kunsthaus.ch/data/place/Arles> a ns1:E53_Place ;
+    rdfs:label "Arles" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008775> .
+
+<https://digital.kunsthaus.ch/data/place/Assen> a ns1:E53_Place ;
+    rdfs:label "Assen" .
+
+<https://digital.kunsthaus.ch/data/place/Budapest> a ns1:E53_Place ;
+    rdfs:label "Budapest" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006280> .
+
+<https://digital.kunsthaus.ch/data/place/Canberra> a ns1:E53_Place ;
+    rdfs:label "Canberra" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7001867> .
+
+<https://digital.kunsthaus.ch/data/place/Detroit> a ns1:E53_Place ;
+    rdfs:label "Detroit" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7013547> .
+
+<https://digital.kunsthaus.ch/data/place/Edinburgh> a ns1:E53_Place ;
+    rdfs:label "Edinburgh" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7009546> .
+
+<https://digital.kunsthaus.ch/data/place/Frankfurt+am+Main> a ns1:E53_Place ;
+    rdfs:label "Frankfurt am Main" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7005293> .
+
+<https://digital.kunsthaus.ch/data/place/Groningen> a ns1:E53_Place ;
+    rdfs:label "Groningen" .
+
+<https://digital.kunsthaus.ch/data/place/Laren> a ns1:E53_Place ;
+    rdfs:label "Laren" .
+
+<https://digital.kunsthaus.ch/data/place/Martigny> a ns1:E53_Place ;
+    rdfs:label "Martigny" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/8711450> .
+
+<https://digital.kunsthaus.ch/data/place/New+York> a ns1:E53_Place ;
+    rdfs:label "New York" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007567> .
+
+<https://digital.kunsthaus.ch/data/place/Paris> a ns1:E53_Place ;
+    rdfs:label "Paris" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7250304> .
+
+<https://digital.kunsthaus.ch/data/place/Sompo> a ns1:E53_Place ;
+    rdfs:label "Sompo" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7004472> .
+
+<https://digital.kunsthaus.ch/data/place/Warwickshire> a ns1:E53_Place ;
+    rdfs:label "Warwickshire" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008178> .
+
+<https://digital.kunsthaus.ch/data/place/Williamstown> a ns1:E53_Place ;
+    rdfs:label "Williamstown" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7014630> .
+
+<https://digital.kunsthaus.ch/data/term/Fluss> a rdfs:Resource ;
+    rdfs:label "Fluss" .
+
+<https://digital.kunsthaus.ch/data/term/Genre> a rdfs:Resource ;
+    rdfs:label "Genre" .
+
+<https://digital.kunsthaus.ch/data/term/Sonnenuntergang> a rdfs:Resource ;
+    rdfs:label "Sonnenuntergang" .
+
+<https://digital.kunsthaus.ch/data/term/Stillleben> a rdfs:Resource ;
+    rdfs:label "Stillleben" .
+
+<https://vangoghworldwide.org/data/artwork/1398> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/1860> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/1995%2F0006> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/2414> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/BU+0049> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/BU+0050> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/BU+0051> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/BU+0052> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/BU+0053> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/BU+0054> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/BU+0055> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F129a> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1502> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F235> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F301> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F366> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F419> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F450> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F695> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F780> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F80> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F820> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F88> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/Z.1940%2F0001> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014657> a ns1:E57_Material .
+
+<https://data.rkd.nl/artists/500782> a rdfs:Resource .
+
+<https://digital.kunsthaus.ch/data/place/Wien> a ns1:E53_Place ;
+    rdfs:label "Wien" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7003321> .
+
+<https://digital.kunsthaus.ch/data/term/Dauerleihgabe+Sammlung+Emil+B%C3%BChrle> a rdfs:Resource ;
+    rdfs:label "Dauerleihgabe Sammlung Emil Bührle" .
+
+<https://digital.kunsthaus.ch/data/term/Frau> a rdfs:Resource ;
+    rdfs:label "Frau" .
+
+<https://digital.kunsthaus.ch/data/term/Landschaft> a rdfs:Resource ;
+    rdfs:label "Landschaft" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015636> .
+
+<https://digital.kunsthaus.ch/data/term/Mann> a rdfs:Resource ;
+    rdfs:label "Mann" .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+ns1:E56_Language a rdfs:Resource .
+
+<http://d-nb.info/gnd/1035547-9> a ns1:E39_Actor ;
+    rdfs:label "Van Gogh Museum" ;
+    skos:exactMatch <https://data.rkd.nl/artists/494007> .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<https://digital.kunsthaus.ch/data/place/Amsterdam> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006952> .
+
+<https://digital.kunsthaus.ch/data/place/London> a ns1:E53_Place ;
+    rdfs:label "London" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7011781> .
+
+<http://d-nb.info/gnd/2016862-7> a ns1:E39_Actor ;
+    rdfs:label "Zürcher Kunstgesellschaft | Kunsthaus Zürich" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500782> .
+
+<https://digital.kunsthaus.ch/data/place/Z%C3%BCrich> a ns1:E53_Place ;
+    rdfs:label "Zürich" ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7007302> .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0174> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kopie nach van Goghs Selbstbildnis für Gauguin" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Copy After van Gogh's Self-Portrait for Gauguin" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0174> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 50.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 61.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Mann> ] .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300014254> a ns1:E57_Material ;
+    rdfs:label "oil (organic material)",
+        "oil paint" .
+
+<https://digital.kunsthaus.ch/data/artwork/1398> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Chaumières à Auvers" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Strohdächer in Chaponval" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Thatched Roofs at Chaponval" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Chaumières à Chaponval" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        <https://digital.kunsthaus.ch/data/identifier/1398>,
+        <https://digital.kunsthaus.ch/data/identifier/F780>,
+        <https://digital.kunsthaus.ch/data/identifier/JH2115> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 65.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 81.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078>,
+        <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Landschaft> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/1398>,
+        <https://vangoghworldwide.org/data/artwork/F780> .
+
+<https://digital.kunsthaus.ch/data/artwork/1860> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Travail des champs" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Paar bei der Feldarbeit" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant and Peasant Woman Planting Potatoes" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://digital.kunsthaus.ch/data/identifier/1860>,
+        <https://digital.kunsthaus.ch/data/identifier/F129a>,
+        <https://digital.kunsthaus.ch/data/identifier/JH727> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 41.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 33.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078>,
+        <http://vocab.getty.edu/aat/300014254>,
+        <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Genre> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/1860>,
+        <https://vangoghworldwide.org/data/artwork/F129a> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0051> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Old Tower" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Le Vieux Clocher" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Der alte Turm" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0051>,
+        <https://digital.kunsthaus.ch/data/identifier/F88>,
+        <https://digital.kunsthaus.ch/data/identifier/JH490> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 55.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 47.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014657> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "inscr. b. r.: Vincent" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Dauerleihgabe+Sammlung+Emil+B%C3%BChrle> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/BU+0051>,
+        <https://vangoghworldwide.org/data/artwork/F88> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0052> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Head of a Peasant Woman" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Tête de paysanne" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kopf einer Bäuerin" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0052>,
+        <https://digital.kunsthaus.ch/data/identifier/F80> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 30.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 41.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014657> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Frau> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/BU+0052>,
+        <https://vangoghworldwide.org/data/artwork/F80> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0055> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Two Peasant Women" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Zwei Bäuerinnen" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Deux Paysannes" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0055>,
+        <https://digital.kunsthaus.ch/data/identifier/F695> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 64.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 49.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014109> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Frau> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/BU+0055>,
+        <https://vangoghworldwide.org/data/artwork/F695> .
+
+<https://digital.kunsthaus.ch/data/artwork/2414> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Roses trémières" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Malven" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Hollyhocks" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://digital.kunsthaus.ch/data/identifier/2414>,
+        <https://digital.kunsthaus.ch/data/identifier/F235>,
+        <https://digital.kunsthaus.ch/data/identifier/JH1136> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 50.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 91.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "inscr. b. l.: Vincent" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Stillleben> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/2414>,
+        <https://vangoghworldwide.org/data/artwork/F235> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0050> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Bridges across the Seine at Asnières" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Les Ponts d'Asnières" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Die Seine-Brücken bei Asnières" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0050>,
+        <https://digital.kunsthaus.ch/data/identifier/F301> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 67.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 53.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Fluss> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/BU+0050>,
+        <https://vangoghworldwide.org/data/artwork/F301> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0054> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Autoportrait" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Self-Portrait" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Selbstbildnis" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0054>,
+        <https://digital.kunsthaus.ch/data/identifier/F366> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 47.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 35.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Mann> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/BU+0054>,
+        <https://vangoghworldwide.org/data/artwork/F366> .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<http://d-nb.info/gnd/118540416> a ns1:E39_Actor ;
+    rdfs:label "Gogh, Vincent van" ;
+    skos:exactMatch <https://data.rkd.nl/artists/32439> .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "Leinwand",
+        "canvas" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300264578> a ns1:E55_Type ;
+    rdfs:label "web page" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type ;
+    rdfs:label "preferred terms" .
+
+ns1:E12_Production a rdfs:Resource .
+
+<https://culture.ld.admin.ch/isil/CH-001899-9> a ns1:E39_Actor ;
+    rdfs:label "Grafische Sammlung, Kunsthaus Zürich" ;
+    skos:exactMatch <https://data.rkd.nl/artists/500782> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0049> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Der Sämann bei untergehender Sonne" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Sower with Setting Sun" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Le Semeur au soleil couchant" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0049>,
+        <https://digital.kunsthaus.ch/data/identifier/F450> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 92.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 73.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "inscr. b. r.: Vincent" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Sonnenuntergang> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/BU+0049>,
+        <https://vangoghworldwide.org/data/artwork/F450> .
+
+<https://digital.kunsthaus.ch/data/artwork/BU+0053> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Blühende Kastanienzweige" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Branches de marronnier en fleur" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Blossoming Chestnut Branches" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://digital.kunsthaus.ch/data/identifier/BU+0053>,
+        <https://digital.kunsthaus.ch/data/identifier/F820> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 73.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 92.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Dauerleihgabe+Sammlung+Emil+B%C3%BChrle> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/BU+0053>,
+        <https://vangoghworldwide.org/data/artwork/F820> .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<https://digital.kunsthaus.ch/data/artwork/1995%2F0006> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Mas blancs à Saintes-Maries" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Weisse Hütten bei Saintes-Maries" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Cabanes blanches aux Saintes-Maries" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "White Cottages at Saintes-Maries" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://digital.kunsthaus.ch/data/identifier/1995%2F0006>,
+        <https://digital.kunsthaus.ch/data/identifier/F419>,
+        <https://digital.kunsthaus.ch/data/identifier/JH1465> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 33.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 41.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300014254> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://digital.kunsthaus.ch/data/term/Landschaft> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/1995%2F0006>,
+        <https://vangoghworldwide.org/data/artwork/F419> .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Malerei",
+        "painting" .
+
+<https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Strasse nach Arles" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "La Route de Tarascon" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Die Strasse von Tarascon" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Road to Tarascon" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://digital.kunsthaus.ch/data/identifier/F1502>,
+        <https://digital.kunsthaus.ch/data/identifier/JH1492>,
+        <https://digital.kunsthaus.ch/data/identifier/Z.1940%2F0001> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 25.8 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 35.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300022464>,
+        <http://vocab.getty.edu/aat/300428768> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "not inscribed; verso u. l. with brown pen: 1[8]2.; u. r. with graphite pencil: ISSF; b. l. with brown pen: [illegible]; b. c. with brown pen: [mab?]" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014187> ] ;
+    ns1:P52_has_current_owner <https://culture.ld.admin.ch/isil/CH-001899-9> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1502>,
+        <https://vangoghworldwide.org/data/artwork/Z.1940%2F0001> .
+
+<http://vocab.getty.edu/aat/300388344> a ns1:E56_Language .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026497> a ns1:E55_Type ;
+    rdfs:label "bibliography statement" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+<http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type ;
+    rdfs:label "nonpreferred terms" .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand auf Holz" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0052> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand auf Holz" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0051> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor; Literatur, Sammlung Emil G. Bührle. Festschrift zu Ehren von Emil G. Bührle zur Eröffnung des Kunsthaus-Neubaus und Katalog der Sammlung Emil G. Bührle, Kunsthaus Zürich" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0052> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Papier auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0055> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0055> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor; Literatur, Sammlung Emil G. Bührle. Festschrift zu Ehren von Emil G. Bührle zur Eröffnung des Kunsthaus-Neubaus und Katalog der Sammlung Emil G. Bührle, Kunsthaus Zürich; Literatur, Landscapes of conveyance" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0050> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand auf Holz" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0051> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1860> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Papier auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0055> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0050> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (*1853 Zundert, +1890 Auvers-sur-Oise) (artist) __ Theo van Gogh (*1857 Zundert, +1891 Utrecht), legacy __ Johanna van Gogh-Bonger (*1862, +1925), legacy __ Vincent Willem van Gogh (*1890 Paris, +1978 Laren), legacy __ undated – 7.1908, C. M. van Gogh, Den Haag, legacy __ 1908, Hans Schuler (*1869, +1920 Zürich) (collector), purchase, from the Van Gogh-exhibition at the Künstlerhaus Zürich __ since 1920, Zürcher Kunstgesellschaft | Kunsthaus Zürich (museum), Zurich, bequest" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1398> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0174> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor; Literatur, Sammlung Emil G. Bührle. Festschrift zu Ehren von Emil G. Bührle zur Eröffnung des Kunsthaus-Neubaus und Katalog der Sammlung Emil G. Bührle, Kunsthaus Zürich" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0053> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Meisterwerke, Zürcher Kunstgesellschaft; Literatur, Kunsthaus Zürich. Gesamtkatalog der Gemälde und Skulpturen, Zürcher Kunstgesellschaft; Literatur, Van Gogh in Saint-Rémy and Auvers, Ronald Pickvance; Literatur, The Works of Vincent Van Gogh: His Paintings and Drawings, Jacob-Baart de la Faille; Literatur, L’Œuvre de Vincent van Gogh, Catalogue raisonné, ouvrage accompagné de la reproduction de plus de 1.600 tableaux, dessins, aquarelles et gravures du Maître, Jacob-Baart de la Faille; Literatur, L'opera pittorica completa di Van Gogh e i suoi nessi grafici, Paolo Lecaldano; Literatur, The New Complete Van Gogh, Jan Hulsker; Literatur, Vincent van Gogh, Jacob-Baart de la Faille; Literatur, Von Claude Lorrain bis Giovanni Segantini. Gemäldeoberfläche und Bildwirkung, Paul Pfister et al.; Literatur, Vincent van Gogh. Sämtliche Gemälde, Ingo F. Walther" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1398> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Pen and reed pen in brown and black over pencil on wove paper" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas on panel" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0051> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Feder und Rohrfeder in Braun und Schwarz über Grafitstift auf Papier (vélin)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor; Literatur, Sammlung Emil G. Bührle. Festschrift zu Ehren von Emil G. Bührle zur Eröffnung des Kunsthaus-Neubaus und Katalog der Sammlung Emil G. Bührle, Kunsthaus Zürich" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0049> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Meisterwerke, Zürcher Kunstgesellschaft; Literatur, Kunsthaus Zürich. Gesamtkatalog der Gemälde und Skulpturen, Zürcher Kunstgesellschaft; Literatur, Van Gogh & Japan, Louis van Tilborgh; Literatur, Fondation Vincent van Gogh, Arles. Van Gogh live! Inauguration, Luc Hoffmann et al.; Literatur, Van Gogh. Couleurs du Nord, couleurs du Sud, Sjraar van Heugten; Literatur, The Works of Vincent Van Gogh: His Paintings and Drawings, Jacob-Baart de la Faille; Literatur, L’Œuvre de Vincent van Gogh, Catalogue raisonné, ouvrage accompagné de la reproduction de plus de 1.600 tableaux, dessins, aquarelles et gravures du Maître, Jacob-Baart de la Faille; Literatur, L'opera pittorica completa di Van Gogh e i suoi nessi grafici, Paolo Lecaldano; Literatur, Masterpieces from the Kunsthaus Zürich, Detmar Westhoff; Literatur, The New Complete Van Gogh, Jan Hulsker; Literatur, Van Gogh. Colours of the North, colours of the South; Alain Albaric: Les Saintes-Maries-de-la-Mer (Aigues-Mortes 2003); Literatur, Van Gogh in Arles, Ronald Pickvance; Literatur, Vincent van Gogh, Jacob-Baart de la Faille; Literatur, Schenkung Walter Haefner. Donation Walter Haefner. Donation Walter Haefner, Christian Klemm; Literatur, Vincent van Gogh. Sämtliche Gemälde, Ingo F. Walther; Literatur, Making Van Gogh, Alexander Eiling; Literatur, The Vincent van Gogh Atlas. Junior Edition, Nienke Denekamp" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Feder und Rohrfeder in Braun und Schwarz über Grafitstift auf Papier (vélin)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/2414> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0054> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1860> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand auf Holz" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0051> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Papier auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0055> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas on panel" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0052> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1860> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand auf Holz" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0052> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1398> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Feder und Rohrfeder in Braun und Schwarz über Grafitstift auf Papier (vélin)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Kunsthaus Zürich. Gesamtkatalog der Gemälde und Skulpturen, Zürcher Kunstgesellschaft; Literatur, The Works of Vincent Van Gogh: His Paintings and Drawings, Jacob-Baart de la Faille; Literatur, L’Œuvre de Vincent van Gogh, Catalogue raisonné, ouvrage accompagné de la reproduction de plus de 1.600 tableaux, dessins, aquarelles et gravures du Maître, Jacob-Baart de la Faille; Literatur, L'opera pittorica completa di Van Gogh e i suoi nessi grafici, Paolo Lecaldano; Literatur, The New Complete Van Gogh, Jan Hulsker; Literatur, Il lavoro dell'uomo nella pittura da Goya a Kandinskij, Giovanni Morello; Literatur, Vincent van Gogh, Jacob-Baart de la Faille; Literatur, Von Claude Lorrain bis Giovanni Segantini. Gemäldeoberfläche und Bildwirkung, Paul Pfister et al.; Literatur, Vincent van Gogh. Sämtliche Gemälde, Ingo F. Walther" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1860> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Meisterzeichnungen, 100 Jahre Grafische Sammlung im Kunsthaus Zürich, Zürcher Kunstgesellschaft | Kunsthaus Zürich; Literatur, Van Gogh and Nature, Richard Kendall; Literatur, Van Gogh and Nature, Richard Kendall et al.; Literatur, Vincent van Gogh, Evert van Uitert; Literatur, The Works of Vincent Van Gogh: His Paintings and Drawings, Jacob-Baart de la Faille; Literatur, Vincent van Gogh. Letters, P. V. Melkova; Literatur, The New Complete Van Gogh, Jan Hulsker; Literatur, Van Gogh. Leben und Werk, Frank Elgar; Literatur, De trein naar Tarascon. Roman, Andreas Burnier; Literatur, Vincent van Gogh, der Zeichner, Julius Meier-Graefe; Literatur, Van Gogh, Ronald Pickvance; Literatur, Van Gogh, Hammacher Abraham Marie; Literatur, ZienderOgen Kunst voor de Basisvorming. Onderbouwdeel vbo/mavo, Fer Remmers; Literatur, Der Zeichner Vincent van Gogh, «B» [?]; Literatur, Vincent van Gogh, Fritz Erpel; Literatur, Met van Gogh in de Provence. Verblijf, breven, werk, Jan van Keulen; Literatur, Van Gogh in Arles, Ronald Pickvance; Jahresbericht 1940, Zürcher Kunstgesellschaft; Literatur, The Real Van Gogh. The artist and his letters, Ann Dumas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0054> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0054> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0049> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor; Literatur, Sammlung Emil G. Bührle. Festschrift zu Ehren von Emil G. Bührle zur Eröffnung des Kunsthaus-Neubaus und Katalog der Sammlung Emil G. Bührle, Kunsthaus Zürich" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0051> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Die Sammlung Emil Bührle. Geschichte, Gesamtkatalog und 70 Meisterwerke, Lukas Gloor" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0054> .
+
+[] a <http://vocab.getty.edu/aat/300026497>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Literatur, Kunsthaus Zürich. Gesamtkatalog der Gemälde und Skulpturen, Zürcher Kunstgesellschaft; Literatur, The Works of Vincent Van Gogh: His Paintings and Drawings, Jacob-Baart de la Faille; Literatur, L’Œuvre de Vincent van Gogh, Catalogue raisonné, ouvrage accompagné de la reproduction de plus de 1.600 tableaux, dessins, aquarelles et gravures du Maître, Jacob-Baart de la Faille; Literatur, Van Gogh. Up Close; Literatur, L'opera pittorica completa di Van Gogh e i suoi nessi grafici, Paolo Lecaldano; Literatur, Masterpieces from the Kunsthaus Zürich, Detmar Westhoff; Literatur, The New Complete Van Gogh, Jan Hulsker; Literatur, Vincent van Gogh, Jacob-Baart de la Faille; Literatur, Vincent van Gogh. Sämtliche Gemälde, Ingo F. Walther" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026497> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/2414> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0050> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0053> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0053> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (*1853 Zundert, +1890 Auvers-sur-Oise) (artist) __ whereabouts unknown __ Galerie Charpentier (gallery), Paris __ [whereabouts unknown?] __ undated – 1927, Galerie Hans Bammann (gallery), Dusseldorf __ since 1927, Zürcher Kunstgesellschaft | Kunsthaus Zürich (museum), Zurich, purchase" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1860> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0054> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0174> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "7.1888, Vincent van Gogh (*1853 Zundert, +1890 Auvers-sur-Oise) (artist), Arles __ 1888 – 1891, Theo van Gogh (*1857 Zundert, +1891 Utrecht) (agent), Paris __ 1891 – 1912, Johanna van Gogh-Bonger (*1862, +1925), Amsterdam, bequest __ 1912, Artz and De Bois (gallery), Den Haag __ Sommer 1913 - 1926, H. de Bois (*1878 Amsterdam, +1946 Haarlem), Haarlem __ 9.1917, offered to Felix Graefe, Wien __ 1.1918, offered to R. E. Buhler, Winterthur __ 11.1926 – 12.1926, Leicester Galleries, London, exhibition loan, cat. 28 __ 1926, Unknown (collector), England, purchase __ 6.12.1927 – 1.2.1928, Galerie Otto Wacker, Berlin, cat. 63 (incl. ill.) __ undated – 25.2.1940, Julian Manheimer (*1871 Posen, +1947 Zurich), purchase __ 28.1.1940 – 25.2.1940, Galerie Aktuaryus (gallery), Zurich, commission, exhibition \"Cinquante oeuvres d’art français (huiles, dessins, sculptures)\" __ since 12.3.1940, Zürcher Kunstgesellschaft | Kunsthaus Zürich (museum), Zurich, purchase" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/Z.1940%2F0001> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (*1853 Zundert, +1890 Auvers-sur-Oise) (artist) __ 13.8.1888, Theo van Gogh (*1857 Zundert, +1891 Utrecht) __ Johanna van Gogh-Bonger (*1862, +1925), legacy __ at the latest from 1890 – undated, Vincent Willem van Gogh (*1890 Paris, +1978 Laren), legacy __ [whereabouts unknown?] __ 11.1891 – undated, Willy Gretor, Paris __ [whereabouts unknown?] __ 1901, Julien Leclercq, Paris __ [whereabouts unknown?] __ probably, at the latest from 1901 – at least until 1904, Bernheim-Jeune (gallery), Paris __ [whereabouts unknown?] __ 1908, Maurice Fabre (collector), Paris/Gasparets __ [whereabouts unknown?] __ 1909 – 1925, Gustave Fayet (*1865 Béziers, +1925 Carcassonne) (collector), Igny __ [whereabouts unknown?] __ Galerie Wildenstein (gallery), New York, NY __ [whereabouts unknown?] __ since 1927 – undated, Paul Rosenberg (*1881, +1959) (art dealer) __ [whereabouts unknown?] __ 1934 – undated, Mr. and Mrs. William H. Crocker (collector), San Francisco, CA __ at the latest from 1940 – at least until 1965, W. H. Crocker Estate (collector), Burlingame, CA, legacy __ at the latest from 1960 – at least until 1971, Henry Potter Russell, San Francisco, CA, legacy, Helen Victoria Crocker, later Henry Potter Russell, daughter of William H. Crocker __ [whereabouts unknown?] __ undated – not later than 1974, Galerie Wildenstein (gallery), New York, NY __ Walter Haefner (*1910, +2012 Zurich) (collector), purchase __ 11.9.1974 – 1995, Zürcher Kunstgesellschaft | Kunsthaus Zürich (museum), Zurich, loan __ since 1995, Zürcher Kunstgesellschaft | Kunsthaus Zürich (museum), Zurich, donation, on the occasion of the 50th anniversary of AMAG, Zurich" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1995%2F0006> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on paper on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0055> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0174> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0174> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (*1853 Zundert, +1890 Auvers-sur-Oise) (artist) __ whereabouts unknown __ undated – 10.5.1906, Eugène Blot (*1857 Paris, +1938) (collector), Paris __ 9.5.1900, Hôtel Drouot (auction), Paris, Vente Blot, lot 162, return __ 10.5.1906, Hôtel Drouot (auction), Paris, Vente Blot, lot 81 __ [whereabouts unknown?] __ Galerie Eugène Druet (gallery), Paris __ [whereabouts unknown?] __ Bernheim-Jeune (gallery), Paris __ [whereabouts unknown?] __ 1909, Adolph Rothermundt (*1846 St. Petersburg, +1930 Dresden) (collector), Dresden __ [whereabouts unknown?] __ Galerie Caspari (gallery), Munich __ [whereabouts unknown?] __ undated – at least until 1928, Ludwig Katzenellenbogen (*1877 Krotoschin, +1944 Berlin) (collector), Berlin __ at the latest from 1.4.1932 – 5.1937, Tilla Durieux (*1880 Wien, +1971 West-Berlin ) (collector), Berlin/Abbazzia __ 2.1933 – 3.1933, Neue Galerie (gallery), Wien, loan, exhibition 'Französische Impressionisten', no. 34 (Malven) __ 14.5.1933 – 6.8.1933, Zürcher Kunstgesellschaft | Kunsthaus Zürich (museum), Zurich, loan, exhibition 'Französische Maler des 19. Jahrhunderts', no. 101 __ 20.12.1933 – 21.1.1934, Museum Boijmans Van Beuningen (museum), Rotterdam, loan, exhibition 'Schilderijen van Delacroix tot Cezanne en Vincent van Gogh', no. 36 (Malven) __ 18.2.1934 – 2.4.1934, Kunsthalle Bern (museum), Bern, loan, exhibition 'Französische Malerei des 19. Jahrhunderts und van Gogh', no. 60 (Malven) __ 1.4.1932 – 19.3.1937, Galerie Paul Cassirer & Co. (gallery), Amsterdam, commission __ since 5.1937, Zürcher Kunstgesellschaft | Kunsthaus Zürich (museum), Zurich, purchase" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/2414> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand auf Holz" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/BU+0052> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1860> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/2414> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1398> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388344> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1398> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Öl auf Leinwand" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://digital.kunsthaus.ch/data/artwork/1398> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> .
+

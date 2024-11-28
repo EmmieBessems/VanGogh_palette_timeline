@@ -1,0 +1,1074 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <https://linked.art/ns/terms/> .
+@prefix ns3: <http://purl.org/dc/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns3:elements%2F1.1%2Fformat a rdfs:Resource .
+
+dcterms:conformsTo a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P129_is_about a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+ns2:access_point a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770829> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/F.1969.39.2.P/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770830> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/F.1972.44.P/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770831> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/F.1976.11.G> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770832> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/F.1985.1.P/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770867> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/M.1968.32.P/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770868> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/M.1975.06.P/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770869> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/M.1976.09.P/7> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770870> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/M.1980.05.D/8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770963> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770964> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/F.1972.44.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770965> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/technical/F.1976.11.G/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770966> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/F.1985.1.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770967> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/M.1968.32.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770968> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/M.1975.06.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770969> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/M.1976.09.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770970> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.nortonsimon.org/data/artwork/M.1980.05.D> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/artwork/F.1969.39.2.P/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The Norton Simon Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> .
+
+<https://www.nortonsimon.org/data/artwork/F.1969.39.2.P/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/F.1969.39.2.P> .
+
+<https://www.nortonsimon.org/data/artwork/F.1969.39.2.P/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "Probably January 1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-01-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<https://www.nortonsimon.org/data/artwork/F.1972.44.P/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The Norton Simon Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1972.44.P> .
+
+<https://www.nortonsimon.org/data/artwork/F.1972.44.P/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/F.1972.44.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/F.1972.44.P> .
+
+<https://www.nortonsimon.org/data/artwork/F.1972.44.P/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/F.1972.44.P> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "November 1884" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1884-11-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1884-11-30"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<https://www.nortonsimon.org/data/artwork/F.1976.11.G/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The Norton Simon Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1976.11.G> .
+
+<https://www.nortonsimon.org/data/artwork/F.1976.11.G/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/F.1976.11.G> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/F.1976.11.G> .
+
+<https://www.nortonsimon.org/data/artwork/F.1976.11.G/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/F.1976.11.G> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1890" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1890-12-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008030> .
+
+<https://www.nortonsimon.org/data/artwork/F.1985.1.P/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The Norton Simon Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1985.1.P> .
+
+<https://www.nortonsimon.org/data/artwork/F.1985.1.P/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/F.1985.1.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/F.1985.1.P> .
+
+<https://www.nortonsimon.org/data/artwork/F.1985.1.P/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/F.1985.1.P> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-12-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<https://www.nortonsimon.org/data/artwork/M.1968.32.P/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Norton Simon Art Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1968.32.P> .
+
+<https://www.nortonsimon.org/data/artwork/M.1968.32.P/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/M.1968.32.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/M.1968.32.P> .
+
+<https://www.nortonsimon.org/data/artwork/M.1968.32.P/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/M.1968.32.P> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "October 1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-10-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-10-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://www.nortonsimon.org/data/artwork/M.1975.06.P/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Norton Simon Art Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1975.06.P> .
+
+<https://www.nortonsimon.org/data/artwork/M.1975.06.P/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/M.1975.06.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/M.1975.06.P> .
+
+<https://www.nortonsimon.org/data/artwork/M.1975.06.P/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/M.1975.06.P> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "August 1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-08-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-08-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://www.nortonsimon.org/data/artwork/M.1976.09.P/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Norton Simon Art Foundation, Gift of Mr. Norton Simon" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1976.09.P> .
+
+<https://www.nortonsimon.org/data/artwork/M.1976.09.P/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/M.1976.09.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/M.1976.09.P> .
+
+<https://www.nortonsimon.org/data/artwork/M.1976.09.P/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/M.1976.09.P> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "October 1889" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1889-10-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1889-10-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009654> .
+
+<https://www.nortonsimon.org/data/artwork/M.1980.05.D/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Norton Simon Art Foundation" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1980.05.D> .
+
+<https://www.nortonsimon.org/data/artwork/M.1980.05.D/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns3:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://www.nortonsimon.org/data/artwork/M.1980.05.D> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns2:access_point <https://www.nortonsimon.org/art/detail/M.1980.05.D> .
+
+<https://www.nortonsimon.org/data/artwork/M.1980.05.D/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/artwork/M.1980.05.D> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300054196> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1882" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1882-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1882-12-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006810> .
+
+<https://www.nortonsimon.org/data/technical/F.1969.39.2.P/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/F.1969.39.2.P/1> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/F.1972.44.P/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/F.1972.44.P/2> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/F.1972.44.P> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/F.1976.11.G/3/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/F.1976.11.G/3> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/F.1976.11.G> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/F.1985.1.P/4/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/F.1985.1.P/4> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/F.1985.1.P> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1968.32.P/5/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/M.1968.32.P/5> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/M.1968.32.P> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1975.06.P/6/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/M.1975.06.P/6> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/M.1975.06.P> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1976.09.P/7/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/M.1976.09.P/7> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/M.1976.09.P> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1980.05.D/8/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.nortonsimon.org/data/technical/M.1980.05.D/8> ;
+    ns1:P16_used_specific_object <https://www.nortonsimon.org/data/artwork/M.1980.05.D> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300215302> .
+
+<http://vocab.getty.edu/aat/300014228> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300014657> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300015012> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300015638> a rdfs:Resource ;
+    rdfs:label "still lifes" .
+
+<http://vocab.getty.edu/aat/300022443> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300033973> a ns1:E55_Type ;
+    rdfs:label "Drawings" .
+
+<http://vocab.getty.edu/aat/300041273> a ns1:E55_Type ;
+    rdfs:label "Prints" .
+
+<http://vocab.getty.edu/aat/300054196> a ns1:E55_Type ;
+    rdfs:label "drawing" .
+
+<http://vocab.getty.edu/aat/300070114> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300187371> a ns1:E57_Material ;
+    rdfs:label "printing ink" .
+
+<http://vocab.getty.edu/tgn/7006810> a ns1:E53_Place ;
+    rdfs:label "s-Gravenhage" .
+
+<http://vocab.getty.edu/tgn/7008030> a ns1:E53_Place ;
+    rdfs:label "Auvers-sur-Oise" .
+
+<http://vocab.getty.edu/tgn/7009654> a ns1:E53_Place ;
+    rdfs:label "Saint-Rémy-de-Provence" .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1664> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F194> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F443> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F477> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F57> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F637> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F85a> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F942> a rdfs:Resource .
+
+<https://www.nortonsimon.org/art/detail/F.1969.39.2.P> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/art/detail/F.1972.44.P> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/art/detail/F.1976.11.G> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/art/detail/F.1985.1.P> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/art/detail/M.1968.32.P> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/art/detail/M.1975.06.P> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/art/detail/M.1976.09.P> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/art/detail/M.1980.05.D> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://www.nortonsimon.org/data/identifier/F.1969.39.2.P> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F.1969.39.2.P" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/identifier/F.1972.44.P> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F.1972.44.P" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/identifier/F.1976.11.G> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F.1976.11.G" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/identifier/F.1985.1.P> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F.1985.1.P" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/identifier/F1664> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1664" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/F194> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F194" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/F443> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F443" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/F477> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F477" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/F57> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F57" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/F637> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F637" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/F85a> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F85a" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/F942> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F942" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH147> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH147" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH1548> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1548" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH1600> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1600" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH1796> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1796" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH2028> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH2028" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH539> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH539" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH603> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH603" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/JH694> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH694" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.nortonsimon.org/data/identifier/M.1968.32.P> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "M.1968.32.P" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/identifier/M.1975.06.P> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "M.1975.06.P" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/identifier/M.1976.09.P> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "M.1976.09.P" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/identifier/M.1980.05.D> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "M.1980.05.D" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.nortonsimon.org/data/technical/F.1969.39.2.P/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "F.1969.39.2.P_colorchart" .
+
+<https://www.nortonsimon.org/data/technical/F.1972.44.P/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "F.1972.44.P_colorchart" .
+
+<https://www.nortonsimon.org/data/technical/F.1976.11.G/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "F.1976.11.G_colorchart" .
+
+<https://www.nortonsimon.org/data/technical/F.1985.1.P/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "F.1985.1.P_colorchart" .
+
+<https://www.nortonsimon.org/data/technical/M.1968.32.P/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "M.1968.32.P_colorchart" .
+
+<https://www.nortonsimon.org/data/technical/M.1975.06.P/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "M.1975.06.P_colorchart" .
+
+<https://www.nortonsimon.org/data/technical/M.1976.09.P/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "M.1976.09.P_colorchart" .
+
+<https://www.nortonsimon.org/data/technical/M.1980.05.D/8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "M.1980.05.D_colorchart" .
+
+<http://vocab.getty.edu/aat/300014109> a ns1:E57_Material ;
+    rdfs:label "paper" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "landscapes" .
+
+<http://vocab.getty.edu/aat/300236227> a rdfs:Resource ;
+    rdfs:label "townscapes" .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7008775> a ns1:E53_Place ;
+    rdfs:label "Arles" .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<https://www.nortonsimon.org/data/technical/F.1969.39.2.P/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/F.1969.39.2.P/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/F.1972.44.P/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/F.1972.44.P/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/F.1976.11.G/3> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/F.1976.11.G/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/F.1985.1.P/4> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/F.1985.1.P/4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1968.32.P/5> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/M.1968.32.P/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1975.06.P/6> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/M.1975.06.P/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1976.09.P/7> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/M.1976.09.P/7/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.nortonsimon.org/data/technical/M.1980.05.D/8> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.nortonsimon.org/data/technical/M.1980.05.D/8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://vocab.getty.edu/tgn/7006835> a ns1:E53_Place ;
+    rdfs:label "Nuenen" .
+
+<http://vocab.getty.edu/aat/300015637> a rdfs:Resource ;
+    rdfs:label "portraits" .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Paintings" .
+
+<http://vocab.getty.edu/aat/300028702> a ns1:E55_Type ;
+    rdfs:label "inscriptions" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Winter (The Vicarage Garden under Snow)" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F.1969.39.2.P>,
+        <https://www.nortonsimon.org/data/identifier/F194>,
+        <https://www.nortonsimon.org/data/identifier/JH603> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 79.1 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 58.4 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014657> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300236227> ],
+        [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F194> .
+
+<https://www.nortonsimon.org/data/artwork/F.1972.44.P> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Still Life" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F.1972.44.P>,
+        <https://www.nortonsimon.org/data/identifier/F57>,
+        <https://www.nortonsimon.org/data/identifier/JH539> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 56.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 40.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015638> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F57> .
+
+<https://www.nortonsimon.org/data/artwork/F.1976.11.G> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Portrait of Dr. Gachet" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F.1976.11.G>,
+        <https://www.nortonsimon.org/data/identifier/F1664>,
+        <https://www.nortonsimon.org/data/identifier/JH2028> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300041273> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 18.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 15.2 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300187371> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014109> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015637> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1664> .
+
+<https://www.nortonsimon.org/data/artwork/F.1985.1.P> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Head of a Peasant Woman in a White Bonnet" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F.1985.1.P>,
+        <https://www.nortonsimon.org/data/identifier/F85a>,
+        <https://www.nortonsimon.org/data/identifier/JH694> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 35.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 47.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015637> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F85a> .
+
+<https://www.nortonsimon.org/data/artwork/M.1968.32.P> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Portrait of the Artist's Mother" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F477>,
+        <https://www.nortonsimon.org/data/identifier/JH1600>,
+        <https://www.nortonsimon.org/data/identifier/M.1968.32.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 40.6 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 32.4 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015637> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F477> .
+
+<https://www.nortonsimon.org/data/artwork/M.1975.06.P> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Portrait of a Peasant (Patience Escalier)" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F443>,
+        <https://www.nortonsimon.org/data/identifier/JH1548>,
+        <https://www.nortonsimon.org/data/identifier/M.1975.06.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 64.1 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 54.6 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Signature, upper left corner: \"Vincent\"" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015637> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F443> .
+
+<https://www.nortonsimon.org/data/artwork/M.1976.09.P> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Mulberry Tree" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F637>,
+        <https://www.nortonsimon.org/data/identifier/JH1796>,
+        <https://www.nortonsimon.org/data/identifier/M.1976.09.P> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 54.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 65.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F637> .
+
+<https://www.nortonsimon.org/data/artwork/M.1980.05.D> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Back Garden of Sien's Mother's House, the Hague" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.nortonsimon.org/data/identifier/F942>,
+        <https://www.nortonsimon.org/data/identifier/JH147>,
+        <https://www.nortonsimon.org/data/identifier/M.1980.05.D> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 46.4 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 60.6 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015012>,
+        <http://vocab.getty.edu/aat/300022443>,
+        <http://vocab.getty.edu/aat/300070114> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014228> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "None" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014109> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Signature, lower left: \"Vincent\"" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500310865> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300236227> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F942> .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300264578> a ns1:E55_Type ;
+    rdfs:label "web page" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/ulan/500115588> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<http://vocab.getty.edu/ulan/500310865> a ns1:E39_Actor ;
+    rdfs:label "Norton Simon Museum" .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+ns1:E57_Material a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+<http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "Visible Light photograph",
+        "digital image",
+        "digital images" .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1972.44.P> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "[Ambroise Vollard, Paris]. Ann Rosenberg, Paris. E. Druet, Paris, sold October 1904 to; [Paul Cassirer, Berlin, sold May 1905 to]; Carl Moll (1861-1945), Vienna, until at least 1914. [Paul Rosenberg, Paris, by 1928, still in 1937]. Reverend Theodore Pitcairn, Bryn Athyn, Pennsylvania, by 1938 (sale, London, Christie’s, 28 June 1968, lot 112, to); Norton Simon Art Foundation." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1968.32.P> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1985.1.P> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "C. Mouwen, Jr., Breda (sale, Amsterdam, Frederik Muller & Cie, Amsterdam, 3 May 1904, lot 6, as L’hiver, unsold). [Oldenzeel Art Gallery, Rotterdam]. Henricus Petrus Bremmer (1871-1956), The Hague, 1905, by descent to; his heirs. ?[E.V. Thaw & Co., New York; stock no. R8106]; ?[Reid & Lefevre, London]; [E. J. van Wisselingh and Co., Amsterdam; stock no. S 2589, as L’Hiver; by 1963; offered 24 September 1969 and subsequently sold 22 October 1969 to]; The Norton Simon Foundation." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "[C. M. van Gogh, Amsterdam] C. Mouwen, Jr., Breda. Roell, Utrecht [W. C. A. Huinck, Utrecht] Henricus Petrus Bremmer (1871-1956), The Hague, 1928-1950. [Jon N. Streep, New York; sold 1955 to] David Daniels, New York (sale, New York, Sotheby Parke-Bernet, 14 May 1980, lot 212) [R.M. Light & Co., Inc., Santa Barbara; sold 4 February 1980 to] Norton Simon; consigned 30 April 1982 to [E. V. Thaw & Co., New York; returned after 29 March 1983 to] Norton Simon" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1980.05.D> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "[New York, Sotheby Parke Bernet, 6 May 1976, lot 199A, bought-in; sold by private sale 8 July 1976 to]; The Norton Simon Foundation." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1976.11.G> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Etching on paper" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1976.11.G> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Mrs. Johanna van Gogh-Bonger, Amsterdam, sold Dec. 1899 to; Henricus Petrus Bremmer (1871-1956), The Hague, still in 1935, to; Mr. and Mrs. Edouard L. Jonas, Paris and New York; Mrs. H. Harris Jonas (Mrs. Edouard Jonas, 1884–1974), New York, to; [Wildenstein and Co., New York, sold 1975 to]; Norton Simon Art Foundation." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1975.06.P> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1968.32.P> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas, mounted to panel" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1969.39.2.P> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1975.06.P> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Sepia ink, gouache, and graphite on paper, laid on Bristol board" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1980.05.D> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "(J. J. Biesing, The Hague). Henricus Petrus Bremmer (1871-1956), The Hague, c.1910-1956. [E. J. van Wisselingh & Co., Amsterdam]. [Laing Galleries, Toronto]. Arnold Hofland, London, by 1963. [E. J. van Wisselingh & Co., Amsterdam; stock no. S3993; sold 19 September 1972 to]; The Norton Simon Foundation." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1972.44.P> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1976.09.P> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "[Galerie d'Art Ed. Oldenzeel, Rotterdam, ca. 1902/3, to]. Dr. H. J. Nieboer, The Hague; ca. 1903/04, by 1905, by inheritance to his daughter; Mrs. S. de Voogd-Nieboer, Rijswijk (sale, New York, Parke-Bernet, 14 March 1956, lot 89, ill., as Head of a Peasant Woman). [Hammer Galleries, New York]. (sale, London, Sotheby’s, 6 December 1961, lot 61, ill., as Tête d’une paysanne, to); [R. M. Light, Boston, 1963]. Mr. and Mrs. David Bakalar, Boston (sale, New York, Sotheby’s, 14 November 1984, lot 2, ill., Tête de paysanne au bonnet blanc); The Norton Simon Foundation." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/F.1985.1.P> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Camille Pissarro, Paris, by 1890, by inheritance to; Madame C. Pissarro, Paris; [Ambroise Vollard, Paris]. Alphonse Kann (1870-1948), Saint Germain-en-Laye by 1928, still in 1934, presumably inherited by; Michael Stewart, London. [David Gibbs, London and New York, sold 19 October 1961 to]; [Marlborough Fine Art, Ltd., London, sold 12 November 1961 to]; Norton Simon, gift 1976 to; Norton Simon Art Foundation." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.nortonsimon.org/data/artwork/M.1976.09.P> .
+

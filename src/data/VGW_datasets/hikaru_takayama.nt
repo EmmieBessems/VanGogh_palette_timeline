@@ -1,0 +1,326 @@
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b6 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/document/9781199517364/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8c0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8c0 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/document/3822896438/part>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b7 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bc <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bb <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/document/9780517448670/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bb <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8aa <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8aa <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/artwork/YO-00053>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ad <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ad <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/artwork/YO-00053>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ac <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300015636>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b0 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b1.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8af <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028705>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a5 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ab <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300014078>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ab <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300014844>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ae <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8af.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a7 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388306>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a7 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a6 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a4 <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a5.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300207379>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a9 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a9 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a8 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a8 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a3 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300418049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435429> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E56_Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P128_carries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7006835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300028051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://data.rkd.nl/artists/508846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://purl.org/dc/elements/1.1/format> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300224399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300444173> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300444173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300207379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/ulan/500452045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://vangoghworldwide.org/data/artwork/F148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://h-am.jp/data/actor/Ernest+Brown+%26+Phillips%2C+The+Leicester+Galleries%2C+London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://h-am.jp/data/actor/Clive+Cookson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://h-am.jp/data/actor/B.+M.+A.+Carp%2C+Bloemendaal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300015050>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a9.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a8.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a7.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ab.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a6.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/identifier/JH908>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F148>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ac.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ae.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b0.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/identifier/F148>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/identifier/YO-00053>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033618>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/508846>.
+<https://h-am.jp/data/artwork/YO-00053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://h-am.jp/data/actor/L.+C.+Enthoven%2C+Vooburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://vocab.getty.edu/ulan/500304031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/name>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500304031>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/timespan>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://h-am.jp/data/document/9781199517364/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://h-am.jp/data/document/3822896438/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bf.
+<https://h-am.jp/data/document/3822896438/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://h-am.jp/data/document/3822896438>.
+<https://h-am.jp/data/document/3822896438/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://h-am.jp/data/document/3822896438/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://h-am.jp/data/document/9780517448670/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/document/9780517448670/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://h-am.jp/data/document/3822896438/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://h-am.jp/data/document/9780517448670> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://h-am.jp/data/document/9780517448670> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://h-am.jp/data/document/9780517448670/part>.
+<https://h-am.jp/data/document/9780517448670> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b7.
+<https://h-am.jp/data/document/9780517448670> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/document/9780517448670/title>.
+<https://h-am.jp/data/document/9780517448670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://h-am.jp/data/document/9781199517364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://h-am.jp/data/document/9781199517364> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://h-am.jp/data/document/9781199517364> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/document/9781199517364/title>.
+<https://h-am.jp/data/document/9781199517364> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b2.
+<https://h-am.jp/data/document/9781199517364> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://h-am.jp/data/document/9781199517364/part>.
+<https://h-am.jp/data/document/9780517448670/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://h-am.jp/data/document/3822896438> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bc.
+<https://h-am.jp/data/document/3822896438> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/document/3822896438/title>.
+<https://h-am.jp/data/document/3822896438> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://h-am.jp/data/document/3822896438/part>.
+<https://h-am.jp/data/document/3822896438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://h-am.jp/data/document/3822896438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://h-am.jp/data/document/3822896438/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://h-am.jp/data/document/9780517448670/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://h-am.jp/data/document/9780517448670/author>.
+<https://h-am.jp/data/document/9780517448670/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://h-am.jp/data/document/9780517448670>.
+<https://h-am.jp/data/document/9780517448670/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://h-am.jp/data/document/9781199517364/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b5.
+<https://h-am.jp/data/document/9781199517364/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://h-am.jp/data/document/9781199517364>.
+<https://h-am.jp/data/document/9781199517364/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://h-am.jp/data/document/9781199517364/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://h-am.jp/data/document/9780517448670/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://h-am.jp/data/document/9780517448670/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ba.
+<https://h-am.jp/data/document/9780517448670/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://h-am.jp/data/document/9780517448670>.
+<https://h-am.jp/data/document/9780517448670/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://h-am.jp/data/document/9780517448670/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://h-am.jp/data/document/9781199517364/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/document/9781199517364/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://h-am.jp/data/document/3822896438/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://h-am.jp/data/document/3822896438/author>.
+<https://h-am.jp/data/document/3822896438/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://h-am.jp/data/document/3822896438>.
+<https://h-am.jp/data/document/3822896438/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://h-am.jp/data/document/3822896438/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/document/3822896438/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://h-am.jp/data/document/9781199517364/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500452045>.
+<https://h-am.jp/data/document/9781199517364/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://h-am.jp/data/document/9781199517364>.
+<https://h-am.jp/data/document/9781199517364/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://h-am.jp/data/identifier/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<https://h-am.jp/data/identifier/YO-00053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://h-am.jp/data/identifier/JH908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://h-am.jp/data/identifier/JH908> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://h-am.jp/gallery/seiyou/images/gogh-sentaku_l.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://h-am.jp/gallery/seiyou/images/gogh-sentaku_l.jpg> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/gallery/seiyou/images/gogh-sentaku_l.jpg> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://h-am.jp/data/artwork/YO-00053/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://h-am.jp/data/artwork/YO-00053/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://h-am.jp/data/artwork/YO-00053/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/artwork/YO-00053/production> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006835>.
+<https://h-am.jp/data/artwork/YO-00053/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a4.
+<https://h-am.jp/data/identifier/F148> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://h-am.jp/data/identifier/F148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://h-am.jp/data/technical/YO-00053/3/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://h-am.jp/data/technical/YO-00053/3>.
+<https://h-am.jp/data/technical/YO-00053/3/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://h-am.jp/data/technical/YO-00053/3/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/technical/YO-00053/3/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300046300>.
+<https://h-am.jp/data/technical/YO-00053/2/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300224399>.
+<https://h-am.jp/data/technical/YO-00053/2/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/technical/YO-00053/2/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://h-am.jp/data/technical/YO-00053/2>.
+<https://h-am.jp/data/technical/YO-00053/2/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://h-am.jp/data/technical/YO-00053/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://h-am.jp/data/technical/YO-00053/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://h-am.jp/data/technical/YO-00053/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/technical/YO-00053/3/title>.
+<https://h-am.jp/data/technical/YO-00053/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://h-am.jp/data/technical/YO-00053/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/technical/YO-00053/2/title>.
+<https://h-am.jp/data/technical/YO-00053/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://h-am.jp/data/technical/YO-00053/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://h-am.jp/data/technical/YO-00053/1/title>.
+<https://h-am.jp/data/technical/YO-00053/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://h-am.jp/data/technical/YO-00053/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://h-am.jp/data/technical/YO-00053/1/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300224399>.
+<https://h-am.jp/data/technical/YO-00053/1/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://h-am.jp/data/artwork/YO-00053>.
+<https://h-am.jp/data/technical/YO-00053/1/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://h-am.jp/data/technical/YO-00053/1>.
+<https://h-am.jp/data/technical/YO-00053/1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://media.rkd.nl/iiif/10770921/> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://h-am.jp/data/technical/YO-00053/2>.
+<https://media.rkd.nl/iiif/10770921/> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770921/> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770921/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770826> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://h-am.jp/data/technical/YO-00053/3>.
+<https://media.rkd.nl/iiif/10770826> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770826> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770828> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://h-am.jp/data/technical/YO-00053/1>.
+<https://media.rkd.nl/iiif/10770828> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770828> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F148".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8c0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p.112 (ill.)".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9781199517364".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b7 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9780517448670".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bc <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "3822896438".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bb <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH908, p.201".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8aa <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "oil on canvas".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ad <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "B M A Carp, Bloemendaal; L C Enthoven, Vooburg; Ernest Brown & Phillips, The Leicester Galleries, London; Clive Cookson, from c. 1940, and by descent to his son; in the collection of Hikaru Museum, August 29, 2003".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8af <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Not signed or dated".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Augst 1885".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a7 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Paysage blanchissant le Linge".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Peasant Woman Laundering".
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Hatton Gallery / The Leicester Galleries".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a3 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "from c. 1940".
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "Paintings".
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/2000/01/rdf-schema#label> "signatures".
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/2000/01/rdf-schema#label> "canvas".
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/2000/01/rdf-schema#label> "oil paint".
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/2000/01/rdf-schema#label> "provenance entry".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<http://vocab.getty.edu/aat/300015636> <http://www.w3.org/2000/01/rdf-schema#label> "landscapes".
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/2000/01/rdf-schema#label> "Pagination statement".
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/2000/01/rdf-schema#label> "ISBN".
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition".
+<http://vocab.getty.edu/tgn/7006835> <http://www.w3.org/2000/01/rdf-schema#label> "Nuenen".
+<http://vocab.getty.edu/aat/300028051> <http://www.w3.org/2000/01/rdf-schema#label> "books".
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/2000/01/rdf-schema#label> "publishing".
+<https://data.rkd.nl/artists/508846> <http://www.w3.org/2000/01/rdf-schema#label> "Hikaru Museum".
+<http://vocab.getty.edu/aat/300224399> <http://www.w3.org/2000/01/rdf-schema#label> "raking light".
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/2000/01/rdf-schema#label> "photographs".
+<http://vocab.getty.edu/aat/300207379> <http://www.w3.org/2000/01/rdf-schema#label> "stickers".
+<http://vocab.getty.edu/ulan/500452045> <http://www.w3.org/2000/01/rdf-schema#label> "Faille, J. B. de la".
+<https://h-am.jp/data/actor/Ernest+Brown+%26+Phillips%2C+The+Leicester+Galleries%2C+London> <http://www.w3.org/2000/01/rdf-schema#label> "Ernest Brown & Phillips, The Leicester Galleries, London".
+<https://h-am.jp/data/actor/Clive+Cookson> <http://www.w3.org/2000/01/rdf-schema#label> "Clive Cookson".
+<https://h-am.jp/data/actor/B.+M.+A.+Carp%2C+Bloemendaal> <http://www.w3.org/2000/01/rdf-schema#label> "B. M. A. Carp, Bloemendaal".
+<https://h-am.jp/data/actor/L.+C.+Enthoven%2C+Vooburg> <http://www.w3.org/2000/01/rdf-schema#label> "L. C. Enthoven, Vooburg".
+<http://vocab.getty.edu/ulan/500304031> <http://www.w3.org/2000/01/rdf-schema#label> "Hatton Gallery".
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "1951 Festival Exhibition".
+<https://h-am.jp/data/document/9781199517364/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The works of Vincent van Gogh [De la Faille, 1970]".
+<https://h-am.jp/data/document/3822896438/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh ・ The Complete Paintings".
+<https://h-am.jp/data/document/9780517448670/author> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Hulsker".
+<https://h-am.jp/data/document/3822896438/author> <http://www.w3.org/2000/01/rdf-schema#label> "Ingo F. Walther / Rainer Metzger".
+<https://h-am.jp/data/document/9780517448670/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Complete van Gogh".
+<https://h-am.jp/data/identifier/YO-00053> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "YO-00053".
+<https://h-am.jp/data/identifier/JH908> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH908".
+<https://h-am.jp/gallery/seiyou/images/gogh-sentaku_l.jpg> <http://purl.org/dc/elements/1.1/format> "image/jpeg".
+<https://h-am.jp/data/identifier/F148> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F148".
+<https://h-am.jp/data/technical/YO-00053/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Rakinglight rightside".
+<https://h-am.jp/data/technical/YO-00053/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Backside".
+<https://h-am.jp/data/technical/YO-00053/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Rakinglight underside".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a9 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "36.5"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a8 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "29.4"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b5 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8b5 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bf <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1993-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8bf <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1993-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ba <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1977-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8ba <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1977-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a4 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1885-08-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a4 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1885-08-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1951-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.

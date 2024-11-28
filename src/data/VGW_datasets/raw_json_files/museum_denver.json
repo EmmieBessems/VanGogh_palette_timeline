@@ -1,0 +1,912 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://data.rkd.nl/artists/350056> a ns1:E39_Actor ;
+    rdfs:label "Mrs. Johanna van Gogh-Bonger [1862–1925], Amsterdam" .
+
+<https://data.rkd.nl/artists/365519> a ns1:E39_Actor ;
+    rdfs:label "Vincent Willem van Gogh [1890–1978], Haarlem" .
+
+<https://data.rkd.nl/artists/444147> a ns1:E39_Actor ;
+    rdfs:label "d’Audretsch Art Gallery, The Hague, (H. E.[Herman] d’Audretsch [1872–1966])" .
+
+<https://data.rkd.nl/artists/447124> a ns1:E39_Actor ;
+    rdfs:label "(Frederik Muller & Co., Amsterdam), April 9–10, 1918, no. 117" .
+
+<https://media.rkd.nl/iiif/10770793> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.denverartmuseum.org/data/artwork/2021%2C436> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://vocab.getty.edu/aat/300420000> a ns1:E55_Type ;
+    rdfs:label "Sale" .
+
+<https://www.denverartmuseum.org/data/actor/W.+P.+Ingenegeren+%5B1853%E2%80%931930%5D%2C+Utrecht> a ns1:E39_Actor ;
+    rdfs:label "W. P. Ingenegeren [1853–1930], Utrecht" .
+
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Frederic C. Hamilton Collection" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.denverartmuseum.org/data/artwork/2021%2C436> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300054216> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1887" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1887-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1887-12-31"^^xsd:date ] .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500009602> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/2021%2C436/1> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500220995> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/2021%2C436/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1905-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006952> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/2021%2C436/11/author> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/2021%2C436/11> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500437012> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/2021%2C436/11> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2019-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2019-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013641> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/2021%2C436/2> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/2021%2C436/2/publisher> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/2021%2C436/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/2021%2C436/3> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/2021%2C436/3/publisher> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/2021%2C436/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1939-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1939-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7011781> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/2021%2C436/4/author> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/2021%2C436/4> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/2021%2C436/4/publisher> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/2021%2C436/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1966-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1966-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7003150> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/2021%2C436/5> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/2021%2C436/5/publisher> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/2021%2C436/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006952> .
+
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/author> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> .
+
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500237751> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7004446> .
+
+<https://www.denverartmuseum.org/data/document/8.877370491E9/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/8.877370491E9/author> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/8.877370491E9> .
+
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/8.877370491E9/publisher> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/8.877370491E9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7003163> .
+
+<https://www.denverartmuseum.org/data/document/9.027221596E9/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/9.027221596E9/author> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/9.027221596E9> .
+
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/9.027221596E9/publisher> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/9.027221596E9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014406> .
+
+<https://www.denverartmuseum.org/data/document/9780300186864/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/document/9780300186864/author> ;
+    ns1:P94_has_created <https://www.denverartmuseum.org/data/document/9780300186864> .
+
+<https://www.denverartmuseum.org/data/document/9780300186864/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500242559> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/document/9780300186864> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2012-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2012-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7013545> .
+
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500220995> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/artwork/2021%2C436> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/timespan> ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006952> .
+
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500242559> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/artwork/2021%2C436> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/timespan> ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7013545> .
+
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500242559> ;
+    ns1:P16_used_specific_object <https://www.denverartmuseum.org/data/artwork/2021%2C436> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/timespan> ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7013545> .
+
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500303678> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://vocab.getty.edu/aat/300417643> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/acquisition> .
+
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/actor/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/acquisition> .
+
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500242559> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://vocab.getty.edu/aat/300417637> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/acquisition> .
+
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500451616> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://vocab.getty.edu/aat/300417643> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/acquisition> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Paintings" .
+
+<http://vocab.getty.edu/aat/300054216> a ns1:E55_Type ;
+    rdfs:label "painting" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300162474> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300207379> a ns1:E55_Type ;
+    rdfs:label "stickers" .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7013641> a ns1:E53_Place ;
+    rdfs:label "Columbia" .
+
+<http://vocab.getty.edu/tgn/7014406> a ns1:E53_Place ;
+    rdfs:label "Philadelphia" .
+
+<http://vocab.getty.edu/tgn/7250304> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+<http://vocab.getty.edu/ulan/500242559> a ns1:E39_Actor ;
+    rdfs:label "Denver Art Museum" .
+
+<http://vocab.getty.edu/ulan/500437012> a ns1:E74_Group ;
+    rdfs:label "The Columbia Museum of Art" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://vangoghworldwide.org/data/artwork/F310a> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<https://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "Landscape" .
+
+<https://vocab.getty.edu/aat/300417637> a ns1:E55_Type ;
+    rdfs:label "Gift" .
+
+<https://vocab.getty.edu/tgn/7003150> a ns1:E53_Place ;
+    rdfs:label "Milano" .
+
+<https://vocab.getty.edu/tgn/7003163> a ns1:E53_Place ;
+    rdfs:label "Firenze (Florence)" .
+
+<https://vocab.getty.edu/tgn/7004446> a ns1:E53_Place ;
+    rdfs:label "Köln (Cologne)" .
+
+<https://vocab.getty.edu/tgn/7011781> a ns1:E53_Place ;
+    rdfs:label "London" .
+
+<https://vocab.getty.edu/ulan/500009602> a ns1:E21_Person ;
+    rdfs:label "Gosschalk, Johan Cohen" .
+
+<https://vocab.getty.edu/ulan/500237751> a ns1:E74_Group ;
+    rdfs:label "Benedikt Taschen" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalogus der tentoonstelling van schilderijen en teekeningen door Vincent van Gogh (Catalogue of the Exhibition of Paintings and Drawings by Vincent van Gogh)" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/author> a ns1:E21_Person ;
+    rdfs:label "South, Will ; Steven Naifeh ; Alyssa Velazquez" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and His Inspirations" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publisher> a ns1:E74_Group ;
+    rdfs:label "Van Oest" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L' oeuvre de Vincent van Gogh : catalogue raisonné" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publisher> a ns1:E74_Group ;
+    rdfs:label "William Heinemann Ltd." .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/author> a ns1:E21_Person ;
+    rdfs:label "Lecaldano, Paolo" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publisher> a ns1:E74_Group ;
+    rdfs:label "Rizzoli Editore" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L’opera pittorica completa di Van Gogh e i suoi nessi grafici, Vol I, Da Etten a Parigi" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publisher> a ns1:E74_Group ;
+    rdfs:label "Meulenhoff" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The works of Vincent van Gogh" .
+
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/author> a ns1:E21_Person ;
+    rdfs:label "Walther, Ingo F. ; Rainer Metzger" .
+
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: The Complete Paintings" .
+
+<https://www.denverartmuseum.org/data/document/8.877370491E9/author> a ns1:E21_Person ;
+    rdfs:label "Testori, Gionvanni ; Arrigoni, Luisa" .
+
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publisher> a ns1:E74_Group ;
+    rdfs:label "Cantini Editore" .
+
+<https://www.denverartmuseum.org/data/document/8.877370491E9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Catalogo completo dei dipinti" .
+
+<https://www.denverartmuseum.org/data/document/9.027221596E9/author> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publisher> a ns1:E74_Group ;
+    rdfs:label "John Benjamins Publishing Co." .
+
+<https://www.denverartmuseum.org/data/document/9.027221596E9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The New Complete Van Gogh : Paintings, Drawings, Sketches" .
+
+<https://www.denverartmuseum.org/data/document/9780300186864/author> a ns1:E21_Person ;
+    rdfs:label "Standring, Timothy J. ; Louis van Tilborgh" .
+
+<https://www.denverartmuseum.org/data/document/9780300186864/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Becoming Van Gogh" .
+
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Tentoonstelling van schilderijen en teekeningen door Vincent van Gogh (Exhibition of Paintings and Drawings by Vincent van Gogh)" .
+
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-07-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1905-08-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Becoming Van Gogh" .
+
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2012-10-21"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2013-01-20"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Nature as Muse: Impressionist Landscapes from the Frederic C. Hamilton Collection and the Denver Art Museum" .
+
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2013-10-27"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-02-09"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/identifier/2021%2C436> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "2021,436" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.denverartmuseum.org/data/identifier/F310a> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F310a" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.denverartmuseum.org/data/identifier/JH1273> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1273" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://vocab.getty.edu/ulan/500303678> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1987-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.denverartmuseum.org/data/actor/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1987-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://vocab.getty.edu/ulan/500242559> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2021-01-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/actor/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/acquisition> .
+
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.denverartmuseum.org/data/actor/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/actor/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/acquisition> .
+
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.denverartmuseum.org/data/actor/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2012-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2021-01-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/actor/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/acquisition> .
+
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.denverartmuseum.org/data/actor/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.denverartmuseum.org/data/actor/Private+collection%2C+Japan%2C+by+1996> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/acquisition> .
+
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.denverartmuseum.org/data/actor/Private+collection%2C+Japan%2C+by+1996> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1997-01-01"^^xsd:date .
+
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://vocab.getty.edu/ulan/500451616> ;
+    ns1:P24_transferred_title_of <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1997-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1997-01-01"^^xsd:date .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/ulan/500645379> a ns1:E21_Person ;
+    rdfs:label "Faille, J. B. de la" .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+<https://vocab.getty.edu/aat/300417643> a ns1:E55_Type ;
+    rdfs:label "Sale" .
+
+<https://vocab.getty.edu/ulan/500220995> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Stedelijk Museum" .
+
+<https://vocab.getty.edu/ulan/500303678> a ns1:E39_Actor ;
+    rdfs:label "(Acquavella Galleries, Inc., New York), 1987" .
+
+<https://vocab.getty.edu/ulan/500451616> a ns1:E39_Actor ;
+    rdfs:label "Sotheby’s New York, Impressionist and Modern Art, Part I, May 13, 1997, lot 23 (repr.)" .
+
+<https://www.denverartmuseum.org/data/actor/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987> a ns1:E39_Actor ;
+    rdfs:label "(Edobori Gallery, Osaka, Japan), 1987" .
+
+<https://www.denverartmuseum.org/data/actor/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977> a ns1:E39_Actor ;
+    rdfs:label "Dr. William Jacob Herman [1891-1935] and Susan Evarts Herman [1984-1964], Boston, MA, about 1928 to about 1977" .
+
+<https://www.denverartmuseum.org/data/actor/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012> a ns1:E39_Actor ;
+    rdfs:label "Frederic C. Hamilton [1927–2016], Denver, CO, by 2012" .
+
+<https://www.denverartmuseum.org/data/actor/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania> a ns1:E39_Actor ;
+    rdfs:label "John T. Dorrance, Jr. [1919–1989], Pennsylvania" .
+
+<https://www.denverartmuseum.org/data/actor/Private+collection%2C+Japan%2C+by+1996> a ns1:E39_Actor ;
+    rdfs:label "Private collection, Japan, by 1996" .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/2021%2C436/1/part> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/document/2021%2C436/1/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026096> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/11> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/2021%2C436/11/part> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/document/2021%2C436/11/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026096> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/2> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/2021%2C436/2/part> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/document/2021%2C436/2/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/2021%2C436/3/part> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/document/2021%2C436/3/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/2021%2C436/4/part> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/document/2021%2C436/4/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/5> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/2021%2C436/5/part> ;
+    ns1:P1_is_identified_by <https://www.denverartmuseum.org/data/document/2021%2C436/5/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "3822802913, 3822890553" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/8.877370491E9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/8.877370491E9/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "8.877370491E9" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://www.denverartmuseum.org/data/document/8.877370491E9/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.denverartmuseum.org/data/document/8.877370491E9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/9.027221596E9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/9.027221596E9/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9.027221596E9" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://www.denverartmuseum.org/data/document/9.027221596E9/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.denverartmuseum.org/data/document/9.027221596E9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<https://www.denverartmuseum.org/data/document/9780300186864> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.denverartmuseum.org/data/document/9780300186864/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9780300186864" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://www.denverartmuseum.org/data/document/9780300186864/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026096> .
+
+<https://www.denverartmuseum.org/data/document/9780300186864/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalog" .
+
+<https://vocab.getty.edu/aat/300417642> a ns1:E55_Type ;
+    rdfs:label "Purchase" .
+
+<https://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<https://vocab.getty.edu/tgn/7013545> a ns1:E53_Place ;
+    rdfs:label "Denver" .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "ISBN" .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<https://vocab.getty.edu/ulan/500242559> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Denver Art Museum",
+        "Denver Art Museum, 2021" .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<https://vocab.getty.edu/aat/300026061> a ns1:E55_Type ;
+    rdfs:label "Catalogue Raisonné" .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E74_Group a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Edge of a Wheatfield" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Field of Corn" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Edge of a Wheat Field with Poppies" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.denverartmuseum.org/data/identifier/2021%2C436>,
+        <https://www.denverartmuseum.org/data/identifier/F310a>,
+        <https://www.denverartmuseum.org/data/identifier/JH1273> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 32.4 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 40.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Sotheby's New York #023" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300207379> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300162474> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500242559> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <https://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F310a> .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent Willem van Gogh [1890–1978], Haarlem. Mrs. Johanna van Gogh-Bonger [1862–1925], Amsterdam. W. P. Ingenegeren [1853–1930], Utrecht. (Frederik Muller & Co., Amsterdam), April 9–10, 1918, no. 117. d’Audretsch Art Gallery, The Hague, (H. E.[Herman] d’Audretsch [1872–1966]). N. Eisenloeffel Art Gallery (Nico Eisenloeffel, [1881–1974]), Amsterdam. Dr. William Jacob Herman [1891-1935] and Susan Evarts Herman [1984-1964], Boston, MA, about 1928 to about 1977. John T. Dorrance, Jr. [1919–1989], Pennsylvania; (Acquavella Galleries, Inc., New York), 1987; (Edobori Gallery, Osaka, Japan), 1987. Private collection, Japan, by 1996. Sotheby’s New York, Impressionist and Modern Art, Part I, May 13, 1997, lot 23 (repr.). Frederic C. Hamilton [1927–2016], Denver, CO, by 2012; Gifted to the Denver Art Museum, 2021." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil paint on canvas on pasteboard" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/artwork/2021%2C436> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 180, repr., no. 408" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/8.877370491E9/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 247, repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "by 2012" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "RKD link to art dealer, not gallery" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. F310a, (repr. p. 153)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/2021%2C436/5/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 272, cat. 60 (repr. p. 198)." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/9780300186864/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 284 , repr., no. 1273" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/9.027221596E9/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "by 1996" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "RKD link to art dealer, not gallery" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "vol. 1, no. 310 bix and vol. 2, repr. Pl. LXXXIV" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/2021%2C436/2/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "vol. I, p. 117, repr., no. 409" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/2021%2C436/4/part> .
+
+[] a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1980-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1980-01-01"^^xsd:date .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 19, no. 34" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/2021%2C436/1/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "After 1977" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 262, repr., no. 355" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/2021%2C436/3/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pg. 145" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/document/2021%2C436/11/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "About 1929 ; About 1977" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> .
+

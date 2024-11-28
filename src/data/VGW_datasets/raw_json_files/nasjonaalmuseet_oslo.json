@@ -1,0 +1,3580 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Purchased 1905" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "Between 27 and 29 May 1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-05-27"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-05-29"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008783> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift from the Friends of the National Gallery 1919" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "Between June and August 1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-06-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-08-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift from the Friends of the National Gallery 1919" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "(August 1885)" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-08-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-08-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift from the Friends of the National Gallery 1919" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "(August 1885)" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-08-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-08-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.M.00943/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Acquired 1910" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.M.00943/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "(1889)" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ] .
+
+<http://nasjonalmuseet.no/data/exhibition/500115632/2010-01-23/2010-04-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115632> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500115632/2010-01-23/2010-04-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500115632/2010-01-23/2010-04-18/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<http://nasjonalmuseet.no/data/exhibition/500125157/1984-10-18/1984-12-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125157> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500125157/1984-10-18/1984-12-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500125157/1984-10-18/1984-12-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://nasjonalmuseet.no/data/exhibition/500125157/2005-10-12/2005-12-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125157> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500125157/2005-10-12/2005-12-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500125157/2005-10-12/2005-12-31/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<http://nasjonalmuseet.no/data/exhibition/500213367/2006-10-22/2007-01-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500213367> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500213367/2006-10-22/2007-01-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500213367/2006-10-22/2007-01-07/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013503> .
+
+<http://nasjonalmuseet.no/data/exhibition/500224093/2008-09-05/2008-12-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500224093> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500224093/2008-09-05/2008-12-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500224093/2008-09-05/2008-12-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003321> .
+
+<http://nasjonalmuseet.no/data/exhibition/500234181/1917-03-01/1917-04-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500234181> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500234181/1917-03-01/1917-04-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500234181/1917-03-01/1917-04-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<http://nasjonalmuseet.no/data/exhibition/500234181/2004-02-26/2004-05-23> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500234181> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500234181/2004-02-26/2004-05-23/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500234181/2004-02-26/2004-05-23/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<http://nasjonalmuseet.no/data/exhibition/500235923/1990-03-30/1990-07-29> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500235923> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500235923/1990-03-30/1990-07-29/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500235923/1990-03-30/1990-07-29/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006900> .
+
+<http://nasjonalmuseet.no/data/exhibition/500238802/1964-01-01/1965-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500238802> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500238802/1964-01-01/1965-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500238802/1964-01-01/1965-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007856> .
+
+<http://nasjonalmuseet.no/data/exhibition/500242559/2012-09-20/2013-01-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500242559> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500242559/2012-09-20/2013-01-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500242559/2012-09-20/2013-01-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013545> .
+
+<http://nasjonalmuseet.no/data/exhibition/500250652/1961-05-23/1961-06-25> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500250652> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500250652/1961-05-23/1961-06-25/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500250652/1961-05-23/1961-06-25/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004333> .
+
+<http://nasjonalmuseet.no/data/exhibition/500275558/2005-07-01/2005-09-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500275558/2005-07-01/2005-09-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500275558/2005-07-01/2005-09-18/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<http://nasjonalmuseet.no/data/exhibition/500275558/2020-02-20/2020-08-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500275558/2020-02-20/2020-08-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500275558/2020-02-20/2020-08-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<http://nasjonalmuseet.no/data/exhibition/500302021/2022-02-03/2022-05-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302021> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500302021/2022-02-03/2022-05-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500302021/2022-02-03/2022-05-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<http://nasjonalmuseet.no/data/exhibition/500305308/1960-01-01/1960-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500305308> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500305308/1960-01-01/1960-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500305308/1960-01-01/1960-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008038> .
+
+<http://nasjonalmuseet.no/data/exhibition/500305347/1970-04-30/1970-06-21> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500305347> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/500305347/1970-04-30/1970-06-21/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/500305347/1970-04-30/1970-06-21/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005293> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1893-03-26/1893-05-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Vesterport+Passage> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/1893-03-26/1893-05-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/1893-03-26/1893-05-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003474> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1914-09-01/1914-10-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/1914-09-01/1914-10-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/1914-09-01/1914-10-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009573> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1984-12-12/1985-02-10> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Ordrupgaard> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/1984-12-12/1985-02-10/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/1984-12-12/1985-02-10/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/8716277> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2001-03-10/2001-05-27> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/2001-03-10/2001-05-27/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/2001-03-10/2001-05-27/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009573> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2002-07-02/2002-08-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/2002-07-02/2002-08-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/2002-07-02/2002-08-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009573> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2002-11-09/2003-04-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Casa+dei+Carraresi> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166>,
+        <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/2002-11-09/2003-04-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/2002-11-09/2003-04-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003297> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2005-02-12/2007-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/2005-02-12/2007-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/2005-02-12/2007-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009573> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2007-03-17/2011-04-28> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/2007-03-17/2011-04-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/2007-03-17/2011-04-28/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009573> .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2011-04-29/2019-01-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> ;
+    ns1:P16_used_specific_object <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P1_is_identified_by <http://nasjonalmuseet.no/data/exhibition/venue/2011-04-29/2019-01-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/exhibition/venue/2011-04-29/2019-01-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009573> .
+
+<http://nasjonalmuseet.no/data/provenance/Alphonse+Kann/1919-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500440138> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Alphonse+Kann/1919-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Alphonse+Kann/1919-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1895-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500327786> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1895-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1895-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1904-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500327786> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1904-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1904-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Cornelis+Hoogendyk/1911-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Cornelis+Hoogendyk> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Cornelis+Hoogendyk/1911-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Cornelis+Hoogendyk/1911-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Frederik+Muller+%26+Cie./1912-05-23> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500458216> ;
+    ns1:P2_has_type <http://nasjonalmuseet.no/data/provenance/Salg>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Frederik+Muller+%26+Cie./1912-05-23/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Frederik+Muller+%26+Cie./1912-05-23/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Galerie+Eug%C3%A8ne+Blot/1907-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500310301> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Galerie+Eug%C3%A8ne+Blot/1907-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Galerie+Eug%C3%A8ne+Blot/1907-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/H.+Chr.+Christensen/1893-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/H.+Chr.+Christensen> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/H.+Chr.+Christensen/1893-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/H.+Chr.+Christensen/1893-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Marie+Julien+og+Joseph+Michel++Ginoux/1890-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Marie+Julien+og+Joseph+Michel++Ginoux> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Marie+Julien+og+Joseph+Michel++Ginoux/1890-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Marie+Julien+og+Joseph+Michel++Ginoux/1890-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Maurice++Clouet/1896-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Maurice++Clouet> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Maurice++Clouet/1896-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Maurice++Clouet/1896-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Thorvald+Erichsen/1905-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500082102> ;
+    ns1:P2_has_type <http://nasjonalmuseet.no/data/provenance/Offer>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Thorvald+Erichsen/1905-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Thorvald+Erichsen/1905-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Thorvald+Hellesen/1919-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500144997> ;
+    ns1:P2_has_type <http://nasjonalmuseet.no/data/provenance/Offer>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Thorvald+Hellesen/1919-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Thorvald+Hellesen/1919-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Vincent+Willem+van+Gogh/1891-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500341187> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055603>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Vincent+Willem+van+Gogh/1891-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Vincent+Willem+van+Gogh/1891-01-01/acquisition> .
+
+<http://nasjonalmuseet.no/data/provenance/Walther+Halvorsen/1919-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Walther+Halvorsen> ;
+    ns1:P2_has_type <http://nasjonalmuseet.no/data/provenance/Offer>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <http://nasjonalmuseet.no/data/provenance/Walther+Halvorsen/1919-01-01/timespan> ;
+    ns1:P9_consists_of <http://nasjonalmuseet.no/data/provenance/Walther+Halvorsen/1919-01-01/acquisition> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+skos:exactMatch a rdfs:Resource .
+
+<https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.K_H.B.00068_PUBLISERING.tif> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.K_H.B.00164.tif> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.K_H.B.00165.tif> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.K_H.B.00166.tif> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://ms01.nasjonalmuseet.no/iip/?iiif=/tif/NG.M.00943+Publisering.tif> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.metmuseum.org/data/term/Drawings> a rdfs:Resource ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033973> .
+
+<https://www.metmuseum.org/data/term/Paintings> a rdfs:Resource ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033618> .
+
+<https://www.metmuseum.org/data/term/Prints> a rdfs:Resource ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300041273> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068/identifier/F1452> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1452" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068/identifier/JH1437> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1437" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164/identifier/F1306> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1306" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164/identifier/JH851> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH851" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165/identifier/F1280> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1280" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165/identifier/JH839> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH839" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166/identifier/F1267> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1267" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166/identifier/JH870> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH870" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.M.00943/identifier/F528> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F528" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.M.00943/identifier/JH1780> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1780" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://nasjonalmuseet.no/data/exhibition/500115632/2010-01-23/2010-04-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Real Van Gogh: The Artist and His Letters" .
+
+<http://nasjonalmuseet.no/data/exhibition/500115632/2010-01-23/2010-04-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2010-01-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2010-04-18"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500125157/1984-10-18/1984-12-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Arles" .
+
+<http://nasjonalmuseet.no/data/exhibition/500125157/1984-10-18/1984-12-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-10-18"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-12-30"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500125157/2005-10-12/2005-12-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh. The Drawings" .
+
+<http://nasjonalmuseet.no/data/exhibition/500125157/2005-10-12/2005-12-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2005-10-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2005-12-31"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500213367/2006-10-22/2007-01-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh's Sheaves of Wheat" .
+
+<http://nasjonalmuseet.no/data/exhibition/500213367/2006-10-22/2007-01-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2006-10-22"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2007-01-07"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500224093/2008-09-05/2008-12-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Heartfelt Lines" .
+
+<http://nasjonalmuseet.no/data/exhibition/500224093/2008-09-05/2008-12-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2008-09-05"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2008-12-08"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500234181/1917-03-01/1917-04-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Fransk konst från 1800-talet" .
+
+<http://nasjonalmuseet.no/data/exhibition/500234181/1917-03-01/1917-04-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1917-03-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1917-04-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500234181/2004-02-26/2004-05-23/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Falskt & Ãkta" .
+
+<http://nasjonalmuseet.no/data/exhibition/500234181/2004-02-26/2004-05-23/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2004-02-26"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2004-05-23"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500235923/1990-03-30/1990-07-29/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<http://nasjonalmuseet.no/data/exhibition/500235923/1990-03-30/1990-07-29/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1990-03-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1990-07-29"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500238802/1964-01-01/1965-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De schilder in zijn wereld" .
+
+<http://nasjonalmuseet.no/data/exhibition/500238802/1964-01-01/1965-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1964-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1965-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500242559/2012-09-20/2013-01-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Becoming Van Gogh: His Years in Paris" .
+
+<http://nasjonalmuseet.no/data/exhibition/500242559/2012-09-20/2013-01-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2012-09-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2013-01-20"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500250652/1961-05-23/1961-06-25/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: Zeichnungen und Aquarelle" .
+
+<http://nasjonalmuseet.no/data/exhibition/500250652/1961-05-23/1961-06-25/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1961-05-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1961-06-25"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500275558/2005-07-01/2005-09-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh tekenaar: de meesterwerken" .
+
+<http://nasjonalmuseet.no/data/exhibition/500275558/2005-07-01/2005-09-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2005-07-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2005-09-18"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500275558/2020-02-20/2020-08-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "In the Picture" .
+
+<http://nasjonalmuseet.no/data/exhibition/500275558/2020-02-20/2020-08-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2020-02-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-08-30"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500302021/2022-02-03/2022-05-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh's Self-Portraits" .
+
+<http://nasjonalmuseet.no/data/exhibition/500302021/2022-02-03/2022-05-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2022-02-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2022-05-08"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500305308/1960-01-01/1960-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<http://nasjonalmuseet.no/data/exhibition/500305308/1960-01-01/1960-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1960-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1960-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/500305347/1970-04-30/1970-06-21/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: Zeichnungen und Aquarelle" .
+
+<http://nasjonalmuseet.no/data/exhibition/500305347/1970-04-30/1970-06-21/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1970-04-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1970-06-21"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1893-03-26/1893-05-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Den Frie Udstilling 1893" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1893-03-26/1893-05-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1893-03-26"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1893-05-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1914-09-01/1914-10-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Fransk kunst. Maleri, skulptur, grafik fra det XIX aarhundrede" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1914-09-01/1914-10-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1914-09-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1914-10-30"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1984-12-12/1985-02-10/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Gauguin og van Gogh i København i 1893" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/1984-12-12/1985-02-10/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-12-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1985-02-10"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2001-03-10/2001-05-27/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Blikk for tegning" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2001-03-10/2001-05-27/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2001-03-10"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2001-05-27"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2002-07-02/2002-08-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Månedens bilde: Juli - august" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2002-07-02/2002-08-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2002-07-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2002-08-20"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2002-11-09/2003-04-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L'impressionismo e l'età di van Gogh" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2002-11-09/2003-04-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2002-11-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2003-04-13"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2005-02-12/2007-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Alle snakker om museet. Kunst 1" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2005-02-12/2007-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2005-02-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2007-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2007-03-17/2011-04-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Kunst 3. Verk fra samlingen 1814-1950" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2007-03-17/2011-04-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2007-03-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2011-04-28"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2011-04-29/2019-01-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Livets dans. Samlingen fra antikken til 1950" .
+
+<http://nasjonalmuseet.no/data/exhibition/venue/2011-04-29/2019-01-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2011-04-29"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2019-01-13"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00068> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "NG.K&H.B.00068" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00164> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "NG.K&H.B.00164" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00165> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "NG.K&H.B.00165" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00166> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "NG.K&H.B.00166" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://nasjonalmuseet.no/data/identifier/NG.M.00943> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "NG.M.00943" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://nasjonalmuseet.no/data/organization/Aschehoug> a ns1:E39_Actor ;
+    rdfs:label "Aschehoug" .
+
+<http://nasjonalmuseet.no/data/organization/Burlington+Magazine+Publications+Ltd.> a ns1:E39_Actor ;
+    rdfs:label "Burlington Magazine Publications Ltd." .
+
+<http://nasjonalmuseet.no/data/organization/Casa+dei+Carraresi> a ns1:E39_Actor ;
+    rdfs:label "Casa dei Carraresi" .
+
+<http://nasjonalmuseet.no/data/organization/De+spieghel+LTD> a ns1:E39_Actor ;
+    rdfs:label "De spieghel LTD" .
+
+<http://nasjonalmuseet.no/data/organization/EDITIONS+SOMOGY> a ns1:E39_Actor ;
+    rdfs:label "EDITIONS SOMOGY" .
+
+<http://nasjonalmuseet.no/data/organization/Gyldendal> a ns1:E39_Actor ;
+    rdfs:label "Gyldendal" .
+
+<http://nasjonalmuseet.no/data/organization/Hazan> a ns1:E39_Actor ;
+    rdfs:label "Hazan" .
+
+<http://nasjonalmuseet.no/data/organization/Henschelverlag> a ns1:E39_Actor ;
+    rdfs:label "Henschelverlag" .
+
+<http://nasjonalmuseet.no/data/organization/John+Griegs+forlag> a ns1:E39_Actor ;
+    rdfs:label "John Griegs forlag" .
+
+<http://nasjonalmuseet.no/data/organization/Museum+Boijmans+Van+Beuningen> a ns1:E39_Actor ;
+    rdfs:label "Museum Boijmans Van Beuningen" .
+
+<http://nasjonalmuseet.no/data/organization/Nationalmuseum> a ns1:E39_Actor ;
+    rdfs:label "Nationalmuseum" .
+
+<http://nasjonalmuseet.no/data/organization/Ordrupgaard> a ns1:E39_Actor ;
+    rdfs:label "Ordrupgaard" .
+
+<http://nasjonalmuseet.no/data/organization/Phil.+Diss+universitetet+i+M%C3%BCnchen> a ns1:E39_Actor ;
+    rdfs:label "Phil. Diss universitetet i München" .
+
+<http://nasjonalmuseet.no/data/organization/Royal+Academy+of+Arts> a ns1:E39_Actor ;
+    rdfs:label "Royal Academy of Arts" .
+
+<http://nasjonalmuseet.no/data/organization/Shueisha> a ns1:E39_Actor ;
+    rdfs:label "Shueisha" .
+
+<http://nasjonalmuseet.no/data/organization/Stichting+het+Rijksmuseum> a ns1:E39_Actor ;
+    rdfs:label "Stichting het Rijksmuseum" .
+
+<http://nasjonalmuseet.no/data/organization/Swets+en+Zeitlinger> a ns1:E39_Actor ;
+    rdfs:label "Swets en Zeitlinger" .
+
+<http://nasjonalmuseet.no/data/organization/Thoth+Publishers> a ns1:E39_Actor ;
+    rdfs:label "Thoth Publishers" .
+
+<http://nasjonalmuseet.no/data/organization/Van+Gogh+Museum%2C+Primavera> a ns1:E39_Actor ;
+    rdfs:label "Van Gogh Museum, Primavera" .
+
+<http://nasjonalmuseet.no/data/organization/Vesterport+Passage> a ns1:E39_Actor ;
+    rdfs:label "Vesterport Passage" .
+
+<http://nasjonalmuseet.no/data/organization/les+%C3%89ditions+nationales> a ns1:E39_Actor ;
+    rdfs:label "les Éditions nationales" .
+
+<http://nasjonalmuseet.no/data/person/Bakker%2C+Nienke%3B+Smit%2C+Lisa> a ns1:E21_Person ;
+    rdfs:label "Bakker, Nienke; Smit, Lisa" .
+
+<http://nasjonalmuseet.no/data/person/Bromig-Kolleritz+von+Novisancz%2C+Katharina> a ns1:E21_Person ;
+    rdfs:label "Bromig-Kolleritz von Novisancz, Katharina" .
+
+<http://nasjonalmuseet.no/data/person/Cabanne%2C+Pierre> a ns1:E21_Person ;
+    rdfs:label "Cabanne, Pierre" .
+
+<http://nasjonalmuseet.no/data/person/Cavalli-Bj%C3%B6rkman%2C+G%C3%B6rel%3B+Dumas%2C+Ann%3B+Shapiro%2C+Michael+F.> a ns1:E21_Person ;
+    rdfs:label "Cavalli-Björkman, Görel; Dumas, Ann; Shapiro, Michael F." .
+
+<http://nasjonalmuseet.no/data/person/Dvergsdal%2C+Arne> a ns1:E21_Person ;
+    rdfs:label "Dvergsdal, Arne" .
+
+<http://nasjonalmuseet.no/data/person/Elgar%2C+Frank> a ns1:E21_Person ;
+    rdfs:label "Elgar, Frank" .
+
+<http://nasjonalmuseet.no/data/person/Erpel%2C+Fritz> a ns1:E21_Person ;
+    rdfs:label "Erpel, Fritz" .
+
+<http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la%2C> a ns1:E21_Person ;
+    rdfs:label "Faille, Jacob-Baart de la," .
+
+<http://nasjonalmuseet.no/data/person/Fett%2C+Harry> a ns1:E21_Person ;
+    rdfs:label "Fett, Harry" .
+
+<http://nasjonalmuseet.no/data/person/Gran%2C+Henning> a ns1:E21_Person ;
+    rdfs:label "Gran, Henning" .
+
+<http://nasjonalmuseet.no/data/person/Hall%2C+H.+van> a ns1:E21_Person ;
+    rdfs:label "Hall, H. van" .
+
+<http://nasjonalmuseet.no/data/person/Halvorsen%2C+Walther> a ns1:E21_Person ;
+    rdfs:label "Halvorsen, Walther" .
+
+<http://nasjonalmuseet.no/data/person/Hedstr%C3%B6m%2C+Per%3B+Nilsson%2C+Britta> a ns1:E21_Person ;
+    rdfs:label "Hedström, Per; Nilsson, Britta" .
+
+<http://nasjonalmuseet.no/data/person/Henkels%2C+Herbert> a ns1:E21_Person ;
+    rdfs:label "Henkels, Herbert" .
+
+<http://nasjonalmuseet.no/data/person/Heugten%2C+Sjaar+van> a ns1:E21_Person ;
+    rdfs:label "Heugten, Sjaar van" .
+
+<http://nasjonalmuseet.no/data/person/Ives%2C+Colta%3B+Stein%2C+Susan+Alyson%3B+Heugten%2C+Sjraar+van%3B+Vellekoop%2C+Marije> a ns1:E21_Person ;
+    rdfs:label "Ives, Colta; Stein, Susan Alyson; Heugten, Sjraar van; Vellekoop, Marije" .
+
+<http://nasjonalmuseet.no/data/person/Jamot%2C+Paul> a ns1:E21_Person ;
+    rdfs:label "Jamot, Paul" .
+
+<http://nasjonalmuseet.no/data/person/Jansen%2C+Leo%3B+Luijten%2C+Hans%3B+Dumas%2C+Ann%3B+Bakker%2C+Nienke> a ns1:E21_Person ;
+    rdfs:label "Jansen, Leo; Luijten, Hans; Dumas, Ann; Bakker, Nienke" .
+
+<http://nasjonalmuseet.no/data/person/Lecaldano%2C+Paolo> a ns1:E21_Person ;
+    rdfs:label "Lecaldano, Paolo" .
+
+<http://nasjonalmuseet.no/data/person/Lexow%2C+Einar> a ns1:E21_Person ;
+    rdfs:label "Lexow, Einar" .
+
+<http://nasjonalmuseet.no/data/person/Nakayama%2C+Kimio%3B+Umehara%2C+Ryuzaburo> a ns1:E21_Person ;
+    rdfs:label "Nakayama, Kimio; Umehara, Ryuzaburo" .
+
+<http://nasjonalmuseet.no/data/person/Nordenfalk%2C+Carl> a ns1:E21_Person ;
+    rdfs:label "Nordenfalk, Carl" .
+
+<http://nasjonalmuseet.no/data/person/Pickvance%2C+Ronald> a ns1:E21_Person ;
+    rdfs:label "Pickvance, Ronald" .
+
+<http://nasjonalmuseet.no/data/person/Scherjon%2C+W.%3B+Gruyter%2C+J.+de> a ns1:E21_Person ;
+    rdfs:label "Scherjon, W.; Gruyter, J. de" .
+
+<http://nasjonalmuseet.no/data/person/Skedsmo%2C+Tone> a ns1:E21_Person ;
+    rdfs:label "Skedsmo, Tone" .
+
+<http://nasjonalmuseet.no/data/person/Stolwijk%2C+Chris> a ns1:E21_Person ;
+    rdfs:label "Stolwijk, Chris" .
+
+<http://nasjonalmuseet.no/data/person/Tellegen%2C+Annet> a ns1:E21_Person ;
+    rdfs:label "Tellegen, Annet" .
+
+<http://nasjonalmuseet.no/data/person/Thiis%2C+Jens%3B+Harry+Fett%3B+Haakon+Shetelig> a ns1:E21_Person ;
+    rdfs:label "Thiis, Jens; Harry Fett; Haakon Shetelig" .
+
+<http://nasjonalmuseet.no/data/person/Tilborgh%2C+Louis+van%3B+Meedendorp%2C+Teio%3B+Pilz%2C+Kathrin> a ns1:E21_Person ;
+    rdfs:label "Tilborgh, Louis van; Meedendorp, Teio; Pilz, Kathrin" .
+
+<http://nasjonalmuseet.no/data/person/Tilborgh%2C+Ouis+van%3B+Meedendorp%2C+Teio%3B+Maanen%2C+Oda+van> a ns1:E21_Person ;
+    rdfs:label "Tilborgh, Ouis van; Meedendorp, Teio; Maanen, Oda van" .
+
+<http://nasjonalmuseet.no/data/person/Vellekoop%2C+Marije%3B+Zwikker%2C+Roelie> a ns1:E21_Person ;
+    rdfs:label "Vellekoop, Marije; Zwikker, Roelie" .
+
+<http://nasjonalmuseet.no/data/place/Amsterdam+%3B+Leiden> a ns1:E53_Place ;
+    rdfs:label "Amsterdam ; Leiden" .
+
+<http://nasjonalmuseet.no/data/place/Bergen> a ns1:E53_Place ;
+    rdfs:label "Bergen" .
+
+<http://nasjonalmuseet.no/data/place/Berlin> a ns1:E53_Place ;
+    rdfs:label "Berlin" .
+
+<http://nasjonalmuseet.no/data/place/Bussum> a ns1:E53_Place ;
+    rdfs:label "Bussum" .
+
+<http://nasjonalmuseet.no/data/place/M%C3%BCnchen> a ns1:E53_Place ;
+    rdfs:label "München" .
+
+<http://nasjonalmuseet.no/data/place/Rotterdam> a ns1:E53_Place ;
+    rdfs:label "Rotterdam" .
+
+<http://nasjonalmuseet.no/data/place/Stockholm> a ns1:E53_Place ;
+    rdfs:label "Stockholm" .
+
+<http://nasjonalmuseet.no/data/place/Tokyo> a ns1:E53_Place ;
+    rdfs:label "Tokyo" .
+
+<http://nasjonalmuseet.no/data/provenance/Alphonse+Kann/1919-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500440138> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+<http://nasjonalmuseet.no/data/provenance/Alphonse+Kann/1919-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1919-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1919-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1895-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500327786> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+<http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1895-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1895-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1895-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1904-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500327786> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+<http://nasjonalmuseet.no/data/provenance/Ambroise+Vollard/1904-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1904-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1904-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Cornelis+Hoogendyk/1911-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://nasjonalmuseet.no/data/organization/Cornelis+Hoogendyk> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+<http://nasjonalmuseet.no/data/provenance/Cornelis+Hoogendyk/1911-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1911-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1911-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Frederik+Muller+%26+Cie./1912-05-23/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500458216> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+<http://nasjonalmuseet.no/data/provenance/Frederik+Muller+%26+Cie./1912-05-23/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1912-05-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1912-05-23"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Galerie+Eug%C3%A8ne+Blot/1907-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500310301> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+<http://nasjonalmuseet.no/data/provenance/Galerie+Eug%C3%A8ne+Blot/1907-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1907-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1907-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/H.+Chr.+Christensen/1893-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://nasjonalmuseet.no/data/organization/H.+Chr.+Christensen> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+<http://nasjonalmuseet.no/data/provenance/H.+Chr.+Christensen/1893-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1893-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1893-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Marie+Julien+og+Joseph+Michel++Ginoux/1890-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://nasjonalmuseet.no/data/organization/Marie+Julien+og+Joseph+Michel++Ginoux> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+<http://nasjonalmuseet.no/data/provenance/Marie+Julien+og+Joseph+Michel++Ginoux/1890-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1890-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Maurice++Clouet/1896-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://nasjonalmuseet.no/data/organization/Maurice++Clouet> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+<http://nasjonalmuseet.no/data/provenance/Maurice++Clouet/1896-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1896-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1896-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Salg> a ns1:E55_Type ;
+    rdfs:label "Salg" .
+
+<http://nasjonalmuseet.no/data/provenance/Thorvald+Erichsen/1905-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500082102> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+<http://nasjonalmuseet.no/data/provenance/Thorvald+Erichsen/1905-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1905-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Thorvald+Hellesen/1919-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500144997> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+<http://nasjonalmuseet.no/data/provenance/Thorvald+Hellesen/1919-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1919-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1919-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Vincent+Willem+van+Gogh/1891-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500341187> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+<http://nasjonalmuseet.no/data/provenance/Vincent+Willem+van+Gogh/1891-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1891-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1891-01-01"^^xsd:date .
+
+<http://nasjonalmuseet.no/data/provenance/Walther+Halvorsen/1919-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://nasjonalmuseet.no/data/organization/Walther+Halvorsen> ;
+    ns1:P24_transferred_title_of <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+<http://nasjonalmuseet.no/data/provenance/Walther+Halvorsen/1919-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1919-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1919-01-01"^^xsd:date .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300015636> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300022439> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300022452> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300028702> a ns1:E55_Type ;
+    rdfs:label "inscriptions" .
+
+<http://vocab.getty.edu/aat/300041273> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300124534> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300388256> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300388474> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7003297> a ns1:E53_Place ;
+    rdfs:label "Treviso (Italia)" .
+
+<http://vocab.getty.edu/tgn/7003321> a ns1:E53_Place ;
+    rdfs:label "Wien (Østerrike)" .
+
+<http://vocab.getty.edu/tgn/7003474> a ns1:E53_Place ;
+    rdfs:label "København (Danmark)" .
+
+<http://vocab.getty.edu/tgn/7004333> a ns1:E53_Place ;
+    rdfs:label "München (Tyskland)" .
+
+<http://vocab.getty.edu/tgn/7005293> a ns1:E53_Place ;
+    rdfs:label "Frankfurt am Main (Tyskland)" .
+
+<http://vocab.getty.edu/tgn/7006900> a ns1:E53_Place ;
+    rdfs:label "Otterlo (Nederland)" .
+
+<http://vocab.getty.edu/tgn/7007856> a ns1:E53_Place ;
+    rdfs:label "Antwerpen (Belgia)" .
+
+<http://vocab.getty.edu/tgn/7008038> a ns1:E53_Place ;
+    rdfs:label "Paris (Frankrike)" .
+
+<http://vocab.getty.edu/tgn/7008783> a ns1:E53_Place .
+
+<http://vocab.getty.edu/tgn/7013503> a ns1:E53_Place ;
+    rdfs:label "Dallas (USA)" .
+
+<http://vocab.getty.edu/tgn/7013545> a ns1:E53_Place ;
+    rdfs:label "Denver, Colorado (USA)" .
+
+<http://vocab.getty.edu/tgn/8716277> a ns1:E53_Place ;
+    rdfs:label "Vilvordevej 110, Charlottenlund (Danmark)" .
+
+<http://vocab.getty.edu/ulan/500115632> a ns1:E39_Actor ;
+    rdfs:label "Royal Academy of Arts" .
+
+<http://vocab.getty.edu/ulan/500213367> a ns1:E39_Actor ;
+    rdfs:label "Dallas Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500224093> a ns1:E39_Actor ;
+    rdfs:label "Graphische Sammlung Albertina" .
+
+<http://vocab.getty.edu/ulan/500235923> a ns1:E39_Actor ;
+    rdfs:label "Rijksmuseum Kröller-Müller" .
+
+<http://vocab.getty.edu/ulan/500238802> a ns1:E39_Actor ;
+    rdfs:label "Royal Museum of Fine Arts Antwerp" .
+
+<http://vocab.getty.edu/ulan/500242559> a ns1:E39_Actor ;
+    rdfs:label "Denver Art Museum" .
+
+<http://vocab.getty.edu/ulan/500250652> a ns1:E39_Actor ;
+    rdfs:label "Städtische Galerie" .
+
+<http://vocab.getty.edu/ulan/500302021> a ns1:E39_Actor ;
+    rdfs:label "The Courtauld Gallery" .
+
+<http://vocab.getty.edu/ulan/500305308> a ns1:E39_Actor ;
+    rdfs:label "Musée Jacquemart-André" .
+
+<http://vocab.getty.edu/ulan/500305347> a ns1:E39_Actor ;
+    rdfs:label "Frankfurter Kunstverein" .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1267> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1280> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1306> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1452> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F528> a rdfs:Resource .
+
+<http://nasjonalmuseet.no/data/organization/Cornelis+Hoogendyk> a ns1:E39_Actor .
+
+<http://nasjonalmuseet.no/data/organization/DuMont> a ns1:E39_Actor ;
+    rdfs:label "DuMont" .
+
+<http://nasjonalmuseet.no/data/organization/H.+Chr.+Christensen> a ns1:E39_Actor .
+
+<http://nasjonalmuseet.no/data/organization/Marie+Julien+og+Joseph+Michel++Ginoux> a ns1:E39_Actor .
+
+<http://nasjonalmuseet.no/data/organization/Maurice++Clouet> a ns1:E39_Actor .
+
+<http://nasjonalmuseet.no/data/organization/The+Metropolitan+Museum+of+Art> a ns1:E39_Actor ;
+    rdfs:label "The Metropolitan Museum of Art" .
+
+<http://nasjonalmuseet.no/data/organization/Thieme+GrafiMedia+Groep> a ns1:E39_Actor ;
+    rdfs:label "Thieme GrafiMedia Groep" .
+
+<http://nasjonalmuseet.no/data/organization/Van+Gogh+Museum> a ns1:E39_Actor ;
+    rdfs:label "Van Gogh Museum" .
+
+<http://nasjonalmuseet.no/data/organization/Walther+Halvorsen> a ns1:E39_Actor .
+
+<http://nasjonalmuseet.no/data/person/Lange%2C+Marit+Ingeborg> a ns1:E21_Person ;
+    rdfs:label "Lange, Marit Ingeborg" .
+
+<http://nasjonalmuseet.no/data/person/Meedendorp%2C+Teio> a ns1:E21_Person ;
+    rdfs:label "Meedendorp, Teio" .
+
+<http://nasjonalmuseet.no/data/person/Schr%C3%B6der%2C+Klaus+Albrecht%3B+Widauer%2C+Hans%3B+Heugten%2C+Sjraar+van%3B+Vellekoop%2C+Marije> a ns1:E21_Person ;
+    rdfs:label "Schröder, Klaus Albrecht; Widauer, Hans; Heugten, Sjraar van; Vellekoop, Marije" .
+
+<http://nasjonalmuseet.no/data/place/Cologne> a ns1:E53_Place ;
+    rdfs:label "Cologne" .
+
+<http://nasjonalmuseet.no/data/place/Otterlo> a ns1:E53_Place ;
+    rdfs:label "Otterlo" .
+
+<http://nasjonalmuseet.no/data/term/Pen> a ns1:E57_Material ;
+    rdfs:label "Pen" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300182748> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300379098> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam (Nederland)" .
+
+<http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York (USA)" .
+
+<http://vocab.getty.edu/tgn/7009861> a ns1:E53_Place ;
+    rdfs:label "Stockholm (Sverige)" .
+
+<http://vocab.getty.edu/tgn/7011781> a ns1:E53_Place ;
+    rdfs:label "London (Storbritannia)" .
+
+<http://vocab.getty.edu/ulan/500082102> a ns1:E39_Actor .
+
+<http://vocab.getty.edu/ulan/500125157> a ns1:E39_Actor ;
+    rdfs:label "The Metropolitan Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500144997> a ns1:E39_Actor .
+
+<http://vocab.getty.edu/ulan/500234181> a ns1:E39_Actor ;
+    rdfs:label "Nationalmuseum" .
+
+<http://vocab.getty.edu/ulan/500275558> a ns1:E39_Actor ;
+    rdfs:label "Van Gogh Museum" .
+
+<http://vocab.getty.edu/ulan/500310301> a ns1:E39_Actor .
+
+<http://vocab.getty.edu/ulan/500341187> a ns1:E39_Actor .
+
+<http://vocab.getty.edu/ulan/500440138> a ns1:E39_Actor .
+
+<http://vocab.getty.edu/ulan/500458216> a ns1:E39_Actor .
+
+<http://nasjonalmuseet.no/data/organization/De+Sikkel> a ns1:E39_Actor ;
+    rdfs:label "De Sikkel" .
+
+<http://nasjonalmuseet.no/data/organization/Linea+d%27ombra+Libri> a ns1:E39_Actor ;
+    rdfs:label "Linea d'ombra Libri" .
+
+<http://nasjonalmuseet.no/data/organization/Messel+Forlag> a ns1:E39_Actor ;
+    rdfs:label "Messel Forlag" .
+
+<http://nasjonalmuseet.no/data/organization/Mondadori> a ns1:E39_Actor ;
+    rdfs:label "Mondadori" .
+
+<http://nasjonalmuseet.no/data/person/Goldin%2C+Marco> a ns1:E21_Person ;
+    rdfs:label "Goldin, Marco" .
+
+<http://nasjonalmuseet.no/data/person/Vanbeselaere%2C+Walther> a ns1:E21_Person ;
+    rdfs:label "Vanbeselaere, Walther" .
+
+<http://nasjonalmuseet.no/data/person/Wolk%2C+Johannes+van+der%3B+Pickvance%2C+Ronald%3B+Pey%2C+E.B.F.> a ns1:E21_Person ;
+    rdfs:label "Wolk, Johannes van der; Pickvance, Ronald; Pey, E.B.F." .
+
+<http://nasjonalmuseet.no/data/place/Antwerpen> a ns1:E53_Place ;
+    rdfs:label "Antwerpen" .
+
+<http://nasjonalmuseet.no/data/place/Paris> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+<http://nasjonalmuseet.no/data/place/Treviso> a ns1:E53_Place ;
+    rdfs:label "Treviso" .
+
+<http://nasjonalmuseet.no/data/provenance/Offer> a ns1:E55_Type ;
+    rdfs:label "Offer" .
+
+<http://vocab.getty.edu/aat/300080058> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300189808> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7006835> a ns1:E53_Place .
+
+<http://nasjonalmuseet.no/data/organization/Alan+Wofsy+Fine+Arts> a ns1:E39_Actor ;
+    rdfs:label "Alan Wofsy Fine Arts" .
+
+<http://nasjonalmuseet.no/data/organization/Universitetsforlaget> a ns1:E39_Actor ;
+    rdfs:label "Universitetsforlaget" .
+
+<http://nasjonalmuseet.no/data/organization/Weidenfeld+and+Nicolson> a ns1:E39_Actor ;
+    rdfs:label "Weidenfeld and Nicolson" .
+
+<http://nasjonalmuseet.no/data/person/Carl+B.+Gunnarsson> a ns1:E21_Person ;
+    rdfs:label "Carl B. Gunnarsson" .
+
+<http://nasjonalmuseet.no/data/person/Messel%2C+Nils> a ns1:E21_Person ;
+    rdfs:label "Messel, Nils" .
+
+<http://nasjonalmuseet.no/data/place/Milano> a ns1:E53_Place ;
+    rdfs:label "Milano" .
+
+<http://nasjonalmuseet.no/data/place/San+Francisco> a ns1:E53_Place ;
+    rdfs:label "San Francisco" .
+
+<http://vocab.getty.edu/aat/300014109> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/ulan/500327786> a ns1:E39_Actor .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://nasjonalmuseet.no/data/organization/H.N.+Abrams> a ns1:E39_Actor ;
+    rdfs:label "H.N. Abrams" .
+
+<http://nasjonalmuseet.no/data/person/Hulsker%2C+Jan> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<http://nasjonalmuseet.no/data/place/Amsterdam> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://nasjonalmuseet.no/data/place/London> a ns1:E53_Place ;
+    rdfs:label "London" .
+
+<http://vocab.getty.edu/aat/300014844> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033973> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/ulan/500115588> a ns1:E39_Actor .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+<https://data.rkd.nl/artists/501596> a ns1:E39_Actor .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7009573> a ns1:E53_Place ;
+    rdfs:label "Universitetsgata 13, Nasjonalgalleriet, Oslo, Oslo (fylke) (Norge)" .
+
+<http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> a ns1:E39_Actor ;
+    rdfs:label "Nasjonalgalleriet" .
+
+<http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> a ns1:E21_Person ;
+    rdfs:label "Faille, Jacob-Baart de la" .
+
+<http://nasjonalmuseet.no/data/place/New+York> a ns1:E53_Place ;
+    rdfs:label "New York" .
+
+<http://vocab.getty.edu/aat/300379097> a ns1:E58_Measurement_Unit .
+
+ns1:E57_Material a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055603> a ns1:E55_Type ;
+    rdfs:label "Ownership" .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300443706> a ns1:E56_Language .
+
+<http://nasjonalmuseet.no/data/place/Oslo> a ns1:E53_Place ;
+    rdfs:label "Oslo" .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417430> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant Boy Digging" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Young peasant, digging: facing right" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Bonde med spade" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Jeune paysan bêchant" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Mann med spade" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant digging" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164/identifier/F1306>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164/identifier/JH851>,
+        <http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00164> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 400.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 530.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300080058> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014109> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Unsigned" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/501596> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300189808> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1306> .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant woman, binding a sheaf of grain" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Paysanne portant une gerbe" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Contadina con un fascio di grano" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388474> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Bondekone med nek" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant woman carrying a sheaf of grain, seen from the front" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kvinne med kornnek" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166/identifier/F1267>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166/identifier/JH870>,
+        <http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00166> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 420.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 570.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300080058>,
+        <http://vocab.getty.edu/aat/300182748> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014109> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Unsigned" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/501596> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300189808> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1267> .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kvinne på kne" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Paysanne creusant le sol" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant woman, kneeling, seen from the back" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Bondekone som ligger på alle fire" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Paysanne, vue de dos, agenouillée dans uns champ de pommes de terre" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Knielende boerin" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Bondekone som graver i jorden" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant woman, kneeling: seen from behind" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165/identifier/F1280>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165/identifier/JH839>,
+        <http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00165> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 520.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 430.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300080058>,
+        <http://vocab.getty.edu/aat/300182748> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014109> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Unsigned" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/501596> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300189808> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1280> .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type .
+
+ns1:E55_Type a rdfs:Resource .
+
+<http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Utsikt over Arles" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Vue d'Arles prise de Montmajour" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Utsikt mot Arles fra Montmajour" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "View of Arles from Montmajour" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068/identifier/F1452>,
+        <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068/identifier/JH1437>,
+        <http://nasjonalmuseet.no/data/identifier/NG.K%26H.B.00068> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 480.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 590.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300022439>,
+        <http://vocab.getty.edu/aat/300022452> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Vincent" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ;
+            ns1:P45_consists_of <http://nasjonalmuseet.no/data/term/Pen> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "[Verso:] No. 6" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ;
+            ns1:P45_consists_of <http://nasjonalmuseet.no/data/term/Pen> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014109> ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/501596> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1452> .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E21_Person a rdfs:Resource .
+
+<http://nasjonalmuseet.no/data/artwork/NG.M.00943> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Self-portrait" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "\"Selvportræt\"" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Selvportrett" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300443706> ],
+        <http://nasjonalmuseet.no/data/artwork/NG.M.00943/identifier/F528>,
+        <http://nasjonalmuseet.no/data/artwork/NG.M.00943/identifier/JH1780>,
+        <http://nasjonalmuseet.no/data/identifier/NG.M.00943> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 51.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 45.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Unsigned" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/501596> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300124534> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F528> .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300028051> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 202." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5cf0043d119b443db1053a7f2af80c6f .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:N0406b1c6dc944cc0bde53e1adc54f618 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Vanbeselaere%2C+Walther> ;
+    ns1:P94_has_created _:Nd1424a97fb7a4ac59656a37af837f209 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Carl+B.+Gunnarsson> ;
+    ns1:P94_has_created _:Nf062d4cef3f942879a0dbb26d31742e1 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la%2C> ;
+    ns1:P94_has_created _:Nb3dfa189fcf246f8a565da80833d3586 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd8a724a64fd7457ba96953102f938604 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kunst og kultur vol. 3. årgang ISSN 0023-5415" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 20, note 33." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nbf9f23f01a64441fbcc51222e6551344 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/H.N.+Abrams> ;
+    ns1:P16_used_specific_object _:Nf31cd1a631cb47ba9169aaed8ee0d593 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Thoth+Publishers> ;
+    ns1:P16_used_specific_object _:Nbb56b5e3b7ea47b0a3fb008c0cbaf24e ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2020-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2020-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Bussum> .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:Nb3dfa189fcf246f8a565da80833d3586 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Paris> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Henkels%2C+Herbert> ;
+    ns1:P94_has_created _:Ncdd28114830c401c94160a90d4e6f228 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:N92be93cb2ca64477a5468cadb1806dc2 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Nordenfalk%2C+Carl> ;
+    ns1:P94_has_created _:N6e1d6c8928334ad49b0eda897a396b68 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Mondadori> ;
+    ns1:P16_used_specific_object _:N7ffa85217af84b539c8d970a269d8a96 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Milano> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Cavalli-Bj%C3%B6rkman%2C+G%C3%B6rel%3B+Dumas%2C+Ann%3B+Shapiro%2C+Michael+F.> ;
+    ns1:P94_has_created _:N8c1dbf9841494eddb12d83427af5ef08 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ndb79b78f64694d118f3eb471e0e1f63e ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kunst og kultur vol. 39 ISSN 0023-5415" ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Van+Gogh+Museum> ;
+    ns1:P16_used_specific_object _:N2babc072cc3f407ab4cc6af16db9e57d ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2005-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2005-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Amsterdam> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Linea+d%27ombra+Libri> ;
+    ns1:P16_used_specific_object _:N1262373876144d13a3fb3d172aedf0dd ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Treviso> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nabbd5433a99f4c37b5980ffa837ae127 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Dagbladet 28.1.2002" ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Alan+Wofsy+Fine+Arts> ;
+    ns1:P16_used_specific_object _:N92be93cb2ca64477a5468cadb1806dc2 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1992-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1992-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/San+Francisco> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 98–9, 325; kat.nr. 1267; pl. CXI." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N19ce27f90ff149d5b08eafa4d45a01f5 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Shueisha> ;
+    ns1:P16_used_specific_object _:Nd15fe79f992748f7a9d4cdb41d709691 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Tokyo> .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:N11d44b3fd41a4fcb845a7f37c0296f6f ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-01-01"^^xsd:date ] .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:N87e2ff6ed715492090382494d971bb03 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nc911493930db4f49b6b11bb00ccd5355 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Ord och Bild , no. 9 ISSN 0030-4492" ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/H.N.+Abrams> ;
+    ns1:P16_used_specific_object _:N610d4fb742e24a128503e3c01f64071a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Phil.+Diss+universitetet+i+M%C3%BCnchen> ;
+    ns1:P16_used_specific_object _:N4f1a582496644e2bb8704a6e1efb510e ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1955-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1955-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/M%C3%BCnchen> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Museum+Boijmans+Van+Beuningen> ;
+    ns1:P16_used_specific_object _:N1c68911268a44afa98cc0b43efb807ae ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1967-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1967-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Rotterdam> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Fett%2C+Harry> ;
+    ns1:P94_has_created _:Nd7e89eff39a442048838ddbb80e306f4 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 261–4; kat.nr. 67." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N7dd25ff27b7944d9bdbe7dd9254f9654 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Tellegen%2C+Annet> ;
+    ns1:P94_has_created _:N1c68911268a44afa98cc0b43efb807ae .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nf062d4cef3f942879a0dbb26d31742e1 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kunst og kultur vol. 39 ISSN 0023-5415" ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Weidenfeld+and+Nicolson> ;
+    ns1:P16_used_specific_object _:Nea9fce559fe74878ad1c3615d5dc34dc ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/London> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 106, 335; kat.nr. 1306; pl. CXX." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N824ced2dc57646a2b70f9774ed40f79e .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 25-26, 72-74" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N471931c8362647ceb6fb6bca7ece7a76 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Swets+en+Zeitlinger> ;
+    ns1:P16_used_specific_object _:Nfaaa9a42caef4c2585c9df2166aac184 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1963-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1963-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Amsterdam> .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:Nabbd5433a99f4c37b5980ffa837ae127 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Weidenfeld+and+Nicolson> ;
+    ns1:P16_used_specific_object _:N87e2ff6ed715492090382494d971bb03 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/London> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 135–8, 139; fig. 342d." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N854bed66215a45cea6a968dabd8f9598 .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:N8c1dbf9841494eddb12d83427af5ef08 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1999-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1999-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/DuMont> ;
+    ns1:P16_used_specific_object _:Nf3164d7dbda44ce894ac822475180429 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2008-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2008-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Cologne> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 168." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nfc1be7bd76234e74a9fdb0229bc6aa9f .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Linea+d%27ombra+Libri> ;
+    ns1:P16_used_specific_object _:N92cb9760cfe84932b605cde77b26b1fc ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Treviso> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd7e89eff39a442048838ddbb80e306f4 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Mere kunst på arbeidsplassen" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 113-116" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N4b4db945a79b4c779c3bda033ba2b7f3 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/De+spieghel+LTD> ;
+    ns1:P16_used_specific_object _:N9185f3f9c6fc49eea8f931f6bbe0c2e2 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Amsterdam> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 183" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N7cb23f00c7b84c5b8a1647cca54d04dc .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/The+Metropolitan+Museum+of+Art> ;
+    ns1:P16_used_specific_object _:Nddffd670ed284b8386d80a972e043ca2 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2005-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2005-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:N88d96cb4df7f483fa42e7f920e0e1224 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1911-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1911-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Messel%2C+Nils> ;
+    ns1:P94_has_created _:Na88171d312a147dbbeb232f30623a8dd .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Nakayama%2C+Kimio%3B+Umehara%2C+Ryuzaburo> ;
+    ns1:P94_has_created _:Nd15fe79f992748f7a9d4cdb41d709691 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Universitetsforlaget> ;
+    ns1:P16_used_specific_object _:Nf062d4cef3f942879a0dbb26d31742e1 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1956-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Halvorsen%2C+Walther> ;
+    ns1:P94_has_created _:N88d96cb4df7f483fa42e7f920e0e1224 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 412, 460; kat.nr. 130." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N78278c47d9644bcbae0c2f679a930eb6 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Goldin%2C+Marco> ;
+    ns1:P94_has_created _:N92cb9760cfe84932b605cde77b26b1fc .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 52-59" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N6c47cda0dd8b48799b117bc40877e3c1 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 27, 162, 163; kat.nr. 47." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N1d414ba9be2b41399661719b4bc84ac0 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Alan+Wofsy+Fine+Arts> ;
+    ns1:P16_used_specific_object _:N64c1dbe92e804fbd816f0acc66ceaeea ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1992-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1992-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/San+Francisco> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 413, 460; kat.nr. 131." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N6275ae7928004695a915976336c113f0 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat.nr. 1280." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N494334b079f245fb81e8f32aa17315a9 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 95" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nd87a0a81185646d09a472b8952956b44 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nasjonalgalleriet> ;
+    ns1:P16_used_specific_object _:Ndf9be03f632b4045b92c577cf2e2fabf ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1997-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1997-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Lexow%2C+Einar> ;
+    ns1:P94_has_created _:Nd4feaa660b91486c9350859ea603d851 .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:Nd7e89eff39a442048838ddbb80e306f4 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1948-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1948-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Henschelverlag> ;
+    ns1:P16_used_specific_object _:N3e04e2dbf7e0418e8f5ec72ad7a77587 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1963-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1963-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Berlin> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Ives%2C+Colta%3B+Stein%2C+Susan+Alyson%3B+Heugten%2C+Sjraar+van%3B+Vellekoop%2C+Marije> ;
+    ns1:P94_has_created _:Nddffd670ed284b8386d80a972e043ca2 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Hall%2C+H.+van> ;
+    ns1:P94_has_created _:Nfaaa9a42caef4c2585c9df2166aac184 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/H.N.+Abrams> ;
+    ns1:P16_used_specific_object _:N98aae7d884e54a758e199fd79c3fabdb ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:N97792f51d0ee44a4bcf36dc4d6123bea ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2020-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2020-01-01"^^xsd:date ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:Na7cb8997186b426ca4710bd27200b406 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2006-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2006-01-01"^^xsd:date ] .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:N64c1dbe92e804fbd816f0acc66ceaeea .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 117" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N0d14481e77f448d6a8e7368b5cdab278 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Messel%2C+Nils> ;
+    ns1:P94_has_created _:N291f0caac1aa41dab87f8e18e17616eb .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Hazan> ;
+    ns1:P16_used_specific_object _:Nb2a9507f1aa9403d85b47bcf0843e96e ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1958-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1958-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Paris> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Meedendorp%2C+Teio> ;
+    ns1:P94_has_created _:N6091414d28a34fcc8a4016798ea0a8d8 .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:N390fff2f153c40e0aaed9a784eb70ea0 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1971-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1971-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Milano> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd15fe79f992748f7a9d4cdb41d709691 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "L'art moderne du monde" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 322–4; kat.nr. 1437." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N709bfed9763449819605ad1720762509 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 118, 120, 189." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N124ecde90ab948d2ade245e193c1ce29 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Alan+Wofsy+Fine+Arts> ;
+    ns1:P16_used_specific_object _:N0406b1c6dc944cc0bde53e1adc54f618 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1992-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1992-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/San+Francisco> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 88-101" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N0f916f0d46474979bdc5d5431ad8eeb8 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Thieme+GrafiMedia+Groep> ;
+    ns1:P16_used_specific_object _:N053510cc55934230b695334676fc09c2 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2007-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2007-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Otterlo> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 312–5." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N37c379ad08194cc0915dc5866eadeb19 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Scherjon%2C+W.%3B+Gruyter%2C+J.+de> ;
+    ns1:P94_has_created _:N9185f3f9c6fc49eea8f931f6bbe0c2e2 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 107-116" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N6bde965230274803bed28cbadb6d1552 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Stichting+het+Rijksmuseum> ;
+    ns1:P16_used_specific_object _:Ncdd28114830c401c94160a90d4e6f228 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1993-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1993-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Amsterdam> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N97792f51d0ee44a4bcf36dc4d6123bea ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Burlington Magazine vol. 162, no. 1403 ISSN 0007-6287" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat. nr. 528" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N1f04837fadb94995a39619741bd8ad1f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N11d44b3fd41a4fcb845a7f37c0296f6f ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Numer , no. 34 ISSN 0807-1152" ] .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Tilborgh%2C+Louis+van%3B+Meedendorp%2C+Teio%3B+Pilz%2C+Kathrin> ;
+    ns1:P94_has_created _:N97792f51d0ee44a4bcf36dc4d6123bea .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 17" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ncc3edf2110ae496a9aabcf3bbdeb5800 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Hedstr%C3%B6m%2C+Per%3B+Nilsson%2C+Britta> ;
+    ns1:P94_has_created _:Nab9212791d924b25b488d0d6a9262de6 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Vanbeselaere%2C+Walther> ;
+    ns1:P94_has_created _:Nede658c94db7426586d9faab08077484 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N27bc86df8e6b4a2b87f69275a81decf7 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kunst og kultur vol. 39 ISSN 0023-5415" ] .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Vanbeselaere%2C+Walther> ;
+    ns1:P94_has_created _:N77d3455bc012486bb64459b1d6ad244c .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Mondadori> ;
+    ns1:P16_used_specific_object _:N461bfbd2db7944929f651840000b9012 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Milano> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Thiis%2C+Jens%3B+Harry+Fett%3B+Haakon+Shetelig> ;
+    ns1:P94_has_created _:Nd8a724a64fd7457ba96953102f938604 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0f7b7bb920bd4f9cb148ad9aebbb5849 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "La Renaissance vol. 2, no. 2 ISSN 0184-7996" ] .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Cabanne%2C+Pierre> ;
+    ns1:P94_has_created _:N210155afb84040638100416024c1799a .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Weidenfeld+and+Nicolson> ;
+    ns1:P16_used_specific_object _:N8bd7b712449a4efe86ed7d51edf1d887 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/London> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Linea+d%27ombra+Libri> ;
+    ns1:P16_used_specific_object _:N12940c7e970f4a59a6f53acddb5f42c6 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Treviso> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Elgar%2C+Frank> ;
+    ns1:P94_has_created _:Nb2a9507f1aa9403d85b47bcf0843e96e .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 245, 247–9." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N8eaa141bb75a47cd84707aa3f365366c .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:N8bd7b712449a4efe86ed7d51edf1d887 .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Black chalk on paper" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nf95198b3309d49559c48f852aebe60d8 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Burlington Magazine vol. 155, no. 1327 ISSN 0007-6287" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 275, 413." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nd3d4fe5dbb70487aa5ea5eee01f55ef7 .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Reed and quill pen and ink and pencil on paper" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 170; kat.nr. 93." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na8485903154140b5b27adec03e1f5509 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/De+Sikkel> ;
+    ns1:P16_used_specific_object _:Nede658c94db7426586d9faab08077484 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Antwerpen> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 136" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N2e9fb21e4e16456a86ee2cc8ca184ab5 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N88d96cb4df7f483fa42e7f920e0e1224 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kunst og kultur vol. 1911 ISSN 0023-5415" ] .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:N12ac829bb0034a53a6bb4740188ac9d1 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/The+Metropolitan+Museum+of+Art> ;
+    ns1:P16_used_specific_object _:N46dae37f061e4263aa7f69fc6eee696e ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1984-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1984-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 274, 391, 412." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N6200622081074c08bd77d5fed3dd8e54 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Carl+B.+Gunnarsson> ;
+    ns1:P94_has_created _:Ndb79b78f64694d118f3eb471e0e1f63e .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:N1737616312c7469f91a5559e75eb2756 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N93d013a0941c476599412cba68738c82 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kunst og kultur vol. 39 ISSN 0023-5415" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 50, 51." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N0a19256d35d24e22b676000b427fab53 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat.nr. 1452." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nc99dad453a4b450693bdcf9fb5d0adf3 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 14." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ne35a7249aea945109703c3841cece4df .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 220-221" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N907245a0553a4957b3de2a8f57b2ef4d .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Meedendorp%2C+Teio> ;
+    ns1:P94_has_created _:N053510cc55934230b695334676fc09c2 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Faille%2C+Jacob-Baart+de+la> ;
+    ns1:P94_has_created _:Nea9fce559fe74878ad1c3615d5dc34dc .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Weidenfeld+and+Nicolson> ;
+    ns1:P16_used_specific_object _:N1737616312c7469f91a5559e75eb2756 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/London> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Lecaldano%2C+Paolo> ;
+    ns1:P94_has_created _:N390fff2f153c40e0aaed9a784eb70ea0 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Gran%2C+Henning> ;
+    ns1:P94_has_created _:Nc911493930db4f49b6b11bb00ccd5355 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 151" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ne65e78745ee448488b0f0a8de08eb406 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Messel+Forlag> ;
+    ns1:P16_used_specific_object _:N21a4abdf37e1449a92e338f406503e5f ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2016-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2016-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Mondadori> ;
+    ns1:P16_used_specific_object _:Nd796124819f24c4f9de0e83d01cdd693 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Milano> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/H.N.+Abrams> ;
+    ns1:P16_used_specific_object _:Nc10ed9c75a2646228911a8366f85d3c7 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Schr%C3%B6der%2C+Klaus+Albrecht%3B+Widauer%2C+Hans%3B+Heugten%2C+Sjraar+van%3B+Vellekoop%2C+Marije> ;
+    ns1:P94_has_created _:Nf3164d7dbda44ce894ac822475180429 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/John+Griegs+forlag> ;
+    ns1:P16_used_specific_object _:Nd8a724a64fd7457ba96953102f938604 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1912-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1912-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Bergen> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created _:N3e3309d773704635a118e0f990c9974f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 172; kat.nr. 117." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nc3d8b9929ab14e438c97fa98e2b09ed9 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ncdd28114830c401c94160a90d4e6f228 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Bulletin van het Rijksmuseum vol. 41, no. 3/4 ISSN 0165-9510" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 35." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N16d4a7abb40d4a818b34bb4a6c34da10 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Heugten%2C+Sjaar+van> ;
+    ns1:P94_has_created _:N2babc072cc3f407ab4cc6af16db9e57d .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 312–5." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N215b528196b140b882fc88da489cbfcc .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 702, 704–5; note 64." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N198388d17f054bb38e8b1d0447f734e9 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat.nr. 839." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N45ed1dbde3b5482c9177812188f758a6 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Messel%2C+Nils> ;
+    ns1:P94_has_created _:N11d44b3fd41a4fcb845a7f37c0296f6f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 723" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N653a5dcc109f4191b0f3117468d5c829 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Messel%2C+Nils> ;
+    ns1:P94_has_created _:N21a4abdf37e1449a92e338f406503e5f .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Tilborgh%2C+Ouis+van%3B+Meedendorp%2C+Teio%3B+Maanen%2C+Oda+van> ;
+    ns1:P94_has_created _:Nf95198b3309d49559c48f852aebe60d8 .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:N7759cdfec4ba4603957472db3ede8dba ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2004-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2004-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N1c68911268a44afa98cc0b43efb807ae ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Bulletin Museum Boymans-van Beuningen vol. 18, no. 1 ISSN 0027-4038" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 101, 328; kat.nr. 1280; pl. CXIII." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N0c310420b3f341d1bc86b88592566cc4 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nab9212791d924b25b488d0d6a9262de6 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Falskt & Äkta ISBN 9171006885" ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/De+Sikkel> ;
+    ns1:P16_used_specific_object _:N77d3455bc012486bb64459b1d6ad244c ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Antwerpen> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 92" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nbb3761701cc74d4abc56331707fb5be7 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Alan+Wofsy+Fine+Arts> ;
+    ns1:P16_used_specific_object _:N12ac829bb0034a53a6bb4740188ac9d1 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1992-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1992-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/San+Francisco> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Carl+B.+Gunnarsson> ;
+    ns1:P94_has_created _:N27bc86df8e6b4a2b87f69275a81decf7 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Erpel%2C+Fritz> ;
+    ns1:P94_has_created _:N3e04e2dbf7e0418e8f5ec72ad7a77587 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/les+%C3%89ditions+nationales> ;
+    ns1:P16_used_specific_object _:N0f7b7bb920bd4f9cb148ad9aebbb5849 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1929-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1929-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Paris> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/H.N.+Abrams> ;
+    ns1:P16_used_specific_object _:N3e3309d773704635a118e0f990c9974f ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/New+York> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Vellekoop%2C+Marije%3B+Zwikker%2C+Roelie> ;
+    ns1:P94_has_created _:N0af2840eb93947b385e805e4782ea92e .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Stolwijk%2C+Chris> ;
+    ns1:P94_has_created _:Nfee12af950ed4b21825fdadf070ac555 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Universitetsforlaget> ;
+    ns1:P16_used_specific_object _:N27bc86df8e6b4a2b87f69275a81decf7 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1956-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Skedsmo%2C+Tone> ;
+    ns1:P94_has_created _:Ndf9be03f632b4045b92c577cf2e2fabf .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Thieme+GrafiMedia+Groep> ;
+    ns1:P16_used_specific_object _:N6091414d28a34fcc8a4016798ea0a8d8 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2007-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2007-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Otterlo> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Goldin%2C+Marco> ;
+    ns1:P94_has_created _:N12940c7e970f4a59a6f53acddb5f42c6 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 176–9; kat.nr. 28." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N76b7b7740bb345ef8fcae9e563433b05 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Van+Gogh+Museum> ;
+    ns1:P16_used_specific_object _:N0af2840eb93947b385e805e4782ea92e ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2007-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2007-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Amsterdam> .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Nationalmuseum> ;
+    ns1:P16_used_specific_object _:Nab9212791d924b25b488d0d6a9262de6 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2004-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2004-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Stockholm> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Bromig-Kolleritz+von+Novisancz%2C+Katharina> ;
+    ns1:P94_has_created _:N4f1a582496644e2bb8704a6e1efb510e .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/De+Sikkel> ;
+    ns1:P16_used_specific_object _:Nd1424a97fb7a4ac59656a37af837f209 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Antwerpen> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Pickvance%2C+Ronald> ;
+    ns1:P94_has_created _:N46dae37f061e4263aa7f69fc6eee696e .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 138, 378; kat.nr. 1452; pl. CLVIII." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N282d26a6cf6e44b689f4f86fc533681f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 251–2." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N8ff73834faff468d864a130cdd8cfd1f .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 168." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N4791825abf3b4f4aa893ec3726f9cbc9 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 256; kat.nr. 183." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N086f86c1329f483d8f875f927dcf3d73 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat. nr. F 528" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N556d9f4b924d4113bf45cc0fbc9272e7 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Universitetsforlaget> ;
+    ns1:P16_used_specific_object _:Ndb79b78f64694d118f3eb471e0e1f63e ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1956-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N7759cdfec4ba4603957472db3ede8dba ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Kunst og kultur vol. 87 ISSN 0023-5415" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 168; kat.nr. 113." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N18f9deaee0ec4fefb6e32ae0225086ba .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Burlington+Magazine+Publications+Ltd.> ;
+    ns1:P16_used_specific_object _:Nf95198b3309d49559c48f852aebe60d8 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2013-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2013-01-01"^^xsd:date ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 190; kat.nr. 851." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nca8906eee6084a0ab520235ac38d34ae .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Lange%2C+Marit+Ingeborg> ;
+    ns1:P94_has_created _:Na7cb8997186b426ca4710bd27200b406 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N8c1dbf9841494eddb12d83427af5ef08 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Impressionism. Impressionist Paintings collected by European Museums ISBN 0-8109-6383-3" ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat.nr. 151, s. 32, 435 (ill.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N046fbb3ef507475c8281e128d119b739 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Messel+Forlag> ;
+    ns1:P16_used_specific_object _:N291f0caac1aa41dab87f8e18e17616eb ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2016-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2016-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created _:N98aae7d884e54a758e199fd79c3fabdb .
+
+[] a ns1:E7_Activity ;
+    ns1:P16_used_specific_object _:Nc911493930db4f49b6b11bb00ccd5355 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1953-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1953-01-01"^^xsd:date ] .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 34-36, 67" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nb0cf0e6f18954d008260af33730ea6d2 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat.nr. 1267." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ne984fe20c2e54a0d90de6c91e029e06a .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. kat. nr. 220" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N5426af8f9cbf44e293b8a418527049d0 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Carl+B.+Gunnarsson> ;
+    ns1:P94_has_created _:N93d013a0941c476599412cba68738c82 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Jamot%2C+Paul> ;
+    ns1:P94_has_created _:N0f7b7bb920bd4f9cb148ad9aebbb5849 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/EDITIONS+SOMOGY> ;
+    ns1:P16_used_specific_object _:N210155afb84040638100416024c1799a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1961-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1961-01-01"^^xsd:date ] .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Wolk%2C+Johannes+van+der%3B+Pickvance%2C+Ronald%3B+Pey%2C+E.B.F.> ;
+    ns1:P94_has_created _:N461bfbd2db7944929f651840000b9012 .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Jansen%2C+Leo%3B+Luijten%2C+Hans%3B+Dumas%2C+Ann%3B+Bakker%2C+Nienke> ;
+    ns1:P94_has_created _:N8e6510ef924a4262a8beac6ab8432361 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 81–2; kat.nr. 33." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Na6e38e4a3e2e4498880cd28084fbdb60 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 158" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nad616babf557411f8ac35f7eccab6ba2 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Lange%2C+Marit+Ingeborg> ;
+    ns1:P94_has_created _:N7759cdfec4ba4603957472db3ede8dba .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Black chalk and wash on paper" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 247–8." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nf83c3031aacf40a3b9b932dbf5d068ef .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na7cb8997186b426ca4710bd27200b406 ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Burlington Magazine , no. 1235 ISSN 0007-6287" ] .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Van+Gogh+Museum%2C+Primavera> ;
+    ns1:P16_used_specific_object _:Nfee12af950ed4b21825fdadf070ac555 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Amsterdam+%3B+Leiden> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Schr%C3%B6der%2C+Klaus+Albrecht%3B+Widauer%2C+Hans%3B+Heugten%2C+Sjraar+van%3B+Vellekoop%2C+Marije> ;
+    ns1:P94_has_created _:N4ac64031656444d4a8f3c08005670be8 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Messel+Forlag> ;
+    ns1:P16_used_specific_object _:Na88171d312a147dbbeb232f30623a8dd ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2016-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2016-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 410, kat.nr. 1780." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N446b40b079924bc18902997a24ad5f2c .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Black chalk and wash on paper" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Wolk%2C+Johannes+van+der%3B+Pickvance%2C+Ronald%3B+Pey%2C+E.B.F.> ;
+    ns1:P94_has_created _:N7ffa85217af84b539c8d970a269d8a96 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Aschehoug> ;
+    ns1:P16_used_specific_object _:Nd4feaa660b91486c9350859ea603d851 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1935-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1935-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Dvergsdal%2C+Arne> ;
+    ns1:P94_has_created _:Nabbd5433a99f4c37b5980ffa837ae127 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Goldin%2C+Marco> ;
+    ns1:P94_has_created _:N1262373876144d13a3fb3d172aedf0dd .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/DuMont> ;
+    ns1:P16_used_specific_object _:N4ac64031656444d4a8f3c08005670be8 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2008-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2008-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Cologne> .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created _:Nc10ed9c75a2646228911a8366f85d3c7 .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 273, 391, 412." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Ne35cf00f07ca45668cacab4a682c4a21 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Wolk%2C+Johannes+van+der%3B+Pickvance%2C+Ronald%3B+Pey%2C+E.B.F.> ;
+    ns1:P94_has_created _:Nd796124819f24c4f9de0e83d01cdd693 .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Gyldendal> ;
+    ns1:P16_used_specific_object _:N6e1d6c8928334ad49b0eda897a396b68 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1948-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1948-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 130" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N7607595e638a4228bf4816f770f45589 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created _:Nf31cd1a631cb47ba9169aaed8ee0d593 .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created _:N610d4fb742e24a128503e3c01f64071a .
+
+[] a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/person/Bakker%2C+Nienke%3B+Smit%2C+Lisa> ;
+    ns1:P94_has_created _:Nbb56b5e3b7ea47b0a3fb008c0cbaf24e .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Royal+Academy+of+Arts> ;
+    ns1:P16_used_specific_object _:N8e6510ef924a4262a8beac6ab8432361 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/London> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 247, 250." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:Nf8054ef4f965418d8e933ec7567f78cb .
+
+[] a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://nasjonalmuseet.no/data/organization/Universitetsforlaget> ;
+    ns1:P16_used_specific_object _:N93d013a0941c476599412cba68738c82 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1956-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://nasjonalmuseet.no/data/place/Oslo> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. [189]; kat.nr. 870." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to _:N706288564fbb47a3bed3daa3580c683d .
+
+_:N007c965428dc490391d77c57f32ac8ef a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0-8109-6383-3" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N00890728053e48da96dc4d85c32bf09f a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0870993763" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N0171e4e79fdc4e5dbe322cb2911b83b3 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0007-6287" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N024be0c7c20341db9d73c6d50a937401 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1-55660-126-3" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N0a7639c38591417e86e6e4ee79ef493c a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "9789078964056" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N291e11517b2d49a49d93449e3ffbaa8e a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0023-5415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N36d7e716966a4a4db076eee8837fb796 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1-55660-126-3" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N385d942832f848368ee0522b9985debd a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "9780853317418" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N3caf25afea954a7da191512bafcc77f7 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0023-5415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N3eb13cee444841a3a265eadaa4d198e6 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "9781905711604" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N470418ced28047cfb35ae11b4caa928a a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0165-9510" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N4aab1da9092344ab818dc22c6d5e067a a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1-55660-126-3" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N4b318e8c5be5438cbd9f002ccd1ded28 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0023-5415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N536879ab8926452eac7c705cb26bf5f6 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "88-87582-59-9" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N55c093179dfd4f9a8e35cd66502c7584 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "978-3-8321-9133-7" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N63e72e9abaaf4bf2ba2c08af26c55e43 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0807-1152" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N779fe34748e243d48917f437fcbbb89a a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "8824200230" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N7d5d5344cfbb4c80afd3c003a0eac867 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "978-82-7631-126-6" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N882a73112b6f40f6bc6f0052c748b7e9 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "8824200230" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N8e0a943b289e4163a7185ba2a1f26ef4 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0023-5415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N90cd70aeb6fe46d5a5cdbd9c2c91890a a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "90-74310-82-6" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N90f347bc10a84855bc267977f381cb47 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0023-5415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:N9664f0236a8b4ec4979ae2d3cf125cc2 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1-58839-165-5" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N99b5cf7d2dfc43a185b5e9b1f1c6f3e6 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "8290744463" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Na3c47ead5e1043fd9e7b7e578b386cf1 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "8824200230" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Na8bed384d42e46f5b9be7beaabdfdbb3 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "978-82-7631-126-6" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nae28405aae794a3da4bd044daa1b2aff a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0023-5415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:Nae4686b11a8245e5a39b050c874c5506 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "978-3-8321-9133-7" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nae779268e1af40e4b9128b21169a0b66 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0007-6287" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:Nb1cfffa74496497f9452e701eaa499ed a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0007-6287" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:Nb342166c2c104fbf94d6b3d7a05b9990 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "88-87582-59-9" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nbd832e518da14d219a436745573f0768 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "978-82-7631-126-6" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nc90059e5b79646d89cb8934880ee6b89 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0027-4038" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:Ncc0431d5284e4718a8d0c9182a405eb4 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0030-4492" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:Ncd6cd6fbba394b568d8221e809fecf74 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "9061535972" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nd1e8e5b1c0d54e43b62dec061dcdb55a a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "88-87582-59-9" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nd28ddb368e894cc6a86a25831f1b0586 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "9171006885" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nd5f3d4a1dfc1410b8a908adb492201a2 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0023-5415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:Ndd34ca5ef5e4418190111a431777122f a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "9789068688023" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nef82c2ebea294c8d829d5a386e296580 a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1-55660-126-3" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:Nfafedb6032044b848e6cc81402e0693d a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "0184-7996" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417430> .
+
+_:Nfbe0aa306bbb40cd852fde7dc6d0304f a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "9789078964056" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+_:N0406b1c6dc944cc0bde53e1adc54f618 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0c310420b3f341d1bc86b88592566cc4 ;
+    ns1:P1_is_identified_by _:N36d7e716966a4a4db076eee8837fb796 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N046fbb3ef507475c8281e128d119b739 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N053510cc55934230b695334676fc09c2 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N215b528196b140b882fc88da489cbfcc ;
+    ns1:P1_is_identified_by _:Nfbe0aa306bbb40cd852fde7dc6d0304f ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N086f86c1329f483d8f875f927dcf3d73 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N0a19256d35d24e22b676000b427fab53 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N0af2840eb93947b385e805e4782ea92e a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N854bed66215a45cea6a968dabd8f9598 ;
+    ns1:P1_is_identified_by _:N385d942832f848368ee0522b9985debd ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N0c310420b3f341d1bc86b88592566cc4 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N0d14481e77f448d6a8e7368b5cdab278 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N0f916f0d46474979bdc5d5431ad8eeb8 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N124ecde90ab948d2ade245e193c1ce29 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N1262373876144d13a3fb3d172aedf0dd a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N046fbb3ef507475c8281e128d119b739 ;
+    ns1:P1_is_identified_by _:Nb342166c2c104fbf94d6b3d7a05b9990 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N12940c7e970f4a59a6f53acddb5f42c6 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N78278c47d9644bcbae0c2f679a930eb6 ;
+    ns1:P1_is_identified_by _:Nd1e8e5b1c0d54e43b62dec061dcdb55a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N12ac829bb0034a53a6bb4740188ac9d1 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N824ced2dc57646a2b70f9774ed40f79e ;
+    ns1:P1_is_identified_by _:N4aab1da9092344ab818dc22c6d5e067a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N16d4a7abb40d4a818b34bb4a6c34da10 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N1737616312c7469f91a5559e75eb2756 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ne984fe20c2e54a0d90de6c91e029e06a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N18f9deaee0ec4fefb6e32ae0225086ba a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:N198388d17f054bb38e8b1d0447f734e9 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N19ce27f90ff149d5b08eafa4d45a01f5 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:N1d414ba9be2b41399661719b4bc84ac0 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N1f04837fadb94995a39619741bd8ad1f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N210155afb84040638100416024c1799a a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N215b528196b140b882fc88da489cbfcc a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N21a4abdf37e1449a92e338f406503e5f a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nfc1be7bd76234e74a9fdb0229bc6aa9f ;
+    ns1:P1_is_identified_by _:Nbd832e518da14d219a436745573f0768 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N282d26a6cf6e44b689f4f86fc533681f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N291f0caac1aa41dab87f8e18e17616eb a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0a19256d35d24e22b676000b427fab53 ;
+    ns1:P1_is_identified_by _:N7d5d5344cfbb4c80afd3c003a0eac867 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N2babc072cc3f407ab4cc6af16db9e57d a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N124ecde90ab948d2ade245e193c1ce29 ;
+    ns1:P1_is_identified_by _:Ncd6cd6fbba394b568d8221e809fecf74 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N2e9fb21e4e16456a86ee2cc8ca184ab5 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N37c379ad08194cc0915dc5866eadeb19 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:N390fff2f153c40e0aaed9a784eb70ea0 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N907245a0553a4957b3de2a8f57b2ef4d ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N3e04e2dbf7e0418e8f5ec72ad7a77587 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nb0cf0e6f18954d008260af33730ea6d2 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N3e3309d773704635a118e0f990c9974f a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N709bfed9763449819605ad1720762509 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N446b40b079924bc18902997a24ad5f2c a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N45ed1dbde3b5482c9177812188f758a6 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N461bfbd2db7944929f651840000b9012 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N086f86c1329f483d8f875f927dcf3d73 ;
+    ns1:P1_is_identified_by _:N882a73112b6f40f6bc6f0052c748b7e9 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N46dae37f061e4263aa7f69fc6eee696e a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na6e38e4a3e2e4498880cd28084fbdb60 ;
+    ns1:P1_is_identified_by _:N00890728053e48da96dc4d85c32bf09f ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N471931c8362647ceb6fb6bca7ece7a76 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N4791825abf3b4f4aa893ec3726f9cbc9 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:N494334b079f245fb81e8f32aa17315a9 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N4ac64031656444d4a8f3c08005670be8 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N7dd25ff27b7944d9bdbe7dd9254f9654 ;
+    ns1:P1_is_identified_by _:Nae4686b11a8245e5a39b050c874c5506 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N4b4db945a79b4c779c3bda033ba2b7f3 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N4f1a582496644e2bb8704a6e1efb510e a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N471931c8362647ceb6fb6bca7ece7a76 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N5426af8f9cbf44e293b8a418527049d0 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N556d9f4b924d4113bf45cc0fbc9272e7 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N5cf0043d119b443db1053a7f2af80c6f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N6091414d28a34fcc8a4016798ea0a8d8 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N37c379ad08194cc0915dc5866eadeb19 ;
+    ns1:P1_is_identified_by _:N0a7639c38591417e86e6e4ee79ef493c ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N610d4fb742e24a128503e3c01f64071a a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N446b40b079924bc18902997a24ad5f2c ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N6200622081074c08bd77d5fed3dd8e54 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N6275ae7928004695a915976336c113f0 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:N64c1dbe92e804fbd816f0acc66ceaeea a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N19ce27f90ff149d5b08eafa4d45a01f5 ;
+    ns1:P1_is_identified_by _:Nef82c2ebea294c8d829d5a386e296580 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N653a5dcc109f4191b0f3117468d5c829 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N6bde965230274803bed28cbadb6d1552 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N6c47cda0dd8b48799b117bc40877e3c1 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N6e1d6c8928334ad49b0eda897a396b68 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N2e9fb21e4e16456a86ee2cc8ca184ab5 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N706288564fbb47a3bed3daa3580c683d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:N709bfed9763449819605ad1720762509 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N7607595e638a4228bf4816f770f45589 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N76b7b7740bb345ef8fcae9e563433b05 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N77d3455bc012486bb64459b1d6ad244c a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ne35cf00f07ca45668cacab4a682c4a21 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N78278c47d9644bcbae0c2f679a930eb6 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:N7cb23f00c7b84c5b8a1647cca54d04dc a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N7dd25ff27b7944d9bdbe7dd9254f9654 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N7ffa85217af84b539c8d970a269d8a96 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N18f9deaee0ec4fefb6e32ae0225086ba ;
+    ns1:P1_is_identified_by _:Na3c47ead5e1043fd9e7b7e578b386cf1 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N824ced2dc57646a2b70f9774ed40f79e a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:N854bed66215a45cea6a968dabd8f9598 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N87e2ff6ed715492090382494d971bb03 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N556d9f4b924d4113bf45cc0fbc9272e7 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N8bd7b712449a4efe86ed7d51edf1d887 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N494334b079f245fb81e8f32aa17315a9 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N8e6510ef924a4262a8beac6ab8432361 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Na8485903154140b5b27adec03e1f5509 ;
+    ns1:P1_is_identified_by _:N3eb13cee444841a3a265eadaa4d198e6 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N8eaa141bb75a47cd84707aa3f365366c a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:N8ff73834faff468d864a130cdd8cfd1f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:N907245a0553a4957b3de2a8f57b2ef4d a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:N9185f3f9c6fc49eea8f931f6bbe0c2e2 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5426af8f9cbf44e293b8a418527049d0 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N92be93cb2ca64477a5468cadb1806dc2 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N282d26a6cf6e44b689f4f86fc533681f ;
+    ns1:P1_is_identified_by _:N024be0c7c20341db9d73c6d50a937401 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N92cb9760cfe84932b605cde77b26b1fc a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N6275ae7928004695a915976336c113f0 ;
+    ns1:P1_is_identified_by _:N536879ab8926452eac7c705cb26bf5f6 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N98aae7d884e54a758e199fd79c3fabdb a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N706288564fbb47a3bed3daa3580c683d ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Na6e38e4a3e2e4498880cd28084fbdb60 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:Na8485903154140b5b27adec03e1f5509 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:Na88171d312a147dbbeb232f30623a8dd a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N4791825abf3b4f4aa893ec3726f9cbc9 ;
+    ns1:P1_is_identified_by _:Na8bed384d42e46f5b9be7beaabdfdbb3 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nad616babf557411f8ac35f7eccab6ba2 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:Nb0cf0e6f18954d008260af33730ea6d2 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:Nb2a9507f1aa9403d85b47bcf0843e96e a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N16d4a7abb40d4a818b34bb4a6c34da10 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nb3dfa189fcf246f8a565da80833d3586 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N1f04837fadb94995a39619741bd8ad1f ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nbb3761701cc74d4abc56331707fb5be7 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:Nbb56b5e3b7ea47b0a3fb008c0cbaf24e a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nad616babf557411f8ac35f7eccab6ba2 ;
+    ns1:P1_is_identified_by _:Ndd34ca5ef5e4418190111a431777122f ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nbf9f23f01a64441fbcc51222e6551344 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:Nc10ed9c75a2646228911a8366f85d3c7 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nca8906eee6084a0ab520235ac38d34ae ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nc3d8b9929ab14e438c97fa98e2b09ed9 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00165> .
+
+_:Nc99dad453a4b450693bdcf9fb5d0adf3 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:Nca8906eee6084a0ab520235ac38d34ae a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:Ncc3edf2110ae496a9aabcf3bbdeb5800 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:Nd1424a97fb7a4ac59656a37af837f209 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N6200622081074c08bd77d5fed3dd8e54 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nd3d4fe5dbb70487aa5ea5eee01f55ef7 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:Nd4feaa660b91486c9350859ea603d851 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N7cb23f00c7b84c5b8a1647cca54d04dc ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nd796124819f24c4f9de0e83d01cdd693 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nc3d8b9929ab14e438c97fa98e2b09ed9 ;
+    ns1:P1_is_identified_by _:N779fe34748e243d48917f437fcbbb89a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nd87a0a81185646d09a472b8952956b44 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:Nddffd670ed284b8386d80a972e043ca2 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N1d414ba9be2b41399661719b4bc84ac0 ;
+    ns1:P1_is_identified_by _:N9664f0236a8b4ec4979ae2d3cf125cc2 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Ndf9be03f632b4045b92c577cf2e2fabf a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ne35a7249aea945109703c3841cece4df ;
+    ns1:P1_is_identified_by _:N99b5cf7d2dfc43a185b5e9b1f1c6f3e6 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Ne35a7249aea945109703c3841cece4df a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00068> .
+
+_:Ne35cf00f07ca45668cacab4a682c4a21 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:Ne65e78745ee448488b0f0a8de08eb406 a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.M.00943> .
+
+_:Ne984fe20c2e54a0d90de6c91e029e06a a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:Nea9fce559fe74878ad1c3615d5dc34dc a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nc99dad453a4b450693bdcf9fb5d0adf3 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nede658c94db7426586d9faab08077484 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd3d4fe5dbb70487aa5ea5eee01f55ef7 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nf3164d7dbda44ce894ac822475180429 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N76b7b7740bb345ef8fcae9e563433b05 ;
+    ns1:P1_is_identified_by _:N55c093179dfd4f9a8e35cd66502c7584 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nf31cd1a631cb47ba9169aaed8ee0d593 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N45ed1dbde3b5482c9177812188f758a6 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nf8054ef4f965418d8e933ec7567f78cb a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00166> .
+
+_:Nf83c3031aacf40a3b9b932dbf5d068ef a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:Nfaaa9a42caef4c2585c9df2166aac184 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N653a5dcc109f4191b0f3117468d5c829 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nfc1be7bd76234e74a9fdb0229bc6aa9f a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <http://nasjonalmuseet.no/data/artwork/NG.K%26H.B.00164> .
+
+_:Nfee12af950ed4b21825fdadf070ac555 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nbf9f23f01a64441fbcc51222e6551344 ;
+    ns1:P1_is_identified_by _:N90cd70aeb6fe46d5a5cdbd9c2c91890a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N0f7b7bb920bd4f9cb148ad9aebbb5849 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nbb3761701cc74d4abc56331707fb5be7 ;
+    ns1:P1_is_identified_by _:Nfafedb6032044b848e6cc81402e0693d ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N11d44b3fd41a4fcb845a7f37c0296f6f a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by _:N63e72e9abaaf4bf2ba2c08af26c55e43 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N1c68911268a44afa98cc0b43efb807ae a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by _:Nc90059e5b79646d89cb8934880ee6b89 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N27bc86df8e6b4a2b87f69275a81decf7 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nf8054ef4f965418d8e933ec7567f78cb ;
+    ns1:P1_is_identified_by _:N3caf25afea954a7da191512bafcc77f7 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N7759cdfec4ba4603957472db3ede8dba a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N6bde965230274803bed28cbadb6d1552 ;
+    ns1:P1_is_identified_by _:N291e11517b2d49a49d93449e3ffbaa8e ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N88d96cb4df7f483fa42e7f920e0e1224 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N6c47cda0dd8b48799b117bc40877e3c1 ;
+    ns1:P1_is_identified_by _:N4b318e8c5be5438cbd9f002ccd1ded28 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N8c1dbf9841494eddb12d83427af5ef08 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nd87a0a81185646d09a472b8952956b44 ;
+    ns1:P1_is_identified_by _:N007c965428dc490391d77c57f32ac8ef ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N93d013a0941c476599412cba68738c82 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Nf83c3031aacf40a3b9b932dbf5d068ef ;
+    ns1:P1_is_identified_by _:N90f347bc10a84855bc267977f381cb47 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:N97792f51d0ee44a4bcf36dc4d6123bea a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0f916f0d46474979bdc5d5431ad8eeb8 ;
+    ns1:P1_is_identified_by _:Nb1cfffa74496497f9452e701eaa499ed ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Na7cb8997186b426ca4710bd27200b406 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N4b4db945a79b4c779c3bda033ba2b7f3 ;
+    ns1:P1_is_identified_by _:Nae779268e1af40e4b9128b21169a0b66 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nab9212791d924b25b488d0d6a9262de6 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ne65e78745ee448488b0f0a8de08eb406 ;
+    ns1:P1_is_identified_by _:Nd28ddb368e894cc6a86a25831f1b0586 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nabbd5433a99f4c37b5980ffa837ae127 a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nc911493930db4f49b6b11bb00ccd5355 a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by _:Ncc0431d5284e4718a8d0c9182a405eb4 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Ncdd28114830c401c94160a90d4e6f228 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N5cf0043d119b443db1053a7f2af80c6f ;
+    ns1:P1_is_identified_by _:N470418ced28047cfb35ae11b4caa928a ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nd15fe79f992748f7a9d4cdb41d709691 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N7607595e638a4228bf4816f770f45589 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nd7e89eff39a442048838ddbb80e306f4 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N0d14481e77f448d6a8e7368b5cdab278 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nd8a724a64fd7457ba96953102f938604 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:Ncc3edf2110ae496a9aabcf3bbdeb5800 ;
+    ns1:P1_is_identified_by _:Nd5f3d4a1dfc1410b8a908adb492201a2 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Ndb79b78f64694d118f3eb471e0e1f63e a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N8ff73834faff468d864a130cdd8cfd1f ;
+    ns1:P1_is_identified_by _:N8e0a943b289e4163a7185ba2a1f26ef4 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nf062d4cef3f942879a0dbb26d31742e1 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N8eaa141bb75a47cd84707aa3f365366c ;
+    ns1:P1_is_identified_by _:Nae28405aae794a3da4bd044daa1b2aff ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+_:Nf95198b3309d49559c48f852aebe60d8 a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of _:N198388d17f054bb38e8b1d0447f734e9 ;
+    ns1:P1_is_identified_by _:N0171e4e79fdc4e5dbe322cb2911b83b3 ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+

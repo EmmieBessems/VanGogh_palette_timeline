@@ -1,0 +1,697 @@
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12ca <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300207379>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bc <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12be <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12be <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300264273>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bd <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bd <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bf <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bf <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300264273>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c9 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12ca.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c7 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c8.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300015636>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c4 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300014844>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c4 <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300162474>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c3 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300014844>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c3 <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300014078>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c6 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c8 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028705>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c2 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435429>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c0 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c1 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bb <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bc.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1292 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1292 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1293 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1296 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1296 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1296 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1297 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1297 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1297 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1294 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1294 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1294 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1295 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1295 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1286 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1255 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1255 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1255 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/2021%2C436/1/part>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1274 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1274 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1279 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1279 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1287 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1287 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1287 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/2021%2C436/11/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127d <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127d <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/9.027221596E9/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1254 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1259 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1269 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/2021%2C436/5/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1269 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1269 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1268 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1264 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/2021%2C436/4/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1264 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1264 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125a <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/2021%2C436/2/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125a <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125f <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/2021%2C436/3/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125f <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1272 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1277 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1273 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1273 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1278 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1278 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/8.877370491E9/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba126d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba126f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba126f <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1282 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1282 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/document/9780300186864/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300418049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435429> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300026687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E56_Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P128_carries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/350056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300264273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/ulan/500242559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/E74_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7014406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://data.rkd.nl/artists/444147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/447124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/365519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://vocab.getty.edu/aat/300026096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vocab.getty.edu/tgn/7006952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://vocab.getty.edu/aat/300026061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300054216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300444173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300444173> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300207379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7250304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/aat/300162474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<https://vangoghworldwide.org/data/artwork/F310a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/ulan/500645379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://vocab.getty.edu/ulan/500437012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/tgn/7013641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://vocab.getty.edu/tgn/7003150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.denverartmuseum.org/data/document/9780300186864/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://vocab.getty.edu/ulan/500009602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/8.877370491E9/title>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1274.
+<https://www.denverartmuseum.org/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/8.877370491E9/part>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/2021%2C436/5>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500645379>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/author>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500009602>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/2021%2C436/1>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/2021%2C436/11/author>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/2021%2C436/11>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/title>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba126f.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/part>.
+<https://vocab.getty.edu/ulan/500220995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://vocab.getty.edu/ulan/500220995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/2021%2C436/11>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1286.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013641>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500437012>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/tgn/7011781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.denverartmuseum.org/data/document/9780300186864/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/9.027221596E9>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127c.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7014406>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/9.027221596E9/publisher>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/2021%2C436/3>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026096>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/2021%2C436/11/title>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/2021%2C436/11/part>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/9.027221596E9>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/9.027221596E9/author>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/9780300186864/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/9780300186864/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/2021%2C436/2>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500645379>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/2021%2C436/3/part>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/2021%2C436/3/title>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/2021%2C436/2/part>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/2021%2C436/2/title>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/2021%2C436/5/part>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/2021%2C436/5/title>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/2021%2C436/4/part>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/2021%2C436/4/title>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/2021%2C436/4/publisher>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7003150>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1263.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/2021%2C436/4>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vocab.getty.edu/tgn/7013545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/2021%2C436/3/publisher>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7011781>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125e.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/2021%2C436/3>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/2021%2C436/2/publisher>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7250304>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1259.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/2021%2C436/2>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500220995>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006952>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1254.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/2021%2C436/1>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/8.877370491E9/publisher>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7003163>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1277.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/8.877370491E9>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://vocab.getty.edu/tgn/7004446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/2021%2C436/1/part>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/2021%2C436/1/title>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026096>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c9.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c7.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c5.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c4.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c3.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300015050>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c1.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c0.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bf.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12be.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bd.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/identifier/JH1273>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F310a>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/identifier/F310a>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/identifier/2021%2C436>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033618>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://vocab.getty.edu/ulan/500242559>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/2021%2C436/5/publisher>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006952>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1268.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/2021%2C436/5>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/9780300186864/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/9780300186864/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/9780300186864/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/9780300186864>.
+<https://www.denverartmuseum.org/data/document/9780300186864/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1281.
+<https://www.denverartmuseum.org/data/document/9780300186864/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7013545>.
+<https://www.denverartmuseum.org/data/document/9780300186864/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500242559>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7004446>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500237751>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1272.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/2021%2C436/4>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/2021%2C436/4/author>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/9.027221596E9/title>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1279.
+<https://www.denverartmuseum.org/data/document/9.027221596E9> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/9.027221596E9/part>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/ulan/500237751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/tgn/7003163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.denverartmuseum.org/data/document/9780300186864> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.denverartmuseum.org/data/document/9780300186864/part>.
+<https://www.denverartmuseum.org/data/document/9780300186864> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127e.
+<https://www.denverartmuseum.org/data/document/9780300186864> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/document/9780300186864/title>.
+<https://www.denverartmuseum.org/data/document/9780300186864> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026096>.
+<https://www.denverartmuseum.org/data/document/9780300186864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://vocab.getty.edu/ulan/500242559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://vocab.getty.edu/ulan/500242559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/8.877370491E9/author>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/8.877370491E9>.
+<https://www.denverartmuseum.org/data/document/8.877370491E9/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/document/9.027221596E9/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/document/9780300186864/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/document/9780300186864/author>.
+<https://www.denverartmuseum.org/data/document/9780300186864/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.denverartmuseum.org/data/document/9780300186864>.
+<https://www.denverartmuseum.org/data/document/9780300186864/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.denverartmuseum.org/data/actor/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://vocab.getty.edu/aat/300417637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300417642>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/actor/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/actor/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/actor/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300417642>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/actor/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300417643>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500303678>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/actor/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300417637>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500242559>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300417642>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/actor/Private+collection%2C+Japan%2C+by+1996>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vocab.getty.edu/ulan/500451616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/actor/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500451616>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300417643>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://vocab.getty.edu/aat/300417642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vocab.getty.edu/aat/300417643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vocab.getty.edu/aat/300420000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.denverartmuseum.org/data/actor/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/timespan>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/acquisition>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://vocab.getty.edu/ulan/500451616>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://vocab.getty.edu/ulan/500242559>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.denverartmuseum.org/data/actor/Private+collection%2C+Japan%2C+by+1996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://www.denverartmuseum.org/data/actor/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.denverartmuseum.org/data/actor/W.+P.+Ingenegeren+%5B1853%E2%80%931930%5D%2C+Utrecht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://www.denverartmuseum.org/data/actor/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://vocab.getty.edu/ulan/500303678>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://www.denverartmuseum.org/data/actor/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://vocab.getty.edu/ulan/500303678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://www.denverartmuseum.org/data/actor/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://www.denverartmuseum.org/data/actor/Private+collection%2C+Japan%2C+by+1996>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/timespan>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500242559>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7013545>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/name>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/timespan>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500220995>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006952>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/name>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500242559>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7013545>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/name>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/timespan>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://vocab.getty.edu/aat/300015636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://www.denverartmuseum.org/data/identifier/JH1273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.denverartmuseum.org/data/identifier/JH1273> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://www.denverartmuseum.org/data/identifier/F310a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.denverartmuseum.org/data/identifier/F310a> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://www.denverartmuseum.org/data/identifier/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<https://www.denverartmuseum.org/data/identifier/2021%2C436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300054216>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bb.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<https://media.rkd.nl/iiif/10770793> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://www.denverartmuseum.org/data/artwork/2021%2C436>.
+<https://media.rkd.nl/iiif/10770793> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770793> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12ca <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Sotheby's New York #023".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bc <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "1887".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12be <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Edge of a Wheatfield".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bd <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Edge of a Wheat Field with Poppies".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bf <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Field of Corn".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Willem van Gogh [1890–1978], Haarlem. Mrs. Johanna van Gogh-Bonger [1862–1925], Amsterdam. W. P. Ingenegeren [1853–1930], Utrecht. (Frederik Muller & Co., Amsterdam), April 9–10, 1918, no. 117. d’Audretsch Art Gallery, The Hague, (H. E.[Herman] d’Audretsch [1872–1966]). N. Eisenloeffel Art Gallery (Nico Eisenloeffel, [1881–1974]), Amsterdam. Dr. William Jacob Herman [1891-1935] and Susan Evarts Herman [1984-1964], Boston, MA, about 1928 to about 1977. John T. Dorrance, Jr. [1919–1989], Pennsylvania; (Acquavella Galleries, Inc., New York), 1987; (Edobori Gallery, Osaka, Japan), 1987. Private collection, Japan, by 1996. Sotheby’s New York, Impressionist and Modern Art, Part I, May 13, 1997, lot 23 (repr.). Frederic C. Hamilton [1927–2016], Denver, CO, by 2012; Gifted to the Denver Art Museum, 2021.".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c8 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Not signed or dated".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Oil paint on canvas on pasteboard".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1292 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "RKD link to art dealer, not gallery".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1293 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "RKD link to art dealer, not gallery".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1296 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "by 1996".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1297 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "by 2012".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1294 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "About 1929 ; About 1977".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1295 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "After 1977".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1255 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 19, no. 34".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1274 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "8.877370491E9".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1279 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9.027221596E9".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1287 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pg. 145".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127d <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 284 , repr., no. 1273".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1269 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "no. F310a, (repr. p. 153)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1264 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "vol. I, p. 117, repr., no. 409".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127e <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9780300186864".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125a <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "vol. 1, no. 310 bix and vol. 2, repr. Pl. LXXXIV".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125f <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 262, repr., no. 355".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1273 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 247, repr.".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1278 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 180, repr., no. 408".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba126f <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "3822802913, 3822890553".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1282 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 272, cat. 60 (repr. p. 198).".
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "Paintings".
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/2000/01/rdf-schema#label> "signatures".
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/2000/01/rdf-schema#label> "oil paint".
+<https://data.rkd.nl/artists/350056> <http://www.w3.org/2000/01/rdf-schema#label> "Mrs. Johanna van Gogh-Bonger [1862–1925], Amsterdam".
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/2000/01/rdf-schema#label> "provenance entry".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/2000/01/rdf-schema#label> "Pagination statement".
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/2000/01/rdf-schema#label> "ISBN".
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition".
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/2000/01/rdf-schema#label> "publishing".
+<http://vocab.getty.edu/ulan/500242559> <http://www.w3.org/2000/01/rdf-schema#label> "Denver Art Museum".
+<http://vocab.getty.edu/tgn/7014406> <http://www.w3.org/2000/01/rdf-schema#label> "Philadelphia".
+<https://data.rkd.nl/artists/444147> <http://www.w3.org/2000/01/rdf-schema#label> "d’Audretsch Art Gallery, The Hague, (H. E.[Herman] d’Audretsch [1872–1966])".
+<https://data.rkd.nl/artists/447124> <http://www.w3.org/2000/01/rdf-schema#label> "(Frederik Muller & Co., Amsterdam), April 9–10, 1918, no. 117".
+<https://data.rkd.nl/artists/365519> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent Willem van Gogh [1890–1978], Haarlem".
+<https://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition catalog".
+<https://vocab.getty.edu/tgn/7006952> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam".
+<https://vocab.getty.edu/aat/300026061> <http://www.w3.org/2000/01/rdf-schema#label> "Catalogue Raisonné".
+<http://vocab.getty.edu/aat/300054216> <http://www.w3.org/2000/01/rdf-schema#label> "painting".
+<http://vocab.getty.edu/aat/300207379> <http://www.w3.org/2000/01/rdf-schema#label> "stickers".
+<http://vocab.getty.edu/tgn/7250304> <http://www.w3.org/2000/01/rdf-schema#label> "Paris".
+<http://vocab.getty.edu/ulan/500645379> <http://www.w3.org/2000/01/rdf-schema#label> "Faille, J. B. de la".
+<http://vocab.getty.edu/ulan/500437012> <http://www.w3.org/2000/01/rdf-schema#label> "The Columbia Museum of Art".
+<http://vocab.getty.edu/tgn/7013641> <http://www.w3.org/2000/01/rdf-schema#label> "Columbia".
+<https://vocab.getty.edu/tgn/7003150> <http://www.w3.org/2000/01/rdf-schema#label> "Milano".
+<https://www.denverartmuseum.org/data/document/9780300186864/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Becoming Van Gogh".
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "William Heinemann Ltd.".
+<https://vocab.getty.edu/ulan/500009602> <http://www.w3.org/2000/01/rdf-schema#label> "Gosschalk, Johan Cohen".
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Rizzoli Editore".
+<https://www.denverartmuseum.org/data/document/2021%2C436/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Catalogus der tentoonstelling van schilderijen en teekeningen door Vincent van Gogh (Catalogue of the Exhibition of Paintings and Drawings by Vincent van Gogh)".
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "L’opera pittorica completa di Van Gogh e i suoi nessi grafici, Vol I, Da Etten a Parigi".
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/author> <http://www.w3.org/2000/01/rdf-schema#label> "South, Will ; Steven Naifeh ; Alyssa Velazquez".
+<https://vocab.getty.edu/ulan/500220995> <http://www.w3.org/2000/01/rdf-schema#label> "Stedelijk Museum".
+<https://www.denverartmuseum.org/data/document/8.877370491E9/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh: Catalogo completo dei dipinti".
+<https://vocab.getty.edu/tgn/7011781> <http://www.w3.org/2000/01/rdf-schema#label> "London".
+<https://www.denverartmuseum.org/data/document/9780300186864/author> <http://www.w3.org/2000/01/rdf-schema#label> "Standring, Timothy J. ; Louis van Tilborgh".
+<https://www.denverartmuseum.org/data/document/8.877370491E9/author> <http://www.w3.org/2000/01/rdf-schema#label> "Testori, Gionvanni ; Arrigoni, Luisa".
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Van Oest".
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Meulenhoff".
+<https://www.denverartmuseum.org/data/document/2021%2C436/4/author> <http://www.w3.org/2000/01/rdf-schema#label> "Lecaldano, Paolo".
+<https://www.denverartmuseum.org/data/document/2021%2C436/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "L' oeuvre de Vincent van Gogh : catalogue raisonné".
+<https://www.denverartmuseum.org/data/document/2021%2C436/5/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The works of Vincent van Gogh".
+<https://vocab.getty.edu/tgn/7013545> <http://www.w3.org/2000/01/rdf-schema#label> "Denver".
+<https://vocab.getty.edu/tgn/7004446> <http://www.w3.org/2000/01/rdf-schema#label> "Köln (Cologne)".
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh: The Complete Paintings".
+<https://vocab.getty.edu/ulan/500237751> <http://www.w3.org/2000/01/rdf-schema#label> "Benedikt Taschen".
+<https://www.denverartmuseum.org/data/document/9.027221596E9/author> <http://www.w3.org/2000/01/rdf-schema#label> "Hulsker, Jan".
+<https://www.denverartmuseum.org/data/document/2021%2C436/11/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh and His Inspirations".
+<https://www.denverartmuseum.org/data/document/9.027221596E9/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "John Benjamins Publishing Co.".
+<https://www.denverartmuseum.org/data/document/2021%2C436/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh".
+<https://vocab.getty.edu/tgn/7003163> <http://www.w3.org/2000/01/rdf-schema#label> "Firenze (Florence)".
+<https://www.denverartmuseum.org/data/document/8.877370491E9/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Cantini Editore".
+<https://vocab.getty.edu/ulan/500242559> <http://www.w3.org/2000/01/rdf-schema#label> "Denver Art Museum, 2021".
+<https://vocab.getty.edu/ulan/500242559> <http://www.w3.org/2000/01/rdf-schema#label> "Denver Art Museum".
+<https://www.denverartmuseum.org/data/document/3822802913%2C+3822890553/author> <http://www.w3.org/2000/01/rdf-schema#label> "Walther, Ingo F. ; Rainer Metzger".
+<https://www.denverartmuseum.org/data/document/9.027221596E9/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The New Complete Van Gogh : Paintings, Drawings, Sketches".
+<https://www.denverartmuseum.org/data/actor/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Dorrance, Jr. [1919–1989], Pennsylvania".
+<https://vocab.getty.edu/aat/300417637> <http://www.w3.org/2000/01/rdf-schema#label> "Gift".
+<https://www.denverartmuseum.org/data/actor/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012> <http://www.w3.org/2000/01/rdf-schema#label> "Frederic C. Hamilton [1927–2016], Denver, CO, by 2012".
+<https://www.denverartmuseum.org/data/actor/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977> <http://www.w3.org/2000/01/rdf-schema#label> "Dr. William Jacob Herman [1891-1935] and Susan Evarts Herman [1984-1964], Boston, MA, about 1928 to about 1977".
+<https://vocab.getty.edu/ulan/500451616> <http://www.w3.org/2000/01/rdf-schema#label> "Sotheby’s New York, Impressionist and Modern Art, Part I, May 13, 1997, lot 23 (repr.)".
+<https://www.denverartmuseum.org/data/actor/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987> <http://www.w3.org/2000/01/rdf-schema#label> "(Edobori Gallery, Osaka, Japan), 1987".
+<https://vocab.getty.edu/aat/300417642> <http://www.w3.org/2000/01/rdf-schema#label> "Purchase".
+<https://vocab.getty.edu/aat/300417643> <http://www.w3.org/2000/01/rdf-schema#label> "Sale".
+<https://vocab.getty.edu/aat/300420000> <http://www.w3.org/2000/01/rdf-schema#label> "Sale".
+<https://www.denverartmuseum.org/data/actor/Private+collection%2C+Japan%2C+by+1996> <http://www.w3.org/2000/01/rdf-schema#label> "Private collection, Japan, by 1996".
+<https://www.denverartmuseum.org/data/actor/W.+P.+Ingenegeren+%5B1853%E2%80%931930%5D%2C+Utrecht> <http://www.w3.org/2000/01/rdf-schema#label> "W. P. Ingenegeren [1853–1930], Utrecht".
+<https://vocab.getty.edu/ulan/500303678> <http://www.w3.org/2000/01/rdf-schema#label> "(Acquavella Galleries, Inc., New York), 1987".
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Tentoonstelling van schilderijen en teekeningen door Vincent van Gogh (Exhibition of Paintings and Drawings by Vincent van Gogh)".
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Becoming Van Gogh".
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Nature as Muse: Impressionist Landscapes from the Frederic C. Hamilton Collection and the Denver Art Museum".
+<https://vocab.getty.edu/aat/300015636> <http://www.w3.org/2000/01/rdf-schema#label> "Landscape".
+<https://www.denverartmuseum.org/data/identifier/JH1273> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH1273".
+<https://www.denverartmuseum.org/data/identifier/F310a> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F310a".
+<https://www.denverartmuseum.org/data/identifier/2021%2C436> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "2021,436".
+<https://www.denverartmuseum.org/data/artwork/2021%2C436/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Frederic C. Hamilton Collection".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c0 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "40.0"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12c1 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "32.4"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bb <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1887-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba12bb <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1887-12-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1286 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1286 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127c <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba127c <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1254 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1905-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1254 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1905-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1259 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1928-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1259 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1928-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1263 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1966-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1263 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1966-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1268 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125e <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1939-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba125e <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1939-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1272 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1272 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1277 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1277 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba126d <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1980-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba126d <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1980-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1281 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2012-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1281 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2012-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2012-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Frederic+C.+Hamilton+%5B1927%E2%80%932016%5D%2C+Denver%2C+CO%2C+by+2012/2012-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2021-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1928-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Dr.+William+Jacob+Herman+%5B1891-1935%5D+and+Susan+Evarts+Herman+%5B1984-1964%5D%2C+Boston%2C+MA%2C+about+1928+to+about+1977/1928-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1977-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1977-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/John+T.+Dorrance%2C+Jr.+%5B1919%E2%80%931989%5D%2C+Pennsylvania/1977-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Denver+Art+Museum%2C+2021/2021-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2021-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/%28Edobori+Gallery%2C+Osaka%2C+Japan%29%2C+1987/1987-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1997-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Sotheby%E2%80%99s+New+York%2C+Impressionist+and+Modern+Art%2C+Part+I%2C+May+13%2C+1997%2C+lot+23+%28repr.%29/1997-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1997-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/%28Acquavella+Galleries%2C+Inc.%2C+New+York%29%2C+1987/1987-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/provenance/Private+collection%2C+Japan%2C+by+1996/1996-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1997-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2013-10-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2013-10-27/2014-02-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2014-02-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1905-07-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/exhibition/500220995/1905-07-01/1905-08-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1905-08-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2012-10-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.denverartmuseum.org/data/exhibition/500242559/2012-10-21/2013-01-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2013-01-20"^^<http://www.w3.org/2001/XMLSchema#date>.

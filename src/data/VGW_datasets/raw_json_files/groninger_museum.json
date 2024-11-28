@@ -1,0 +1,1502 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://grongermuseum.nl/data/term/144> a rdfs:Resource ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417641> .
+
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/493822> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/493822> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/51>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1906-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1906-01-01"^^xsd:date ] ;
+    ns1:P9_consists_of <http://groningermuseum.nl/data/artwork/1951.0560/provenance/495487/acquisition> .
+
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/493822> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/493822> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/11>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ] ;
+    ns1:P9_consists_of <http://groningermuseum.nl/data/artwork/1961.0188/provenance/495487/acquisition> .
+
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/493822> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/493822> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/144>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P9_consists_of <http://groningermuseum.nl/data/artwork/1962.0200/provenance/495487/acquisition> .
+
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/493822> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/493822> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/144>,
+        <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ] ;
+    ns1:P9_consists_of <http://groningermuseum.nl/data/artwork/1962.0201/provenance/495487/acquisition> .
+
+<http://groningermuseum.nl/data/document/14653/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/14653> .
+
+<http://groningermuseum.nl/data/document/14655/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Dorn%2C+Roland> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/14655> .
+
+<http://groningermuseum.nl/data/document/14890/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Wolk%2C+Johannes+van+der> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/14890> .
+
+<http://groningermuseum.nl/data/document/14893/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Uitert%2C+Evert+van> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/14893> .
+
+<http://groningermuseum.nl/data/document/14894/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Tilborgh%2C+Louis+van> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/14894> .
+
+<http://groningermuseum.nl/data/document/18209/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Hammacher%2C+Abraham+M.> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/18209> .
+
+<http://groningermuseum.nl/data/document/20050/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Jong%2C+Erik+de> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/20050> .
+
+<http://groningermuseum.nl/data/document/3239/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Dumas%2C+Charles> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/3239> .
+
+<http://groningermuseum.nl/data/document/35103/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Goldin%2C+Marco> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/35103> .
+
+<http://groningermuseum.nl/data/document/35836/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Gesk%C3%B3%2C+Judit> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/35836> .
+
+<http://groningermuseum.nl/data/document/37522/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/B%C3%BCttner%2C+Nils> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/37522> .
+
+<http://groningermuseum.nl/data/document/37769/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Kolsteren%2C+Steven> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/37769> .
+
+<http://groningermuseum.nl/data/document/38087/creation> a ns1:E65_Creation ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/38087> .
+
+<http://groningermuseum.nl/data/document/38423/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Solana%2C+Guillermo> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/38423> .
+
+<http://groningermuseum.nl/data/document/38457/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Overmars%2C+Herman> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/38457> .
+
+<http://groningermuseum.nl/data/document/39236/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Bakker%2C+Nienke> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/39236> .
+
+<http://groningermuseum.nl/data/document/40300/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Dominicus-van+Soest%2C+Marleen> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/40300> .
+
+<http://groningermuseum.nl/data/document/43231/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Jansen%2C+Mari%C3%ABtta> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/43231> .
+
+<http://groningermuseum.nl/data/document/43872/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Bakker%2C+Boudewijn> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/43872> .
+
+<http://groningermuseum.nl/data/document/43881/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Berger%2C+Helewise> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/43881> .
+
+<http://groningermuseum.nl/data/document/43921/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Hillenga%2C+Martin> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/43921> .
+
+<http://groningermuseum.nl/data/document/44000/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Reynaerts%2C+Jenny> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/44000> .
+
+<http://groningermuseum.nl/data/document/6839/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Dendermonde%2C+Max> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/6839> .
+
+<http://groningermuseum.nl/data/document/9237/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/person/Hulsker%2C+Jan> ;
+    ns1:P94_has_created <http://groningermuseum.nl/data/document/9237> .
+
+<http://groningermuseum.nl/data/exhibition/1016> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Kunstforum+Wien> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/1016/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/1016/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Wenen> .
+
+<http://groningermuseum.nl/data/exhibition/1017> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Museum+Boijmans+Van+Beuningen> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/1017/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/1017/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Rotterdam> .
+
+<http://groningermuseum.nl/data/exhibition/1018> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Nuenen-100+jaar+Van+Gogh> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/1018/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/1018/timespan> .
+
+<http://groningermuseum.nl/data/exhibition/1019> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Museum+of+Fine+Arts%2C+Budapest> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/1019/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/1019/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Boedapest> .
+
+<http://groningermuseum.nl/data/exhibition/103> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Groninger+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/103/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/103/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Groningen> .
+
+<http://groningermuseum.nl/data/exhibition/1110> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Drents+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/1110/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/1110/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Assen> .
+
+<http://groningermuseum.nl/data/exhibition/213> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Hokkaido+Museum+of+Modern+Art> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/213/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/213/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Sapporo> .
+
+<http://groningermuseum.nl/data/exhibition/22055> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Royal+Academy+of+Arts> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/22055/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/22055/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Londen> .
+
+<http://groningermuseum.nl/data/exhibition/22126> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Complesso+del+Vittoriano> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/22126/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/22126/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Rome> .
+
+<http://groningermuseum.nl/data/exhibition/23048> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Pinacoth%C3%A8que+de+Paris> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/23048/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/23048/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Parijs> .
+
+<http://groningermuseum.nl/data/exhibition/23270> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Denver+Art+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/23270/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/23270/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Denver%2C+CO> .
+
+<http://groningermuseum.nl/data/exhibition/23274> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Ordrupgaard> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/23274/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/23274/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Kopenhagen> .
+
+<http://groningermuseum.nl/data/exhibition/23842> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/G%C3%B6teborgs+Konstmuseum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/23842/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/23842/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Gothenburg> .
+
+<http://groningermuseum.nl/data/exhibition/24026> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Groninger+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/24026/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/24026/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Groningen> .
+
+<http://groningermuseum.nl/data/exhibition/242> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Van+Gogh+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/242/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/242/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Amsterdam> .
+
+<http://groningermuseum.nl/data/exhibition/243> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Kunstforum+Wien> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/243/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/243/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Wenen> .
+
+<http://groningermuseum.nl/data/exhibition/244> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Bienal+de+Sao+Paulo%2C+XXIV> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/244/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/244/timespan> .
+
+<http://groningermuseum.nl/data/exhibition/245> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Drents+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/245/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/245/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Assen> .
+
+<http://groningermuseum.nl/data/exhibition/246> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Detroit+Institute+of+Arts> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/246/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/246/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Detroit%2C+MI> .
+
+<http://groningermuseum.nl/data/exhibition/247> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Frankfurter+Kunstverein> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1961.0188>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/247/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/247/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Frankfurt+am+Main> .
+
+<http://groningermuseum.nl/data/exhibition/248> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Mus%C3%A9e+des+Beaux-+Arts+de+Mons> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1961.0188>,
+        <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/248/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/248/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Bergen+%28Belgi%C3%AB%29> .
+
+<http://groningermuseum.nl/data/exhibition/249> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Haags+Historisch+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/249/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/249/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Den+Haag> .
+
+<http://groningermuseum.nl/data/exhibition/250> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Wisselingh+%26+Co%2C+kunsthandel+E.J.+van> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/250/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/250/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Amsterdam> .
+
+<http://groningermuseum.nl/data/exhibition/252> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/252/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/252/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Tokyo> .
+
+<http://groningermuseum.nl/data/exhibition/25230> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Groninger+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1961.0188>,
+        <http://groningermuseum.nl/data/artwork/1962.0200>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/25230/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/25230/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Groningen> .
+
+<http://groningermuseum.nl/data/exhibition/25445> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Groninger+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/25445/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/25445/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Groningen> .
+
+<http://groningermuseum.nl/data/exhibition/25464> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Singer+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/25464/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/25464/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Laren> .
+
+<http://groningermuseum.nl/data/exhibition/25511> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Singer+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/25511/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/25511/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Laren> .
+
+<http://groningermuseum.nl/data/exhibition/282> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Frans+Hals+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/282/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/282/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Haarlem> .
+
+<http://groningermuseum.nl/data/exhibition/3145> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Gemeentemuseum+Den+Haag> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/3145/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/3145/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Parijs> .
+
+<http://groningermuseum.nl/data/exhibition/595> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Gemeentemuseum+Den+Haag> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/595/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/595/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Den+Haag> .
+
+<http://groningermuseum.nl/data/exhibition/628> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Het+Noordbrabants+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/628/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/628/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Den+Bosch> .
+
+<http://groningermuseum.nl/data/exhibition/629> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Het+Noordbrabants+Museum> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/629/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/629/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Den+Bosch> .
+
+<http://groningermuseum.nl/data/exhibition/630> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Casa+dei+Carraresi> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/630/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/630/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Treviso> .
+
+<http://groningermuseum.nl/data/exhibition/632> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://groningermuseum.nl/data/organization/Linea+d%27Ombra> ;
+    ns1:P16_used_specific_object <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1961.0188>,
+        <http://groningermuseum.nl/data/artwork/1962.0200>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/exhibition/632/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <http://groningermuseum.nl/data/exhibition/632/timespan> ;
+    ns1:P7_took_place_at <http://groningermuseum.nl/data/place/Brescia> .
+
+<http://groningermuseum.nl/data/production/1951.0560> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://groningermuseum.nl/data/artwork/1951.0560> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1882-01-01"^^xsd:date ] .
+
+<http://groningermuseum.nl/data/production/1961.0188> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1883-11-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1883-11-30"^^xsd:date ] .
+
+<http://groningermuseum.nl/data/production/1962.0200> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1884-01-01"^^xsd:date ] .
+
+<http://groningermuseum.nl/data/production/1962.0201> a ns1:E12_Production ;
+    ns1:P108_has_produced <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ] ;
+            ns1:P82a_begin_of_the_begin "1883-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1883-01-31"^^xsd:date ] .
+
+dcterms:conformsTo a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+skos:exactMatch a rdfs:Resource .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1951.0560%20L.jp2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://groningermuseum.nl/data/artwork/1951.0560> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1961.0188%20L.jp2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0200%20L.jp2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0201%20L.jp2> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/495487/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/493822> ;
+    ns1:P24_transferred_title_of <http://groningermuseum.nl/data/artwork/1951.0560> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/51> .
+
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/495487/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/493822> ;
+    ns1:P24_transferred_title_of <http://groningermuseum.nl/data/artwork/1961.0188> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/11> .
+
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/495487/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/493822> ;
+    ns1:P24_transferred_title_of <http://groningermuseum.nl/data/artwork/1962.0200> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/144> .
+
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/495487/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/493822> ;
+    ns1:P24_transferred_title_of <http://groningermuseum.nl/data/artwork/1962.0201> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/144> .
+
+<http://groningermuseum.nl/data/document/14653> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/14653/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1961.0188>,
+        <http://groningermuseum.nl/data/artwork/1962.0200>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> .
+
+<http://groningermuseum.nl/data/document/14653/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh en zijn weg : het complete werk" .
+
+<http://groningermuseum.nl/data/document/14655> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/14655/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1962.0200>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> .
+
+<http://groningermuseum.nl/data/document/14655/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh und die Haager Schule" .
+
+<http://groningermuseum.nl/data/document/14890> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/14890/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1961.0188> .
+
+<http://groningermuseum.nl/data/document/14890/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh : tekeningen" .
+
+<http://groningermuseum.nl/data/document/14893> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/14893/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/14893/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh in Brabant : schilderijen en tekeningen uit Etten en Nuenen" .
+
+<http://groningermuseum.nl/data/document/14894> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/14894/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0201> .
+
+<http://groningermuseum.nl/data/document/14894/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh, tekeningen : vroege jaren 1880-1883" .
+
+<http://groningermuseum.nl/data/document/18209> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/18209/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1961.0188> .
+
+<http://groningermuseum.nl/data/document/18209/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "works of Vincent van Gogh : his paintings and his drawings" .
+
+<http://groningermuseum.nl/data/document/20050> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/20050/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/20050/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh en zijn weg : het complete werk" .
+
+<http://groningermuseum.nl/data/document/3239> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/3239/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1961.0188> .
+
+<http://groningermuseum.nl/data/document/3239/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Haagse School : Hollandse meesters van de 19e eeuw" .
+
+<http://groningermuseum.nl/data/document/35103> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/35103/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1951.0560>,
+        <http://groningermuseum.nl/data/artwork/1961.0188>,
+        <http://groningermuseum.nl/data/artwork/1962.0200>,
+        <http://groningermuseum.nl/data/artwork/1962.0201> .
+
+<http://groningermuseum.nl/data/document/35103/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Budapest" .
+
+<http://groningermuseum.nl/data/document/35836> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/35836/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/35836/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Budapest" .
+
+<http://groningermuseum.nl/data/document/37522> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/37522/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/37522/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Gemälte Gärten, Bilder aus zwei Jahrtausenden" .
+
+<http://groningermuseum.nl/data/document/37769> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/37769/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1961.0188> .
+
+<http://groningermuseum.nl/data/document/37769/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Zelfportret van het Groninger Museum : 150 karakteristieke stukken = Selfportrait of the Groninger Museum" .
+
+<http://groningermuseum.nl/data/document/38087> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/38087/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/38087/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh in Brabant : schilderijen en tekeningen uit Etten en Nuenen" .
+
+<http://groningermuseum.nl/data/document/38423> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/38423/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/38423/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, los últimos paisajes" .
+
+<http://groningermuseum.nl/data/document/38457> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/38457/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1951.0560> .
+
+<http://groningermuseum.nl/data/document/38457/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Het Kunstlievend genootschap Pictura te Groningen 175" .
+
+<http://groningermuseum.nl/data/document/39236> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/39236/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/39236/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "real van Gogh: the artist and his letters" .
+
+<http://groningermuseum.nl/data/document/40300> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/40300/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/40300/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Aardse paradijzen 2 : de tuin in de Nederlandse kunst 1770 tot 2000" .
+
+<http://groningermuseum.nl/data/document/43231> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/43231/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0201> .
+
+<http://groningermuseum.nl/data/document/43231/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "avant-garde in Groningen: De Ploeg 1918 - 1928" .
+
+<http://groningermuseum.nl/data/document/43872> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/43872/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1961.0188> .
+
+<http://groningermuseum.nl/data/document/43872/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Weer en wind: 100 gedichten en 100 gezichten" .
+
+<http://groningermuseum.nl/data/document/43881> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/43881/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/43881/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gog's intimi: vrienden familie modellen" .
+
+<http://groningermuseum.nl/data/document/43921> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/43921/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/43921/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Wadapatja: 101 Groninger tradities, gebruiken en (eigen)aardigheden" .
+
+<http://groningermuseum.nl/data/document/44000> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/44000/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1962.0200> .
+
+<http://groningermuseum.nl/data/document/44000/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Spiegel van de werkelijkheid: 19de-eeuwse schilderkunst in Nederland" .
+
+<http://groningermuseum.nl/data/document/6839> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/6839/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1961.0188> .
+
+<http://groningermuseum.nl/data/document/6839/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Hoe wji het rooiden, de veenkoloniale aardappelboer en zijn industrie" .
+
+<http://groningermuseum.nl/data/document/9237> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <http://groningermuseum.nl/data/document/9237/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <http://groningermuseum.nl/data/artwork/1961.0188> .
+
+<http://groningermuseum.nl/data/document/9237/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Lotgenoten : het leven van Vincent en Theo van Gogh" .
+
+<http://groningermuseum.nl/data/exhibition/1016/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh und die Haager Schule" .
+
+<http://groningermuseum.nl/data/exhibition/1016/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1996-02-28"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1996-05-27"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/1017/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Kersttentoonstelling" .
+
+<http://groningermuseum.nl/data/exhibition/1017/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1927-12-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1928-01-16"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/1018/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Een Brabantse Van Gogh ervaring" .
+
+<http://groningermuseum.nl/data/exhibition/1018/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-10-06"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-10-21"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/1019/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Budapest" .
+
+<http://groningermuseum.nl/data/exhibition/1019/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2006-12-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2007-03-20"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/103/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Zelfportret van het Groninger Museum" .
+
+<http://groningermuseum.nl/data/exhibition/103/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1991-01-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1991-03-10"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/1110/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Presentatie in het kader van het Van Gogh-jaar" .
+
+<http://groningermuseum.nl/data/exhibition/1110/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2003-07-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2004-01-25"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/213/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Hokkaido Museum of Modern Art" .
+
+<http://groningermuseum.nl/data/exhibition/213/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2002-07-05"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2002-11-04"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/22055/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Real Van Gogh: The Artist and His Letters" .
+
+<http://groningermuseum.nl/data/exhibition/22055/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2010-01-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2010-04-18"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/22126/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: Timeless Country - Modern City" .
+
+<http://groningermuseum.nl/data/exhibition/22126/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2010-10-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2011-02-06"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/23048/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Japonism and hiroshige - The Art of Travel" .
+
+<http://groningermuseum.nl/data/exhibition/23048/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2012-10-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2013-03-17"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/23270/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Becoming Van Gogh" .
+
+<http://groningermuseum.nl/data/exhibition/23270/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2012-10-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2013-01-20"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/23274/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, Gauguin, Bernard: Friction of Ideas" .
+
+<http://groningermuseum.nl/data/exhibition/23274/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-02-06"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-06-22"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/23842/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, Gauguin, Bernard: Friction of Ideas (2)" .
+
+<http://groningermuseum.nl/data/exhibition/23842/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-07-19"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-10-19"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/24026/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De Collectie" .
+
+<http://groningermuseum.nl/data/exhibition/24026/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-03-18"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-09-25"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/242/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh in zijn Hollandse jaren..." .
+
+<http://groningermuseum.nl/data/exhibition/242/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1980-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1981-12-31"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/243/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh und die Haager Schule" .
+
+<http://groningermuseum.nl/data/exhibition/243/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1996-02-28"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1996-05-26"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/244/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "XXIV Bienal de Sao Paulo" .
+
+<http://groningermuseum.nl/data/exhibition/244/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-10-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-12-13"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/245/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De Haagse School in Drenthe" .
+
+<http://groningermuseum.nl/data/exhibition/245/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1997-02-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1997-05-04"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/246/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: face to face" .
+
+<http://groningermuseum.nl/data/exhibition/246/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2000-03-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2001-01-14"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/247/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh, Zeichnungen und aquarelle" .
+
+<http://groningermuseum.nl/data/exhibition/247/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1970-04-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1970-06-21"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/248/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh en Belgique" .
+
+<http://groningermuseum.nl/data/exhibition/248/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1980-10-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1980-11-30"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/249/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh en Den Haag" .
+
+<http://groningermuseum.nl/data/exhibition/249/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1990-09-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1990-11-18"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/250/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh, aquarelles et dessins de l'époque 1881-1885" .
+
+<http://groningermuseum.nl/data/exhibition/250/timespan> a ns1:E52_Time-Span .
+
+<http://groningermuseum.nl/data/exhibition/252/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<http://groningermuseum.nl/data/exhibition/252/timespan> a ns1:E52_Time-Span .
+
+<http://groningermuseum.nl/data/exhibition/25230/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Avant-garde in Groningen: De Ploeg 1918-1928" .
+
+<http://groningermuseum.nl/data/exhibition/25230/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2018-05-26"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2018-11-04"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/25445/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Pronkjewails : design uit heden en verleden" .
+
+<http://groningermuseum.nl/data/exhibition/25445/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2019-04-05"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-03-22"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/25464/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Weer & wind in de kunst en poezie" .
+
+<http://groningermuseum.nl/data/exhibition/25464/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2019-09-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-01-05"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/25511/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Spiegel van de ziel. Nederlandse kunst rond 1900" .
+
+<http://groningermuseum.nl/data/exhibition/25511/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2020-01-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-08-23"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/282/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Aardse paradijzen 2 : de tuin in de Nederlandse kunst 1770-2000" .
+
+<http://groningermuseum.nl/data/exhibition/282/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1999-03-20"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1999-08-29"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/3145/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De Haagse School : Hollandse meesters van de 19e eeuw" .
+
+<http://groningermuseum.nl/data/exhibition/3145/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1983-01-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1983-10-31"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/595/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De jonge Van Gogh en de Haagse School" .
+
+<http://groningermuseum.nl/data/exhibition/595/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2005-02-05"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2005-05-16"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/628/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Brabant, schilderijen en tekeningen..." .
+
+<http://groningermuseum.nl/data/exhibition/628/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1987-11-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1988-01-10"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/629/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De muze als motor I" .
+
+<http://groningermuseum.nl/data/exhibition/629/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1996-09-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1996-12-01"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/630/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Da Cezanne a Mondrian" .
+
+<http://groningermuseum.nl/data/exhibition/630/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1999-09-11"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2000-01-09"^^xsd:date .
+
+<http://groningermuseum.nl/data/exhibition/632/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Gauguin - Van Gogh. L'avventura del colore nuovo" .
+
+<http://groningermuseum.nl/data/exhibition/632/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2005-10-22"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2006-03-19"^^xsd:date .
+
+<http://groningermuseum.nl/data/identifier/1951.0560> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1951.0560" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://groningermuseum.nl/data/identifier/1961.0188> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1961.0188" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://groningermuseum.nl/data/identifier/1962.0200> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1962.0200" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://groningermuseum.nl/data/identifier/1962.0201> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1962.0201" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<http://groningermuseum.nl/data/identifier/F1057> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1057" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://groningermuseum.nl/data/identifier/F1098> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1098" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://groningermuseum.nl/data/identifier/F185> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F185" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://groningermuseum.nl/data/identifier/F946a> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F946a" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<http://groningermuseum.nl/data/identifier/JF425> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JF425" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://groningermuseum.nl/data/identifier/JH151> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH151" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://groningermuseum.nl/data/identifier/JH294> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH294" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://groningermuseum.nl/data/identifier/JH484> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH484" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<http://groningermuseum.nl/data/organization/Bienal+de+Sao+Paulo%2C+XXIV> a ns1:E39_Actor ;
+    rdfs:label "Bienal de Sao Paulo, XXIV" .
+
+<http://groningermuseum.nl/data/organization/Casa+dei+Carraresi> a ns1:E39_Actor ;
+    rdfs:label "Casa dei Carraresi" .
+
+<http://groningermuseum.nl/data/organization/Complesso+del+Vittoriano> a ns1:E39_Actor ;
+    rdfs:label "Complesso del Vittoriano" .
+
+<http://groningermuseum.nl/data/organization/Denver+Art+Museum> a ns1:E39_Actor ;
+    rdfs:label "Denver Art Museum" .
+
+<http://groningermuseum.nl/data/organization/Detroit+Institute+of+Arts> a ns1:E39_Actor ;
+    rdfs:label "Detroit Institute of Arts" .
+
+<http://groningermuseum.nl/data/organization/Frankfurter+Kunstverein> a ns1:E39_Actor ;
+    rdfs:label "Frankfurter Kunstverein" .
+
+<http://groningermuseum.nl/data/organization/Frans+Hals+Museum> a ns1:E39_Actor ;
+    rdfs:label "Frans Hals Museum" .
+
+<http://groningermuseum.nl/data/organization/G%C3%B6teborgs+Konstmuseum> a ns1:E39_Actor ;
+    rdfs:label "Göteborgs Konstmuseum" .
+
+<http://groningermuseum.nl/data/organization/Haags+Historisch+Museum> a ns1:E39_Actor ;
+    rdfs:label "Haags Historisch Museum" .
+
+<http://groningermuseum.nl/data/organization/Hokkaido+Museum+of+Modern+Art> a ns1:E39_Actor ;
+    rdfs:label "Hokkaido Museum of Modern Art" .
+
+<http://groningermuseum.nl/data/organization/Linea+d%27Ombra> a ns1:E39_Actor ;
+    rdfs:label "Linea d'Ombra" .
+
+<http://groningermuseum.nl/data/organization/Mus%C3%A9e+des+Beaux-+Arts+de+Mons> a ns1:E39_Actor ;
+    rdfs:label "Musée des Beaux- Arts de Mons" .
+
+<http://groningermuseum.nl/data/organization/Museum+Boijmans+Van+Beuningen> a ns1:E39_Actor ;
+    rdfs:label "Museum Boijmans Van Beuningen" .
+
+<http://groningermuseum.nl/data/organization/Museum+of+Fine+Arts%2C+Budapest> a ns1:E39_Actor ;
+    rdfs:label "Museum of Fine Arts, Budapest" .
+
+<http://groningermuseum.nl/data/organization/Nuenen-100+jaar+Van+Gogh> a ns1:E39_Actor ;
+    rdfs:label "Nuenen-100 jaar Van Gogh" .
+
+<http://groningermuseum.nl/data/organization/Ordrupgaard> a ns1:E39_Actor ;
+    rdfs:label "Ordrupgaard" .
+
+<http://groningermuseum.nl/data/organization/Pinacoth%C3%A8que+de+Paris> a ns1:E39_Actor ;
+    rdfs:label "Pinacothèque de Paris" .
+
+<http://groningermuseum.nl/data/organization/Royal+Academy+of+Arts> a ns1:E39_Actor ;
+    rdfs:label "Royal Academy of Arts" .
+
+<http://groningermuseum.nl/data/organization/Van+Gogh+Museum> a ns1:E39_Actor ;
+    rdfs:label "Van Gogh Museum" .
+
+<http://groningermuseum.nl/data/organization/Wisselingh+%26+Co%2C+kunsthandel+E.J.+van> a ns1:E39_Actor ;
+    rdfs:label "Wisselingh & Co, kunsthandel E.J. van" .
+
+<http://groningermuseum.nl/data/person/B%C3%BCttner%2C+Nils> a ns1:E21_Person ;
+    rdfs:label "Büttner, Nils" .
+
+<http://groningermuseum.nl/data/person/Bakker%2C+Boudewijn> a ns1:E21_Person ;
+    rdfs:label "Bakker, Boudewijn" .
+
+<http://groningermuseum.nl/data/person/Bakker%2C+Nienke> a ns1:E21_Person ;
+    rdfs:label "Bakker, Nienke" .
+
+<http://groningermuseum.nl/data/person/Berger%2C+Helewise> a ns1:E21_Person ;
+    rdfs:label "Berger, Helewise" .
+
+<http://groningermuseum.nl/data/person/Dendermonde%2C+Max> a ns1:E21_Person ;
+    rdfs:label "Dendermonde, Max" .
+
+<http://groningermuseum.nl/data/person/Dominicus-van+Soest%2C+Marleen> a ns1:E21_Person ;
+    rdfs:label "Dominicus-van Soest, Marleen" .
+
+<http://groningermuseum.nl/data/person/Dorn%2C+Roland> a ns1:E21_Person ;
+    rdfs:label "Dorn, Roland" .
+
+<http://groningermuseum.nl/data/person/Dumas%2C+Charles> a ns1:E21_Person ;
+    rdfs:label "Dumas, Charles" .
+
+<http://groningermuseum.nl/data/person/Gesk%C3%B3%2C+Judit> a ns1:E21_Person ;
+    rdfs:label "Geskó, Judit" .
+
+<http://groningermuseum.nl/data/person/Goldin%2C+Marco> a ns1:E21_Person ;
+    rdfs:label "Goldin, Marco" .
+
+<http://groningermuseum.nl/data/person/Hammacher%2C+Abraham+M.> a ns1:E21_Person ;
+    rdfs:label "Hammacher, Abraham M." .
+
+<http://groningermuseum.nl/data/person/Hillenga%2C+Martin> a ns1:E21_Person ;
+    rdfs:label "Hillenga, Martin" .
+
+<http://groningermuseum.nl/data/person/Jansen%2C+Mari%C3%ABtta> a ns1:E21_Person ;
+    rdfs:label "Jansen, Mariëtta" .
+
+<http://groningermuseum.nl/data/person/Jong%2C+Erik+de> a ns1:E21_Person ;
+    rdfs:label "Jong, Erik de" .
+
+<http://groningermuseum.nl/data/person/Kolsteren%2C+Steven> a ns1:E21_Person ;
+    rdfs:label "Kolsteren, Steven" .
+
+<http://groningermuseum.nl/data/person/Overmars%2C+Herman> a ns1:E21_Person ;
+    rdfs:label "Overmars, Herman" .
+
+<http://groningermuseum.nl/data/person/Reynaerts%2C+Jenny> a ns1:E21_Person ;
+    rdfs:label "Reynaerts, Jenny" .
+
+<http://groningermuseum.nl/data/person/Solana%2C+Guillermo> a ns1:E21_Person ;
+    rdfs:label "Solana, Guillermo" .
+
+<http://groningermuseum.nl/data/person/Tilborgh%2C+Louis+van> a ns1:E21_Person ;
+    rdfs:label "Tilborgh, Louis van" .
+
+<http://groningermuseum.nl/data/person/Uitert%2C+Evert+van> a ns1:E21_Person ;
+    rdfs:label "Uitert, Evert van" .
+
+<http://groningermuseum.nl/data/person/Wolk%2C+Johannes+van+der> a ns1:E21_Person ;
+    rdfs:label "Wolk, Johannes van der" .
+
+<http://groningermuseum.nl/data/place/Bergen+%28Belgi%C3%AB%29> a ns1:E53_Place ;
+    rdfs:label "Bergen (België)" .
+
+<http://groningermuseum.nl/data/place/Boedapest> a ns1:E53_Place ;
+    rdfs:label "Boedapest" .
+
+<http://groningermuseum.nl/data/place/Brescia> a ns1:E53_Place ;
+    rdfs:label "Brescia" .
+
+<http://groningermuseum.nl/data/place/Denver%2C+CO> a ns1:E53_Place ;
+    rdfs:label "Denver, CO" .
+
+<http://groningermuseum.nl/data/place/Detroit%2C+MI> a ns1:E53_Place ;
+    rdfs:label "Detroit, MI" .
+
+<http://groningermuseum.nl/data/place/Frankfurt+am+Main> a ns1:E53_Place ;
+    rdfs:label "Frankfurt am Main" .
+
+<http://groningermuseum.nl/data/place/Gothenburg> a ns1:E53_Place ;
+    rdfs:label "Gothenburg" .
+
+<http://groningermuseum.nl/data/place/Haarlem> a ns1:E53_Place ;
+    rdfs:label "Haarlem" .
+
+<http://groningermuseum.nl/data/place/Kopenhagen> a ns1:E53_Place ;
+    rdfs:label "Kopenhagen" .
+
+<http://groningermuseum.nl/data/place/Londen> a ns1:E53_Place ;
+    rdfs:label "Londen" .
+
+<http://groningermuseum.nl/data/place/Rome> a ns1:E53_Place ;
+    rdfs:label "Rome" .
+
+<http://groningermuseum.nl/data/place/Rotterdam> a ns1:E53_Place ;
+    rdfs:label "Rotterdam" .
+
+<http://groningermuseum.nl/data/place/Sapporo> a ns1:E53_Place ;
+    rdfs:label "Sapporo" .
+
+<http://groningermuseum.nl/data/place/Tokyo> a ns1:E53_Place ;
+    rdfs:label "Tokyo" .
+
+<http://groningermuseum.nl/data/place/Treviso> a ns1:E53_Place ;
+    rdfs:label "Treviso" .
+
+<http://groningermuseum.nl/data/term/1165> a ns1:E55_Type ;
+    rdfs:label "schilderijen" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033618> .
+
+<http://groningermuseum.nl/data/term/172> a ns1:E57_Material ;
+    rdfs:label "paneel (hout)" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014657> .
+
+<http://groningermuseum.nl/data/term/173> a ns1:E57_Material ;
+    rdfs:label "olieverf" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015050> .
+
+<http://groningermuseum.nl/data/term/3340> a ns1:E57_Material ;
+    rdfs:label "lithografisch krijt" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022417> .
+
+<http://groningermuseum.nl/data/term/3567> a ns1:E55_Type ;
+    rdfs:label "tekeningen" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033973> .
+
+<http://groningermuseum.nl/data/term/5548> a ns1:E55_Type ;
+    rdfs:label "portretten" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015637> .
+
+<http://vocab.getty.edu/aat/300014109> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014657> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015045> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015050> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015637> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300022417> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300022439> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300033618> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300236227> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417637> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417641> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417642> a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1057> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1098> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F185> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F946a> a rdfs:Resource .
+
+<http://groningermuseum.nl/data/organization/Drents+Museum> a ns1:E39_Actor ;
+    rdfs:label "Drents Museum" .
+
+<http://groningermuseum.nl/data/organization/Gemeentemuseum+Den+Haag> a ns1:E39_Actor ;
+    rdfs:label "Gemeentemuseum Den Haag" .
+
+<http://groningermuseum.nl/data/organization/Het+Noordbrabants+Museum> a ns1:E39_Actor ;
+    rdfs:label "Het Noordbrabants Museum" .
+
+<http://groningermuseum.nl/data/organization/Kunstforum+Wien> a ns1:E39_Actor ;
+    rdfs:label "Kunstforum Wien" .
+
+<http://groningermuseum.nl/data/organization/Singer+Museum> a ns1:E39_Actor ;
+    rdfs:label "Singer Museum" .
+
+<http://groningermuseum.nl/data/person/Hulsker%2C+Jan> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<http://groningermuseum.nl/data/place/Amsterdam> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://groningermuseum.nl/data/place/Assen> a ns1:E53_Place ;
+    rdfs:label "Assen" .
+
+<http://groningermuseum.nl/data/place/Den+Bosch> a ns1:E53_Place ;
+    rdfs:label "Den Bosch" .
+
+<http://groningermuseum.nl/data/place/Den+Haag> a ns1:E53_Place ;
+    rdfs:label "Den Haag" .
+
+<http://groningermuseum.nl/data/place/Laren> a ns1:E53_Place ;
+    rdfs:label "Laren" .
+
+<http://groningermuseum.nl/data/place/Parijs> a ns1:E53_Place ;
+    rdfs:label "Parijs" .
+
+<http://groningermuseum.nl/data/place/Wenen> a ns1:E53_Place ;
+    rdfs:label "Wenen" .
+
+<http://groningermuseum.nl/data/term/11> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417637> .
+
+<http://groningermuseum.nl/data/term/4180> a ns1:E55_Type ;
+    rdfs:label "aquarellen" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033973> .
+
+<http://groningermuseum.nl/data/term/51> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417642> .
+
+<http://groningermuseum.nl/data/term/5567> a ns1:E55_Type ;
+    rdfs:label "dorpsgezichten" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300236227> .
+
+<http://groningermuseum.nl/data/term/895> a ns1:E57_Material ;
+    rdfs:label "aquarelverf" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015045> .
+
+<http://vocab.getty.edu/aat/300033973> a rdfs:Resource .
+
+<http://groningermuseum.nl/data/term/1102> a ns1:E57_Material ;
+    rdfs:label "potlood (medium)" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022439> .
+
+<http://groningermuseum.nl/data/organization/Groninger+Museum> a ns1:E39_Actor ;
+    rdfs:label "Groninger Museum" .
+
+<http://groningermuseum.nl/data/place/Groningen> a ns1:E53_Place ;
+    rdfs:label "Groningen" .
+
+<http://groningermuseum.nl/data/term/144> a ns1:E55_Type .
+
+<http://groningermuseum.nl/data/term/3584> a ns1:E57_Material ;
+    rdfs:label "papier" ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014109> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+ns1:E57_Material a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<https://data.rkd.nl/artists/493822> a ns1:E39_Actor .
+
+<http://groningermuseum.nl/data/artwork/1951.0560> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Visdrogerij te Scheveningen (Loosduinen)" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://groningermuseum.nl/data/identifier/1951.0560>,
+        <http://groningermuseum.nl/data/identifier/F946a>,
+        <http://groningermuseum.nl/data/identifier/JH151> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/3567> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 44.9 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 25.9 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://groningermuseum.nl/data/term/1102>,
+        <http://groningermuseum.nl/data/term/3584> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/493822> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://groningermuseum.nl/data/term/5567> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F946a> .
+
+<http://groningermuseum.nl/data/artwork/1962.0201> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Vrouw met muts" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Vrouw met donkere kap - Siens moeder?" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://groningermuseum.nl/data/identifier/1962.0201>,
+        <http://groningermuseum.nl/data/identifier/F1057>,
+        <http://groningermuseum.nl/data/identifier/JH294> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/4180> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 25.9 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 46.9 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://groningermuseum.nl/data/term/1102>,
+        <http://groningermuseum.nl/data/term/3340>,
+        <http://groningermuseum.nl/data/term/3584>,
+        <http://groningermuseum.nl/data/term/895> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/493822> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://groningermuseum.nl/data/term/5548> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1057> .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028051> a ns1:E55_Type .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+<http://groningermuseum.nl/data/artwork/1961.0188> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "De ophaalbrug in Nieuw-Amsterdam" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://groningermuseum.nl/data/identifier/1961.0188>,
+        <http://groningermuseum.nl/data/identifier/F1098>,
+        <http://groningermuseum.nl/data/identifier/JF425> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/4180> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 82.2 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 40.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://groningermuseum.nl/data/term/1102>,
+        <http://groningermuseum.nl/data/term/3584>,
+        <http://groningermuseum.nl/data/term/895> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/493822> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://groningermuseum.nl/data/term/5567> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1098> .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type .
+
+<http://groningermuseum.nl/data/artwork/1962.0200> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Lentetuin, de pastorietuin te Nuenen in het voorjaar" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ],
+        <http://groningermuseum.nl/data/identifier/1962.0200>,
+        <http://groningermuseum.nl/data/identifier/F185>,
+        <http://groningermuseum.nl/data/identifier/JH484> ;
+    ns1:P2_has_type <http://groningermuseum.nl/data/term/1165> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 57.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 25.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://groningermuseum.nl/data/term/172>,
+        <http://groningermuseum.nl/data/term/173>,
+        <http://groningermuseum.nl/data/term/3584> ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/493822> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F185> .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+

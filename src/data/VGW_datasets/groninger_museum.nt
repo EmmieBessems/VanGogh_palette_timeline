@@ -1,0 +1,1153 @@
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f897 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f897 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f898 <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f899.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89c <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89c <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89a <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89a <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f899 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89b <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/5548>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f896 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89f <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a0.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89d <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a2 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a1 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88a <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f892 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f892 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f892 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f891 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f891 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88b <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88c.
+_:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f889 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/5567>.
+_:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f888 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f893 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f893 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f894 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f894 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f894 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88f <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f890.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88d <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/5567>.
+_:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f890 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300417641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300028051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300014109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300022439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/493822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300417637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300417642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/artwork/F185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/artwork/F946a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/artwork/F1057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/artwork/F1098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300236227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://groningermuseum.nl/data/term/3584> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300014109>.
+<http://groningermuseum.nl/data/term/3584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://groningermuseum.nl/data/organization/Gemeentemuseum+Den+Haag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/22126/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/35103/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/35103/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/35103>.
+<http://groningermuseum.nl/data/document/35103/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Goldin%2C+Marco>.
+<http://groningermuseum.nl/data/place/Rome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/247/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/247/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/38457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/38457> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/38457/title>.
+<http://groningermuseum.nl/data/document/38457> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/38457> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/632/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/place/Brescia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/35103> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/document/35103> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/35103> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/document/35103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/35103> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/35103/title>.
+<http://groningermuseum.nl/data/document/35103> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/35103> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/person/Hulsker%2C+Jan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/22126/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/25230/name>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/25230/timespan>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Groninger+Museum>.
+<http://groningermuseum.nl/data/exhibition/25230> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Groningen>.
+<http://groningermuseum.nl/data/exhibition/25230/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Van+Gogh+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/22126/timespan>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Rome>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Complesso+del+Vittoriano>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/22126/name>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/22126> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/organization/Mus%C3%A9e+des+Beaux-+Arts+de+Mons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/632/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/595/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/243/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/14653/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Hulsker%2C+Jan>.
+<http://groningermuseum.nl/data/document/14653/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/14653>.
+<http://groningermuseum.nl/data/document/14653/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/term/1102> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300022439>.
+<http://groningermuseum.nl/data/term/1102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://groningermuseum.nl/data/document/14655/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Complesso+del+Vittoriano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/identifier/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<http://groningermuseum.nl/data/identifier/1951.0560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/exhibition/25230/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/identifier/JH151> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<http://groningermuseum.nl/data/identifier/JH151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/51>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/495487/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<http://groningermuseum.nl/data/exhibition/248/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/14655/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Dorn%2C+Roland>.
+<http://groningermuseum.nl/data/document/14655/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/14655>.
+<http://groningermuseum.nl/data/document/14655/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/place/Den+Haag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/14655> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/document/14655> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/14655> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/14655> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/14655/title>.
+<http://groningermuseum.nl/data/document/14655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/14655> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/595/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Groninger+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1951.0560%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1951.0560%20L.jp2> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1951.0560%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1951.0560%20L.jp2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<http://groningermuseum.nl/data/exhibition/242/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/14653> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/14653> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/14653> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/14653/title>.
+<http://groningermuseum.nl/data/document/14653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/14653> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/document/14653> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/14653> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/248/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/organization/Frankfurter+Kunstverein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/document/14653/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/38457/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://groningermuseum.nl/data/artwork/1951.0560/provenance/495487/acquisition>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f888.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/51>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<http://groningermuseum.nl/data/artwork/1951.0560/provenance/493822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/production/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88f.
+<http://groningermuseum.nl/data/production/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<http://groningermuseum.nl/data/production/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/production/1951.0560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<http://groningermuseum.nl/data/term/5567> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300236227>.
+<http://groningermuseum.nl/data/term/5567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/person/Overmars%2C+Herman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/place/Bergen+%28Belgi%C3%AB%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/35103/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/identifier/F946a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/identifier/F946a> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<http://groningermuseum.nl/data/person/Goldin%2C+Marco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/place/Frankfurt+am+Main> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88d.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/3567>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/JH151>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f893.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f894.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F946a>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/F946a>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/3584>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/1102>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88e.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/249/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/243/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/place/Amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/249/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/place/Groningen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Bergen+%28Belgi%C3%AB%29>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Mus%C3%A9e+des+Beaux-+Arts+de+Mons>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/248/timespan>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/248/name>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/248> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Frankfurt+am+Main>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Frankfurter+Kunstverein>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/247/timespan>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/247/name>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/247> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/249> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/249> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Den+Haag>.
+<http://groningermuseum.nl/data/exhibition/249> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Haags+Historisch+Museum>.
+<http://groningermuseum.nl/data/exhibition/249> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/249/timespan>.
+<http://groningermuseum.nl/data/exhibition/249> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/249/name>.
+<http://groningermuseum.nl/data/exhibition/249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/249> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/term/3567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/term/3567> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033973>.
+<http://groningermuseum.nl/data/organization/Haags+Historisch+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/document/38457/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/38457>.
+<http://groningermuseum.nl/data/document/38457/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Overmars%2C+Herman>.
+<http://groningermuseum.nl/data/document/38457/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/242/name>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/242/timespan>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Van+Gogh+Museum>.
+<http://groningermuseum.nl/data/exhibition/242> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Amsterdam>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Kunstforum+Wien>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Wenen>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/243/name>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/243> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/243/timespan>.
+<http://groningermuseum.nl/data/organization/Kunstforum+Wien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/person/Dorn%2C+Roland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/place/Wenen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/term/51> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300417642>.
+<http://groningermuseum.nl/data/term/51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/exhibition/242/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Brescia>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Linea+d%27Ombra>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/632/timespan>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/632/name>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/632> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/organization/Linea+d%27Ombra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Den+Haag>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Gemeentemuseum+Den+Haag>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/595/timespan>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/595/name>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/595> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1951.0560>.
+<http://groningermuseum.nl/data/term/1165> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033618>.
+<http://groningermuseum.nl/data/term/1165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/exhibition/25445/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/14893/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Uitert%2C+Evert+van>.
+<http://groningermuseum.nl/data/document/14893/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/14893>.
+<http://groningermuseum.nl/data/document/14893/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://groningermuseum.nl/data/artwork/1962.0200/provenance/495487/acquisition>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f895.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/144>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/493822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/place/Kopenhagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/630/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/14893/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/person/Berger%2C+Helewise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/1017/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Frans+Hals+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/25511> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/25511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/25511> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/25511/name>.
+<http://groningermuseum.nl/data/exhibition/25511> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/25511> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/25511/timespan>.
+<http://groningermuseum.nl/data/exhibition/25511> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Singer+Museum>.
+<http://groningermuseum.nl/data/exhibition/25511> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Laren>.
+<http://groningermuseum.nl/data/exhibition/628/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/43921> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/43921> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/43921> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/43921/title>.
+<http://groningermuseum.nl/data/document/43921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/exhibition/23274/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/person/Uitert%2C+Evert+van> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/22055/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/person/Dominicus-van+Soest%2C+Marleen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/document/35836> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/35836> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/35836> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/35836/title>.
+<http://groningermuseum.nl/data/document/35836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/exhibition/23842/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Casa+dei+Carraresi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/organization/Museum+Boijmans+Van+Beuningen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/144>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1962.0200/provenance/495487/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<http://groningermuseum.nl/data/exhibition/1019/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/place/Laren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/38423/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Solana%2C+Guillermo>.
+<http://groningermuseum.nl/data/document/38423/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/38423>.
+<http://groningermuseum.nl/data/document/38423/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/43881/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Berger%2C+Helewise>.
+<http://groningermuseum.nl/data/document/43881/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/43881>.
+<http://groningermuseum.nl/data/document/43881/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/person/Hillenga%2C+Martin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/document/40300/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Dominicus-van+Soest%2C+Marleen>.
+<http://groningermuseum.nl/data/document/40300/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/40300>.
+<http://groningermuseum.nl/data/document/40300/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/exhibition/282/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/44000/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/person/B%C3%BCttner%2C+Nils> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/22055/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Royal+Academy+of+Arts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/document/43921/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/43921>.
+<http://groningermuseum.nl/data/document/43921/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/43921/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Hillenga%2C+Martin>.
+<http://groningermuseum.nl/data/document/35836/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Het+Noordbrabants+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/24026/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/20050/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Jong%2C+Erik+de>.
+<http://groningermuseum.nl/data/document/20050/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/20050>.
+<http://groningermuseum.nl/data/document/20050/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/place/Londen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/25511/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/identifier/1962.0200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/identifier/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<http://groningermuseum.nl/data/place/Rotterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/23274/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/37522/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/37522/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/37522>.
+<http://groningermuseum.nl/data/document/37522/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/B%C3%BCttner%2C+Nils>.
+<http://groningermuseum.nl/data/document/39236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/39236> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/39236/title>.
+<http://groningermuseum.nl/data/document/39236> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/39236> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/43921/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/40300> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/40300> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/40300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/40300> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/40300/title>.
+<http://groningermuseum.nl/data/exhibition/1017/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/629/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/place/Treviso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/20050> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/20050> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/20050> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/20050/title>.
+<http://groningermuseum.nl/data/document/20050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/person/Reynaerts%2C+Jenny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/document/44000> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/44000> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/44000> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/44000/title>.
+<http://groningermuseum.nl/data/document/44000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/person/Gesk%C3%B3%2C+Judit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/23842/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/identifier/JH484> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<http://groningermuseum.nl/data/identifier/JH484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/document/43881/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/1016/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Ordrupgaard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/23842> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/G%C3%B6teborgs+Konstmuseum>.
+<http://groningermuseum.nl/data/exhibition/23842> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Gothenburg>.
+<http://groningermuseum.nl/data/exhibition/23842> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/23842/timespan>.
+<http://groningermuseum.nl/data/exhibition/23842> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/23842> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/23842/name>.
+<http://groningermuseum.nl/data/exhibition/23842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/23842> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/43881> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/43881> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/43881/title>.
+<http://groningermuseum.nl/data/document/43881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/43881> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/37522> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/37522> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/37522> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/37522/title>.
+<http://groningermuseum.nl/data/document/37522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/identifier/F185> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<http://groningermuseum.nl/data/identifier/F185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/person/Solana%2C+Guillermo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/630/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/24026> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Groningen>.
+<http://groningermuseum.nl/data/exhibition/24026> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Groninger+Museum>.
+<http://groningermuseum.nl/data/exhibition/24026> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/24026/timespan>.
+<http://groningermuseum.nl/data/exhibition/24026> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/24026> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/24026/name>.
+<http://groningermuseum.nl/data/exhibition/24026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/24026> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/35836/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Gesk%C3%B3%2C+Judit>.
+<http://groningermuseum.nl/data/document/35836/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/35836>.
+<http://groningermuseum.nl/data/document/35836/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0200%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0200%20L.jp2> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0200%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0200%20L.jp2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<http://groningermuseum.nl/data/exhibition/24026/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/term/173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://groningermuseum.nl/data/term/173> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015050>.
+<http://groningermuseum.nl/data/term/172> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300014657>.
+<http://groningermuseum.nl/data/term/172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89c.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/JH484>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/F185>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/1165>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F185>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/1962.0200>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f897.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/173>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/3584>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/172>.
+<http://groningermuseum.nl/data/artwork/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89a.
+<http://groningermuseum.nl/data/exhibition/25445/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/22055> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/22055> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Londen>.
+<http://groningermuseum.nl/data/exhibition/22055> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Royal+Academy+of+Arts>.
+<http://groningermuseum.nl/data/exhibition/22055> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/22055/timespan>.
+<http://groningermuseum.nl/data/exhibition/22055> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/22055/name>.
+<http://groningermuseum.nl/data/exhibition/22055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/22055> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/25445> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Groningen>.
+<http://groningermuseum.nl/data/exhibition/25445> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Groninger+Museum>.
+<http://groningermuseum.nl/data/exhibition/25445> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/25445/timespan>.
+<http://groningermuseum.nl/data/exhibition/25445> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/25445> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/25445/name>.
+<http://groningermuseum.nl/data/exhibition/25445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/25445> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/production/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f898.
+<http://groningermuseum.nl/data/production/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<http://groningermuseum.nl/data/production/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/production/1962.0200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<http://groningermuseum.nl/data/exhibition/282> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/282/name>.
+<http://groningermuseum.nl/data/exhibition/282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/282> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/282> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Haarlem>.
+<http://groningermuseum.nl/data/exhibition/282> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Frans+Hals+Museum>.
+<http://groningermuseum.nl/data/exhibition/282> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/282/timespan>.
+<http://groningermuseum.nl/data/exhibition/282> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/organization/Museum+of+Fine+Arts%2C+Budapest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/term/144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/document/39236/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/39236>.
+<http://groningermuseum.nl/data/document/39236/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/39236/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Bakker%2C+Nienke>.
+<http://groningermuseum.nl/data/organization/Nuenen-100+jaar+Van+Gogh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/628/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/38423/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/place/Haarlem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/23274> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/23274/name>.
+<http://groningermuseum.nl/data/exhibition/23274> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/23274> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/23274/timespan>.
+<http://groningermuseum.nl/data/exhibition/23274> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Ordrupgaard>.
+<http://groningermuseum.nl/data/exhibition/23274> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Kopenhagen>.
+<http://groningermuseum.nl/data/exhibition/23274> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/23274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/organization/G%C3%B6teborgs+Konstmuseum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/document/14893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/14893> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/14893> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/14893> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/14893/title>.
+<http://groningermuseum.nl/data/exhibition/629/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/1016/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/39236/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/628> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/628/name>.
+<http://groningermuseum.nl/data/exhibition/628> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/628> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/628> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/628/timespan>.
+<http://groningermuseum.nl/data/exhibition/628> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Het+Noordbrabants+Museum>.
+<http://groningermuseum.nl/data/exhibition/628> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Den+Bosch>.
+<http://groningermuseum.nl/data/exhibition/1019/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/629> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/629> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/629/name>.
+<http://groningermuseum.nl/data/exhibition/629> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/629> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/629/timespan>.
+<http://groningermuseum.nl/data/exhibition/629> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Het+Noordbrabants+Museum>.
+<http://groningermuseum.nl/data/exhibition/629> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Den+Bosch>.
+<http://groningermuseum.nl/data/document/40300/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/38087/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/20050/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Wenen>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/1016/name>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/1016/timespan>.
+<http://groningermuseum.nl/data/exhibition/1016> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Kunstforum+Wien>.
+<http://groningermuseum.nl/data/exhibition/1018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/1018> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/1018> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Nuenen-100+jaar+Van+Gogh>.
+<http://groningermuseum.nl/data/exhibition/1018> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/1018/timespan>.
+<http://groningermuseum.nl/data/exhibition/1018> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/1018> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/1018/name>.
+<http://groningermuseum.nl/data/document/38087/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/38087>.
+<http://groningermuseum.nl/data/document/38087/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/exhibition/1017> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/1017/name>.
+<http://groningermuseum.nl/data/exhibition/1017> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/1017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/1017> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Rotterdam>.
+<http://groningermuseum.nl/data/exhibition/1017> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Museum+Boijmans+Van+Beuningen>.
+<http://groningermuseum.nl/data/exhibition/1017> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/1017/timespan>.
+<http://groningermuseum.nl/data/exhibition/1017> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/1019> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/exhibition/1019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/1019> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/1019/name>.
+<http://groningermuseum.nl/data/exhibition/1019> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/1019> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/1019/timespan>.
+<http://groningermuseum.nl/data/exhibition/1019> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Museum+of+Fine+Arts%2C+Budapest>.
+<http://groningermuseum.nl/data/exhibition/1019> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Boedapest>.
+<http://groningermuseum.nl/data/person/Jong%2C+Erik+de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/place/Gothenburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/1018/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/44000/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/44000/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/44000>.
+<http://groningermuseum.nl/data/document/44000/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Reynaerts%2C+Jenny>.
+<http://groningermuseum.nl/data/place/Boedapest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/38423> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/38423/title>.
+<http://groningermuseum.nl/data/document/38423> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/38423> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/38423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/exhibition/25511/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Singer+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/place/Den+Bosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/1018/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/37522/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/282/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/person/Bakker%2C+Nienke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/630> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Treviso>.
+<http://groningermuseum.nl/data/exhibition/630> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Casa+dei+Carraresi>.
+<http://groningermuseum.nl/data/exhibition/630> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/630/timespan>.
+<http://groningermuseum.nl/data/exhibition/630> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/630> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/630/name>.
+<http://groningermuseum.nl/data/exhibition/630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/630> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/38087> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0200>.
+<http://groningermuseum.nl/data/document/38087> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/38087> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/38087/title>.
+<http://groningermuseum.nl/data/document/38087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/place/Denver%2C+CO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/term/3340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://groningermuseum.nl/data/term/3340> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300022417>.
+<http://groningermuseum.nl/data/exhibition/246/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/495487/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/144>.
+<http://groningermuseum.nl/data/exhibition/23270/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/14894/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/14894/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/14894>.
+<http://groningermuseum.nl/data/document/14894/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Tilborgh%2C+Louis+van>.
+<http://groningermuseum.nl/data/person/Tilborgh%2C+Louis+van> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89d.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89e.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/1102>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/3340>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/895>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/3584>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a1.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a2.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F1057>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/F1057>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/JH294>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/1962.0201>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89b.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/4180>.
+<http://groningermuseum.nl/data/artwork/1962.0201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<http://groningermuseum.nl/data/term/5548> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015637>.
+<http://groningermuseum.nl/data/term/5548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/production/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89f.
+<http://groningermuseum.nl/data/production/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<http://groningermuseum.nl/data/production/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/production/1962.0201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<http://groningermuseum.nl/data/exhibition/246/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/term/4180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/term/4180> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033973>.
+<http://groningermuseum.nl/data/organization/Bienal+de+Sao+Paulo%2C+XXIV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/23270> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Denver%2C+CO>.
+<http://groningermuseum.nl/data/exhibition/23270> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Denver+Art+Museum>.
+<http://groningermuseum.nl/data/exhibition/23270> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/23270/timespan>.
+<http://groningermuseum.nl/data/exhibition/23270> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/23270> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/23270/name>.
+<http://groningermuseum.nl/data/exhibition/23270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/23270> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f896.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://groningermuseum.nl/data/artwork/1962.0201/provenance/495487/acquisition>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/493822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/144>.
+<http://groningermuseum.nl/data/artwork/1962.0201/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/document/43231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/43231> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/43231/title>.
+<http://groningermuseum.nl/data/document/43231> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/43231> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/document/14894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/14894> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/14894/title>.
+<http://groningermuseum.nl/data/document/14894> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/14894> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/place/Detroit%2C+MI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/244/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/identifier/1962.0201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/identifier/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<http://groningermuseum.nl/data/identifier/F1057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/identifier/F1057> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<http://groningermuseum.nl/data/identifier/JH294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/identifier/JH294> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<http://groningermuseum.nl/data/term/895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://groningermuseum.nl/data/term/895> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015045>.
+<http://groningermuseum.nl/data/document/43231/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/43231/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/43231>.
+<http://groningermuseum.nl/data/document/43231/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Jansen%2C+Mari%C3%ABtta>.
+<http://groningermuseum.nl/data/exhibition/246> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/exhibition/246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/246> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/246/name>.
+<http://groningermuseum.nl/data/exhibition/246> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/246> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/246/timespan>.
+<http://groningermuseum.nl/data/exhibition/246> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Detroit+Institute+of+Arts>.
+<http://groningermuseum.nl/data/exhibition/246> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Detroit%2C+MI>.
+<http://groningermuseum.nl/data/exhibition/244> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Bienal+de+Sao+Paulo%2C+XXIV>.
+<http://groningermuseum.nl/data/exhibition/244> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/244/timespan>.
+<http://groningermuseum.nl/data/exhibition/244> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/244> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/244/name>.
+<http://groningermuseum.nl/data/exhibition/244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/244> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<http://groningermuseum.nl/data/exhibition/244> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/244/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/person/Jansen%2C+Mari%C3%ABtta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/23270/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0201%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://groningermuseum.nl/data/artwork/1962.0201>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0201%20L.jp2> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0201%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1962.0201%20L.jp2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<http://groningermuseum.nl/data/document/43231/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/organization/Detroit+Institute+of+Arts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/organization/Denver+Art+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/document/14894/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/25464> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Laren>.
+<http://groningermuseum.nl/data/exhibition/25464> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/25464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/25464> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/25464/name>.
+<http://groningermuseum.nl/data/exhibition/25464> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/25464> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/25464/timespan>.
+<http://groningermuseum.nl/data/exhibition/25464> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Singer+Museum>.
+<http://groningermuseum.nl/data/production/1961.0188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<http://groningermuseum.nl/data/production/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/production/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<http://groningermuseum.nl/data/production/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88b.
+<http://groningermuseum.nl/data/exhibition/23048> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/23048> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Pinacoth%C3%A8que+de+Paris>.
+<http://groningermuseum.nl/data/exhibition/23048> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/23048> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/23048/timespan>.
+<http://groningermuseum.nl/data/exhibition/23048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/23048> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Parijs>.
+<http://groningermuseum.nl/data/exhibition/23048> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/23048/name>.
+<http://groningermuseum.nl/data/exhibition/250/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/18209> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/18209> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/18209> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/18209/title>.
+<http://groningermuseum.nl/data/document/18209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/6839/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Dendermonde%2C+Max>.
+<http://groningermuseum.nl/data/document/6839/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/6839>.
+<http://groningermuseum.nl/data/document/6839/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/37769> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/37769> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/37769> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/37769/title>.
+<http://groningermuseum.nl/data/document/37769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/identifier/F1098> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<http://groningermuseum.nl/data/identifier/F1098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/exhibition/250> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/250> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Amsterdam>.
+<http://groningermuseum.nl/data/exhibition/250> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Wisselingh+%26+Co%2C+kunsthandel+E.J.+van>.
+<http://groningermuseum.nl/data/exhibition/250> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/250/timespan>.
+<http://groningermuseum.nl/data/exhibition/250> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/250> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/250/name>.
+<http://groningermuseum.nl/data/exhibition/250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/252> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Tokyo>.
+<http://groningermuseum.nl/data/exhibition/252> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/252/timespan>.
+<http://groningermuseum.nl/data/exhibition/252> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/252> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/252/name>.
+<http://groningermuseum.nl/data/exhibition/252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/252> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/person/Hammacher%2C+Abraham+M.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/document/9237/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Hulsker%2C+Jan>.
+<http://groningermuseum.nl/data/document/9237/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/9237>.
+<http://groningermuseum.nl/data/document/9237/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/organization/Hokkaido+Museum+of+Modern+Art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/252/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/document/6839/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/JF425>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/F1098>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F1098>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f892.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f891.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/3584>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/895>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://groningermuseum.nl/data/term/1102>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88a.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/identifier/1961.0188>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visual_item_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f889.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/4180>.
+<http://groningermuseum.nl/data/artwork/1961.0188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<http://groningermuseum.nl/data/document/18209/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/18209/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/18209>.
+<http://groningermuseum.nl/data/document/18209/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Hammacher%2C+Abraham+M.>.
+<http://groningermuseum.nl/data/exhibition/23048/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/place/Assen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/3239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/3239> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/3239/title>.
+<http://groningermuseum.nl/data/document/3239> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/3239> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/252/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/14890/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/213/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/term/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://groningermuseum.nl/data/term/11> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300417637>.
+<http://groningermuseum.nl/data/document/9237/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/103/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/493822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/11>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f887.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/493822> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://groningermuseum.nl/data/artwork/1961.0188/provenance/495487/acquisition>.
+<http://groningermuseum.nl/data/document/14890> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/14890> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/14890> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/14890/title>.
+<http://groningermuseum.nl/data/document/14890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/document/3239/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Dumas%2C+Charles>.
+<http://groningermuseum.nl/data/document/3239/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/3239>.
+<http://groningermuseum.nl/data/document/3239/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/43872> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/43872> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/43872> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/43872/title>.
+<http://groningermuseum.nl/data/document/43872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/place/Parijs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/document/3239/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/245/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/213/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/person/Bakker%2C+Boudewijn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/document/9237> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/9237> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/9237> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/9237/title>.
+<http://groningermuseum.nl/data/document/9237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/organization/Drents+Museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/103> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/103/name>.
+<http://groningermuseum.nl/data/exhibition/103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/103> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/103> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Groningen>.
+<http://groningermuseum.nl/data/exhibition/103> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Groninger+Museum>.
+<http://groningermuseum.nl/data/exhibition/103> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/103/timespan>.
+<http://groningermuseum.nl/data/exhibition/103> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/identifier/JF425> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<http://groningermuseum.nl/data/identifier/JF425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/document/14890/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Wolk%2C+Johannes+van+der>.
+<http://groningermuseum.nl/data/document/14890/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/14890>.
+<http://groningermuseum.nl/data/document/14890/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/exhibition/23048/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/3145/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/place/Sapporo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/exhibition/3145/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/place/Tokyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://groningermuseum.nl/data/person/Dumas%2C+Charles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/person/Wolk%2C+Johannes+van+der> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/exhibition/245/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/213> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/213> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/213> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/213/name>.
+<http://groningermuseum.nl/data/exhibition/213> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/213/timespan>.
+<http://groningermuseum.nl/data/exhibition/213> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Hokkaido+Museum+of+Modern+Art>.
+<http://groningermuseum.nl/data/exhibition/213> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Sapporo>.
+<http://groningermuseum.nl/data/organization/Wisselingh+%26+Co%2C+kunsthandel+E.J.+van> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/25464/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/103/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/3145> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/3145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/3145> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/3145/name>.
+<http://groningermuseum.nl/data/exhibition/3145> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/3145> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/3145/timespan>.
+<http://groningermuseum.nl/data/exhibition/3145> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Gemeentemuseum+Den+Haag>.
+<http://groningermuseum.nl/data/exhibition/3145> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Parijs>.
+<http://groningermuseum.nl/data/document/37769/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/document/43872/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/1110/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/495487/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/493822>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/artwork/1961.0188/provenance/495487/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://groningermuseum.nl/data/term/11>.
+<http://groningermuseum.nl/data/exhibition/25464/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://groningermuseum.nl/data/exhibition/245> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/245> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/245/name>.
+<http://groningermuseum.nl/data/exhibition/245> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/245> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/245/timespan>.
+<http://groningermuseum.nl/data/exhibition/245> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Drents+Museum>.
+<http://groningermuseum.nl/data/exhibition/245> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Assen>.
+<http://groningermuseum.nl/data/identifier/1961.0188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<http://groningermuseum.nl/data/identifier/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<http://groningermuseum.nl/data/document/37769/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/document/37769/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/37769>.
+<http://groningermuseum.nl/data/document/37769/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Kolsteren%2C+Steven>.
+<http://groningermuseum.nl/data/organization/Pinacoth%C3%A8que+de+Paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://groningermuseum.nl/data/exhibition/1110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://groningermuseum.nl/data/exhibition/1110> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/exhibition/1110> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/exhibition/1110/name>.
+<http://groningermuseum.nl/data/exhibition/1110> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://groningermuseum.nl/data/exhibition/1110> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://groningermuseum.nl/data/exhibition/1110/timespan>.
+<http://groningermuseum.nl/data/exhibition/1110> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/organization/Drents+Museum>.
+<http://groningermuseum.nl/data/exhibition/1110> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://groningermuseum.nl/data/place/Assen>.
+<http://groningermuseum.nl/data/document/43872/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://groningermuseum.nl/data/person/Bakker%2C+Boudewijn>.
+<http://groningermuseum.nl/data/document/43872/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://groningermuseum.nl/data/document/43872>.
+<http://groningermuseum.nl/data/document/43872/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<http://groningermuseum.nl/data/exhibition/1110/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://groningermuseum.nl/data/exhibition/250/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1961.0188%20L.jp2> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1961.0188%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1961.0188%20L.jp2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fgroningermuseum%2F1961.0188%20L.jp2> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/person/Dendermonde%2C+Max> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/document/6839> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://groningermuseum.nl/data/document/6839/title>.
+<http://groningermuseum.nl/data/document/6839> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://groningermuseum.nl/data/artwork/1961.0188>.
+<http://groningermuseum.nl/data/document/6839> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<http://groningermuseum.nl/data/document/6839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://groningermuseum.nl/data/person/Kolsteren%2C+Steven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://groningermuseum.nl/data/document/18209/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://grongermuseum.nl/data/term/144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://grongermuseum.nl/data/term/144> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300417641>.
+<http://vocab.getty.edu/aat/300022417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f897 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Lentetuin, de pastorietuin te Nuenen in het voorjaar".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89e <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vrouw met donkere kap - Siens moeder?".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89d <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vrouw met muts".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88a <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "De ophaalbrug in Nieuw-Amsterdam".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88e <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Visdrogerij te Scheveningen (Loosduinen)".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<http://groningermuseum.nl/data/term/3584> <http://www.w3.org/2000/01/rdf-schema#label> "papier".
+<http://groningermuseum.nl/data/organization/Gemeentemuseum+Den+Haag> <http://www.w3.org/2000/01/rdf-schema#label> "Gemeentemuseum Den Haag".
+<http://groningermuseum.nl/data/exhibition/22126/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh: Timeless Country - Modern City".
+<http://groningermuseum.nl/data/place/Rome> <http://www.w3.org/2000/01/rdf-schema#label> "Rome".
+<http://groningermuseum.nl/data/exhibition/247/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh, Zeichnungen und aquarelle".
+<http://groningermuseum.nl/data/exhibition/632/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Gauguin - Van Gogh. L'avventura del colore nuovo".
+<http://groningermuseum.nl/data/place/Brescia> <http://www.w3.org/2000/01/rdf-schema#label> "Brescia".
+<http://groningermuseum.nl/data/person/Hulsker%2C+Jan> <http://www.w3.org/2000/01/rdf-schema#label> "Hulsker, Jan".
+<http://groningermuseum.nl/data/exhibition/25230/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Avant-garde in Groningen: De Ploeg 1918-1928".
+<http://groningermuseum.nl/data/organization/Van+Gogh+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Van Gogh Museum".
+<http://groningermuseum.nl/data/organization/Mus%C3%A9e+des+Beaux-+Arts+de+Mons> <http://www.w3.org/2000/01/rdf-schema#label> "Musée des Beaux- Arts de Mons".
+<http://groningermuseum.nl/data/term/1102> <http://www.w3.org/2000/01/rdf-schema#label> "potlood (medium)".
+<http://groningermuseum.nl/data/document/14655/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh und die Haager Schule".
+<http://groningermuseum.nl/data/organization/Complesso+del+Vittoriano> <http://www.w3.org/2000/01/rdf-schema#label> "Complesso del Vittoriano".
+<http://groningermuseum.nl/data/identifier/1951.0560> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "1951.0560".
+<http://groningermuseum.nl/data/identifier/JH151> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH151".
+<http://groningermuseum.nl/data/exhibition/248/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh en Belgique".
+<http://groningermuseum.nl/data/place/Den+Haag> <http://www.w3.org/2000/01/rdf-schema#label> "Den Haag".
+<http://groningermuseum.nl/data/exhibition/595/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "De jonge Van Gogh en de Haagse School".
+<http://groningermuseum.nl/data/organization/Groninger+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Groninger Museum".
+<http://groningermuseum.nl/data/exhibition/242/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh in zijn Hollandse jaren...".
+<http://groningermuseum.nl/data/organization/Frankfurter+Kunstverein> <http://www.w3.org/2000/01/rdf-schema#label> "Frankfurter Kunstverein".
+<http://groningermuseum.nl/data/document/14653/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh en zijn weg : het complete werk".
+<http://groningermuseum.nl/data/document/38457/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Het Kunstlievend genootschap Pictura te Groningen 175".
+<http://groningermuseum.nl/data/term/5567> <http://www.w3.org/2000/01/rdf-schema#label> "dorpsgezichten".
+<http://groningermuseum.nl/data/person/Overmars%2C+Herman> <http://www.w3.org/2000/01/rdf-schema#label> "Overmars, Herman".
+<http://groningermuseum.nl/data/place/Bergen+%28Belgi%C3%AB%29> <http://www.w3.org/2000/01/rdf-schema#label> "Bergen (België)".
+<http://groningermuseum.nl/data/document/35103/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh in Budapest".
+<http://groningermuseum.nl/data/identifier/F946a> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F946a".
+<http://groningermuseum.nl/data/person/Goldin%2C+Marco> <http://www.w3.org/2000/01/rdf-schema#label> "Goldin, Marco".
+<http://groningermuseum.nl/data/place/Frankfurt+am+Main> <http://www.w3.org/2000/01/rdf-schema#label> "Frankfurt am Main".
+<http://groningermuseum.nl/data/exhibition/249/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh en Den Haag".
+<http://groningermuseum.nl/data/exhibition/243/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh und die Haager Schule".
+<http://groningermuseum.nl/data/place/Amsterdam> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam".
+<http://groningermuseum.nl/data/place/Groningen> <http://www.w3.org/2000/01/rdf-schema#label> "Groningen".
+<http://groningermuseum.nl/data/term/3567> <http://www.w3.org/2000/01/rdf-schema#label> "tekeningen".
+<http://groningermuseum.nl/data/organization/Haags+Historisch+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Haags Historisch Museum".
+<http://groningermuseum.nl/data/organization/Kunstforum+Wien> <http://www.w3.org/2000/01/rdf-schema#label> "Kunstforum Wien".
+<http://groningermuseum.nl/data/person/Dorn%2C+Roland> <http://www.w3.org/2000/01/rdf-schema#label> "Dorn, Roland".
+<http://groningermuseum.nl/data/place/Wenen> <http://www.w3.org/2000/01/rdf-schema#label> "Wenen".
+<http://groningermuseum.nl/data/organization/Linea+d%27Ombra> <http://www.w3.org/2000/01/rdf-schema#label> "Linea d'Ombra".
+<http://groningermuseum.nl/data/term/1165> <http://www.w3.org/2000/01/rdf-schema#label> "schilderijen".
+<http://groningermuseum.nl/data/exhibition/25445/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Pronkjewails : design uit heden en verleden".
+<http://groningermuseum.nl/data/place/Kopenhagen> <http://www.w3.org/2000/01/rdf-schema#label> "Kopenhagen".
+<http://groningermuseum.nl/data/document/14893/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh in Brabant : schilderijen en tekeningen uit Etten en Nuenen".
+<http://groningermuseum.nl/data/person/Berger%2C+Helewise> <http://www.w3.org/2000/01/rdf-schema#label> "Berger, Helewise".
+<http://groningermuseum.nl/data/exhibition/1017/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Kersttentoonstelling".
+<http://groningermuseum.nl/data/organization/Frans+Hals+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Frans Hals Museum".
+<http://groningermuseum.nl/data/exhibition/628/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh in Brabant, schilderijen en tekeningen...".
+<http://groningermuseum.nl/data/person/Uitert%2C+Evert+van> <http://www.w3.org/2000/01/rdf-schema#label> "Uitert, Evert van".
+<http://groningermuseum.nl/data/person/Dominicus-van+Soest%2C+Marleen> <http://www.w3.org/2000/01/rdf-schema#label> "Dominicus-van Soest, Marleen".
+<http://groningermuseum.nl/data/exhibition/23842/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh, Gauguin, Bernard: Friction of Ideas (2)".
+<http://groningermuseum.nl/data/organization/Casa+dei+Carraresi> <http://www.w3.org/2000/01/rdf-schema#label> "Casa dei Carraresi".
+<http://groningermuseum.nl/data/organization/Museum+Boijmans+Van+Beuningen> <http://www.w3.org/2000/01/rdf-schema#label> "Museum Boijmans Van Beuningen".
+<http://groningermuseum.nl/data/exhibition/1019/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh in Budapest".
+<http://groningermuseum.nl/data/place/Laren> <http://www.w3.org/2000/01/rdf-schema#label> "Laren".
+<http://groningermuseum.nl/data/person/Hillenga%2C+Martin> <http://www.w3.org/2000/01/rdf-schema#label> "Hillenga, Martin".
+<http://groningermuseum.nl/data/document/44000/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Spiegel van de werkelijkheid: 19de-eeuwse schilderkunst in Nederland".
+<http://groningermuseum.nl/data/person/B%C3%BCttner%2C+Nils> <http://www.w3.org/2000/01/rdf-schema#label> "Büttner, Nils".
+<http://groningermuseum.nl/data/exhibition/22055/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Real Van Gogh: The Artist and His Letters".
+<http://groningermuseum.nl/data/organization/Royal+Academy+of+Arts> <http://www.w3.org/2000/01/rdf-schema#label> "Royal Academy of Arts".
+<http://groningermuseum.nl/data/document/35836/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh in Budapest".
+<http://groningermuseum.nl/data/organization/Het+Noordbrabants+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Het Noordbrabants Museum".
+<http://groningermuseum.nl/data/exhibition/24026/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "De Collectie".
+<http://groningermuseum.nl/data/place/Londen> <http://www.w3.org/2000/01/rdf-schema#label> "Londen".
+<http://groningermuseum.nl/data/identifier/1962.0200> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "1962.0200".
+<http://groningermuseum.nl/data/place/Rotterdam> <http://www.w3.org/2000/01/rdf-schema#label> "Rotterdam".
+<http://groningermuseum.nl/data/exhibition/23274/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh, Gauguin, Bernard: Friction of Ideas".
+<http://groningermuseum.nl/data/document/43921/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Wadapatja: 101 Groninger tradities, gebruiken en (eigen)aardigheden".
+<http://groningermuseum.nl/data/place/Treviso> <http://www.w3.org/2000/01/rdf-schema#label> "Treviso".
+<http://groningermuseum.nl/data/person/Reynaerts%2C+Jenny> <http://www.w3.org/2000/01/rdf-schema#label> "Reynaerts, Jenny".
+<http://groningermuseum.nl/data/person/Gesk%C3%B3%2C+Judit> <http://www.w3.org/2000/01/rdf-schema#label> "Geskó, Judit".
+<http://groningermuseum.nl/data/identifier/JH484> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH484".
+<http://groningermuseum.nl/data/document/43881/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gog's intimi: vrienden familie modellen".
+<http://groningermuseum.nl/data/exhibition/1016/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh und die Haager Schule".
+<http://groningermuseum.nl/data/organization/Ordrupgaard> <http://www.w3.org/2000/01/rdf-schema#label> "Ordrupgaard".
+<http://groningermuseum.nl/data/identifier/F185> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F185".
+<http://groningermuseum.nl/data/person/Solana%2C+Guillermo> <http://www.w3.org/2000/01/rdf-schema#label> "Solana, Guillermo".
+<http://groningermuseum.nl/data/exhibition/630/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Da Cezanne a Mondrian".
+<http://groningermuseum.nl/data/term/173> <http://www.w3.org/2000/01/rdf-schema#label> "olieverf".
+<http://groningermuseum.nl/data/term/172> <http://www.w3.org/2000/01/rdf-schema#label> "paneel (hout)".
+<http://groningermuseum.nl/data/organization/Museum+of+Fine+Arts%2C+Budapest> <http://www.w3.org/2000/01/rdf-schema#label> "Museum of Fine Arts, Budapest".
+<http://groningermuseum.nl/data/organization/Nuenen-100+jaar+Van+Gogh> <http://www.w3.org/2000/01/rdf-schema#label> "Nuenen-100 jaar Van Gogh".
+<http://groningermuseum.nl/data/document/38423/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh, los últimos paisajes".
+<http://groningermuseum.nl/data/place/Haarlem> <http://www.w3.org/2000/01/rdf-schema#label> "Haarlem".
+<http://groningermuseum.nl/data/organization/G%C3%B6teborgs+Konstmuseum> <http://www.w3.org/2000/01/rdf-schema#label> "Göteborgs Konstmuseum".
+<http://groningermuseum.nl/data/exhibition/629/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "De muze als motor I".
+<http://groningermuseum.nl/data/document/39236/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "real van Gogh: the artist and his letters".
+<http://groningermuseum.nl/data/document/40300/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Aardse paradijzen 2 : de tuin in de Nederlandse kunst 1770 tot 2000".
+<http://groningermuseum.nl/data/document/38087/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh in Brabant : schilderijen en tekeningen uit Etten en Nuenen".
+<http://groningermuseum.nl/data/document/20050/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh en zijn weg : het complete werk".
+<http://groningermuseum.nl/data/person/Jong%2C+Erik+de> <http://www.w3.org/2000/01/rdf-schema#label> "Jong, Erik de".
+<http://groningermuseum.nl/data/place/Gothenburg> <http://www.w3.org/2000/01/rdf-schema#label> "Gothenburg".
+<http://groningermuseum.nl/data/place/Boedapest> <http://www.w3.org/2000/01/rdf-schema#label> "Boedapest".
+<http://groningermuseum.nl/data/exhibition/25511/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Spiegel van de ziel. Nederlandse kunst rond 1900".
+<http://groningermuseum.nl/data/organization/Singer+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Singer Museum".
+<http://groningermuseum.nl/data/place/Den+Bosch> <http://www.w3.org/2000/01/rdf-schema#label> "Den Bosch".
+<http://groningermuseum.nl/data/exhibition/1018/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Een Brabantse Van Gogh ervaring".
+<http://groningermuseum.nl/data/document/37522/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Gemälte Gärten, Bilder aus zwei Jahrtausenden".
+<http://groningermuseum.nl/data/exhibition/282/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Aardse paradijzen 2 : de tuin in de Nederlandse kunst 1770-2000".
+<http://groningermuseum.nl/data/person/Bakker%2C+Nienke> <http://www.w3.org/2000/01/rdf-schema#label> "Bakker, Nienke".
+<http://groningermuseum.nl/data/place/Denver%2C+CO> <http://www.w3.org/2000/01/rdf-schema#label> "Denver, CO".
+<http://groningermuseum.nl/data/term/3340> <http://www.w3.org/2000/01/rdf-schema#label> "lithografisch krijt".
+<http://groningermuseum.nl/data/exhibition/246/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh: face to face".
+<http://groningermuseum.nl/data/exhibition/23270/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Becoming Van Gogh".
+<http://groningermuseum.nl/data/person/Tilborgh%2C+Louis+van> <http://www.w3.org/2000/01/rdf-schema#label> "Tilborgh, Louis van".
+<http://groningermuseum.nl/data/term/5548> <http://www.w3.org/2000/01/rdf-schema#label> "portretten".
+<http://groningermuseum.nl/data/term/4180> <http://www.w3.org/2000/01/rdf-schema#label> "aquarellen".
+<http://groningermuseum.nl/data/organization/Bienal+de+Sao+Paulo%2C+XXIV> <http://www.w3.org/2000/01/rdf-schema#label> "Bienal de Sao Paulo, XXIV".
+<http://groningermuseum.nl/data/place/Detroit%2C+MI> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit, MI".
+<http://groningermuseum.nl/data/identifier/1962.0201> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "1962.0201".
+<http://groningermuseum.nl/data/identifier/F1057> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F1057".
+<http://groningermuseum.nl/data/identifier/JH294> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH294".
+<http://groningermuseum.nl/data/term/895> <http://www.w3.org/2000/01/rdf-schema#label> "aquarelverf".
+<http://groningermuseum.nl/data/exhibition/244/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "XXIV Bienal de Sao Paulo".
+<http://groningermuseum.nl/data/person/Jansen%2C+Mari%C3%ABtta> <http://www.w3.org/2000/01/rdf-schema#label> "Jansen, Mariëtta".
+<http://groningermuseum.nl/data/document/43231/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "avant-garde in Groningen: De Ploeg 1918 - 1928".
+<http://groningermuseum.nl/data/organization/Detroit+Institute+of+Arts> <http://www.w3.org/2000/01/rdf-schema#label> "Detroit Institute of Arts".
+<http://groningermuseum.nl/data/organization/Denver+Art+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Denver Art Museum".
+<http://groningermuseum.nl/data/document/14894/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh, tekeningen : vroege jaren 1880-1883".
+<http://groningermuseum.nl/data/identifier/F1098> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F1098".
+<http://groningermuseum.nl/data/person/Hammacher%2C+Abraham+M.> <http://www.w3.org/2000/01/rdf-schema#label> "Hammacher, Abraham M.".
+<http://groningermuseum.nl/data/organization/Hokkaido+Museum+of+Modern+Art> <http://www.w3.org/2000/01/rdf-schema#label> "Hokkaido Museum of Modern Art".
+<http://groningermuseum.nl/data/document/6839/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Hoe wji het rooiden, de veenkoloniale aardappelboer en zijn industrie".
+<http://groningermuseum.nl/data/exhibition/23048/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh and Japonism and hiroshige - The Art of Travel".
+<http://groningermuseum.nl/data/place/Assen> <http://www.w3.org/2000/01/rdf-schema#label> "Assen".
+<http://groningermuseum.nl/data/exhibition/252/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh".
+<http://groningermuseum.nl/data/document/14890/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh : tekeningen".
+<http://groningermuseum.nl/data/exhibition/213/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Hokkaido Museum of Modern Art".
+<http://groningermuseum.nl/data/document/9237/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Lotgenoten : het leven van Vincent en Theo van Gogh".
+<http://groningermuseum.nl/data/exhibition/103/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Zelfportret van het Groninger Museum".
+<http://groningermuseum.nl/data/place/Parijs> <http://www.w3.org/2000/01/rdf-schema#label> "Parijs".
+<http://groningermuseum.nl/data/document/3239/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Haagse School : Hollandse meesters van de 19e eeuw".
+<http://groningermuseum.nl/data/exhibition/245/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "De Haagse School in Drenthe".
+<http://groningermuseum.nl/data/person/Bakker%2C+Boudewijn> <http://www.w3.org/2000/01/rdf-schema#label> "Bakker, Boudewijn".
+<http://groningermuseum.nl/data/organization/Drents+Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Drents Museum".
+<http://groningermuseum.nl/data/identifier/JF425> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JF425".
+<http://groningermuseum.nl/data/place/Sapporo> <http://www.w3.org/2000/01/rdf-schema#label> "Sapporo".
+<http://groningermuseum.nl/data/exhibition/3145/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "De Haagse School : Hollandse meesters van de 19e eeuw".
+<http://groningermuseum.nl/data/place/Tokyo> <http://www.w3.org/2000/01/rdf-schema#label> "Tokyo".
+<http://groningermuseum.nl/data/person/Dumas%2C+Charles> <http://www.w3.org/2000/01/rdf-schema#label> "Dumas, Charles".
+<http://groningermuseum.nl/data/person/Wolk%2C+Johannes+van+der> <http://www.w3.org/2000/01/rdf-schema#label> "Wolk, Johannes van der".
+<http://groningermuseum.nl/data/organization/Wisselingh+%26+Co%2C+kunsthandel+E.J.+van> <http://www.w3.org/2000/01/rdf-schema#label> "Wisselingh & Co, kunsthandel E.J. van".
+<http://groningermuseum.nl/data/document/37769/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Zelfportret van het Groninger Museum : 150 karakteristieke stukken = Selfportrait of the Groninger Museum".
+<http://groningermuseum.nl/data/document/43872/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Weer en wind: 100 gedichten en 100 gezichten".
+<http://groningermuseum.nl/data/exhibition/1110/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Presentatie in het kader van het Van Gogh-jaar".
+<http://groningermuseum.nl/data/exhibition/25464/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Weer & wind in de kunst en poezie".
+<http://groningermuseum.nl/data/identifier/1961.0188> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "1961.0188".
+<http://groningermuseum.nl/data/organization/Pinacoth%C3%A8que+de+Paris> <http://www.w3.org/2000/01/rdf-schema#label> "Pinacothèque de Paris".
+<http://groningermuseum.nl/data/exhibition/250/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh, aquarelles et dessins de l'époque 1881-1885".
+<http://groningermuseum.nl/data/person/Dendermonde%2C+Max> <http://www.w3.org/2000/01/rdf-schema#label> "Dendermonde, Max".
+<http://groningermuseum.nl/data/person/Kolsteren%2C+Steven> <http://www.w3.org/2000/01/rdf-schema#label> "Kolsteren, Steven".
+<http://groningermuseum.nl/data/document/18209/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "works of Vincent van Gogh : his paintings and his drawings".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89c <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "57.0"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89a <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "25.0"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a2 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "25.9"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f8a1 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "46.9"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f892 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "82.2"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f891 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "40.3"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f893 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "25.9"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f894 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "44.9"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f895 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1928-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f895 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1928-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f898 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1884-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89f <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1883-01-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f89f <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1883-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88b <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1883-11-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88b <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1883-11-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f888 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1906-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f888 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1906-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9f88f <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1882-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/247/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1970-04-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/247/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1970-06-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/22126/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2010-10-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/22126/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2011-02-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/632/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2005-10-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/632/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2006-03-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/595/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2005-02-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/595/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2005-05-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/243/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-02-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/243/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-05-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25230/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2018-05-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25230/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2018-11-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/248/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1980-10-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/248/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1980-11-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/249/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-09-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/249/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-11-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/242/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1980-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/242/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1981-12-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/630/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2000-01-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/630/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1999-09-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23274/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2014-06-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23274/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2014-02-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/22055/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2010-04-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/22055/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2010-01-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/282/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1999-08-29"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/282/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1999-03-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25511/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2020-08-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25511/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2020-01-14"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1017/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1928-01-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1017/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1927-12-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/629/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-09-14"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/629/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-12-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23842/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2014-07-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23842/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2014-10-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/24026/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2014-03-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/24026/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2014-09-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25445/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2020-03-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25445/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2019-04-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/628/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1987-11-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/628/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1988-01-10"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1016/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-02-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1016/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-05-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1019/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2006-12-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1019/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2007-03-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1018/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1984-10-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1018/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1984-10-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/246/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2000-03-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/246/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2001-01-14"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/244/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1998-12-13"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/244/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1998-10-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23270/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2013-01-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23270/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2012-10-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/213/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2002-11-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/213/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2002-07-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23048/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2013-03-17"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/23048/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2012-10-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/3145/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1983-10-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/3145/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1983-01-15"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/245/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1997-05-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/245/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1997-02-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25464/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2020-01-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/25464/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2019-09-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/103/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1991-03-10"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/103/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1991-01-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1110/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2004-01-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://groningermuseum.nl/data/exhibition/1110/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2003-07-01"^^<http://www.w3.org/2001/XMLSchema#date>.
