@@ -1,0 +1,270 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770858> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.woodone-museum.jp/data/artwork/M00060> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770859> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.woodone-museum.jp/data/technical/M00060/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770911> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.woodone-museum.jp/data/technical/M00060/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.woodone-museum.jp/data/artwork/M00060/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.woodone-museum.jp/data/artwork/M00060> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300054216> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "November 1884-January 1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1884-11-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-01-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<https://www.woodone-museum.jp/data/technical/M00060/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.woodone-museum.jp/data/technical/M00060/1> ;
+    ns1:P16_used_specific_object <https://www.woodone-museum.jp/data/artwork/M00060> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300053463> .
+
+<https://www.woodone-museum.jp/data/technical/M00060/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.woodone-museum.jp/data/technical/M00060/2> ;
+    ns1:P16_used_specific_object <https://www.woodone-museum.jp/data/artwork/M00060> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300419323> .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "paintings" .
+
+<http://vocab.getty.edu/aat/300046300> a ns1:E55_Type ;
+    rdfs:label "photographs" .
+
+<http://vocab.getty.edu/aat/300053463> a ns1:E55_Type ;
+    rdfs:label "infrared photography" .
+
+<http://vocab.getty.edu/aat/300054216> a ns1:E55_Type ;
+    rdfs:label "painting" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300189808> a rdfs:Resource ;
+    rdfs:label "figures" .
+
+<http://vocab.getty.edu/aat/300207379> a ns1:E55_Type ;
+    rdfs:label "stickers" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300419323> a ns1:E55_Type ;
+    rdfs:label "x-radiography" .
+
+<http://vocab.getty.edu/aat/300419325> a ns1:E55_Type ;
+    rdfs:label "x-radiographs" .
+
+<http://vocab.getty.edu/tgn/7006835> a ns1:E53_Place ;
+    rdfs:label "Nuenen" .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://data.rkd.nl/artists/508347> a ns1:E39_Actor ;
+    rdfs:label "Woodone Museum of Art" .
+
+<https://vangoghworldwide.org/data/artwork/F131> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<https://www.woodone-museum.jp/data/identifier/F131> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F131" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.woodone-museum.jp/data/identifier/JH685> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH685" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.woodone-museum.jp/data/identifier/M00060> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "M00060" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.woodone-museum.jp/data/technical/M00060/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "infrared photography - F131" .
+
+<https://www.woodone-museum.jp/data/technical/M00060/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "x-radiography - F131" .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E39_Actor a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://www.woodone-museum.jp/data/technical/M00060/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.woodone-museum.jp/data/technical/M00060/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300046300> .
+
+<https://www.woodone-museum.jp/data/technical/M00060/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.woodone-museum.jp/data/technical/M00060/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300419325> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<https://www.woodone-museum.jp/data/artwork/M00060> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Head of a peasant Woman" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.woodone-museum.jp/data/identifier/F131>,
+        <https://www.woodone-museum.jp/data/identifier/JH685>,
+        <https://www.woodone-museum.jp/data/identifier/M00060> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 41.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 34.9 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Unsigned" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Dienst voor Schone Kunsten der Gemeente 's-Gravenhage,Gemeentemuseum" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300207379> ] ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/508347> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300189808> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F131> .
+
+ns1:E55_Type a rdfs:Resource .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.woodone-museum.jp/data/artwork/M00060> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Probably left by the artist to his mother, A.C. van Gogh-Carbentus, Nuenen/Breda, sometime between November 1885 and February 1886, then by his mother to Janus Schrauwen.Breda, and after his mother moved to Leiden in 1889, Janus Schrauwen supposedly sold the painting to Jan C. Couvreur. It then passed from Jan C. Couvreur to Kees Mouwen Jr and Willem van Bakel, and was sold on consignment in 1903-1904 at Kunstzalen Oldenzeel, Rotterdam. After this, it was acquired by S.R. Steinmetz, Amsterdam, where it remained after his death in 1940, and was deposited in The Hague City Museum from 1963. It was offered at Sotheby's Auction, London, December 5, 1979, and acquired by Japanese painter Kazumasa Nakagawa (1893-1991) in the probably 1980s. And then sold at Shinwa Art Auction, Tokyo, by Nakagawa's family in February 2003, Woodone Museum of Art has housed it ever since." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.woodone-museum.jp/data/artwork/M00060> .
+

@@ -1,0 +1,1125 @@
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b796 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b796 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b797.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b793 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300014844>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b793 <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300014078>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78d <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b795 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b795 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b792 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b792 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78e <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b790 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b790 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b790 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78f <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78f <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388306>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b794 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300015636>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78c <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78d.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b791 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b791 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b791 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b797 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028705>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b719 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b687 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b682 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b696 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b691 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69c <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/12/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69c <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b697 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/11/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b697 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b697 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b692 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/10/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b692 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68d <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68d <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/9/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66f <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66f <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/3/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b683 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b683 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b683 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/7/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b688 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/8/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b688 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b688 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67e <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/6/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b674 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b674 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/4/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b679 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b679 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b679 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/5/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b665 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/1/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b665 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b665 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ea <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/26/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ea <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ef <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/27/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ef <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e5 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/25/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6db <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/23/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6db <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6aa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d6 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/22/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ca <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ca <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/20/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e0 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/24/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c3 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c3 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/19/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6bc <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/18/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6bc <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b5 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/17/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6df <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6da <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ab <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/15/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ab <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a6 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/14/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a1 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/13/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ee <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b0 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/document/2720/16/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b669 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b664 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b673 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300418049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435429> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300026687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E56_Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P128_carries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/350056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300435438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/aat/300026657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E74_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7006792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7007269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500302652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/ulan/500302652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/439154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/499593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/455461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/335005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/ulan/500250849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/450771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b796.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033618>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/identifier/2720>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/identifier/F348>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F348>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/identifier/JH1182>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78e.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78f.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b790.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b791.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300015050>.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b793.
+<https://www.bellasartes.gob.ar/data/artwork/2720> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b794.
+<https://data.rkd.nl/artists/348385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/18>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b9.
+<https://www.bellasartes.gob.ar/data/document/2720/18/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003150http://vocab.getty.edu/tgn/7007567>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/18/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/19/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003150>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c1.
+<https://www.bellasartes.gob.ar/data/document/2720/19/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/19>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6af.
+<https://www.bellasartes.gob.ar/data/document/2720/16/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/16>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7002808http://vocab.getty.edu/tgn/7010420>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/16/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/335005>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006952https://vocab.getty.edu/tgn/7002980>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b4.
+<https://www.bellasartes.gob.ar/data/document/2720/17/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/17>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/16>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/16/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/14>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a5.
+<https://www.bellasartes.gob.ar/data/document/2720/14/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/15>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6aa.
+<https://www.bellasartes.gob.ar/data/document/2720/15/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7007567>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500313006>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://vocab.getty.edu/aat/300026096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/1020035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/21>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d0.
+<https://www.bellasartes.gob.ar/data/document/2720/21/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7002980>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/21/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b691.
+<https://www.bellasartes.gob.ar/data/document/2720/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/10>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/11>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b696.
+<https://www.bellasartes.gob.ar/data/document/2720/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/11/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/20>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7007567>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500303609>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c9.
+<https://www.bellasartes.gob.ar/data/document/2720/22/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500308712>.
+<https://www.bellasartes.gob.ar/data/document/2720/22/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/1020035>.
+<https://www.bellasartes.gob.ar/data/document/2720/22/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d5.
+<https://www.bellasartes.gob.ar/data/document/2720/22/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/22>.
+<https://www.bellasartes.gob.ar/data/document/2720/22/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/22/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/23/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7002980>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6da.
+<https://www.bellasartes.gob.ar/data/document/2720/23/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/23>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/12/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69b.
+<https://www.bellasartes.gob.ar/data/document/2720/12/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/12>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500310800>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7002980>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a0.
+<https://www.bellasartes.gob.ar/data/document/2720/13/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/13>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/5/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/5>.
+<https://vocab.getty.edu/tgn/7002980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/4>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b673.
+<https://www.bellasartes.gob.ar/data/document/2720/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/4/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/2>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b669.
+<https://www.bellasartes.gob.ar/data/document/2720/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67d.
+<https://www.bellasartes.gob.ar/data/document/2720/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/6>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ee.
+<https://www.bellasartes.gob.ar/data/document/2720/27/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/27>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7002980http://vocab.getty.edu/tgn/7007868>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/27/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/3>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66e.
+<https://www.bellasartes.gob.ar/data/document/2720/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/3/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/7>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/335005>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006952>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b682.
+<https://www.bellasartes.gob.ar/data/document/2720/25/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7002980>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e4.
+<https://www.bellasartes.gob.ar/data/document/2720/25/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/25>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6df.
+<https://www.bellasartes.gob.ar/data/document/2720/24/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/24>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/26/in-document>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e9.
+<https://www.bellasartes.gob.ar/data/document/2720/26/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/26/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500302652>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/8726805>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b678.
+<https://www.bellasartes.gob.ar/data/document/2720/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/5>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/27> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026061>.
+<https://www.bellasartes.gob.ar/data/document/2720/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/27> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/27/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/27> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/27/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/4> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/4/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/4/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300028051>.
+<https://www.bellasartes.gob.ar/data/document/2720/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/26> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/26/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/26> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/26/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/26> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300048715>.
+<https://www.bellasartes.gob.ar/data/document/2720/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/3> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/3/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/3/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/3> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300417819>.
+<https://www.bellasartes.gob.ar/data/document/2720/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/25> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/25/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/25> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300215389>.
+<https://www.bellasartes.gob.ar/data/document/2720/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/6> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/6/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/6> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/6/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/6> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417819>.
+<https://www.bellasartes.gob.ar/data/document/2720/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/24> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/24/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/24> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300215389>.
+<https://www.bellasartes.gob.ar/data/document/2720/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/5> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/5/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/5> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/5/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026096>.
+<https://www.bellasartes.gob.ar/data/document/2720/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/23> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/23/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/23> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/23/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/23> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300028051>.
+<https://www.bellasartes.gob.ar/data/document/2720/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/8> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/8/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/8> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/8/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/8> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026061>.
+<https://www.bellasartes.gob.ar/data/document/2720/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/22> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/22/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/22> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/22/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/22> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026096>.
+<https://www.bellasartes.gob.ar/data/document/2720/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/7> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/7/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/7> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/7/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/7> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.bellasartes.gob.ar/data/document/2720/21> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300028051>.
+<https://www.bellasartes.gob.ar/data/document/2720/21> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/21> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/21/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/20> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/20/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/20> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/20/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300028051>.
+<https://www.bellasartes.gob.ar/data/document/2720/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/9> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/9/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/9/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/9> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417819>.
+<https://www.bellasartes.gob.ar/data/document/2720/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/8/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006952>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b687.
+<https://www.bellasartes.gob.ar/data/document/2720/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/8>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/2> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/2/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300264578>.
+<https://www.bellasartes.gob.ar/data/document/2720/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68c.
+<https://www.bellasartes.gob.ar/data/document/2720/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/9>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vocab.getty.edu/tgn/7002980http://vocab.getty.edu/tgn/7007868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/1> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/1/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/1/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300048715>.
+<https://www.bellasartes.gob.ar/data/document/2720/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/12/in-document/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026657>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/12>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/3/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/3>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/aat/300028051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/19> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300028051>.
+<https://www.bellasartes.gob.ar/data/document/2720/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/19> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/19/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/19> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/19/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/18> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/18/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/18> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/18/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/18> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300028051>.
+<https://www.bellasartes.gob.ar/data/document/2720/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/17> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/17/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/17> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/17/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/17> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026061>.
+<https://www.bellasartes.gob.ar/data/document/2720/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/16> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/16/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/16> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/16/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/16> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026061>.
+<https://www.bellasartes.gob.ar/data/document/2720/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/15> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/15/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/15> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/15/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/15> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026061>.
+<https://www.bellasartes.gob.ar/data/document/2720/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/14> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/14/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/14> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/14/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/14> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300026096>.
+<https://www.bellasartes.gob.ar/data/document/2720/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/13> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/13/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/13> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/13/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/13> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300028051>.
+<https://www.bellasartes.gob.ar/data/document/2720/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/12> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/12/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/12/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/12> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300311679>.
+<https://www.bellasartes.gob.ar/data/document/2720/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/11> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/11/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/11> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/11/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/11> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vocab.getty.edu/aat/300311679>.
+<https://www.bellasartes.gob.ar/data/document/2720/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/10> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/10/part>.
+<https://www.bellasartes.gob.ar/data/document/2720/10> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/10/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/10> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417819>.
+<https://www.bellasartes.gob.ar/data/document/2720/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/aat/300417819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/ulan/500303609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/aat/300026061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300417819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500254869>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/9>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/14/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/14>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://vocab.getty.edu/ulan/500254869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/13/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/13>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/13/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/22/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://vocab.getty.edu/tgn/7006952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/17>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500645379>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/26>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/26/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/23>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500645379>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/24>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026657>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/24/in-document/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/26>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026657>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/26/in-document/title>.
+<http://vocab.getty.edu/tgn/7003150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/22/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/22/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/2>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/2/author>.
+<https://vocab.getty.edu/aat/300264578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://vocab.getty.edu/ulan/500250849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://vocab.getty.edu/ulan/500250849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://vocab.getty.edu/tgn/7006287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/10>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/10/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://vocab.getty.edu/tgn/7006952https://vocab.getty.edu/tgn/7002980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/6>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500254869>.
+<https://www.bellasartes.gob.ar/data/document/2720/23/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/20>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/450771>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/24/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/tgn/7003150http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/1/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/1>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/20/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/ulan/500308712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/tgn/7007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/9/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/14/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/17/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://data.rkd.nl/artists/347903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/347903>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/8>.
+<https://www.bellasartes.gob.ar/data/document/2720/8/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://vocab.getty.edu/ulan/500310800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500645379>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/27>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://vocab.getty.edu/tgn/7002808http://vocab.getty.edu/tgn/7010420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/27/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/12/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/19/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/19>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/10/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/tgn/8726805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/11/in-document/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026657>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/11>.
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://vocab.getty.edu/ulan/500313006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/ulan/500645379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/18>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/18/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/18/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/16/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/1/publisher>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b664.
+<https://www.bellasartes.gob.ar/data/document/2720/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/document/2720/1/in-document>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/347903>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/7>.
+<https://www.bellasartes.gob.ar/data/document/2720/7/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/6/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://vocab.getty.edu/aat/300026061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/21>.
+<https://www.bellasartes.gob.ar/data/document/2720/21/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/450771>.
+<https://vocab.getty.edu/aat/300215389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/4>.
+<https://www.bellasartes.gob.ar/data/document/2720/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.bellasartes.gob.ar/data/document/2720/4/author>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/1>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/1/in-document/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/2/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://vocab.getty.edu/aat/300311679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/document/2720/3/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/5/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.bellasartes.gob.ar/data/document/2720/25>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026657>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/document/2720/25/in-document/title>.
+<https://www.bellasartes.gob.ar/data/document/2720/26/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/document/2720/25/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.bellasartes.gob.ar/data/document/2720/15>.
+<https://www.bellasartes.gob.ar/data/document/2720/15/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/347903>.
+<https://www.bellasartes.gob.ar/data/document/2720/19/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/aat/300224399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/technical/2720/1/title>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300128347>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/technical/2720/2/title>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300046300>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300224399>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b719.
+<https://www.bellasartes.gob.ar/data/technical/2720/2/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://www.bellasartes.gob.ar/data/technical/2720/2>.
+<https://www.bellasartes.gob.ar/data/technical/2720/2/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300224399>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b718.
+<https://www.bellasartes.gob.ar/data/technical/2720/1/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://www.bellasartes.gob.ar/data/technical/2720/1>.
+<https://www.bellasartes.gob.ar/data/technical/2720/1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<http://vocab.getty.edu/aat/300128347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://media.rkd.nl/iiif/10770937> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://www.bellasartes.gob.ar/data/technical/2720/1>.
+<https://media.rkd.nl/iiif/10770937> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770937> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://media.rkd.nl/iiif/10770938> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://www.bellasartes.gob.ar/data/technical/2720/2>.
+<https://media.rkd.nl/iiif/10770938> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770938> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006792>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/455461>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://vocab.getty.edu/ulan/500308774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://vocab.getty.edu/ulan/500311302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/ulan/500307518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/name>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/name>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500250849>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://vocab.getty.edu/tgn/7006287>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/name>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500308774>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/8942194>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/name>.
+<http://vocab.getty.edu/ulan/500308712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/tgn/8726805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/8942194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500311302>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/name>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/1019951>.
+<http://vocab.getty.edu/tgn/1019951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<http://vocab.getty.edu/aat/300054216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/artwork/F348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://media.rkd.nl/iiif/10770794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770794> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770794> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770794> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300054216>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78c.
+<https://www.bellasartes.gob.ar/data/artwork/2720/production> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008038>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/artwork/2720/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://www.bellasartes.gob.ar/data/identifier/F348> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://www.bellasartes.gob.ar/data/identifier/F348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.bellasartes.gob.ar/data/identifier/JH1182> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://www.bellasartes.gob.ar/data/identifier/JH1182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.bellasartes.gob.ar/data/identifier/2720> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<https://www.bellasartes.gob.ar/data/identifier/2720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/439154>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/timespan>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/acquisition>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/439154>.
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500302652>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/8726805>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/name>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500307518>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007269>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/name>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/name>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/1020035>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500308712>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/timespan>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.bellasartes.gob.ar/data/artwork/2720>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78d <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "ca. 1886-1887".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b795 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Acquired at Galerie Thannhauser (Berlin) through Galería Müller (Buenos Aires)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b792 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "oil on canvas".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78e <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Moulin de la Galette".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78f <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Le Moulin de la Galette".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b797 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Not signed".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69c <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. [1 ] (b&w)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b697 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. [1 ] (b&w)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b692 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "cover (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68d <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 59 (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66f <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 47 (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b683 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p.260, no. 1182 (b&w)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b688 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 260, no.1182".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67e <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p.61 (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b674 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 255 (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b679 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p . 262, no. 24".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b665 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 469-471, p. 471 (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ea <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "cover (b&w)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ef <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "no. 348, pl. 94".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "no.116".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6db <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "no. 266, p. 207 (b&w)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pl. [2]".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ca <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 49 (b&w)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 10 (b&w)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c3 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pl. XIV (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6bc <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pl. 14 (col.)".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "no. 348.".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ab <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p.260, no. 1182".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. [60]".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 54-61, 78-85".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p.112, no. 339".
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "painting".
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/2000/01/rdf-schema#label> "signatures".
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/2000/01/rdf-schema#label> "canvas".
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/2000/01/rdf-schema#label> "oil".
+<https://data.rkd.nl/artists/350056> <http://www.w3.org/2000/01/rdf-schema#label> "Johanna van Gogh Bonger (Amsterdam)".
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/2000/01/rdf-schema#label> "provenance entry".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/aat/300015636> <http://www.w3.org/2000/01/rdf-schema#label> "landscape".
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/2000/01/rdf-schema#label> "Pagination statement".
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition".
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/2000/01/rdf-schema#label> "publishing".
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/2000/01/rdf-schema#label> "Paris".
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/2000/01/rdf-schema#label> "article".
+<http://vocab.getty.edu/tgn/7006792> <http://www.w3.org/2000/01/rdf-schema#label> "Rotterdam".
+<http://vocab.getty.edu/tgn/7007269> <http://www.w3.org/2000/01/rdf-schema#label> "Basel".
+<http://vocab.getty.edu/ulan/500302652> <http://www.w3.org/2000/01/rdf-schema#label> "Fondation Pierre Gianadda".
+<http://vocab.getty.edu/ulan/500302652> <http://www.w3.org/2000/01/rdf-schema#label> "Fundación Pierre Gianadda".
+<https://data.rkd.nl/artists/439154> <http://www.w3.org/2000/01/rdf-schema#label> "Galerie Thannhauser (Berlin)".
+<https://data.rkd.nl/artists/499593> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony van Hoboken (Vienna)".
+<https://data.rkd.nl/artists/455461> <http://www.w3.org/2000/01/rdf-schema#label> "Kunstzalen Unger & van Mens".
+<https://data.rkd.nl/artists/335005> <http://www.w3.org/2000/01/rdf-schema#label> "Meulenhoff".
+<https://data.rkd.nl/artists/335005> <http://www.w3.org/2000/01/rdf-schema#label> "Meulenhoff International/Vilo".
+<http://vocab.getty.edu/ulan/500250849> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Nacional de Bellas Artes, Argentina".
+<http://vocab.getty.edu/ulan/500250849> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Nacional de Bellas Artes".
+<https://data.rkd.nl/artists/450771> <http://www.w3.org/2000/01/rdf-schema#label> "Rewald, John".
+<https://data.rkd.nl/artists/348385> <http://www.w3.org/2000/01/rdf-schema#label> "Johannes Hendricus de Bois (Haarlem)".
+<https://www.bellasartes.gob.ar/data/document/2720/27/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "L’Oeuvre de Vincent van Gogh. Catalogue raisonné".
+<https://www.bellasartes.gob.ar/data/document/2720/13/author> <http://www.w3.org/2000/01/rdf-schema#label> "AA.VV".
+<https://www.bellasartes.gob.ar/data/document/2720/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh. Le Moulin de la Galette".
+<https://www.bellasartes.gob.ar/data/document/2720/7/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The complete Van Gogh : Paintings, Drawings, Sketches. Revised and enlarged edition of the catalogue raisonné of the works of Vincent Van Gogh.".
+<https://www.bellasartes.gob.ar/data/document/2720/19/author> <http://www.w3.org/2000/01/rdf-schema#label> "Lassaigne, Jacques".
+<https://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition catalogs".
+<http://vocab.getty.edu/tgn/1020035> <http://www.w3.org/2000/01/rdf-schema#label> "Santa Fe".
+<https://www.bellasartes.gob.ar/data/document/2720/8/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "John Benjamins".
+<https://www.bellasartes.gob.ar/data/document/2720/14/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "La pintura holandesa en las colecciones argentinas (Siglos XVI al XX)".
+<https://vocab.getty.edu/tgn/7002980> <http://www.w3.org/2000/01/rdf-schema#label> "Paris".
+<https://www.bellasartes.gob.ar/data/document/2720/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Comentario sobre Le Moulin de la Galette".
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Plástica (no. 5, año II, abril)".
+<https://www.bellasartes.gob.ar/data/document/2720/26/author> <http://www.w3.org/2000/01/rdf-schema#label> "Da Rocha, Augusto".
+<https://vocab.getty.edu/tgn/7002980http://vocab.getty.edu/tgn/7007868> <http://www.w3.org/2000/01/rdf-schema#label> "Paris ; Bruxelles".
+<https://www.bellasartes.gob.ar/data/document/2720/4/author> <http://www.w3.org/2000/01/rdf-schema#label> "Navarro, Ángel Miguel".
+<https://www.bellasartes.gob.ar/data/document/2720/13/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh à Paris".
+<https://vocab.getty.edu/aat/300028051> <http://www.w3.org/2000/01/rdf-schema#label> "books".
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Boletín del Museo Nacional de Bellas Artes (vol. 1, año I, Julio)".
+<https://vocab.getty.edu/aat/300417819> <http://www.w3.org/2000/01/rdf-schema#label> "museum catalogs".
+<https://www.bellasartes.gob.ar/data/document/2720/8/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The New Complete Van Gogh: Fully revised and enlarged edition of the Catalogue raisonné".
+<https://www.bellasartes.gob.ar/data/document/2720/19/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Toulouse- Lautrec e la Parigi dei cabarets".
+<https://vocab.getty.edu/ulan/500303609> <http://www.w3.org/2000/01/rdf-schema#label> "Museum of Modern Art (MoMA)".
+<http://vocab.getty.edu/aat/300026061> <http://www.w3.org/2000/01/rdf-schema#label> "catalogues raisonnés".
+<http://vocab.getty.edu/aat/300417819> <http://www.w3.org/2000/01/rdf-schema#label> "museum catalogs".
+<https://www.bellasartes.gob.ar/data/document/2720/20/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Post-impressionism: from Van to Gauguin".
+<https://www.bellasartes.gob.ar/data/document/2720/18/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Toulouse- Lautrec and the Paris of the de cabarets".
+<https://www.bellasartes.gob.ar/data/document/2720/23/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh".
+<https://www.bellasartes.gob.ar/data/document/2720/11/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Fundación Schapire".
+<https://vocab.getty.edu/ulan/500254869> <http://www.w3.org/2000/01/rdf-schema#label> "Glusberg, Jorge".
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Museo Nacional de Bellas Artes (diciembre)".
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Beaux Arts (22 de marzo)".
+<https://www.bellasartes.gob.ar/data/document/2720/22/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Pintura francesa del siglo XIX".
+<https://www.bellasartes.gob.ar/data/document/2720/15/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Complete Van Gogh : Paintings, Drawings, Sketches".
+<https://vocab.getty.edu/tgn/7006952> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam".
+<https://vocab.getty.edu/tgn/7006952> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdan".
+<https://www.bellasartes.gob.ar/data/document/2720/3/author> <http://www.w3.org/2000/01/rdf-schema#label> "Herrera, María José".
+<https://www.bellasartes.gob.ar/data/document/2720/21/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Le post-impressionnisme de Van Gogh à Gauguin".
+<https://www.bellasartes.gob.ar/data/document/2720/16/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "La obra pictórica completa de Van Gogh: de Etten a París".
+<http://vocab.getty.edu/tgn/7003150> <http://www.w3.org/2000/01/rdf-schema#label> "Milano".
+<https://vocab.getty.edu/aat/300264578> <http://www.w3.org/2000/01/rdf-schema#label> "web pages (documents)".
+<https://www.bellasartes.gob.ar/data/document/2720/16/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Noguer-Rizzoli".
+<https://vocab.getty.edu/ulan/500250849> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Nacional de Bellas artes".
+<https://vocab.getty.edu/ulan/500250849> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Nacional de Bellas Artes".
+<https://vocab.getty.edu/tgn/7006287> <http://www.w3.org/2000/01/rdf-schema#label> "Buenos Aires".
+<https://www.bellasartes.gob.ar/data/document/2720/4/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "El arte flamenco y holandés en la Argentina".
+<https://www.bellasartes.gob.ar/data/document/2720/16/author> <http://www.w3.org/2000/01/rdf-schema#label> "Lecaldano, Paolo".
+<https://www.bellasartes.gob.ar/data/document/2720/14/author> <http://www.w3.org/2000/01/rdf-schema#label> "Witjens, Harmen B. A".
+<https://www.bellasartes.gob.ar/data/document/2720/17/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "L’Oeuvre de Vincent van Gogh. Catalogue raisonné".
+<https://www.bellasartes.gob.ar/data/document/2720/10/author> <http://www.w3.org/2000/01/rdf-schema#label> "Pacheco, Marcelo Eduardo; Vazquez Ocampo, Gustavo".
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Colección del Museo Nacional de Bellas Artes".
+<https://www.bellasartes.gob.ar/data/document/2720/18/author> <http://www.w3.org/2000/01/rdf-schema#label> "Lassaigne, Jacques".
+<https://vocab.getty.edu/tgn/7006952https://vocab.getty.edu/tgn/7002980> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam ; Paris".
+<https://www.bellasartes.gob.ar/data/document/2720/23/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Hypérion".
+<https://www.bellasartes.gob.ar/data/document/2720/11/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Centenario de la muerte de Vincent Van Gogh".
+<https://www.bellasartes.gob.ar/data/document/2720/1/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Asociación Amigos del MNBA".
+<http://vocab.getty.edu/tgn/7003150http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/2000/01/rdf-schema#label> "Milan ; New York".
+<https://www.bellasartes.gob.ar/data/document/2720/9/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "De la Escuela de Barbizon a van Gogh".
+<https://www.bellasartes.gob.ar/data/document/2720/12/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Exposiciones 1990".
+<https://vocab.getty.edu/ulan/500308712> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Provincial de Bellas Artes Rosa Galisteo de Rodríguez".
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Museo Nacional de Bellas Artes (junio)".
+<https://vocab.getty.edu/tgn/7007567> <http://www.w3.org/2000/01/rdf-schema#label> "New York".
+<https://www.bellasartes.gob.ar/data/document/2720/1/author> <http://www.w3.org/2000/01/rdf-schema#label> "Schlesser, Thomas".
+<https://www.bellasartes.gob.ar/data/document/2720/5/author> <http://www.w3.org/2000/01/rdf-schema#label> "Pickvance, Ronald".
+<https://data.rkd.nl/artists/347903> <http://www.w3.org/2000/01/rdf-schema#label> "Hulsker, Jan".
+<https://vocab.getty.edu/ulan/500310800> <http://www.w3.org/2000/01/rdf-schema#label> "Réunion des musées nationaux".
+<https://vocab.getty.edu/tgn/7002808http://vocab.getty.edu/tgn/7010420> <http://www.w3.org/2000/01/rdf-schema#label> "Barcelona ; Madrid".
+<https://www.bellasartes.gob.ar/data/document/2720/27/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "G van Oest".
+<https://www.bellasartes.gob.ar/data/document/2720/12/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Fundación Schapire".
+<https://www.bellasartes.gob.ar/data/document/2720/4/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Fundación Espigas".
+<https://www.bellasartes.gob.ar/data/document/2720/10/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh y su mundo. Centenario van Gogh".
+<https://vocab.getty.edu/tgn/8726805> <http://www.w3.org/2000/01/rdf-schema#label> "Martigny".
+<https://vocab.getty.edu/ulan/500313006> <http://www.w3.org/2000/01/rdf-schema#label> "H. N. Abrams".
+<https://www.bellasartes.gob.ar/data/document/2720/21/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Albin Michel".
+<https://www.bellasartes.gob.ar/data/document/2720/26/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Algo más sobre Van Gogh y Gauguin".
+<https://vocab.getty.edu/ulan/500645379> <http://www.w3.org/2000/01/rdf-schema#label> "Baart de la Faille, Jacob".
+<https://www.bellasartes.gob.ar/data/document/2720/18/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Fratelli Fabbri".
+<https://www.bellasartes.gob.ar/data/document/2720/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Guía del Museo Nacional de Bellas Artes".
+<https://www.bellasartes.gob.ar/data/document/2720/6/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Obras Maestras del Museo Nacional de Bellas Artes".
+<https://vocab.getty.edu/aat/300026061> <http://www.w3.org/2000/01/rdf-schema#label> "catalogues raisonnés".
+<https://vocab.getty.edu/aat/300215389> <http://www.w3.org/2000/01/rdf-schema#label> "magazines (periodicals)".
+<https://www.bellasartes.gob.ar/data/document/2720/2/author> <http://www.w3.org/2000/01/rdf-schema#label> "Schlesser, Thomas".
+<https://vocab.getty.edu/aat/300311679> <http://www.w3.org/2000/01/rdf-schema#label> "bulletins".
+<https://www.bellasartes.gob.ar/data/document/2720/3/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Asociación Amigos del MNBA".
+<https://www.bellasartes.gob.ar/data/document/2720/5/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh".
+<https://www.bellasartes.gob.ar/data/document/2720/26/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Nacional de Bellas artes".
+<https://www.bellasartes.gob.ar/data/document/2720/19/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Fratelli Fabbri".
+<http://vocab.getty.edu/aat/300224399> <http://www.w3.org/2000/01/rdf-schema#label> "Direct and raking light".
+<http://vocab.getty.edu/aat/300224399> <http://www.w3.org/2000/01/rdf-schema#label> "raking light".
+<https://www.bellasartes.gob.ar/data/technical/2720/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Examen ocular de la obra".
+<https://www.bellasartes.gob.ar/data/technical/2720/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Examen ocular de la obra".
+<http://vocab.getty.edu/aat/300128347> <http://www.w3.org/2000/01/rdf-schema#label> "black-and-white photographs".
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/2000/01/rdf-schema#label> "photographs".
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "La Escuela de Barbizon a Van Gogh".
+<http://vocab.getty.edu/ulan/500308774> <http://www.w3.org/2000/01/rdf-schema#label> "Fundación Bienal de San Pablo".
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Exposición inaugural".
+<http://vocab.getty.edu/ulan/500311302> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Municipal de Bellas Artes Juan B. Castagnino".
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh y su mundo".
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "La pintura holandesa en las colecciones argentinas S.XVI al XX".
+<http://vocab.getty.edu/ulan/500307518> <http://www.w3.org/2000/01/rdf-schema#label> "Kunsthalle Basel".
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "XXIV Bienal de San Pablo".
+<http://vocab.getty.edu/ulan/500308712> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Provincial de Bellas Artes Rosa Galisteo de Rodríguez".
+<http://vocab.getty.edu/tgn/8726805> <http://www.w3.org/2000/01/rdf-schema#label> "Martigny".
+<http://vocab.getty.edu/tgn/8942194> <http://www.w3.org/2000/01/rdf-schema#label> "Sao Paulo".
+<http://vocab.getty.edu/tgn/1019951> <http://www.w3.org/2000/01/rdf-schema#label> "Rosario".
+<https://www.bellasartes.gob.ar/data/artwork/2720/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Museo Nacional de Bellas Artes, Buenos Aires".
+<http://vocab.getty.edu/aat/300054216> <http://www.w3.org/2000/01/rdf-schema#label> "painting".
+<https://www.bellasartes.gob.ar/data/identifier/F348> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F348".
+<https://www.bellasartes.gob.ar/data/identifier/JH1182> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH1182".
+<https://www.bellasartes.gob.ar/data/identifier/2720> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "2720".
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Pintura francesa del siglo XIX".
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Meister des XIX Jahrhunderts".
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b790 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "61.0"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b791 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "50.0"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78c <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1887-12-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78c <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1886-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67d <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1999-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b67d <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1999-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b687 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b687 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b682 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b682 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68c <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b68c <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b696 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b696 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b691 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b691 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69b <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b69b <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a0 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1988-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a0 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1988-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a5 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1983-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6a5 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1983-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c1 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1969-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c1 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1969-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6af <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1976-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6af <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1976-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6aa <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1980-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6aa <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1980-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b9 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b9 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b4 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6b4 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d5 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1956-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d5 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1956-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d0 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1961-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6d0 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1961-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c9 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1962-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6c9 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1962-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e4 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1935-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e4 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1935-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6df <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1936-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6df <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1936-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6da <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1939-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6da <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1939-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e9 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1934-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6e9 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1934-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ee <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1928-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b6ee <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1928-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b669 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b669 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b664 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b664 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66e <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2007-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b66e <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2007-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b678 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2000-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b678 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2000-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b673 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2006-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b673 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2006-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1927-04-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1927-04-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-06-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1900-07-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1998-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1998-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1983-06-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1983-06-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1937-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1937-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.

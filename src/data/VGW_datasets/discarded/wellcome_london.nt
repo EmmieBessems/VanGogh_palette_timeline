@@ -1,0 +1,449 @@
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1019 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1019 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1009 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/document/3418i/3/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1009 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1009 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1008 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1004 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/document/3418i/2/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1004 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0fff <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/document/3418i/1/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0fff <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0fff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1013 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/document/3418i/5/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1013 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100e <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/document/3418i/4/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff5 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff4 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff4 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff3 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff3 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff1 <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff2.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff8 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff8 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffa <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028702>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff2 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff9 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffa.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff7 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300015637>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff6 <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300014109>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300014844>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300053241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300041273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300418049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300264578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://purl.org/dc/elements%2F1.1%2Fformat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://linked.art/ns/terms/access_point> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300026687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E56_Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P128_carries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300435438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7011781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300028051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300014109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7007048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7007077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7004472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500125180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/tgn/7008030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://data.rkd.nl/artists/506314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/506169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300015637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300417642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300444173> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300444173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/artwork/3418i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300187371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300026656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/ulan/500266827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01/name>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506169>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01/timespan>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01/name>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500302050>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01/timespan>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff5.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff4.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff3.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300187371>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff6.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/identifier/JH2028>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff7.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff9.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/506169>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300041273>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/identifier/3418i>.
+<https://wellcomecollection.org/data/artwork/3418i> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/identifier/F1664>.
+<http://vocab.getty.edu/ulan/500302050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500309760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/506169>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01/acquisition>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01/timespan>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417642>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506169>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://wellcomecollection.org/data/document/3418i/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://wellcomecollection.org/data/document/3418i/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1003.
+<https://wellcomecollection.org/data/document/3418i/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/document/3418i/2>.
+<https://wellcomecollection.org/data/document/3418i/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://wellcomecollection.org/data/document/3418i/2/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/document/3418i/1/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/document/3418i/1/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1008.
+<https://wellcomecollection.org/data/document/3418i/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/document/3418i/3/in-document>.
+<https://wellcomecollection.org/data/document/3418i/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://wellcomecollection.org/data/document/3418i/3/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/document/3418i/5/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/document/3418i/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://wellcomecollection.org/data/document/3418i/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffe.
+<https://wellcomecollection.org/data/document/3418i/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/document/3418i/1>.
+<https://wellcomecollection.org/data/document/3418i/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://wellcomecollection.org/data/document/3418i/1/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/document/3418i/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/document/3418i/3/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/3/in-document/title>.
+<https://wellcomecollection.org/data/document/3418i/3/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://wellcomecollection.org/data/document/3418i/3/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://wellcomecollection.org/data/document/3418i/3>.
+<https://wellcomecollection.org/data/document/3418i/3/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/1> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://wellcomecollection.org/data/document/3418i/1/part>.
+<https://wellcomecollection.org/data/document/3418i/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/1/title>.
+<https://wellcomecollection.org/data/document/3418i/1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://wellcomecollection.org/data/document/3418i/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/2> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://wellcomecollection.org/data/document/3418i/2/part>.
+<https://wellcomecollection.org/data/document/3418i/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/2/title>.
+<https://wellcomecollection.org/data/document/3418i/2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://wellcomecollection.org/data/document/3418i/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/5> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://wellcomecollection.org/data/document/3418i/5/part>.
+<https://wellcomecollection.org/data/document/3418i/5> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/5/title>.
+<https://wellcomecollection.org/data/document/3418i/5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://wellcomecollection.org/data/document/3418i/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/6> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/document/3418i/6> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/6/title>.
+<https://wellcomecollection.org/data/document/3418i/6> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300048715>.
+<https://wellcomecollection.org/data/document/3418i/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/3> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300048715>.
+<https://wellcomecollection.org/data/document/3418i/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/3/title>.
+<https://wellcomecollection.org/data/document/3418i/3> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://wellcomecollection.org/data/document/3418i/3/part>.
+<https://wellcomecollection.org/data/document/3418i/6/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/6/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://wellcomecollection.org/data/document/3418i/6>.
+<https://wellcomecollection.org/data/document/3418i/6/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026656>.
+<https://wellcomecollection.org/data/document/3418i/6/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/6/in-document/title>.
+<https://wellcomecollection.org/data/document/3418i/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://wellcomecollection.org/data/document/3418i/4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/document/3418i/4/title>.
+<https://wellcomecollection.org/data/document/3418i/4> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://wellcomecollection.org/data/document/3418i/4/part>.
+<https://wellcomecollection.org/data/document/3418i/5/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/5/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/document/3418i/2/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/2/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/document/3418i/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://wellcomecollection.org/data/document/3418i/4>.
+<https://wellcomecollection.org/data/document/3418i/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://wellcomecollection.org/data/document/3418i/4/author>.
+<https://wellcomecollection.org/data/document/3418i/4/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://wellcomecollection.org/data/document/3418i/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://wellcomecollection.org/data/document/3418i/5/author>.
+<https://wellcomecollection.org/data/document/3418i/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://wellcomecollection.org/data/document/3418i/5>.
+<https://wellcomecollection.org/data/document/3418i/5/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://wellcomecollection.org/data/document/3418i/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/document/3418i/6/in-document>.
+<https://wellcomecollection.org/data/document/3418i/6/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/document/3418i/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://wellcomecollection.org/data/document/3418i/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1017.
+<https://wellcomecollection.org/data/document/3418i/1/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://wellcomecollection.org/data/document/3418i/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/document/3418i/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://wellcomecollection.org/data/document/3418i/4/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/document/3418i/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007077>.
+<https://wellcomecollection.org/data/document/3418i/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100d.
+<https://wellcomecollection.org/data/document/3418i/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/document/3418i/4>.
+<https://wellcomecollection.org/data/document/3418i/6/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/document/3418i/3/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/document/3418i/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007567>.
+<https://wellcomecollection.org/data/document/3418i/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1012.
+<https://wellcomecollection.org/data/document/3418i/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/document/3418i/5>.
+<https://wellcomecollection.org/data/document/3418i/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://wellcomecollection.org/data/document/3418i/5/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/document/3418i/5/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://wellcomecollection.org/data/document/3418i/3/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://wellcomecollection.org/data/document/3418i/6/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://wellcomecollection.org/data/document/3418i/6/author>.
+<https://wellcomecollection.org/data/document/3418i/6/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://wellcomecollection.org/data/document/3418i/6>.
+<https://wellcomecollection.org/data/document/3418i/6/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://wellcomecollection.org/data/document/3418i/4/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://wellcomecollection.org/data/document/3418i/6/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://wellcomecollection.org/data/document/3418i/4/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/document/3418i/4/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/3/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://wellcomecollection.org/data/document/3418i/3/author>.
+<https://wellcomecollection.org/data/document/3418i/3/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://wellcomecollection.org/data/document/3418i/3>.
+<https://wellcomecollection.org/data/document/3418i/3/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://wellcomecollection.org/data/document/3418i/4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/document/3418i/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://wellcomecollection.org/data/document/3418i/1/author>.
+<https://wellcomecollection.org/data/document/3418i/1/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://wellcomecollection.org/data/document/3418i/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://wellcomecollection.org/data/document/3418i/1>.
+<https://wellcomecollection.org/data/document/3418i/3/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/document/3418i/3/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/document/3418i/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/document/3418i/6/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/identifier/3418i> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<https://wellcomecollection.org/data/identifier/3418i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://wellcomecollection.org/data/artwork/3418i/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026687>.
+<https://wellcomecollection.org/data/artwork/3418i/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300026687>.
+<https://wellcomecollection.org/data/artwork/3418i/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://wellcomecollection.org/data/artwork/3418i/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/identifier/JH2028> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://wellcomecollection.org/data/identifier/JH2028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://iiif.wellcomecollection.org/image/V0002158> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://iiif.wellcomecollection.org/image/V0002158> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://iiif.wellcomecollection.org/image/V0002158> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://iiif.wellcomecollection.org/image/V0002158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://wellcomecollection.org/data/artwork/3418i/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300053241>.
+<https://wellcomecollection.org/data/artwork/3418i/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff1.
+<https://wellcomecollection.org/data/artwork/3418i/production> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008030>.
+<https://wellcomecollection.org/data/artwork/3418i/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<https://wellcomecollection.org/data/artwork/3418i/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/artwork/3418i/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://wellcomecollection.org/data/artwork/3418i/homepage> <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/artwork/3418i/homepage> <https://linked.art/ns/terms/access_point> <https://wellcomecollection.org/works/xzcztyas>.
+<https://wellcomecollection.org/data/artwork/3418i/homepage> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300264578>.
+<https://wellcomecollection.org/data/artwork/3418i/homepage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object>.
+<https://wellcomecollection.org/data/identifier/F1664> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://wellcomecollection.org/data/identifier/F1664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://wellcomecollection.org/works/xzcztyas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16/timespan>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500125180>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16/name>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28/name>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7004472>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500309760>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28/timespan>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01/name>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01/timespan>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506169>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27/name>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007048>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506314>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27/timespan>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11/name>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500266827>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11/timespan>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://wellcomecollection.org/data/artwork/3418i>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1019 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Bought by Henry S. Wellcome from Gachet's son, Paul Louis Gachet.".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1009 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pp. 217-224".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1004 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pp. 53-54".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0fff <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "no. 1064.1".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1013 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pp. 98-101".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100e <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pp. 29-30 ; p. 104 (Wellcome Institute impression no. 10.41)".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff3 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Paul Ferdinand Gachet".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff8 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "This impression of the print was bought by Henry S. Wellcome from Gachet's son, Paul Louis Gachet, in 1927, together with many other items of Gachet personalia. The cat in the bottom margin is the stamp certifying the print's provenance from Paul-Ferdinand and Paul-Louis Gachet.".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffa <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Etched on plate \"15 Mai 90\". Written by hand in brown ink on the verso apparently in the hand of Paul-Louis Gachet: \"L'homme à la pipe (Dr Gachet). Eau-forte unique de Vincent Van Gogh Auvers 25 Mai 1890\" and signed in ink by the same hand \"Paul Gachet\". Wellcome Collection numbers inscribed in pencil on verso \"PD 127-1-1\" and on recto \"1064.1\"".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "etched on the plate in the form \"15 mai 90\" [i.e. 15 June 1890?]".
+<http://vocab.getty.edu/aat/300053241> <http://www.w3.org/2000/01/rdf-schema#label> "etching (printing process)".
+<http://vocab.getty.edu/aat/300041273> <http://www.w3.org/2000/01/rdf-schema#label> "prints".
+<http://vocab.getty.edu/aat/300264578> <http://www.w3.org/2000/01/rdf-schema#label> "web page".
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/2000/01/rdf-schema#label> "provenance entry".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/tgn/7011781> <http://www.w3.org/2000/01/rdf-schema#label> "London".
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/2000/01/rdf-schema#label> "Pagination statement".
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition".
+<http://vocab.getty.edu/aat/300028051> <http://www.w3.org/2000/01/rdf-schema#label> "book".
+<http://vocab.getty.edu/aat/300014109> <http://www.w3.org/2000/01/rdf-schema#label> "paper".
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/2000/01/rdf-schema#label> "publishing".
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/2000/01/rdf-schema#label> "inscriptions".
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/2000/01/rdf-schema#label> "New York".
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/2000/01/rdf-schema#label> "article".
+<http://vocab.getty.edu/tgn/7007048> <http://www.w3.org/2000/01/rdf-schema#label> "Haarlem".
+<http://vocab.getty.edu/tgn/7007077> <http://www.w3.org/2000/01/rdf-schema#label> "Zwolle".
+<http://vocab.getty.edu/tgn/7004472> <http://www.w3.org/2000/01/rdf-schema#label> "Tokyo".
+<http://vocab.getty.edu/ulan/500125180> <http://www.w3.org/2000/01/rdf-schema#label> "The British Museum".
+<http://vocab.getty.edu/tgn/7008030> <http://www.w3.org/2000/01/rdf-schema#label> "Auvers-sur-Oise".
+<https://data.rkd.nl/artists/506314> <http://www.w3.org/2000/01/rdf-schema#label> "Het Dolhuys, Nationaal museum van de psychiatrie".
+<https://data.rkd.nl/artists/506169> <http://www.w3.org/2000/01/rdf-schema#label> "Wellcome Collection".
+<http://vocab.getty.edu/aat/300015637> <http://www.w3.org/2000/01/rdf-schema#label> "portrait".
+<http://vocab.getty.edu/aat/300417642> <http://www.w3.org/2000/01/rdf-schema#label> "purchase".
+<http://vocab.getty.edu/aat/300187371> <http://www.w3.org/2000/01/rdf-schema#label> "printing ink".
+<http://vocab.getty.edu/ulan/500266827> <http://www.w3.org/2000/01/rdf-schema#label> "Tate Britain".
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Medicine Man".
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "A vision of history".
+<http://vocab.getty.edu/ulan/500302050> <http://www.w3.org/2000/01/rdf-schema#label> "Wellcome Institute for the History of Medicine".
+<http://vocab.getty.edu/ulan/500309760> <http://www.w3.org/2000/01/rdf-schema#label> "Mori Art Museum".
+<https://wellcomecollection.org/data/document/3418i/5/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Cézanne to Van Gogh: the collection of Doctor Gachet".
+<https://wellcomecollection.org/data/document/3418i/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "A vision of history: the Wellcome Institute for the History of Medicine".
+<https://wellcomecollection.org/data/document/3418i/1/author> <http://www.w3.org/2000/01/rdf-schema#label> "Burgess, R.".
+<https://wellcomecollection.org/data/document/3418i/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Gachet and Johnston-Saint: the provenance of Van Gogh's L'homme à la pipe".
+<https://wellcomecollection.org/data/document/3418i/6/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "A surprise: a UK medical museum owns a Van Gogh".
+<https://wellcomecollection.org/data/document/3418i/3/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Medical history".
+<https://wellcomecollection.org/data/document/3418i/5/author> <http://www.w3.org/2000/01/rdf-schema#label> "Distel, Anne ; Stein, Susan Alyson".
+<https://wellcomecollection.org/data/document/3418i/3/author> <http://www.w3.org/2000/01/rdf-schema#label> "Prescott, Gertrude M.".
+<https://wellcomecollection.org/data/document/3418i/4/author> <http://www.w3.org/2000/01/rdf-schema#label> "Heugten, Sjraar van ; Pabst, Fieke".
+<https://wellcomecollection.org/data/document/3418i/6/author> <http://www.w3.org/2000/01/rdf-schema#label> "Bailey, Martin".
+<https://wellcomecollection.org/data/document/3418i/4/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The graphic work of Vincent van Gogh".
+<https://wellcomecollection.org/data/document/3418i/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Portraits of doctors & scientists in the Wellcome Institute".
+<https://wellcomecollection.org/data/document/3418i/6/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The art newspaper (online edition)".
+<https://wellcomecollection.org/data/identifier/3418i> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "3418i".
+<https://wellcomecollection.org/data/artwork/3418i/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Wellcome Collection".
+<https://wellcomecollection.org/data/identifier/JH2028> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH2028".
+<https://wellcomecollection.org/data/artwork/3418i/homepage> <http://purl.org/dc/elements%2F1.1%2Fformat> "text/html".
+<https://wellcomecollection.org/data/artwork/3418i/homepage> <http://www.w3.org/2000/01/rdf-schema#label> "home page for artwork".
+<https://wellcomecollection.org/data/identifier/F1664> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F1664".
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Medicine and art: examining a future for life and love".
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Dossier Van Gogh (The Van Gogh Files)".
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Medicine man: the forgotten museum of Henry Wellcome".
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh and Britain".
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Medicine Man".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff5 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "15.1"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff4 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "18.3"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1003 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1986-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1003 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1986-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1008 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1008 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffe <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1973-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ffe <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1973-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1012 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1999-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1012 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1999-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba1017 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2022-12-02"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100d <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1995-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba100d <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1995-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff1 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1890-06-15"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ff1 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1890-06-15"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2015-02-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/506169/2015-02-01/2016-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2016-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1986-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/500302050/1986-01-01/1986-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1986-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/provenance/Wellcome+Collection/1927-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1927-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/500309760/40145-01-01/2010-02-28/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2010-02-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/506314/40414-01-01/2011-02-27/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2011-02-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/500125180/37798-01-01/2003-11-16/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2003-11-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/506169/39245-01-01/2010-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://wellcomecollection.org/data/exhibition/500266827/43551-01-01/2019-08-11/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2019-08-11"^^<http://www.w3.org/2001/XMLSchema#date>.

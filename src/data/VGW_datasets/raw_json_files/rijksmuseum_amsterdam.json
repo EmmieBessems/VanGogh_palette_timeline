@@ -1,0 +1,2165 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dc:format a rdfs:Resource .
+
+ns1:P104_is_subject_to a rdfs:Resource .
+
+ns1:P108i_was_produced_by a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P129i_is_subject_of a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P138i_has_representation a rdfs:Resource .
+
+ns1:P141i_was_assigned_by a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P1i_identifies a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24i_changed_ownership_through a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P3_has_note a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67i_is_referred_to_by a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P73_has_translation a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+ns1:P9i_forms_part_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+skos:exactMatch a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/200304211> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-901b02d6a035b24dfcb4716c47ebb298> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-aec0f9b29a3a15a8aa919fd815fa2f78> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301100936>,
+        <https://id.rijksmuseum.nl/301101291>,
+        <https://id.rijksmuseum.nl/301101699>,
+        <https://id.rijksmuseum.nl/301104607>,
+        <https://id.rijksmuseum.nl/301123880>,
+        <https://id.rijksmuseum.nl/301142869>,
+        <https://id.rijksmuseum.nl/301142899>,
+        <https://id.rijksmuseum.nl/301146002>,
+        <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/301154224>,
+        <https://id.rijksmuseum.nl/3011738>,
+        <https://id.rijksmuseum.nl/301302794>,
+        <https://id.rijksmuseum.nl/30184102>,
+        <https://id.rijksmuseum.nl/3019034> ;
+    ns1:P138i_has_representation <http://lh6.ggpht.com/d91eLpUD7w8vhaGPWNvuzmkUmo9xwAyhj79cxoobWCYeCIKPI3mCMir86UiZgWP0J7ip5D0qCxhvbvV0wutoyr8PnYQ=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-56032bd6f090d5c64bc960bf8cb7adbe>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5bf63f9511d27484a9edf7f3e80f335c>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-913c5374cd3123a03689ce74d37eb9a3>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9b5d97eb2acb26b86a915812cefb4775>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c13a5a7b4bd1cf930f63ceae0fa8793e>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d554ac4ef44166fb55c086ef0ac83ebd>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.304211> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-af0e88bdd5e441fa8c52294c45670058> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/220679> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7917bb4d8082e91ba30f4727fdfba858>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-cf80742dd1d01f68b2f9fa478bb0615c> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/2202343>,
+        <https://id.rijksmuseum.nl/22036>,
+        <https://id.rijksmuseum.nl/220686>,
+        <https://id.rijksmuseum.nl/22097> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b6b823a194587700ebf0478356b3d02a> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-12506b8fede667ba34ef76f692526df6> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1446> .
+
+<https://id.rijksmuseum.nl/20040047> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4f35bad214b521065d3d2610a9aad4bc> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9275f3c1c8b0335474fa4a2ab3436048> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/301154354>,
+        <https://id.rijksmuseum.nl/301202045>,
+        <https://id.rijksmuseum.nl/30159254> ;
+    ns1:P138i_has_representation <http://lh5.ggpht.com/eiAJJM9_EByX03PBlrRBULoadro_CzY-Zz6VDU0I-KkToqT9_NR2h-OF1LLeMx__XxPqGpcud9L6rPz6jKJ8ytzqOcU=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-6c67c31d13a8045d5e396486214ddca0>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9048c000923b686ed40cecdd0317f6b5>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b2a76020aac25ee20e4d03cddc30d002>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b7a465b9b74c777ed2e62eacad090d9d>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b9d303cf952c4ecd74a7b810b9d0d782>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bb33e0b249a07cb16700b956b0bf575c>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.40047> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7955b0cd45dfe86ad8f53d2726395eb6> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22091> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1b6bb0770095e55c772a8a4f5710a614>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bd258f26489ab22c744167746848a117> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/22036> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-75f0f75c805e7bc07c8ddbaa0a1664bf> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-354643f9c5b7156079fd49e91d49c2b7>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a5ec0c8eeff371d7b664bf89f41b4311> ;
+    ns1:P9_consists_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-07299a6132c6819bf79ca08f601e5951>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-12b7791f5295c22c2665d74c34adf0b5>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3ae65fd3898395dff09eb9e732bc8db5>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-759b6c93fbfd178f67315d33774186c1> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1664-3> .
+
+<https://id.rijksmuseum.nl/20040048> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-fb799be5de490b005c955a85a18af095> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-62d0200cb401a4a0cca03952092fd1fb> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/30159254> ;
+    ns1:P138i_has_representation <http://lh6.ggpht.com/GlyQgIZEno8P_XhZK1yTsMk9Po_unNgU1u1mESDluU372mItxNAiQ_VUUOzpMoTQz564buak-FJkUGDdQfFDxppftEA=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c43a2744402483e7ebc8b7b43dd1a2e9>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d0c68f542a9921f042cf132f6a15c488>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e396e78d150f3632e19a579b4a49470e>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ea7e8d3e7a7adf9137bb305857dddcf0>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.40048> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2da46f1e5e7881cf00fd3ad401b82d3e> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22091> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-48664d771061d8ab4dde8a0d2e9530c4>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-87b260d547b1b279ffb3a15be3fed70f> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/22036> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-db804ff1fba6b57e11878ae996622b55> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-00d263345b2b4c5c56bd0f6d07222439>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4ab443cd3ef0e99e3b320eae57b951aa> ;
+    ns1:P9_consists_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a0ce2fa923890145ca2730635613e931> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/RPP1912609> .
+
+<https://id.rijksmuseum.nl/2007672> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4bc4cdf561c66e7da18b9a82c1a82738> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-aef0054f450dce225ed726b526b13c0d> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/301154354>,
+        <https://id.rijksmuseum.nl/301184870>,
+        <https://id.rijksmuseum.nl/301202045> ;
+    ns1:P138i_has_representation <http://lh5.ggpht.com/QjSoKZOeS1lkYXUgPHgy9W3ZwFYoDGbXLknZ_z5RyjrKbi4eBMDW5ek5O2vcD5Mp-EtAWSIb8vCrqdR2I2HQrBDgpg=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-07407440f0a2854816d93fb4496018d5>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-6f28dd12a8ae08d4edaaa687934c155f>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7bd94d63096b419e034b729767d4f901>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8361c58c40ea22be667ba988524c1a8>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.7672> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2c3ef8255e18b213bd3e990b53b60142> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/220679> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-01e097f06cabb4b197360116b35f899b>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d9c5ea0543917e8f9c27bbc8b8061579> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/22036>,
+        <https://id.rijksmuseum.nl/22097> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4633bb29517303d50dcd87ba0cf7a157> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-09677c594b8cf87dd1691000e4393ca4>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c3940bc2031001b2c50aa5b17eacca3c> ;
+    ns1:P9_consists_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e4339b01b8c1b711b271e2fb6eb85b28> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1129> .
+
+<https://id.rijksmuseum.nl/2007673> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b39cbab26b9d32834a4a0eb28bc17656> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1a9eefe18fbb3f8e524616ac32f36e6f> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/301154354>,
+        <https://id.rijksmuseum.nl/301202045> ;
+    ns1:P138i_has_representation <http://lh3.ggpht.com/3fR9EhgRFF_kz66r1WVv7GtgXEEuf6UQ92J65DWrLipCvBm6mTjVBJ_gX6wZq839MlDbkBTrd6TU5du5KV8fP-V2a-U=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3e837943b54649b13817acbc14e781fc>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-779abd9233c245c96a3467a8c92b3878>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7ee88d3404c0b8961fe7aeb52c1a415f>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b54ca938d784888c6c42c12c388efa67>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.7673> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a6c09395bd58ca3f14fb5860cacfe04b> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/220679> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1271ae202069f60f82a263d55d820b66>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-28bab2872e98d43e942349deb9479e86> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/22036>,
+        <https://id.rijksmuseum.nl/22097> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-61e8975b443b14db339652be425b121f> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-20b89d5ed0175b44e2086cce2396ad4c> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1478> .
+
+<https://id.rijksmuseum.nl/2007674> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4ac01535f836a5c489460acbd96fc0f2> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-09a9c876deb5c5fdf672b162e8ffc636> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/301154354> ;
+    ns1:P138i_has_representation <http://lh5.ggpht.com/LeONPNh8oPUpjMUWxUe3d0G_DkktDb3FKgQuy9rRe-1usn_Ls6u5yrQfvlLC3nARNJWTe3ZOLUR7-hbe1Zai6NN3RU8=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2fa8cfa09a1eb9ca02e66d95f11fb8d2>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-301f5b1d7c5bd1de18162248a31526a1>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-47bbcb2bc0eee8ced8898d188e3c47ca>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d26d15a89eb2339d48af2569113ef2dd>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.7674> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eb2cb58a0d8b6270c56448838e8fe391> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/220679> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7ab9af66137763d8f52c208cc5d01cab>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b0e045af5c8b5a301ad252ebaedc92d4> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/2202343>,
+        <https://id.rijksmuseum.nl/22036>,
+        <https://id.rijksmuseum.nl/22097> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-46607a95497c02b74d10083d0192bc57> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-601eb0c073cfdc2e902a638e02021a34> ;
+    ns1:P9_consists_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-86de4ba64898c98bbc67c1157f7cd33e> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1312> .
+
+<https://id.rijksmuseum.nl/2008508> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9761d7fc3d5c56ef53366ac273add408> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f3f0f4959999b60c553ddeece32d8e10> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301202045>,
+        <https://id.rijksmuseum.nl/3015253> ;
+    ns1:P138i_has_representation <http://lh3.googleusercontent.com/rN30IB00bIGEgTm9OFA9U0yf4if6y7RhdKqvOVKd2Gf1wLmmqyCRP7Ok_QlJML5PPaZHyWnKN1vcPjcb_EC0pu63Xi0=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-19f968fbdfcf772bac196ffb368f3650>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3200fb6cb23a1b1d93ac636f106ed79b>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bc0321ef1e3d6677e6c5fea5b3e8fac4>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eeed50038692d2ed9ff3cda4d021529e>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f71069a68238b64d7ca3ad19058a2599>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.8508> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c25f3cb5f0f8b73e867aef64c25689a7> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22016> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7daf848a5282f2406119af4bab6d74be>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a048a0678c6bcb68ee6f74315e8377cb> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/22018>,
+        <https://id.rijksmuseum.nl/22019> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f4976bd7f7756e2adfa9c9bdb323b86e> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-82b7a3193e67fc04f8194668c76c00be>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-833c2e2f6d1b861cec4d4d7a1e8d7d39> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F190> .
+
+<https://id.rijksmuseum.nl/2009769> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-408dfe37291695cb6ae3112e4f2b7bef> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a951c66df0e2a02bfa9625a1b7c55b8c> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301100936>,
+        <https://id.rijksmuseum.nl/301101291>,
+        <https://id.rijksmuseum.nl/301123880>,
+        <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/301202045>,
+        <https://id.rijksmuseum.nl/3019034> ;
+    ns1:P138i_has_representation <http://lh6.ggpht.com/RvKoP3sO4nXgRlIvSGLDcezVPQoaNOukS8uvv2JRUrhMbMV9VBD0bLFOA9vmg44Nq1Lh9VNLx0oxM1FnzT7a4RO3Tmdx=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1b4c99dd4f16f0521db4d21b1dcc951a>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5ecac2d27c61f8f3f363b2b26e563a89>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a7ada556dea216d27f7a95d484fec184>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b25746f5318d2401e55441a989e1be28>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.9769> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7b3eaf4482e953fef9198c964e7fb3ab> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/220679> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-50d61743bb5d0fe0188b656e5427c006>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b5b6aaae6ddd8f0822910ca27aad4291> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/22024329>,
+        <https://id.rijksmuseum.nl/22036>,
+        <https://id.rijksmuseum.nl/22097> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-602094563feb330b0badc9864b1b32fc> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-14beee4c36ee5e20bfae717cb89c26ba>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-54ccf82010e0ce75a0ab4ba60a847d46> ;
+    ns1:P9_consists_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f653a87fa75fcf31f25db4cc72224427> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F923> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-00d263345b2b4c5c56bd0f6d07222439> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "lithografie in zwart" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-01e097f06cabb4b197360116b35f899b> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "393" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-01f8808939b580e1fd3c89c190b39fa3> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ee3768e83eb1e2c303d028103e619091> ;
+    ns1:P82a_begin_of_the_begin "1906-04-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1906-05-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-02f4487e5d5e2de3a398c6d14e1d8253> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301104607> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-045ca9656fb1b37a07144c2083c899a1> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Mr and Mrs Drucker-Fraser Bequest, Montreux" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-046d77a2fc986756c4d5810fb8a5477c> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-04ac1bbe373b8aa5b3da82cee9d8d68d> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of J. Cohen Gosschalk-Bonger, Amsterdam" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-050abf48baffab78604c6d9bdbd12e40> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-94bf774cbf424017538099529e50cba8> ;
+    ns1:P82a_begin_of_the_begin "1884-03-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1884-04-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-05a1f1ee99b48e133af854f86113ec0d> a ns1:E33_Linguistic_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8b16a7a2a5fb187aedce1e89b23f0ab> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312074> ;
+    ns1:P9_consists_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a1580d6dae2dd3738c22e81b3b99c493>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-fbce69c73da9bd23919747cccc891106>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-fe833b8bcd1ea320595241ac38548e7c> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-064ee831fe1baa774dbf266ccb9c63e9> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-07299a6132c6819bf79ca08f601e5951> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-71b875420a6b66ee91485f951e36f518> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8ee432e04f3dd4ef7431c847a53763c> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-07407440f0a2854816d93fb4496018d5> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f6c8f7d3f7d7b54e6743f3aeb69a736d> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/2007672" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-077ab12090edd24fe66c87432edd01d0> a ns1:E12_Production ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f8b2d8033e0bcfd24a51c6d0ca9b8f4e> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-09677c594b8cf87dd1691000e4393ca4> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Weg met knotwilgen en een man met een kruiwagen." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300411780> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-09a9c876deb5c5fdf672b162e8ffc636> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P32_used_general_technique <https://id.rijksmuseum.nl/22027459> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4fb76ae62d202ac8256401ff098139b4> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0a8521786c9071db7a68a659c9c3765e> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0ab1ae9c60d999c01d4d822e5fa0b245> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0b51aac998aa0f41d680c116c550eca0> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0bf4206d5a711859c2d7f3f5e6c706f0> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0dd303620d484da2275a357fdf14baac> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "verso midden" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0e4336d966f4011db85305b0d26f2049> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1905" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0fb8a4757d5b29e9ecc5f2051769c232> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "42" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0fdcfba284235898530bfbcf99f5118e> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-778078f9ea12c0cf197442137d3a02c3> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-99da1f02de6db124146f58162fec951d> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-10338ff64752f57e8327d90d688b339f> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1932e42de35e3f1331bc2401f2cc94ea> ;
+    ns1:P82a_begin_of_the_begin "1888-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1889-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1068bc787f7d429ea06dbba940769d4f> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1885-04-16" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-12506b8fede667ba34ef76f692526df6> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "potlood, rietpen en verenpen in inkt, op velijnpapier; zwart krijt" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1271ae202069f60f82a263d55d820b66> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "391" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-12b7791f5295c22c2665d74c34adf0b5> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b468faf3936ce23f32a1e2293bb24c20> ;
+    ns1:P128_carries <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9c91e1f9302a6b45b6636e7f1597c00d> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f18f6dde51f76803fd8a4c072bb8744b> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-147a8dd1cf68bf6089c1ab3f2bbd711e> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Flower Nursery on the Schenkweg in The Hague" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-14beee4c36ee5e20bfae717cb89c26ba> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "potlood, pen en penseel in inkt, gewassen, gehoogd met witte dekkende waterverf, op vegï¿½papier" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1680deedde90c68dc3f3637751fd65e6> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1704183b756f8c1652f14a90870b5572> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of F.W.M., Baroness Bonger-van der Borch van Verwolde, Almen" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1897e0baeaa23c3a78fb3814edf64f7c> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Legaat van de heer en mevrouw Drucker-Fraser, Montreux" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-045ca9656fb1b37a07144c2083c899a1> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1932e42de35e3f1331bc2401f2cc94ea> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1888" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-19f968fbdfcf772bac196ffb368f3650> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-02f4487e5d5e2de3a398c6d14e1d8253> ;
+    ns1:P190_has_symbolic_content "F190" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1a9eefe18fbb3f8e524616ac32f36e6f> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P32_used_general_technique <https://id.rijksmuseum.nl/2208064> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8d31acd4548408f5c45d6bd3ae82d7b7> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1b4c99dd4f16f0521db4d21b1dcc951a> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Bloemkwekerij van Pierre van de Putte aan de Schenkweg te Den Haag" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-147a8dd1cf68bf6089c1ab3f2bbd711e> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1b68fcdca272ba2ba2fab498e3aeeb6c> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pencil, pen and brush in brown ink" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1b6bb0770095e55c772a8a4f5710a614> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "151" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1d4d0f886d531d1c7b49f1c01da7e345> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1fc8b43b768bb058efe4d1b530d53c9e> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-20ab8bca0523cfa294d2db2fe0a379c5> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1906-04" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-20b89d5ed0175b44e2086cce2396ad4c> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "potlood en pen in bruin op papier" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e86a88644f96fa5958e0e99244fd851f> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-20f9f68c105e12661e09d08dbc982232> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-23fec6f034dfee4284057f06039b7d20> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (1853–1890), oil on cardboard, 1887" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-26726514f6971ce1e815b572c3a19743> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22013> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-616f440665ce9a26860a7a3f620aaac7> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-28bab2872e98d43e942349deb9479e86> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "533" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-29fb3cf636826b59136bbf15c7b56dc8> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of Mr and Mrs Kessler-Hülsmann, Kapelle op den Bosch" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2c3ef8255e18b213bd3e990b53b60142> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-38ea8450359857aaf6aef55b368090b4> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2ed821048defb3650b5bae32f308869e> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2d470aa8d4f36f503e9f677c9aec9a6f> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (1853–1890), oil on cardboard, 1887" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2da46f1e5e7881cf00fd3ad401b82d3e> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-895dfc7341556676e7bdb5ebde7d5973> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2e7badfb743f1a948d613a421cafb8e0> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301104607> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2ed821048defb3650b5bae32f308869e> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22013> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c251292efd1d71f8c3c5a165134477be> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2f5ed682ca136dc978d790f4091a97e4> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Aankoop met steun van de Vereniging Rembrandt en het Prins Bernhard Fonds" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-55f1fb1ab6805497b77a2f142393b550> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2fa8cfa09a1eb9ca02e66d95f11fb8d2> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Korensnijder met hoed, van achteren gezien" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-301f5b1d7c5bd1de18162248a31526a1> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9c57d427d772b407ca139c8fd9e13824> ;
+    ns1:P190_has_symbolic_content "SK-A-2227" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-302fdbdfca3dea63e1ada7828779697c> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eccbe9bc229b952ac856ff837c4324ee> ;
+    ns1:P82a_begin_of_the_begin "1882-03-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1882-04-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3200fb6cb23a1b1d93ac636f106ed79b> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d11a2d7b46af5544844a227c37c78015> ;
+    ns1:P190_has_symbolic_content "F190" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-324c168483e5e2419d2316313b95d57f> a ns1:E36_Visual_Item ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e9a98d9f2c332c4d5c7b5381e4af36f7> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22054491> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4f740815fd9b18efd4f8ee8e13e883f5> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-34e1a8009ae6a44f9c18ab38a8747439> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-55ccfc50de94cbf666fa04470b6b6798> ;
+    ns1:P190_has_symbolic_content "2760" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300404620> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-34efad6521cefe5fcb6bb103b903d064> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8299bca030ffaf4089f6e45b52d4a21a> ;
+    ns1:P82a_begin_of_the_begin "1887-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1888-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-354643f9c5b7156079fd49e91d49c2b7> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ets" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-366a2194fbab9d385b901b249351249e> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301104607> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-37be9b23b2340d5cbcaac7e99f4d9a84> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f131f5d6c16488ba877aa2a29c6e48aa> ;
+    ns1:P82a_begin_of_the_begin "1936-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1936-07-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-38c9716477a63c133938bc2d19444a92> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Farm in Provence" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-38ea8450359857aaf6aef55b368090b4> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Schenking van J. Cohen Gosschalk-Bonger, Amsterdam" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f4d7312078f0d4264f12fbed334925aa> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3a0cc754978f661e03504192b82af9c5> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3ae65fd3898395dff09eb9e732bc8db5> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-717d1f5ed062397a1cafa52aac8ddc11> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-72ee6a2d28077382c6df63ec717b0f28> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3b4304bd8843185cfdcfcfdd46ff32bd> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3cc9a15f322833a9f053aa9b3543de72> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/2103437>,
+        <https://id.rijksmuseum.nl/220121005>,
+        <https://id.rijksmuseum.nl/220121311>,
+        <https://id.rijksmuseum.nl/220121435> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3e837943b54649b13817acbc14e781fc> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b6ed50e3a902cd8636467799aee2f63d> ;
+    ns1:P190_has_symbolic_content "F1478" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-408dfe37291695cb6ae3112e4f2b7bef> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8314dda441d93c8e8fb551b6c67838cd> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-40aa44f147fa3e8e6c4ada408e4c1572> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "verso rechtsonder" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-42226314cbeaf3713d835a898e6fe406> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-42959f3e8415f9e9d14f706a6678968d> a ns1:E12_Production ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bd6340b758058c9814fad4579e4cc77b> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4328cac372d1854f411c7bf409ac3010> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-43e248575469a67031cc372ecee35713> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7cbb4b1d929e7dba58f26c0af6de6b50> ;
+    ns1:P190_has_symbolic_content "2228a" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300404620> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4633bb29517303d50dcd87ba0cf7a157> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/220121757>,
+        <https://id.rijksmuseum.nl/220121758>,
+        <https://id.rijksmuseum.nl/220140130>,
+        <https://id.rijksmuseum.nl/22057966> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-46518e52b059c23d756bb86da5d6a066> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300257611> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-46607a95497c02b74d10083d0192bc57> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/220121760>,
+        <https://id.rijksmuseum.nl/220121761> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-466d9b36f4f2ecabc3a305275e4e41eb> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-475a3ff69bfebf1fae66862b6590a201> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "c. 1888-06" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-47bbcb2bc0eee8ced8898d188e3c47ca> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-20f9f68c105e12661e09d08dbc982232> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/2007674" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-48664d771061d8ab4dde8a0d2e9530c4> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "280" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-48db7c876d85c468aca6188a80c0f096> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "linksonder" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4959097a6e22a860cba49eaaaadcc857> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22013> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-01f8808939b580e1fd3c89c190b39fa3> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4ab443cd3ef0e99e3b320eae57b951aa> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Lithografische versie van Van Goghs 'Aardappeleters': een boerengezin rond een tafel, verlicht door een olielamp, aardappels etend van een schaal." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300411780> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4ac01535f836a5c489460acbd96fc0f2> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0b51aac998aa0f41d680c116c550eca0> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4bc4cdf561c66e7da18b9a82c1a82738> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-064ee831fe1baa774dbf266ccb9c63e9> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4c8adcca67396f78cd64af21140c548d> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/2206> ;
+    ns1:P90_has_value "8" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4f35bad214b521065d3d2610a9aad4bc> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e053cc339b9355c573004296b44d72ee> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4f740815fd9b18efd4f8ee8e13e883f5> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "verso midden onder" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4fb76ae62d202ac8256401ff098139b4> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-95fcd14335407014c1644f85115436f6> ;
+    ns1:P82a_begin_of_the_begin "1863-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1891-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-50d61743bb5d0fe0188b656e5427c006> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "240" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-54461336c9038d37d8eb3de3f111cb8a> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2e7badfb743f1a948d613a421cafb8e0> ;
+    ns1:P190_has_symbolic_content "F295" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-54ccf82010e0ce75a0ab4ba60a847d46> a ns1:E33_Linguistic_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-077ab12090edd24fe66c87432edd01d0> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-55ccfc50de94cbf666fa04470b6b6798> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500321736> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-55f1fb1ab6805497b77a2f142393b550> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Purchased with the support of the Vereniging Rembrandt and the Prins Bernhard Fonds" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-56032bd6f090d5c64bc960bf8cb7adbe> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e721adba79d161d2471efdc424516bf9> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/200304211" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5b9d869eae7fe8f0924320c3cff74ed0> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of P.F. Gachet" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5bd14d50ec2431cfa443c21b638267d1> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1944" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5bf63f9511d27484a9edf7f3e80f335c> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-366a2194fbab9d385b901b249351249e> ;
+    ns1:P190_has_symbolic_content "F1446" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5ecac2d27c61f8f3f363b2b26e563a89> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b0f79a0fc14e76085ce391621a68c3a4> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/2009769" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5fe99e0a70be695c88f79b1bde3e629a> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of J. Cohen Gosschalk-Bonger, Amsterdam" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-601eb0c073cfdc2e902a638e02021a34> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "potlood, zwart krijt en penseel in bruin" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-602094563feb330b0badc9864b1b32fc> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/220121191>,
+        <https://id.rijksmuseum.nl/220122130>,
+        <https://id.rijksmuseum.nl/220122131>,
+        <https://id.rijksmuseum.nl/22067962> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-603fd5fff6de4e2d9d42023feec8fee2> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Schenking van de heer en mevrouw Kessler-Hülsmann, Kapelle op den Bosch" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-29fb3cf636826b59136bbf15c7b56dc8> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-60d377448e53d20fc848a4160298e7fa> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-616f440665ce9a26860a7a3f620aaac7> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-20ab8bca0523cfa294d2db2fe0a379c5> ;
+    ns1:P82a_begin_of_the_begin "1906-04-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1906-05-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-61deba8afeb3d85b335b35a91666a6f9> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5bd14d50ec2431cfa443c21b638267d1> ;
+    ns1:P82a_begin_of_the_begin "1944-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1945-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-61e8975b443b14db339652be425b121f> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/220121455>,
+        <https://id.rijksmuseum.nl/22042446> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-62d0200cb401a4a0cca03952092fd1fb> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P32_used_general_technique <https://id.rijksmuseum.nl/22064876> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-70198825e809d1988e18a0c86909d6b6> ;
+    ns1:P7_took_place_at <https://id.rijksmuseum.nl/22057966> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-62fd0a8889347829b341d8d7fb22bdba> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian." ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-645408250005de1cc91ffe971a89ec1d> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-be072ac094bd1719e90383e625ee7ce6> ;
+    ns1:P82a_begin_of_the_begin "1940-03-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1940-04-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-65e7005c464ff27e8fdc9a8c89b2fc89> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500321736> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-696a0bb9f31f90ee09c8c7bfadca95c7> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300252927> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-69d0bddde23a2c376289f00af3e0cfe9> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "midden onder" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-6c67c31d13a8045d5e396486214ddca0> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De man met de pijp" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-6f28dd12a8ae08d4edaaa687934c155f> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ef98b7db573038f1117c2e6df47b778c> ;
+    ns1:P190_has_symbolic_content "F1129" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-70198825e809d1988e18a0c86909d6b6> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1068bc787f7d429ea06dbba940769d4f> ;
+    ns1:P82a_begin_of_the_begin "1885-04-16"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1885-04-17"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-70638181e31d04832736092eaeb4ed1a> a ns1:E36_Visual_Item ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-43e248575469a67031cc372ecee35713> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22054491> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0dd303620d484da2275a357fdf14baac> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-717d1f5ed062397a1cafa52aac8ddc11> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300257611> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-71b875420a6b66ee91485f951e36f518> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300257611> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-72ee6a2d28077382c6df63ec717b0f28> a ns1:E36_Visual_Item ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-34e1a8009ae6a44f9c18ab38a8747439> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22054491> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-40aa44f147fa3e8e6c4ada408e4c1572> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-733c2757f35e73f0ecad528806d60f23> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22095> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ac618cf436b6b9b39fc16882fcdc18af> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-73c7d615e6bb53784f7560cff96ac64c> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (1853–1890), olieverf op karton, 1887" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-23fec6f034dfee4284057f06039b7d20> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-74a4600e851e7a5f3f8701bf70fabb87> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c225649305e5d833644556896083a9bc> ;
+    ns1:P82a_begin_of_the_begin "1890-06-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1890-06-16"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-759b6c93fbfd178f67315d33774186c1> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-46518e52b059c23d756bb86da5d6a066> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-70638181e31d04832736092eaeb4ed1a> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-75f0f75c805e7bc07c8ddbaa0a1664bf> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/21034116>,
+        <https://id.rijksmuseum.nl/220121005>,
+        <https://id.rijksmuseum.nl/220124938> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7740f9c0f2190d7a4285022df66095f9> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Farming Village at Twilight" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-778078f9ea12c0cf197442137d3a02c3> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Schenking van F.W.M. barones Bonger-van der Borch van Verwolde, Almen" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1704183b756f8c1652f14a90870b5572> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-779abd9233c245c96a3467a8c92b3878> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a6cc52a41f49c30cc24a0ea0bb08446d> ;
+    ns1:P190_has_symbolic_content "SK-A-2226" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7917bb4d8082e91ba30f4727fdfba858> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "483" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7955b0cd45dfe86ad8f53d2726395eb6> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8b055c4b2aab7e22faceaa03ebce0bf9> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a4f524d4fc2a06d53cd4cf45ad21736f> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7ab9af66137763d8f52c208cc5d01cab> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "362" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7b3eaf4482e953fef9198c964e7fb3ab> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1897e0baeaa23c3a78fb3814edf64f7c> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-80368b923580bc6391150255a9ffbeb8> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7bd94d63096b419e034b729767d4f901> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1d4d0f886d531d1c7b49f1c01da7e345> ;
+    ns1:P190_has_symbolic_content "SK-A-2225" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7c6c034039291bc57eae3c7e39313595> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7cbb4b1d929e7dba58f26c0af6de6b50> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500321736> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7daf848a5282f2406119af4bab6d74be> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "82" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7dced0745f197cba57c3c9947ddb2c1f> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "rechtsonder" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7ee88d3404c0b8961fe7aeb52c1a415f> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Boerderij in de Provence" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-38c9716477a63c133938bc2d19444a92> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7f1ea73e801e8d17f5ac567347d52c15> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300257611> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-80368b923580bc6391150255a9ffbeb8> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/220633> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-61deba8afeb3d85b335b35a91666a6f9> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-80f46e62576061e2e4047bb0e68c93b0> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-80fdab72ea725ac645147222d4bb8f8e> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1912" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8299bca030ffaf4089f6e45b52d4a21a> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1887" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-82b7a3193e67fc04f8194668c76c00be> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "olieverf op doek" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1680deedde90c68dc3f3637751fd65e6> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8314dda441d93c8e8fb551b6c67838cd> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-83261a7e6883602c090a677f50fc0563> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-db69f477352f11e943cfdac6c72606d3> ;
+    ns1:P82a_begin_of_the_begin "2018-02-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2018-02-08"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-833c2e2f6d1b861cec4d4d7a1e8d7d39> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gezicht op een dorp in de avond. Aan de rand van een weiland, tussen bomen, staan verschillende lage huizen met rieten daken. In het midden staan twee figuren voor een hooiberg." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300411780> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-848c9497b1ab9a2bad7cc1fcb67894eb> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22013> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-645408250005de1cc91ffe971a89ec1d> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-865a477ad9097bb28c1ce7127f4dfb64> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/210136187> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301101699> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-86de4ba64898c98bbc67c1157f7cd33e> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-696a0bb9f31f90ee09c8c7bfadca95c7> ;
+    ns1:P128_carries <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-667e6b7560ce2a283763aa7e46645b4c> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b3506c2c20de0dc88d2835e1b8615c43> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8730b946fd7f4b7d66f8f0c94d38d818> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "2013-01-21" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-87999dc7c720b90cf946ff02bdc50174> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-87b260d547b1b279ffb3a15be3fed70f> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "340" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-895dfc7341556676e7bdb5ebde7d5973> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22095> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-cc4c305547296dbe55efcece720c32d5> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8b055c4b2aab7e22faceaa03ebce0bf9> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Schenking van de heer P.F. Gachet" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5b9d869eae7fe8f0924320c3cff74ed0> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8bc1af809579541ac7f25b997510662d> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Self-portrait" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8d31acd4548408f5c45d6bd3ae82d7b7> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-475a3ff69bfebf1fae66862b6590a201> ;
+    ns1:P82a_begin_of_the_begin "1888-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1888-07-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8f3909d521fe379bc608400976a32fde> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "verso" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-901b02d6a035b24dfcb4716c47ebb298> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-60d377448e53d20fc848a4160298e7fa> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9048c000923b686ed40cecdd0317f6b5> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d8e1027429d977f45aaa7595b3b8bd58> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/20040047" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-913c5374cd3123a03689ce74d37eb9a3> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7c6c034039291bc57eae3c7e39313595> ;
+    ns1:P190_has_symbolic_content "F1446" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9176acd2d64f8a8801f6a50c7efc5082> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Self-portrait" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9275f3c1c8b0335474fa4a2ab3436048> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P32_used_general_technique <https://id.rijksmuseum.nl/22027272> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-74a4600e851e7a5f3f8701bf70fabb87> ;
+    ns1:P7_took_place_at <https://id.rijksmuseum.nl/22051844> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-94bf774cbf424017538099529e50cba8> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1884-03" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-95fcd14335407014c1644f85115436f6> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1863 - 1890" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9761d7fc3d5c56ef53366ac273add408> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1fc8b43b768bb058efe4d1b530d53c9e> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9988bbcfe49dde444522f14a3a9ebc11> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian." ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-99da1f02de6db124146f58162fec951d> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22013> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-37be9b23b2340d5cbcaac7e99f4d9a84> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9b5d97eb2acb26b86a915812cefb4775> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Landschap bij de abdij van Montmajour te Arles" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9c57d427d772b407ca139c8fd9e13824> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9fe338507180aa76abe9f04c5ebb4e66> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a0389650fa5d180d3ef0ab98ff05643d> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0f8a764dfd50b0bc1ce7fbafb69cbc67> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22053814> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e72b88dfa70903525064a8ec7e137e29> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a048a0678c6bcb68ee6f74315e8377cb> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "57" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a0ce2fa923890145ca2730635613e931> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7f1ea73e801e8d17f5ac567347d52c15> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-324c168483e5e2419d2316313b95d57f> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a1580d6dae2dd3738c22e81b3b99c493> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh (1853–1890), olieverf op karton, 1887" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2d470aa8d4f36f503e9f677c9aec9a6f> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a1fc38cd66cbfab8f1017e9e4fae8b40> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0e4336d966f4011db85305b0d26f2049> ;
+    ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1906-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a4f524d4fc2a06d53cd4cf45ad21736f> a ns1:E7_Activity ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22013> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a1fc38cd66cbfab8f1017e9e4fae8b40> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a553d28dab82cef7712233a24deaae02> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Schenking van J. Cohen Gosschalk-Bonger, Amsterdam" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-04ac1bbe373b8aa5b3da82cee9d8d68d> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a5ec0c8eeff371d7b664bf89f41b4311> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Portret van dokter Paul Ferdinand Gachet, pijp rokend. Geproduceerd ten huize van dr Gachet, kort na Van Goghs aankomst in Auvers op 20 mei 1890. De enige ets die hij ooit maakte." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300411780> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a6c09395bd58ca3f14fb5860cacfe04b> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e1563f9dce5fec00055262bf3abde6f7> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4959097a6e22a860cba49eaaaadcc857> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a6cc52a41f49c30cc24a0ea0bb08446d> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a7ada556dea216d27f7a95d484fec184> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ab9f9081c781ca4bd00d5d9165d6b3b6> ;
+    ns1:P190_has_symbolic_content "F923" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a951c66df0e2a02bfa9625a1b7c55b8c> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P32_used_general_technique <https://id.rijksmuseum.nl/22027459>,
+        <https://id.rijksmuseum.nl/2208064> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-302fdbdfca3dea63e1ada7828779697c> ;
+    ns1:P7_took_place_at <https://id.rijksmuseum.nl/22031070> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-aa0a5e7939f5d74c0545a74a64c5a6e9> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ab4620b26513dfab0fde08fa92d3d747> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300252927> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ab9f9081c781ca4bd00d5d9165d6b3b6> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ac618cf436b6b9b39fc16882fcdc18af> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-da02f0a64d536652e8ff5a86b9ef84b7> ;
+    ns1:P82a_begin_of_the_begin "1962-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1963-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-aec0f9b29a3a15a8aa919fd815fa2f78> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P32_used_general_technique <https://id.rijksmuseum.nl/2208064> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-10338ff64752f57e8327d90d688b339f> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-aef0054f450dce225ed726b526b13c0d> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P32_used_general_technique <https://id.rijksmuseum.nl/22027459>,
+        <https://id.rijksmuseum.nl/2208064> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-050abf48baffab78604c6d9bdbd12e40> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-af0e88bdd5e441fa8c52294c45670058> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-2f5ed682ca136dc978d790f4091a97e4> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-733c2757f35e73f0ecad528806d60f23> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b0e045af5c8b5a301ad252ebaedc92d4> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "483" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b0f79a0fc14e76085ce391621a68c3a4> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b177222ab2abd01718576209fe9f121c> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b25746f5318d2401e55441a989e1be28> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3b4304bd8843185cfdcfcfdd46ff32bd> ;
+    ns1:P190_has_symbolic_content "SK-A-3662" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b2a76020aac25ee20e4d03cddc30d002> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-42226314cbeaf3713d835a898e6fe406> ;
+    ns1:P190_has_symbolic_content "F1664-3" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b3506c2c20de0dc88d2835e1b8615c43> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-667e6b7560ce2a283763aa7e46645b4c> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22053814> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7dced0745f197cba57c3c9947ddb2c1f> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b39cbab26b9d32834a4a0eb28bc17656> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-046d77a2fc986756c4d5810fb8a5477c> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b468faf3936ce23f32a1e2293bb24c20> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300252927> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b54ca938d784888c6c42c12c388efa67> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bef22493d45105cedeab03c2048c39a0> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/2007673" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b5b6aaae6ddd8f0822910ca27aad4291> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "334" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b692c280633023217176a01a3b3311f1> a ns1:E33_Linguistic_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-42959f3e8415f9e9d14f706a6678968d> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312074> ;
+    ns1:P9_consists_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-73c7d615e6bb53784f7560cff96ac64c>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e0bfeb3b35181073901ce46dfddc7ca8>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e8d3410f00ee903ca621c21f5772f478> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b6b823a194587700ebf0478356b3d02a> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/220123738>,
+        <https://id.rijksmuseum.nl/220131635>,
+        <https://id.rijksmuseum.nl/22093968> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b6ed50e3a902cd8636467799aee2f63d> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b7a465b9b74c777ed2e62eacad090d9d> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Portret van dr. Gachet" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d90733983b415de64abac4b3e6cd2e16> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b9d303cf952c4ecd74a7b810b9d0d782> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L'Homme à la Pipe" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bb33e0b249a07cb16700b956b0bf575c> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4328cac372d1854f411c7bf409ac3010> ;
+    ns1:P190_has_symbolic_content "RP-P-OB-20.603" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bbd4f414cd6a96730bd0f67ace0aafd8> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500321736> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bc0321ef1e3d6677e6c5fea5b3e8fac4> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-466d9b36f4f2ecabc3a305275e4e41eb> ;
+    ns1:P190_has_symbolic_content "SK-A-3307" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bd258f26489ab22c744167746848a117> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22021> ;
+    ns1:P90_has_value "181" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bd6340b758058c9814fad4579e4cc77b> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8730b946fd7f4b7d66f8f0c94d38d818> ;
+    ns1:P82a_begin_of_the_begin "2013-01-21"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2013-01-22"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-be072ac094bd1719e90383e625ee7ce6> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1940-03" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bebaee74f52d6ac84e50c267e4d71e55> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a7ad2f752462472e4f1027644143cd99> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22053814> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-48db7c876d85c468aca6188a80c0f096> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bef22493d45105cedeab03c2048c39a0> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c13a5a7b4bd1cf930f63ceae0fa8793e> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-80f46e62576061e2e4047bb0e68c93b0> ;
+    ns1:P190_has_symbolic_content "RP-T-1962-65" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c225649305e5d833644556896083a9bc> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1890-06-15" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c251292efd1d71f8c3c5a165134477be> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c56b3b5cc21458888695986851f504b7> ;
+    ns1:P82a_begin_of_the_begin "1906-04-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1906-05-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c25f3cb5f0f8b73e867aef64c25689a7> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-603fd5fff6de4e2d9d42023feec8fee2> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-848c9497b1ab9a2bad7cc1fcb67894eb> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c3940bc2031001b2c50aa5b17eacca3c> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "potlood, pen en penseel in bruin" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-1b68fcdca272ba2ba2fab498e3aeeb6c> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c43a2744402483e7ebc8b7b43dd1a2e9> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-87999dc7c720b90cf946ff02bdc50174> ;
+    ns1:P190_has_symbolic_content "F1661-8" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c48f3934aed5f48b1f17720f5faba153> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "2004-10-15" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c56b3b5cc21458888695986851f504b7> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1906-04" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c7d26429d29f0c76f1ad76687c9aa936> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0ab1ae9c60d999c01d4d822e5fa0b245> ;
+    ns1:P190_has_symbolic_content "F295" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8361c58c40ea22be667ba988524c1a8> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Weg achter de pastorietuin te Nuenen" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f80b5f26e7eb8442dd5a34b3a21de0b2> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8b16a7a2a5fb187aedce1e89b23f0ab> a ns1:E12_Production ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-83261a7e6883602c090a677f50fc0563> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8b262835d0d5ddb213e22ca66893c95> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/210136187> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301101699> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8ee432e04f3dd4ef7431c847a53763c> a ns1:E36_Visual_Item ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f3da58a31771e2350ed2de6b4d9448c0> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22054491> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-69d0bddde23a2c376289f00af3e0cfe9> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-cc4c305547296dbe55efcece720c32d5> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-80fdab72ea725ac645147222d4bb8f8e> ;
+    ns1:P82a_begin_of_the_begin "1912-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1913-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-cf80742dd1d01f68b2f9fa478bb0615c> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "598" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d0c68f542a9921f042cf132f6a15c488> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b177222ab2abd01718576209fe9f121c> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/20040048" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d11a2d7b46af5544844a227c37c78015> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301104607> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d26d15a89eb2339d48af2569113ef2dd> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-aa0a5e7939f5d74c0545a74a64c5a6e9> ;
+    ns1:P190_has_symbolic_content "F1312" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d41d33707f7b562368e8d2212ebfd664> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e1e68b5de499ee594e9d468ae1801ae1> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d48cfeb685cfa2c923f4e8e07ac968e5> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "olieverf op karton" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d55192119b15e44758693d81061682bc> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "34" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d554ac4ef44166fb55c086ef0ac83ebd> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-865a477ad9097bb28c1ce7127f4dfb64> ;
+    ns1:P190_has_symbolic_content "JH1504" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d8e1027429d977f45aaa7595b3b8bd58> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d90733983b415de64abac4b3e6cd2e16> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Portrait of Dr Gachet" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d9c5ea0543917e8f9c27bbc8b8061579> a ns1:E54_Dimension ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22022> ;
+    ns1:P90_has_value "538" ;
+    ns1:P91_has_unit <http://vocab.getty.edu/aat/300379097> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-da02f0a64d536652e8ff5a86b9ef84b7> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1962" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-da6c3b8203c2ba4b75910f30ef928cfe> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-34efad6521cefe5fcb6bb103b903d064> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-db69f477352f11e943cfdac6c72606d3> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "2018-02-07" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-db804ff1fba6b57e11878ae996622b55> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/220121232>,
+        <https://id.rijksmuseum.nl/220121785> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-dbe35cbfc5b3c8665fd7a0c4a0682585> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-df5ef08c78e766b018e3f4bbf7272c39> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Zelfportret van Vincent van Gogh. Borstbeeld met bruine jas en grijze hoed." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300411780> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-dff6117b81c9a2b4bba6309a14986739> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1884" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e053cc339b9355c573004296b44d72ee> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e0bfeb3b35181073901ce46dfddc7ca8> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Nadat hij van zijn broer Theo had gehoord over de nieuwe kleurige Franse schilderkunst, ging Vincent in 1886 in Parijs wonen. Al snel probeerde hij de Franse stijl uit op een aantal zelfportretten. Dit deed hij vooral om de kosten voor een model uit te sparen. Hier schilderde hij zichzelf als een mondain geklede Parijzenaar, met losse, ritmische penseelstreken in opvallende kleuren." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435416> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9988bbcfe49dde444522f14a3a9ebc11> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e1563f9dce5fec00055262bf3abde6f7> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Schenking van J. Cohen Gosschalk-Bonger, Amsterdam" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-5fe99e0a70be695c88f79b1bde3e629a> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e1e68b5de499ee594e9d468ae1801ae1> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Public Domain/Free of rights" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e396e78d150f3632e19a579b4a49470e> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De aardappeleters" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e4339b01b8c1b711b271e2fb6eb85b28> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f1617edbf4f3f55b8138f338f4628a0e> ;
+    ns1:P128_carries <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a7ad2f752462472e4f1027644143cd99> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bebaee74f52d6ac84e50c267e4d71e55> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e721adba79d161d2471efdc424516bf9> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e72b88dfa70903525064a8ec7e137e29> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "linksonder" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300010269> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e86a88644f96fa5958e0e99244fd851f> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pencil and pen in brown on paper" ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e8d3410f00ee903ca621c21f5772f478> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Zelfportret" ;
+    ns1:P1i_identifies <https://id.rijksmuseum.nl/2009617> ;
+    ns1:P2_has_type <http://vocab.getty.edu./aat/300417207>,
+        <http://vocab.getty.edu/aat/300404670> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8bc1af809579541ac7f25b997510662d> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-e9a98d9f2c332c4d5c7b5381e4af36f7> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-bbd4f414cd6a96730bd0f67ace0aafd8> ;
+    ns1:P190_has_symbolic_content "2228a" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300404620> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ea7e8d3e7a7adf9137bb305857dddcf0> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0a8521786c9071db7a68a659c9c3765e> ;
+    ns1:P190_has_symbolic_content "RP-P-1912-609" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eb2cb58a0d8b6270c56448838e8fe391> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a553d28dab82cef7712233a24deaae02> ;
+    ns1:P9i_forms_part_of <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-26726514f6971ce1e815b572c3a19743> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eccbe9bc229b952ac856ff837c4324ee> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1882-03" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ee3768e83eb1e2c303d028103e619091> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1906-04" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eee7441aca793f6fd08416908c678b3a> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Self Portrait" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eeed50038692d2ed9ff3cda4d021529e> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-dbe35cbfc5b3c8665fd7a0c4a0682585> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/2008508" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ef98b7db573038f1117c2e6df47b778c> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21099861> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300157769> ;
+    ns1:P67i_is_referred_to_by <https://id.rijksmuseum.nl/301151451> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f131f5d6c16488ba877aa2a29c6e48aa> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1936-06" .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f1617edbf4f3f55b8138f338f4628a0e> a ns1:E12_Production ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300252927> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f18f6dde51f76803fd8a4c072bb8744b> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9c91e1f9302a6b45b6636e7f1597c00d> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22066190> ;
+    ns1:P3_has_note <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-8f3909d521fe379bc608400976a32fde> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f2e8990e2e7f0c6c1180bb63e4692de3> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9fe338507180aa76abe9f04c5ebb4e66> ;
+    ns1:P190_has_symbolic_content "https://id.rijksmuseum.nl/2009617" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300387580> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f3257a032d8b6f38395dbc87ad6acb2a> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3a0cc754978f661e03504192b82af9c5> ;
+    ns1:P190_has_symbolic_content "SK-A-3262" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f3da58a31771e2350ed2de6b4d9448c0> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-65e7005c464ff27e8fdc9a8c89b2fc89> ;
+    ns1:P190_has_symbolic_content "2807c" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300404620> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f3f0f4959999b60c553ddeece32d8e10> a ns1:E12_Production ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/2103437> ;
+    ns1:P4_has_time-span <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f81dd04ecbdd07e3153ac06aeb2528f2> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f4976bd7f7756e2adfa9c9bdb323b86e> a ns1:E36_Visual_Item ;
+    ns1:P138_represents <https://id.rijksmuseum.nl/220121270>,
+        <https://id.rijksmuseum.nl/220122860> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f4d7312078f0d4264f12fbed334925aa> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of J. Cohen Gosschalk-Bonger, Amsterdam" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f653a87fa75fcf31f25db4cc72224427> a ns1:E22_Human-Made_Object ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ab4620b26513dfab0fde08fa92d3d747> ;
+    ns1:P128_carries <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0f8a764dfd50b0bc1ce7fbafb69cbc67> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a0389650fa5d180d3ef0ab98ff05643d> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f6c8f7d3f7d7b54e6743f3aeb69a736d> a ns1:E13_Attribute_Assignment ;
+    ns1:P14_carried_out_by <https://id.rijksmuseum.nl/21018560> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f71069a68238b64d7ca3ad19058a2599> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Boerendorp in de avond" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-7740f9c0f2190d7a4285022df66095f9> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f80b5f26e7eb8442dd5a34b3a21de0b2> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Road behind the Parsonage Garden in Nuenen" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f81dd04ecbdd07e3153ac06aeb2528f2> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-dff6117b81c9a2b4bba6309a14986739> ;
+    ns1:P82a_begin_of_the_begin "1884-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1885-01-01"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f8b2d8033e0bcfd24a51c6d0ca9b8f4e> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c48f3934aed5f48b1f17720f5faba153> ;
+    ns1:P82a_begin_of_the_begin "2004-10-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2004-10-16"^^xsd:date .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-fb799be5de490b005c955a85a18af095> a ns1:E30_Right ;
+    ns1:P2_has_type <http://creativecommons.org/publicdomain/mark/1.0> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0bf4206d5a711859c2d7f3f5e6c706f0> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-fbce69c73da9bd23919747cccc891106> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Nadat hij van zijn broer Theo had gehoord over de nieuwe kleurige Franse schilderkunst ging Vincent in 1886 in Parijs wonen. Al snel probeerde hij de Franse stijl uit op een aantal zelfportretten. Dit deed hij vooral om de kosten voor een model uit te sparen. Hier schilderde hij zichzelf als een mondain geklede Parijzenaar, met losse, ritmische penseelstreken in opvallende kleuren." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435416> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-62fd0a8889347829b341d8d7fb22bdba> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-fe833b8bcd1ea320595241ac38548e7c> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Zelfportret" ;
+    ns1:P1i_identifies <https://id.rijksmuseum.nl/2009617> ;
+    ns1:P2_has_type <http://vocab.getty.edu./aat/300417207>,
+        <http://vocab.getty.edu/aat/300404670> ;
+    ns1:P72_has_language <http://vocab.getty.edu/aat/300388256> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9176acd2d64f8a8801f6a50c7efc5082> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ff8634b35a32d8bbfbd736f4f08574d5> a ns1:E42_Identifier ;
+    ns1:P141i_was_assigned_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c8b262835d0d5ddb213e22ca66893c95> ;
+    ns1:P190_has_symbolic_content "JH1211" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ffbc018831ad867aede9b1dcdcce9340> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Zelfportret" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417193> ;
+    ns1:P73_has_translation <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-eee7441aca793f6fd08416908c678b3a> .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.304211> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.40047> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.40048> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.7672> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.7673> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.7674> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.8508> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.9617> a ns1:E42_Identifier .
+
+<http://hdl.handle.net/10934/RM0001.COLLECT.9769> a ns1:E42_Identifier .
+
+<http://iconclass.org/11P3151> a rdfs:Resource .
+
+<http://iconclass.org/23R13> a rdfs:Resource .
+
+<http://iconclass.org/25G3(POLLARD%20WILLOW)> a rdfs:Resource .
+
+<http://iconclass.org/25H16> a rdfs:Resource .
+
+<http://iconclass.org/25I2> a rdfs:Resource .
+
+<http://iconclass.org/31A71> a rdfs:Resource .
+
+<http://iconclass.org/41A6> a rdfs:Resource .
+
+<http://iconclass.org/41C4> a rdfs:Resource .
+
+<http://iconclass.org/41C652> a rdfs:Resource .
+
+<http://iconclass.org/41D3> a rdfs:Resource .
+
+<http://iconclass.org/46A14> a rdfs:Resource .
+
+<http://iconclass.org/46C1214> a rdfs:Resource .
+
+<http://iconclass.org/47I141> a rdfs:Resource .
+
+<http://iconclass.org/47I15(SICKLE)> a rdfs:Resource .
+
+<http://iconclass.org/47I3> a rdfs:Resource .
+
+<http://iconclass.org/48B3> a rdfs:Resource .
+
+<http://iconclass.org/48C513> a rdfs:Resource .
+
+<http://iconclass.org/49G(%2B3)> a rdfs:Resource .
+
+<http://iconclass.org/61B2> a rdfs:Resource .
+
+<http://lh3.ggpht.com/3fR9EhgRFF_kz66r1WVv7GtgXEEuf6UQ92J65DWrLipCvBm6mTjVBJ_gX6wZq839MlDbkBTrd6TU5du5KV8fP-V2a-U=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh3.googleusercontent.com/Ckjq-HkB2XhEsbuMsei0MR5fLTODfkcXY8qQTG-XLHVxE0jLO9DnSYaVE8n1kCrcm9AMKzoWB2w03LrY0v7eoj5hYw=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh3.googleusercontent.com/rN30IB00bIGEgTm9OFA9U0yf4if6y7RhdKqvOVKd2Gf1wLmmqyCRP7Ok_QlJML5PPaZHyWnKN1vcPjcb_EC0pu63Xi0=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh5.ggpht.com/LeONPNh8oPUpjMUWxUe3d0G_DkktDb3FKgQuy9rRe-1usn_Ls6u5yrQfvlLC3nARNJWTe3ZOLUR7-hbe1Zai6NN3RU8=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh5.ggpht.com/QjSoKZOeS1lkYXUgPHgy9W3ZwFYoDGbXLknZ_z5RyjrKbi4eBMDW5ek5O2vcD5Mp-EtAWSIb8vCrqdR2I2HQrBDgpg=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh5.ggpht.com/eiAJJM9_EByX03PBlrRBULoadro_CzY-Zz6VDU0I-KkToqT9_NR2h-OF1LLeMx__XxPqGpcud9L6rPz6jKJ8ytzqOcU=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh6.ggpht.com/GlyQgIZEno8P_XhZK1yTsMk9Po_unNgU1u1mESDluU372mItxNAiQ_VUUOzpMoTQz564buak-FJkUGDdQfFDxppftEA=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh6.ggpht.com/RvKoP3sO4nXgRlIvSGLDcezVPQoaNOukS8uvv2JRUrhMbMV9VBD0bLFOA9vmg44Nq1Lh9VNLx0oxM1FnzT7a4RO3Tmdx=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://lh6.ggpht.com/d91eLpUD7w8vhaGPWNvuzmkUmo9xwAyhj79cxoobWCYeCIKPI3mCMir86UiZgWP0J7ip5D0qCxhvbvV0wutoyr8PnYQ=s0> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://vocab.getty.edu/aat/300014078> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014109> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014224> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015012> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015050> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300015071> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300022439> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300022452> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300022552> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028702> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028705> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028760> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300033973> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300041273> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300053241> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300053271> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055644> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055647> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300072633> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300080064> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300138913> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300177435> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417641> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417642> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7006810> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7006835> a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7008030> a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500005111> a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500115588> a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500246547> a rdfs:Resource .
+
+<http://www.wikidata.org/entity/Q312762> a rdfs:Resource .
+
+<http://www.wikidata.org/entity/Q395240> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/346511> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/347903> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/359164> a rdfs:Resource .
+
+<https://data.rkd.nl/artists/485537> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/21034116> a ns1:E39_Actor ;
+    rdfs:label "Paul Ferdinand Gachet" ;
+    skos:exactMatch <http://vocab.getty.edu/ulan/500005111>,
+        <https://data.rkd.nl/artists/346511> .
+
+<https://id.rijksmuseum.nl/220121191> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/41A6> .
+
+<https://id.rijksmuseum.nl/220121232> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/46A14> .
+
+<https://id.rijksmuseum.nl/220121270> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/25I2> .
+
+<https://id.rijksmuseum.nl/220121311> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/48C513> .
+
+<https://id.rijksmuseum.nl/220121435> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/48B3> .
+
+<https://id.rijksmuseum.nl/220121455> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/41D3> .
+
+<https://id.rijksmuseum.nl/220121757> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/46C1214> .
+
+<https://id.rijksmuseum.nl/220121758> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/31A71> .
+
+<https://id.rijksmuseum.nl/220121760> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/47I15(SICKLE)> .
+
+<https://id.rijksmuseum.nl/220121761> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/47I141> .
+
+<https://id.rijksmuseum.nl/220121785> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/41C4> .
+
+<https://id.rijksmuseum.nl/220122130> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/41C652> .
+
+<https://id.rijksmuseum.nl/220122131> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/47I3> .
+
+<https://id.rijksmuseum.nl/220122860> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/23R13> .
+
+<https://id.rijksmuseum.nl/220123738> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/11P3151> .
+
+<https://id.rijksmuseum.nl/220124938> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/49G(%2B3)> .
+
+<https://id.rijksmuseum.nl/220131635> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/25H16> .
+
+<https://id.rijksmuseum.nl/220140130> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/25G3(POLLARD%20WILLOW)> .
+
+<https://id.rijksmuseum.nl/22019> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014078> .
+
+<https://id.rijksmuseum.nl/22024329> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015071> .
+
+<https://id.rijksmuseum.nl/22027272> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053241> .
+
+<https://id.rijksmuseum.nl/22031070> a ns1:E53_Place ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006810> .
+
+<https://id.rijksmuseum.nl/220380> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014224> .
+
+<https://id.rijksmuseum.nl/22042446> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/22051844> a ns1:E53_Place ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7008030> .
+
+<https://id.rijksmuseum.nl/2206> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300072633> .
+
+<https://id.rijksmuseum.nl/220633> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417641> .
+
+<https://id.rijksmuseum.nl/22064876> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300053271> .
+
+<https://id.rijksmuseum.nl/22066190> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300028702> .
+
+<https://id.rijksmuseum.nl/22067962> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/220686> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015012> .
+
+<https://id.rijksmuseum.nl/22093968> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301114892> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301142869> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301142876> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301142899> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301146002> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301154224> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/3011738> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301184870> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/30119878> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301211153> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301235376> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301274270> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301302794> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/30140463> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/3017276> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/30184102> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/30191888> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1129> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1312> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1446> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1478> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F1664-3> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F190> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F295> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F923> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/RPP1912609> a rdfs:Resource .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0f8a764dfd50b0bc1ce7fbafb69cbc67> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-667e6b7560ce2a283763aa7e46645b4c> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-9c91e1f9302a6b45b6636e7f1597c00d> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "\"L'Homme à la Pipe\" / Portrait de mon Père (Le Dr. Gachet) / Eau-forte de Vincent Van Gogh / Auvers s/Oise - Mai 1890 / Paul Gachet'" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-a7ad2f752462472e4f1027644143cd99> a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vincent" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu./aat/300417207> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300312074> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300404670> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435416> a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/2009617> a ns1:E22_Human-Made_Object ;
+    ns1:P104_is_subject_to <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d41d33707f7b562368e8d2212ebfd664> ;
+    ns1:P108i_was_produced_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-da6c3b8203c2ba4b75910f30ef928cfe> ;
+    ns1:P129i_is_subject_of <https://id.rijksmuseum.nl/301100936>,
+        <https://id.rijksmuseum.nl/301101291>,
+        <https://id.rijksmuseum.nl/301101699>,
+        <https://id.rijksmuseum.nl/301104607>,
+        <https://id.rijksmuseum.nl/301114892>,
+        <https://id.rijksmuseum.nl/301142876>,
+        <https://id.rijksmuseum.nl/301151451>,
+        <https://id.rijksmuseum.nl/30119878>,
+        <https://id.rijksmuseum.nl/301202045>,
+        <https://id.rijksmuseum.nl/301211153>,
+        <https://id.rijksmuseum.nl/301235376>,
+        <https://id.rijksmuseum.nl/301274270>,
+        <https://id.rijksmuseum.nl/30140463>,
+        <https://id.rijksmuseum.nl/3015253>,
+        <https://id.rijksmuseum.nl/3017276>,
+        <https://id.rijksmuseum.nl/30191888> ;
+    ns1:P138i_has_representation <http://lh3.googleusercontent.com/Ckjq-HkB2XhEsbuMsei0MR5fLTODfkcXY8qQTG-XLHVxE0jLO9DnSYaVE8n1kCrcm9AMKzoWB2w03LrY0v7eoj5hYw=s0> ;
+    ns1:P1_is_identified_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-54461336c9038d37d8eb3de3f111cb8a>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-c7d26429d29f0c76f1ad76687c9aa936>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f2e8990e2e7f0c6c1180bb63e4692de3>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-f3257a032d8b6f38395dbc87ad6acb2a>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ff8634b35a32d8bbfbd736f4f08574d5>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-ffbc018831ad867aede9b1dcdcce9340>,
+        <http://hdl.handle.net/10934/RM0001.COLLECT.9617> ;
+    ns1:P24i_changed_ownership_through <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0fdcfba284235898530bfbcf99f5118e> ;
+    ns1:P2_has_type <https://id.rijksmuseum.nl/22016> ;
+    ns1:P43_has_dimension <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-0fb8a4757d5b29e9ecc5f2051769c232>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-4c8adcca67396f78cd64af21140c548d>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d55192119b15e44758693d81061682bc> ;
+    ns1:P45_consists_of <https://id.rijksmuseum.nl/22018>,
+        <https://id.rijksmuseum.nl/220380> ;
+    ns1:P52_has_current_owner <https://id.rijksmuseum.nl/21018560> ;
+    ns1:P65_shows_visual_item <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-3cc9a15f322833a9f053aa9b3543de72> ;
+    ns1:P67i_is_referred_to_by <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-05a1f1ee99b48e133af854f86113ec0d>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-b692c280633023217176a01a3b3311f1>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-d48cfeb685cfa2c923f4e8e07ac968e5>,
+        <bnode:41877191-965d-40a3-a4cd-9e57f4ebe4ac-df5ef08c78e766b018e3f4bbf7272c39> ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F295> .
+
+<https://id.rijksmuseum.nl/210136187> a ns1:E39_Actor ;
+    rdfs:label "Jan Hulsker" ;
+    skos:exactMatch <http://www.wikidata.org/entity/Q395240>,
+        <https://data.rkd.nl/artists/347903> .
+
+<https://id.rijksmuseum.nl/220121005> a ns1:E55_Type ;
+    skos:exactMatch <http://iconclass.org/61B2> .
+
+<https://id.rijksmuseum.nl/22016> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300177435> .
+
+<https://id.rijksmuseum.nl/22018> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300015050> .
+
+<https://id.rijksmuseum.nl/2202343> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300080064> .
+
+<https://id.rijksmuseum.nl/22057966> a ns1:E53_Place ;
+    skos:exactMatch <http://vocab.getty.edu/tgn/7006835> .
+
+<https://id.rijksmuseum.nl/22091> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300041273> .
+
+<https://id.rijksmuseum.nl/22095> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417642> .
+
+<https://id.rijksmuseum.nl/301123880> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/3015253> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/30159254> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/3019034> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/22027459> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022552> .
+
+<https://id.rijksmuseum.nl/22053814> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300028705> .
+
+<https://id.rijksmuseum.nl/301100936> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301101291> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300252927> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300257611> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300404620> a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500321736> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/22054491> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300028760> .
+
+<https://id.rijksmuseum.nl/2208064> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022452> .
+
+<https://id.rijksmuseum.nl/301101699> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301154354> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300411780> a ns1:E55_Type .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/220679> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300033973> .
+
+<https://id.rijksmuseum.nl/22097> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300022439> .
+
+<https://id.rijksmuseum.nl/22013> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300138913> .
+
+<https://id.rijksmuseum.nl/301104607> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/301202045> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/22036> a ns1:E57_Material ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300014109> .
+
+<http://vocab.getty.edu/aat/300010269> a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<http://creativecommons.org/publicdomain/mark/1.0> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300387580> a rdfs:Resource .
+
+ns1:E30_Right a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/22021> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300055644> .
+
+<https://id.rijksmuseum.nl/22022> a ns1:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300055647> .
+
+<https://id.rijksmuseum.nl/2103437> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" ;
+    skos:exactMatch <http://vocab.getty.edu/ulan/500115588>,
+        <https://data.rkd.nl/artists/32439> .
+
+<http://vocab.getty.edu/aat/300435429> a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/21099861> a ns1:E39_Actor ;
+    rdfs:label "Jacob Baart de la Faille" ;
+    skos:exactMatch <http://www.wikidata.org/entity/Q312762>,
+        <https://data.rkd.nl/artists/359164> .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300418049> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300157769> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300379097> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<https://id.rijksmuseum.nl/301151451> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417193> a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300388256> a ns1:E56_Language .
+
+ns1:E13_Attribute_Assignment a rdfs:Resource .
+
+<https://id.rijksmuseum.nl/21018560> a ns1:E39_Actor ;
+    rdfs:label "Rijksmuseum" ;
+    skos:exactMatch <http://vocab.getty.edu/ulan/500246547>,
+        <https://data.rkd.nl/artists/485537> .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+

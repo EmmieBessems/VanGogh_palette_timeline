@@ -1,0 +1,28 @@
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://vangoghworldwide.org/data/concept/previous_attribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://vangoghworldwide.org/data/concept/current_whereabouts_unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://vangoghworldwide.org/data/concept/questionable_attribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>.
+<http://www.w3.org/2004/02/skos/core#Concept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2004/02/skos/core#scopeNote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/empty_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept>.
+<https://vangoghworldwide.org/data/concept/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/2004/02/skos/core#prefLabel> "De La Faille number".
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/2004/02/skos/core#scopeNote> "Catalogue number used in The Works of Vincent van Gogh: His Paintings and Drawings by Jacob Baart de la Faille.".
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/2004/02/skos/core#prefLabel> "JH number".
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/2004/02/skos/core#scopeNote> "Catalogue number used in The Complete Van Gogh: Paintings, Drawings, Sketches by Jan Hulsker.".
+<https://vangoghworldwide.org/data/concept/previous_attribution> <http://www.w3.org/2004/02/skos/core#prefLabel> "Previously attributed to Vincent van Gogh".
+<https://vangoghworldwide.org/data/concept/previous_attribution> <http://www.w3.org/2004/02/skos/core#scopeNote> "Concept to indicate for a work that Vincent van Gogh was previously attributed as its contributor but evindence has shown that this was not the case.".
+<https://vangoghworldwide.org/data/concept/current_whereabouts_unknown> <http://www.w3.org/2004/02/skos/core#prefLabel> "Current whereabouts unknown".
+<https://vangoghworldwide.org/data/concept/current_whereabouts_unknown> <http://www.w3.org/2004/02/skos/core#scopeNote> "Concept to indicate for a work by Vincent van Gogh that its current whereabouts are unknown.".
+<https://vangoghworldwide.org/data/concept/questionable_attribution> <http://www.w3.org/2004/02/skos/core#prefLabel> "Questionable attribution to Vincent van Gogh".
+<https://vangoghworldwide.org/data/concept/questionable_attribution> <http://www.w3.org/2004/02/skos/core#scopeNote> "Concept to indicate for a work that Vincent van Gogh is questioned as its contributor.".
+<https://vangoghworldwide.org/data/concept/empty_value> <http://www.w3.org/2004/02/skos/core#prefLabel> "No value".
+<https://vangoghworldwide.org/data/concept/empty_value> <http://www.w3.org/2004/02/skos/core#scopeNote> "Concept to indicate that a work misses a value in facet. This is used in Spinque facet strategies. It is not intended for use directly in the data.".
+<https://vangoghworldwide.org/data/concept/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "VGW Identifier".
+<https://vangoghworldwide.org/data/concept/identifier> <http://www.w3.org/2000/01/rdf-schema#comment> "Identifier used in VGW for artworks".

@@ -1,0 +1,445 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dc:format a rdfs:Resource .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://h-am.jp/data/actor/B.+M.+A.+Carp%2C+Bloemendaal> a ns1:E39_Actor ;
+    rdfs:label "B. M. A. Carp, Bloemendaal" .
+
+<https://h-am.jp/data/actor/Clive+Cookson> a ns1:E39_Actor ;
+    rdfs:label "Clive Cookson" .
+
+<https://h-am.jp/data/actor/Ernest+Brown+%26+Phillips%2C+The+Leicester+Galleries%2C+London> a ns1:E39_Actor ;
+    rdfs:label "Ernest Brown & Phillips, The Leicester Galleries, London" .
+
+<https://h-am.jp/data/actor/L.+C.+Enthoven%2C+Vooburg> a ns1:E39_Actor ;
+    rdfs:label "L. C. Enthoven, Vooburg" .
+
+<https://h-am.jp/data/artwork/YO-00053/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://h-am.jp/data/artwork/YO-00053> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "Augst 1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-08-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-08-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<https://h-am.jp/data/document/3822896438/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://h-am.jp/data/document/3822896438/author> ;
+    ns1:P94_has_created <https://h-am.jp/data/document/3822896438> .
+
+<https://h-am.jp/data/document/3822896438/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://h-am.jp/data/document/3822896438> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1993-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1993-01-01"^^xsd:date ] .
+
+<https://h-am.jp/data/document/9780517448670/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://h-am.jp/data/document/9780517448670/author> ;
+    ns1:P94_has_created <https://h-am.jp/data/document/9780517448670> .
+
+<https://h-am.jp/data/document/9780517448670/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://h-am.jp/data/document/9780517448670> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1977-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1977-01-01"^^xsd:date ] .
+
+<https://h-am.jp/data/document/9781199517364/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500452045> ;
+    ns1:P94_has_created <https://h-am.jp/data/document/9781199517364> .
+
+<https://h-am.jp/data/document/9781199517364/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://h-am.jp/data/document/9781199517364> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] .
+
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304031> ;
+    ns1:P16_used_specific_object <https://h-am.jp/data/artwork/YO-00053> ;
+    ns1:P1_is_identified_by <https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/timespan> .
+
+<https://h-am.jp/data/technical/YO-00053/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://h-am.jp/data/technical/YO-00053/1> ;
+    ns1:P16_used_specific_object <https://h-am.jp/data/artwork/YO-00053> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300224399> .
+
+<https://h-am.jp/data/technical/YO-00053/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://h-am.jp/data/technical/YO-00053/2> ;
+    ns1:P16_used_specific_object <https://h-am.jp/data/artwork/YO-00053> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300224399> .
+
+<https://h-am.jp/data/technical/YO-00053/3/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://h-am.jp/data/technical/YO-00053/3> ;
+    ns1:P16_used_specific_object <https://h-am.jp/data/artwork/YO-00053> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300046300> .
+
+<https://h-am.jp/gallery/seiyou/images/gogh-sentaku_l.jpg> a ns1:E36_Visual_Item ;
+    dc:format "image/jpeg" ;
+    ns1:P138_represents <https://h-am.jp/data/artwork/YO-00053> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770826> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://h-am.jp/data/technical/YO-00053/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770828> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://h-am.jp/data/technical/YO-00053/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770921/> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://h-am.jp/data/technical/YO-00053/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "landscapes" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Paintings" .
+
+<http://vocab.getty.edu/aat/300046300> a ns1:E55_Type ;
+    rdfs:label "photographs" .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300207379> a ns1:E55_Type ;
+    rdfs:label "stickers" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/tgn/7006835> a ns1:E53_Place ;
+    rdfs:label "Nuenen" .
+
+<http://vocab.getty.edu/ulan/500115588> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<http://vocab.getty.edu/ulan/500304031> a ns1:E39_Actor ;
+    rdfs:label "Hatton Gallery" .
+
+<http://vocab.getty.edu/ulan/500452045> a ns1:E21_Person ;
+    rdfs:label "Faille, J. B. de la" .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/508846> a ns1:E39_Actor ;
+    rdfs:label "Hikaru Museum" .
+
+<https://h-am.jp/data/document/3822896438/author> a ns1:E21_Person ;
+    rdfs:label "Ingo F. Walther / Rainer Metzger" .
+
+<https://h-am.jp/data/document/3822896438/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh ・ The Complete Paintings" .
+
+<https://h-am.jp/data/document/9780517448670/author> a ns1:E21_Person ;
+    rdfs:label "Jan Hulsker" .
+
+<https://h-am.jp/data/document/9780517448670/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Complete van Gogh" .
+
+<https://h-am.jp/data/document/9781199517364/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The works of Vincent van Gogh [De la Faille, 1970]" .
+
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1951 Festival Exhibition" .
+
+<https://h-am.jp/data/exhibition/500304031/1951-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1951-01-01"^^xsd:date .
+
+<https://h-am.jp/data/identifier/F148> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F148" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://h-am.jp/data/identifier/JH908> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH908" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://h-am.jp/data/identifier/YO-00053> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "YO-00053" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://h-am.jp/data/technical/YO-00053/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Rakinglight rightside" .
+
+<https://h-am.jp/data/technical/YO-00053/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Rakinglight underside" .
+
+<https://h-am.jp/data/technical/YO-00053/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Backside" .
+
+<https://vangoghworldwide.org/data/artwork/F148> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300224399> a ns1:E55_Type ;
+    rdfs:label "raking light" .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://h-am.jp/data/document/3822896438> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://h-am.jp/data/document/3822896438/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "3822896438" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://h-am.jp/data/document/3822896438/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<https://h-am.jp/data/document/3822896438/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://h-am.jp/data/artwork/YO-00053> .
+
+<https://h-am.jp/data/document/9780517448670> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://h-am.jp/data/document/9780517448670/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9780517448670" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://h-am.jp/data/document/9780517448670/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<https://h-am.jp/data/document/9780517448670/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://h-am.jp/data/artwork/YO-00053> .
+
+<https://h-am.jp/data/document/9781199517364> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://h-am.jp/data/document/9781199517364/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9781199517364" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://h-am.jp/data/document/9781199517364/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300028051> .
+
+<https://h-am.jp/data/document/9781199517364/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://h-am.jp/data/artwork/YO-00053> .
+
+<https://h-am.jp/data/technical/YO-00053/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://h-am.jp/data/technical/YO-00053/1/title> .
+
+<https://h-am.jp/data/technical/YO-00053/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://h-am.jp/data/technical/YO-00053/2/title> .
+
+<https://h-am.jp/data/technical/YO-00053/3> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://h-am.jp/data/technical/YO-00053/3/title> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300028051> a ns1:E55_Type ;
+    rdfs:label "books" .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "ISBN" .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+<https://h-am.jp/data/artwork/YO-00053> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant Woman Laundering" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Paysage blanchissant le Linge" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        <https://h-am.jp/data/identifier/F148>,
+        <https://h-am.jp/data/identifier/JH908>,
+        <https://h-am.jp/data/identifier/YO-00053> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 29.4 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 36.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Hatton Gallery / The Leicester Galleries" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300207379> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/508846> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F148> .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "from c. 1940" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "F148" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://h-am.jp/data/document/9781199517364/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://h-am.jp/data/artwork/YO-00053> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.112 (ill.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://h-am.jp/data/document/3822896438/part> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "B M A Carp, Bloemendaal; L C Enthoven, Vooburg; Ernest Brown & Phillips, The Leicester Galleries, London; Clive Cookson, from c. 1940, and by descent to his son; in the collection of Hikaru Museum, August 29, 2003" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://h-am.jp/data/artwork/YO-00053> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "JH908, p.201" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://h-am.jp/data/document/9780517448670/part> .
+

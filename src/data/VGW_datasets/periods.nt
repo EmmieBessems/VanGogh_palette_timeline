@@ -1,0 +1,189 @@
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59f9fbb9e7d6e5195ecf52e608921919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-17ec90f83348063d8fe9e0af1a0f262b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4816f5a5c2030248fa3186c11c4a5334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d42411c54e964ab2f516dc7cb46b68b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2a7906f336812fb8054f97dd02fb9481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-db455fe0812b0db5166d822326d1e2d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-1f2944b26897c485e770fff4a0921d7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-125dc7bb24bc1fe02838da603b931d40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-c747279a78fb77bd752121d4f436b7c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-ebbfb7d77ed064aecd155bd261039dee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-5fc36df9a9728e8899a5a0f6cb732a9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d87a16cbc30346b377a370bdca72fb7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2663e3ba89aa6eb4c1f46c98f35ff431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59c91320afde970cebf7346821382e15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-025ca8a763299879a1661cfa015876a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-369d35815282340cf8c493989d6e197a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4a4c4a707f24a9dbbf61e16d87f966fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-0452689579b64a5b2d65395fc5be1596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-11cf68503e975020365274b693699e50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-64d3fccfa675f95e31190d5d5ea47554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7008775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7009654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7011781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7006835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7008783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7007856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7006798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7006810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7006842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7007868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/1047858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7003614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7006824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/1047843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7008030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7016995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/1047973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7008792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/1026382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7012090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7011562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/period/auvers-sur-oise-1890> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008030>.
+<https://vangoghworldwide.org/data/period/auvers-sur-oise-1890> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-64d3fccfa675f95e31190d5d5ea47554>.
+<https://vangoghworldwide.org/data/period/auvers-sur-oise-1890> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-11cf68503e975020365274b693699e50>.
+<https://vangoghworldwide.org/data/period/auvers-sur-oise-1890> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/auvers-sur-oise-1890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008038>.
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007856>.
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-0452689579b64a5b2d65395fc5be1596>.
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4a4c4a707f24a9dbbf61e16d87f966fb>.
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-025ca8a763299879a1661cfa015876a3>.
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-369d35815282340cf8c493989d6e197a>.
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/1026382>.
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/4012066>.
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007868>.
+<http://vocab.getty.edu/tgn/4012066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7027263>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7016995>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7012090>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011781>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011562>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006798>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/1047843>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59c91320afde970cebf7346821382e15>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2663e3ba89aa6eb4c1f46c98f35ff431>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/early_period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://vocab.getty.edu/tgn/7027263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008792>.
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008783>.
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008775>.
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d87a16cbc30346b377a370bdca72fb7d>.
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-5fc36df9a9728e8899a5a0f6cb732a9b>.
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/nuenen-1883> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006842>.
+<https://vangoghworldwide.org/data/period/nuenen-1883> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006835>.
+<https://vangoghworldwide.org/data/period/nuenen-1883> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-c747279a78fb77bd752121d4f436b7c9>.
+<https://vangoghworldwide.org/data/period/nuenen-1883> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-ebbfb7d77ed064aecd155bd261039dee>.
+<https://vangoghworldwide.org/data/period/nuenen-1883> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/nuenen-1883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003614>.
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/1047973>.
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/1047858>.
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-125dc7bb24bc1fe02838da603b931d40>.
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-1f2944b26897c485e770fff4a0921d7e>.
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/etten-1881> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006824>.
+<https://vangoghworldwide.org/data/period/etten-1881> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2a7906f336812fb8054f97dd02fb9481>.
+<https://vangoghworldwide.org/data/period/etten-1881> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-db455fe0812b0db5166d822326d1e2d6>.
+<https://vangoghworldwide.org/data/period/etten-1881> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/etten-1881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/den_haag-1881> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d42411c54e964ab2f516dc7cb46b68b6>.
+<https://vangoghworldwide.org/data/period/den_haag-1881> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/den_haag-1881> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4816f5a5c2030248fa3186c11c4a5334>.
+<https://vangoghworldwide.org/data/period/den_haag-1881> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006810>.
+<https://vangoghworldwide.org/data/period/den_haag-1881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/saint-remy-1889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://vangoghworldwide.org/data/period/saint-remy-1889> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://vangoghworldwide.org/data/period/saint-remy-1889> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59f9fbb9e7d6e5195ecf52e608921919>.
+<https://vangoghworldwide.org/data/period/saint-remy-1889> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-17ec90f83348063d8fe9e0af1a0f262b>.
+<https://vangoghworldwide.org/data/period/saint-remy-1889> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009654>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59f9fbb9e7d6e5195ecf52e608921919> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Saint-Rémy (1889 - 90)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d42411c54e964ab2f516dc7cb46b68b6> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Hague (1881 - 83)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-db455fe0812b0db5166d822326d1e2d6> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Etten (1881)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-1f2944b26897c485e770fff4a0921d7e> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Drenthe (1883)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-ebbfb7d77ed064aecd155bd261039dee> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Nuenen (1883 - 85)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-5fc36df9a9728e8899a5a0f6cb732a9b> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Arles (1888 - 89)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2663e3ba89aa6eb4c1f46c98f35ff431> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Early period (- 1878)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-025ca8a763299879a1661cfa015876a3> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Borinage/Brussels (1878 - 81)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4a4c4a707f24a9dbbf61e16d87f966fb> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Antwerp/Paris (1885 - 88)".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-11cf68503e975020365274b693699e50> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Auvers-sur-Oise (1890)".
+<http://vocab.getty.edu/tgn/7008775> <http://www.w3.org/2000/01/rdf-schema#label> "Arles".
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/tgn/7009654> <http://www.w3.org/2000/01/rdf-schema#label> "Saint-Rémy".
+<http://vocab.getty.edu/tgn/7011781> <http://www.w3.org/2000/01/rdf-schema#label> "London".
+<http://vocab.getty.edu/tgn/7006835> <http://www.w3.org/2000/01/rdf-schema#label> "Nuenen".
+<http://vocab.getty.edu/tgn/7008783> <http://www.w3.org/2000/01/rdf-schema#label> "Montmajour".
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam".
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/2000/01/rdf-schema#label> "Paris".
+<http://vocab.getty.edu/tgn/7007856> <http://www.w3.org/2000/01/rdf-schema#label> "Antwerp".
+<http://vocab.getty.edu/tgn/7006798> <http://www.w3.org/2000/01/rdf-schema#label> "Dordrecht".
+<http://vocab.getty.edu/tgn/7006810> <http://www.w3.org/2000/01/rdf-schema#label> "Den Haag".
+<http://vocab.getty.edu/tgn/7006842> <http://www.w3.org/2000/01/rdf-schema#label> "Eindhoven".
+<http://vocab.getty.edu/tgn/7007868> <http://www.w3.org/2000/01/rdf-schema#label> "Brussel".
+<http://vocab.getty.edu/tgn/1047858> <http://www.w3.org/2000/01/rdf-schema#label> "Hoogeveen".
+<http://vocab.getty.edu/tgn/7003614> <http://www.w3.org/2000/01/rdf-schema#label> "Drenthe".
+<http://vocab.getty.edu/tgn/7006824> <http://www.w3.org/2000/01/rdf-schema#label> "Etten".
+<http://vocab.getty.edu/tgn/1047843> <http://www.w3.org/2000/01/rdf-schema#label> "Helvoirt".
+<http://vocab.getty.edu/tgn/7008030> <http://www.w3.org/2000/01/rdf-schema#label> "Auvers-sur-Oise".
+<http://vocab.getty.edu/tgn/7016995> <http://www.w3.org/2000/01/rdf-schema#label> "Laken".
+<http://vocab.getty.edu/tgn/1047973> <http://www.w3.org/2000/01/rdf-schema#label> "Nieuw-Amsterdam".
+<http://vocab.getty.edu/tgn/7008792> <http://www.w3.org/2000/01/rdf-schema#label> "Les-Saintes-Maries-de-la-Mer".
+<http://vocab.getty.edu/tgn/1026382> <http://www.w3.org/2000/01/rdf-schema#label> "Cuesmes".
+<http://vocab.getty.edu/tgn/7012090> <http://www.w3.org/2000/01/rdf-schema#label> "Isleworth".
+<http://vocab.getty.edu/tgn/7011562> <http://www.w3.org/2000/01/rdf-schema#label> "Ramsgate".
+<https://vangoghworldwide.org/data/period/auvers-sur-oise-1890> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<https://vangoghworldwide.org/data/period/antwerp_paris-1885> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<https://vangoghworldwide.org/data/period/brussel-1878> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<http://vocab.getty.edu/tgn/4012066> <http://www.w3.org/2000/01/rdf-schema#label> "Wasmes".
+<https://vangoghworldwide.org/data/period/early_period> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<http://vocab.getty.edu/tgn/7027263> <http://www.w3.org/2000/01/rdf-schema#label> "Welwyn".
+<https://vangoghworldwide.org/data/period/arles-1888> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<https://vangoghworldwide.org/data/period/nuenen-1883> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<https://vangoghworldwide.org/data/period/drenthe-1883> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<https://vangoghworldwide.org/data/period/etten-1881> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<https://vangoghworldwide.org/data/period/den_haag-1881> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<https://vangoghworldwide.org/data/period/saint-remy-1889> <http://www.w3.org/2000/01/rdf-schema#label> "Period in the life of Vincent van Gogh".
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-17ec90f83348063d8fe9e0af1a0f262b> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1889-05-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-17ec90f83348063d8fe9e0af1a0f262b> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1890-05-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4816f5a5c2030248fa3186c11c4a5334> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1881-11-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-4816f5a5c2030248fa3186c11c4a5334> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1883-09-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2a7906f336812fb8054f97dd02fb9481> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1881-04-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-2a7906f336812fb8054f97dd02fb9481> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1881-09-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-125dc7bb24bc1fe02838da603b931d40> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1883-09-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-125dc7bb24bc1fe02838da603b931d40> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1883-12-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-c747279a78fb77bd752121d4f436b7c9> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1883-12-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-c747279a78fb77bd752121d4f436b7c9> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1885-11-24"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d87a16cbc30346b377a370bdca72fb7d> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1888-02-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-d87a16cbc30346b377a370bdca72fb7d> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1889-05-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59c91320afde970cebf7346821382e15> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1860-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-59c91320afde970cebf7346821382e15> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1878-04-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-369d35815282340cf8c493989d6e197a> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1878-05-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-369d35815282340cf8c493989d6e197a> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1881-04-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-0452689579b64a5b2d65395fc5be1596> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1885-11-24"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-0452689579b64a5b2d65395fc5be1596> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1888-02-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-64d3fccfa675f95e31190d5d5ea47554> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1890-05-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<bnode:b95caa7e-1732-4ef0-afc8-bcf3d7b3731b-64d3fccfa675f95e31190d5d5ea47554> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1890-07-29"^^<http://www.w3.org/2001/XMLSchema#date>.

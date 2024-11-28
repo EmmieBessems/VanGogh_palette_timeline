@@ -1,0 +1,317 @@
+@prefix ns1: <https://vangoghworldwide.org/data/> .
+@prefix ns2: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns2:name a rdfs:Resource .
+
+ns2:publisher a rdfs:Resource .
+
+ns2:url a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/0000002085> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "0000002085" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/0515334> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "0515334" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/0795> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "0795" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/13273> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "13273" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/13275> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "13275" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/13276> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "13276" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/13277> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "13277" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/13278> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "13278" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/191355> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "191355" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/192307111> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "192307111" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/192911094> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "192911094" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/1940,98> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "1940,98" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/1949-408> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "1949-408" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/196283> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "196283" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/1971677> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "1971677" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/19759> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "19759" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/20210916> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "20210916" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/2021243> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "2021243" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/20220504> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "20220504" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/20220510> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "20220510" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/20220511> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "20220511" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/239.1963> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "239.1963" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/323-1912> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "323-1912" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/332.1951> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "332.1951" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/3418i> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "3418i" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/594.1940> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "594.1940" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/Kr419> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "Kr419" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/M12843> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "M12843" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/OB3741PK> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "OB3741PK" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/RPP1912609> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "RPP1912609" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0062V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0062V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0150V1971v> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0150V1971v" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0211V1971r> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0211V1971r" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0294V1972> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0294V1972" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0295V1972> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0295V1972" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0296V1972> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0296V1972" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0302V1972r> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0302V1972r" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0303V1972r> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0303V1972r" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0303V1972v> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0303V1972v" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0308V1972> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0308V1972" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0310V1970> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0310V1970" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0312V1972> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0312V1972" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0313V1970r> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0313V1970r" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0313V1970v> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0313V1970v" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0317V1970> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0317V1970" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0318V1970v> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0318V1970v" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0321V1972> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0321V1972" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0374V1975> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0374V1975" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0385V1970> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0385V1970" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0408V1968> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0408V1968" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0758V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0758V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0772V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0772V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0773V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0773V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d0777V1980> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d0777V1980" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/d1216S2019> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "d1216S2019" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/km122865v> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "km122865v" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0003V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0003V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0012V1963> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0012V1963" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0013V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0013V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0016V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0016V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0466V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0466V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0467V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0467V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0468V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0468V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0469V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0469V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0470V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0470V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0471V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0471V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0473V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0473V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0475V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0475V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0476V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0476V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0477V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0477V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+<https://vangoghworldwide.org/data/artwork/p0479V1962> a <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> ;
+    ns1:identifier "p0479V1962" ;
+    ns1:inDataset <https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> .
+
+ns1:identifier a rdfs:Resource .
+
+ns1:inDataset a rdfs:Resource .
+
+<http://github.com/vangoghworldwide/works_assigned_after_1970> a rdfs:Resource .
+
+ns2:Dataset a rdfs:Resource .
+
+ns2:Organization a rdfs:Resource .
+
+<http://vocab.getty.edu/page/ulan/500456667> a ns2:Organization ;
+    ns2:name "RKD – Nederlands Instituut voor Kunstgeschiedenis" .
+
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/dataset/works_assigned_after_1970> a ns2:Dataset ;
+    ns2:name "Works assigned to Vincent van Gogh after 1970" ;
+    ns2:publisher <http://vocab.getty.edu/page/ulan/500456667> ;
+    ns2:url <http://github.com/vangoghworldwide/works_assigned_after_1970> .
+

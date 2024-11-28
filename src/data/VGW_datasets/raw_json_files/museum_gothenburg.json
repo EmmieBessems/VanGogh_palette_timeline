@@ -1,0 +1,1141 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500115588> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300054216> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "November 1889" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1889-11-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1889-11-30"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009654> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/author> ;
+    ns1:P94_has_created <https://goteborgskonstmuseum.se/data/document/GKM+0590/1> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publisher> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/document/GKM+0590/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/author> ;
+    ns1:P94_has_created <https://goteborgskonstmuseum.se/data/document/GKM+0590/2> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publisher> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/document/GKM+0590/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/author> ;
+    ns1:P94_has_created <https://goteborgskonstmuseum.se/data/document/GKM+0590/3> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488440> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/document/GKM+0590/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1961-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1961-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009954> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/author> ;
+    ns1:P94_has_created <https://goteborgskonstmuseum.se/data/document/GKM+0590/4> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1946-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1946-01-01"^^xsd:date ] .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/author> ;
+    ns1:P94_has_created <https://goteborgskonstmuseum.se/data/document/GKM+0590/5> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488440> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/document/GKM+0590/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2014-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2014-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009954> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/author> ;
+    ns1:P94_has_created <https://goteborgskonstmuseum.se/data/document/GKM+0590/6> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publisher> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/document/GKM+0590/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1954-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1954-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/author> ;
+    ns1:P94_has_created <https://goteborgskonstmuseum.se/data/document/GKM+0590/7> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publisher> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/document/GKM+0590/7> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2022-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2022-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/place> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488440> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009954> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488440> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009954> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488440> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009954> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500213367> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013503> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500234181> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500234181> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500242788> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003474> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500243484> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005289> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500275558> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500279332> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007269> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300157> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004905> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302400> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7010413> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302503> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009839> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303609> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304669> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013596> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500309231> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009861> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500310292> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008038> .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/500790> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003474> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/1> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300190692> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/2> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300051964> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/3> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300190692> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1989-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1989-01-01"^^xsd:date ] .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/4> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300053465> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/5> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300419323> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/6> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300225890> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/7> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300391245> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://goteborgskonstmuseum.se/data/technical/GKM+0590/8> ;
+    ns1:P16_used_specific_object <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300379538> .
+
+<https://media.rkd.nl/iiif/10770833> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770834> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770835> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770836> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770837> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770862> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770863> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/7> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770864> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770912> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://goteborgskonstmuseum.se/data/technical/GKM+0590/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "Landscapes" .
+
+<http://vocab.getty.edu/aat/300026657> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300028702> a ns1:E55_Type ;
+    rdfs:label "inscriptions" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "paintings" .
+
+<http://vocab.getty.edu/aat/300048715> a ns1:E55_Type ;
+    rdfs:label "article" .
+
+<http://vocab.getty.edu/aat/300051964> a ns1:E55_Type ;
+    rdfs:label "Daylight" .
+
+<http://vocab.getty.edu/aat/300053465> a ns1:E55_Type ;
+    rdfs:label "ultraviolet light studies" .
+
+<http://vocab.getty.edu/aat/300054216> a ns1:E55_Type ;
+    rdfs:label "painting" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300225890> a ns1:E55_Type ;
+    rdfs:label "Infrared transmitted light – IRTR" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379538> a ns1:E55_Type ;
+    rdfs:label "infrared reflectography" .
+
+<http://vocab.getty.edu/aat/300389336> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300391245> a ns1:E55_Type ;
+    rdfs:label "false-color infrared photography" .
+
+<http://vocab.getty.edu/aat/300417642> a ns1:E55_Type ;
+    rdfs:label "Purchase" .
+
+<http://vocab.getty.edu/aat/300419323> a ns1:E55_Type ;
+    rdfs:label "x-radiography" .
+
+<http://vocab.getty.edu/aat/300419325> a ns1:E55_Type ;
+    rdfs:label "X-radiograph" .
+
+<http://vocab.getty.edu/tgn/7004905> a ns1:E53_Place ;
+    rdfs:label "Essen" .
+
+<http://vocab.getty.edu/tgn/7005289> a ns1:E53_Place ;
+    rdfs:label "Hamburg" .
+
+<http://vocab.getty.edu/tgn/7007269> a ns1:E53_Place ;
+    rdfs:label "Basel" .
+
+<http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York" .
+
+<http://vocab.getty.edu/tgn/7008038> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+<http://vocab.getty.edu/tgn/7009654> a ns1:E53_Place ;
+    rdfs:label "Saint-Rémy-de-Provence" .
+
+<http://vocab.getty.edu/tgn/7009839> a ns1:E53_Place ;
+    rdfs:label "Malmö" .
+
+<http://vocab.getty.edu/tgn/7010413> a ns1:E53_Place ;
+    rdfs:label "Madrid" .
+
+<http://vocab.getty.edu/tgn/7013503> a ns1:E53_Place ;
+    rdfs:label "Dallas" .
+
+<http://vocab.getty.edu/tgn/7013596> a ns1:E53_Place ;
+    rdfs:label "Chicago" .
+
+<http://vocab.getty.edu/ulan/500115588> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<http://vocab.getty.edu/ulan/500213367> a ns1:E39_Actor ;
+    rdfs:label "Dallas Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500242788> a ns1:E39_Actor ;
+    rdfs:label "Statens Museum for Kunst" .
+
+<http://vocab.getty.edu/ulan/500243484> a ns1:E39_Actor ;
+    rdfs:label "Hamburger Kunsthalle" .
+
+<http://vocab.getty.edu/ulan/500279332> a ns1:E39_Actor ;
+    rdfs:label "Kunstmuseum Basel" .
+
+<http://vocab.getty.edu/ulan/500300157> a ns1:E39_Actor ;
+    rdfs:label "Museum Folkwang" .
+
+<http://vocab.getty.edu/ulan/500302400> a ns1:E39_Actor ;
+    rdfs:label "Museo Nacional Thyssen-Bornemisza" .
+
+<http://vocab.getty.edu/ulan/500302503> a ns1:E39_Actor ;
+    rdfs:label "Malmö Museum" .
+
+<http://vocab.getty.edu/ulan/500303609> a ns1:E39_Actor ;
+    rdfs:label "Metropolitan Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500304669> a ns1:E39_Actor ;
+    rdfs:label "Art Institute of Chicago" .
+
+<http://vocab.getty.edu/ulan/500309231> a ns1:E39_Actor ;
+    rdfs:label "Liljevachs Konsthall" .
+
+<http://vocab.getty.edu/ulan/500310292> a ns1:E39_Actor ;
+    rdfs:label "Galerie E. Druet" .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/500790> a ns1:E39_Actor ;
+    rdfs:label "Ordrupgaard Museum" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/author> a ns1:E21_Person ;
+    rdfs:label "Gunnarsson, Torsten and Hedström, Per" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publisher> a ns1:E74_Group ;
+    rdfs:label "Atlantis" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionismen och Norden. Franskt avantgarde i det sena 1800-talet och konsten i Norden 1870-1920" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/author> a ns1:E21_Person ;
+    rdfs:label "Romdahl, Axel L." .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publisher> a ns1:E74_Group ;
+    rdfs:label "P.A. Norstedt & Söners Förlag" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Konstmonologer i Göteborgs Museum" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/author> a ns1:E21_Person ;
+    rdfs:label "Ryndel, Nils" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Franskt måleri i Göteborgs konstmuseum. With a summary in English" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/author> a ns1:E21_Person ;
+    rdfs:label "Ekelöf, Gunnar" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/4> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Konstrevy (vol. XXII, no 3)" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Den store lärljungen" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/author> a ns1:E21_Person ;
+    rdfs:label "Arvidsson, Kristoffer, Dahlström, Per and Hyltze, Anna" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Collection" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/author> a ns1:E21_Person ;
+    rdfs:label "Hoppe, Ragnar" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publisher> a ns1:E74_Group ;
+    rdfs:label "Liljevalchs konsthall, Moderna Museets Vänner, Bonnier" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Cézanne till Picasso. Fransk konst i svensk ägo" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/author> a ns1:E21_Person ;
+    rdfs:label "Bakker, Nienke and Myers, Nicole R." .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/place> a ns1:E53_Place ;
+    rdfs:label "Dallas, New Haven, London" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publisher> a ns1:E74_Group ;
+    rdfs:label "Dallas Museum of Art, Yale University Press" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and the Olive Groves" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh. Utställning anordnad till förmån för svenska hollandshjälpen" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1946-05-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1946-05-26"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paul Gauguin. A distant paradise" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2000-11-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2001-01-28"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Friction of ideas: van Gogh, Gauguin, Bernard" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-07-19"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-10-19"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and the Olive Groves" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2021-10-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2022-02-06"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh. Utställning anordnad till förmån för svenska hollandshjälpen" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1946-03-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1946-04-28"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionismen och Norden" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2002-09-27"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2003-01-12"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionismen og Norden" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2003-02-22"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2003-05-25"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Luther und die Folgen für die Kunst" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1983-11-11"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-01-08"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh. Schilderijen" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1990-03-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1990-07-29"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh en Gauguin. Het atelier van het zuiden" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2002-02-09"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2002-06-02"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh en de olijfgaarden" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2022-03-11"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2022-06-12"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh zwischen Erde und Himmel: die Landschaften" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2009-04-26"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2009-09-27"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh und die Moderne 1890-1914" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1990-08-11"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1990-11-04"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Gauguin y los orígenes del simbolismo" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2004-09-28"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2005-01-09"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh. Utställning anordnad till förmån för svenska hollandshjälpen" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1946-05-29"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1946-06-16"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in St. Rémy and Auvers" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-11-12"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1987-03-22"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Gauguin: The Studio of the South" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2001-09-22"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2002-01-13"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Cézanne till Picasso. Fransk konst i svensk ägo" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1954-09-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1954-10-10"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Cinquante tableaux de Vincent van Gogh" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1909-11-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1909-11-20"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, Gauguin, Bernard. Dramaet i Arles" .
+
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-02-07"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-06-22"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/identifier/F586> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F586" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://goteborgskonstmuseum.se/data/identifier/GKM+0590> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "GKM 0590" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://goteborgskonstmuseum.se/data/identifier/JH1854> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1854" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500434185> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/timespan> ;
+    ns1:P9_consists_of <https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/acquisition> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500434185> ;
+    ns1:P24_transferred_title_of <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1916-01-01"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488440> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/timespan> ;
+    ns1:P9_consists_of <https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/acquisition> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/488440> ;
+    ns1:P24_transferred_title_of <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1917-01-01"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://goteborgskonstmuseum.se/data/actor/Louis%28%3F%29+Bernard> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/timespan> ;
+    ns1:P9_consists_of <https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/acquisition> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://goteborgskonstmuseum.se/data/actor/Louis%28%3F%29+Bernard> ;
+    ns1:P24_transferred_title_of <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1909-01-01"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500339434> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/timespan> ;
+    ns1:P9_consists_of <https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/acquisition> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500339434> ;
+    ns1:P24_transferred_title_of <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "verso_F586" .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "daylight_F586" .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "verso before conservation_F586" .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "ultraviolet light studies_F586" .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "x-radiography_F586" .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Infrared transmitted light_F586" .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "false-color infrared photography_F586" .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "infrared reflectography_F856" .
+
+<https://vangoghworldwide.org/data/artwork/F586> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300190692> a ns1:E55_Type ;
+    rdfs:label "Verso" .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/7003474> a ns1:E53_Place ;
+    rdfs:label "Copenhagen" .
+
+<http://vocab.getty.edu/ulan/500234181> a ns1:E39_Actor ;
+    rdfs:label "Nationalmuseum" .
+
+<http://vocab.getty.edu/ulan/500339434> a ns1:E39_Actor ;
+    rdfs:label "Theo van Gogh" .
+
+<http://vocab.getty.edu/ulan/500434185> a ns1:E39_Actor ;
+    rdfs:label "Galerie Bernheim-Jeune" .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://goteborgskonstmuseum.se/data/actor/Louis%28%3F%29+Bernard> a ns1:E39_Actor ;
+    rdfs:label "Louis(?) Bernard" .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/part> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/part> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/part> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/part> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/part> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/part> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/part> ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/title> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/title> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/title> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/title> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300419325> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/title> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/title> .
+
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/title> .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalogs" .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "book" .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://vocab.getty.edu/ulan/500275558> a ns1:E39_Actor ;
+    rdfs:label "Van Gogh Museum" .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7009954> a ns1:E53_Place ;
+    rdfs:label "Gothenburg" .
+
+ns1:E74_Group a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/7009861> a ns1:E53_Place ;
+    rdfs:label "Stockholm" .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+<https://data.rkd.nl/artists/488440> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Gothenburg Museum of Art" .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Olivskog, Saint-Rémy" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300389336> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Olive Grove, Saint-Rémy" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://goteborgskonstmuseum.se/data/identifier/F586>,
+        <https://goteborgskonstmuseum.se/data/identifier/GKM+0590>,
+        <https://goteborgskonstmuseum.se/data/identifier/JH1854> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 92.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 74.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Inscribed with handwriting on verso (upper stretcher bar, left of crossbar): 20£40" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/488440> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F586> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 72, 73 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "29 september 1916 Galerie Bernheim-Jeune" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 108, 113 repr., 306" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 272-273, 270-271 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/part> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Theo van Gogh collection 1890, L Bernard collection November 1909, Galerie Bernheim-Jeune September 1916, purchased by Gothenburg Museum of Art at Galerie Bernheim-Jeune 1917" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/artwork/GKM+0590> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "The painting was purchased from Galerie Bernheim-Jeune, Paris in 1917" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "unnumbered repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 138-139, 144-150, 14 repr., 142 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "L Bernard was listed as the owner as the work was exhibited as no 5 at Galerie Druet, Paris, Cinquante Tableaux de Vincent Van Gogh November 8-20, 1909" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 28-30, 26 repr." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 105" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "On the inventory list made by Andries Bonger of works in Theo van Goghs possession" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01> .
+

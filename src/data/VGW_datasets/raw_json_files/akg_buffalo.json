@@ -1,0 +1,3219 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix ns2: <http://purl.org/dc/> .
+@prefix ns3: <https://linked.art/ns/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns2:elements%2F1.1%2Fformat a rdfs:Resource .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P129_is_about a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://buffaloakg.org/data/actor/Joseph+Bernheim-Jeune> a ns1:E39_Actor ;
+    rdfs:label "Joseph Bernheim-Jeune" .
+
+<https://buffaloakg.org/data/artwork/1966%3A9.22/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Collection Buffalo AKG Art Museum, Bequest of A. Conger Goodyear, 1966" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/artwork/1966%3A9.22/homepage> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> ;
+    rdfs:label "home page for artwork" ;
+    ns2:elements%2F1.1%2Fformat "text/html" ;
+    ns1:P129_is_about <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300264578> ;
+    ns3:access_point <https://buffaloakg.org/artworks/1966922-la-maison-de-la-crau-old-mill> .
+
+<https://buffaloakg.org/data/artwork/1966%3A9.22/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300053368> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1888" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1888-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1888-12-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008775> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/1/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500314295> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1910-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1910-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/10/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303949> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/10/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1929-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1929-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7015822> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/11/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/11/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/11> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1929-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1929-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013527> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/12/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/12> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1932-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1932-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/13/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/487784> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/13> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1933-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1933-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013596> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/14/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500433981> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/14> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/14/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/14/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/14> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1935-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1935-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/15/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/15/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/15> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/15/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/15/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/15> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1936-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1936-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/16/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/16/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/16> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/16/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/16/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/16> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/17/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500316132> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/17> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/17/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501247> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/17> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1938-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1938-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/18/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/18> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/18/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/18/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/18> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1939-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1939-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/19/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/19/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/19> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/19/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304375> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/19> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1943-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1943-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/2> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/2/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/2/title> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500354391> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1912-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1912-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004333> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/20/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/20/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/20> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/20/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/20> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1946-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1946-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011066http://vocab.getty.edu/tgn/7007279> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/21/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488437> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/21> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1948-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1948-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013608> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/22/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500084574> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/22/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/22/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1949-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1949-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/23/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304375> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/23> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1955-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1955-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/24/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500643603> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/24> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/24/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/24/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/24> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1958-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1958-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/25/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/25/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/25> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1959-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1959-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/26/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303559> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/26> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1960-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1960-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014210> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/27/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/27> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/27/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1966-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1966-01-01"^^xsd:date ] .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/28/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/28> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1966-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1966-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/29/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/29> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/29/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/29/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1967-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1967-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500316150> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/3> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/3/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1923-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1923-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/30/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/485520> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/30> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1968-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1968-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013962> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/31/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/31/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/31> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1969-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1969-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006287> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/32/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/32/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/32> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/32/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/32> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1969-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1969-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/33/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/33/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/33> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/33/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/33/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/33> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1969-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1969-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/34/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500225381> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/34> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1969-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1969-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014080> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/35/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/35> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/35/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/35/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/35> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/36/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/36> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/36/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026642> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/36/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/36/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/36> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1971-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1971-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005903> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/37/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/37> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1972-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1972-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/38/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/38/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/38> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/38/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/38/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/38> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1974-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1974-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/39/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/39/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/39> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/39/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/39/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/39> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1975-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1975-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/4/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1926-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1926-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/40/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/40/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/40> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/40/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/40/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/40> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1979-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1979-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/41/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/41/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/41> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/41/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/41/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/41> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1980-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1980-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/42/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/347903> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/42> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/42/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/42/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/42> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1980-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1980-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/43/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/43/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/43> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/43/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/43/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/43> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1982-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1982-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7631950> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/44/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/44/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/44> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/44/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/44/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/44> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1984-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1984-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/45/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/45/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/45> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/45/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/45> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1984-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1984-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/46/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500056973> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/46> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/46/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/46/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/46> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1986-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1986-01-01"^^xsd:date ] .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/47/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/47> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/47/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026656> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/47/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/47> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1986-01-16"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1986-01-16"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7023900> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/48/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/48/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/48> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/48/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/48/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/48> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1987-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/49/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/49> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/49/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/49/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/5/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/5/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1927-05-14"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1927-05-14"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/50/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/50/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/50> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/51/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/51/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/51> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1991-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1991-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007240> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/52/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/52/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/52> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/52/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/52/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/52> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1994-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1994-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/53/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/53/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/53> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1995-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1995-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1136986> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/54/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/54> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1998-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1998-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004472http://vocab.getty.edu/tgn/7007567http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/55/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/55/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/55> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/55/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/55/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/55> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1999-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1999-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/56/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/56/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/56> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/56/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/56/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/56> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2011-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2011-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005903> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/57/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/57/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/57> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/57/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/57> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2012-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2012-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/58/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/58/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/58> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2013-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2013-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7026743> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/59/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/59/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/59> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/59/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/59> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2014-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2014-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/6/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/6> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/6/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/6/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304http://vocab.getty.edu/tgn/7007868> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/60/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/60/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/60> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/60/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/60> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2016-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2016-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/61/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/61> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2019-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2019-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463http://vocab.getty.edu/tgn/7013547> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/62/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/62/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/62> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/62/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500306739> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/62> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2022-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2022-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013547> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/63/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/63/author> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/63> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/63/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/63/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/63> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2022-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2022-01-01"^^xsd:date ] .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/7/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500444156> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/7> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/7/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500307106> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/7> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/8/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500241556> ;
+    ns1:P94_has_created <https://buffaloakg.org/data/document/1966%3A9.22/8> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/8/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/8/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1929-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1929-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/document/1966%3A9.22/9/publisher> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/document/1966%3A9.22/9/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1929-06-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1929-06-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/exhibition/485520/1968-05-19/1968-07-21> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/485520> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/485520/1968-05-19/1968-07-21/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/485520/1968-05-19/1968-07-21/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013962> .
+
+<https://buffaloakg.org/data/exhibition/487784/1933-06-01/1933-11-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/487784> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/487784/1933-06-01/1933-11-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/487784/1933-06-01/1933-11-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013596> .
+
+<https://buffaloakg.org/data/exhibition/488437/1948-11-03/1948-12-12> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/488437> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/488437/1948-11-03/1948-12-12/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/488437/1948-11-03/1948-12-12/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013608> .
+
+<https://buffaloakg.org/data/exhibition/495488/1905-07-01/1905-08-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495488> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495488/1905-07-01/1905-08-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495488/1905-07-01/1905-08-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://buffaloakg.org/data/exhibition/495897/1928-06-17/1928-08-05> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/1928-06-17/1928-08-05/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/1928-06-17/1928-08-05/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/1928-07-01/1928-09-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/1928-07-01/1928-09-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/1932-11-01/1932-11-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/1932-11-01/1932-11-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/1932-11-01/1932-11-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/1966-04-30/1966-06-05> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/1966-04-30/1966-06-05/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/1966-04-30/1966-06-05/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/1996-07-13/1996-09-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/1996-07-13/1996-09-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/1996-07-13/1996-09-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/1998-01-31/1998-03-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/1998-01-31/1998-03-15/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/1998-01-31/1998-03-15/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-03-04> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-03-04/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-03-04/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-04-02> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-04-02/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-04-02/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/2013-11-17/2014-10-05> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/2013-11-17/2014-10-05/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/2013-11-17/2014-10-05/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/2014-07-05/2014-09-14> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/2014-07-05/2014-09-14/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/2014-07-05/2014-09-14/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/2015-11-15/2016-03-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/2015-11-15/2016-03-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/2015-11-15/2016-03-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/2019-02-02/2019-05-26> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/2019-02-02/2019-05-26/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/2019-02-02/2019-05-26/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/495897/2023-06-12/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/495897/2023-06-12/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/495897/2023-06-12/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013463> .
+
+<https://buffaloakg.org/data/exhibition/500225381/1969-07-03/1969-09-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500225381> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500225381/1969-07-03/1969-09-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500225381/1969-07-03/1969-09-07/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014080> .
+
+<https://buffaloakg.org/data/exhibition/500242559/2014-03-02/2014-06-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500242559> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500242559/2014-03-02/2014-06-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500242559/2014-03-02/2014-06-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013545> .
+
+<https://buffaloakg.org/data/exhibition/500250849/1969-10-23/1969-11-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500250849/1969-10-23/1969-11-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500250849/1969-10-23/1969-11-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006287> .
+
+<https://buffaloakg.org/data/exhibition/500265900/1929-03-06/1929-04-06> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500265900> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500265900/1929-03-06/1929-04-06/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500265900/1929-03-06/1929-04-06/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013527> .
+
+<https://buffaloakg.org/data/exhibition/500300349/1998-08-08/1998-09-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300349> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500300349/1998-08-08/1998-09-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500300349/1998-08-08/1998-09-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004499> .
+
+<https://buffaloakg.org/data/exhibition/500302980/2015-06-18/2015-09-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302980> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500302980/2015-06-18/2015-09-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500302980/2015-06-18/2015-09-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014071> .
+
+<https://buffaloakg.org/data/exhibition/500303002/1998-09-19/1998-11-03> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303002> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500303002/1998-09-19/1998-11-03/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500303002/1998-09-19/1998-11-03/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004660> .
+
+<https://buffaloakg.org/data/exhibition/500303387/1998-06-19/1998-08-02> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303387> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500303387/1998-06-19/1998-08-02/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500303387/1998-06-19/1998-08-02/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004736> .
+
+<https://buffaloakg.org/data/exhibition/500303559/1960-05-19/1960-06-26> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303559> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500303559/1960-05-19/1960-06-26/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500303559/1960-05-19/1960-06-26/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014210> .
+
+<https://buffaloakg.org/data/exhibition/500304375/1943-10-06/1943-11-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304375> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500304375/1943-10-06/1943-11-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500304375/1943-10-06/1943-11-07/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/exhibition/500304375/1955-03-01/1955-04-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304375> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500304375/1955-03-01/1955-04-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500304375/1955-03-01/1955-04-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/exhibition/500306739/2019-06-23/2019-10-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500306739> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500306739/2019-06-23/2019-10-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500306739/2019-06-23/2019-10-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013547> .
+
+<https://buffaloakg.org/data/exhibition/500306739/2022-10-02/2023-01-22> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500306739> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500306739/2022-10-02/2023-01-22/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500306739/2022-10-02/2023-01-22/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013547> .
+
+<https://buffaloakg.org/data/exhibition/500307916/2006-05-28/2006-09-23> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500307916> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500307916/2006-05-28/2006-09-23/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500307916/2006-05-28/2006-09-23/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013047> .
+
+<https://buffaloakg.org/data/exhibition/500308532/2014-10-04/2015-01-27> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500308532> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500308532/2014-10-04/2015-01-27/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500308532/2014-10-04/2015-01-27/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014455> .
+
+<https://buffaloakg.org/data/exhibition/500311490/1937-01-01/1937-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500311490> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500311490/1937-01-01/1937-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013962> .
+
+<https://buffaloakg.org/data/exhibition/500404081/2015-02-21/2015-06-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500404081> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500404081/2015-02-21/2015-06-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500404081/2015-02-21/2015-06-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/2007724> .
+
+<https://buffaloakg.org/data/exhibition/500445050/1927-04-01/1927-04-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500445050> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500445050/1927-04-01/1927-04-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500445050/1927-04-01/1927-04-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/exhibition/500948/1984-10-03/1984-12-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/500948> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/500948/1984-10-03/1984-12-30/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/500948/1984-10-03/1984-12-30/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/exhibition/501247/1929-11-08/1929-12-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501247> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/501247/1929-11-08/1929-12-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/501247/1929-11-08/1929-12-07/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/exhibition/501247/1935-11-01/1936-01-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501247> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/501247/1935-11-01/1936-01-31/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/501247/1935-11-01/1936-01-31/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://buffaloakg.org/data/exhibition/501259/1936-02-02/1936-03-13> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501259> ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/501259/1936-02-02/1936-03-13/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/501259/1936-02-02/1936-03-13/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014406> .
+
+<https://buffaloakg.org/data/exhibition/organisation/1998-04-16/1998-06-08> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/exhibition/organisation/1998-04-16/1998-06-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/exhibition/organisation/1998-04-16/1998-06-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004472> .
+
+<https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1927-12-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500444156> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1927-12-30/timespan> ;
+    ns1:P9_consists_of <https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1927-12-30/acquisition> .
+
+<https://buffaloakg.org/data/provenance/Albright-Knox+Art+Gallery/1966-01-15> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495897> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/provenance/Albright-Knox+Art+Gallery/1966-01-15/timespan> ;
+    ns1:P9_consists_of <https://buffaloakg.org/data/provenance/Albright-Knox+Art+Gallery/1966-01-15/acquisition> .
+
+<https://buffaloakg.org/data/provenance/Bernheim-Jeune+%26+Cie/1927-11-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500434185> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/provenance/Bernheim-Jeune+%26+Cie/1927-11-01/timespan> ;
+    ns1:P9_consists_of <https://buffaloakg.org/data/provenance/Bernheim-Jeune+%26+Cie/1927-11-01/acquisition> .
+
+<https://buffaloakg.org/data/provenance/Dr.+Stephen+Goodyear/1946-12-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://buffaloakg.org/data/actor/Dr.+Stephen+Goodyear> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417637> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/provenance/Dr.+Stephen+Goodyear/1946-12-01/timespan> ;
+    ns1:P9_consists_of <https://buffaloakg.org/data/provenance/Dr.+Stephen+Goodyear/1946-12-01/acquisition> .
+
+ns3:access_point a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770791> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://buffaloakg.org/data/artwork/1966%3A9.22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "Canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "Landscapes" .
+
+<http://vocab.getty.edu/aat/300026368> a ns1:E55_Type ;
+    rdfs:label "examination study guides" .
+
+<http://vocab.getty.edu/aat/300026642> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300026656> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300026741> a ns1:E55_Type ;
+    rdfs:label "calendars (documents)" .
+
+<http://vocab.getty.edu/aat/300026816> a ns1:E55_Type ;
+    rdfs:label "postcards" .
+
+<http://vocab.getty.edu/aat/300028702> a ns1:E55_Type ;
+    rdfs:label "inscriptions" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Painting" .
+
+<http://vocab.getty.edu/aat/300053368> a ns1:E55_Type ;
+    rdfs:label "impasto" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300134989> a ns1:E55_Type ;
+    rdfs:label "news photographs" .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300264578> a ns1:E55_Type ;
+    rdfs:label "web page" .
+
+<http://vocab.getty.edu/aat/300311670> a ns1:E55_Type ;
+    rdfs:label "booklets" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300417641> a ns1:E55_Type ;
+    rdfs:label "bequest" .
+
+<http://vocab.getty.edu/aat/300445014> a ns1:E55_Type ;
+    rdfs:label "returning" .
+
+<http://vocab.getty.edu/tgn/1136986> a ns1:E53_Place ;
+    rdfs:label "Weingarten" .
+
+<http://vocab.getty.edu/tgn/2007724> a ns1:E53_Place ;
+    rdfs:label "Bentonville" .
+
+<http://vocab.getty.edu/tgn/7004333> a ns1:E53_Place ;
+    rdfs:label "Munich" .
+
+<http://vocab.getty.edu/tgn/7004472> a ns1:E53_Place ;
+    rdfs:label "Tokyo" .
+
+<http://vocab.getty.edu/tgn/7004472http://vocab.getty.edu/tgn/7007567http://vocab.getty.edu/tgn/7013463> a ns1:E53_Place ;
+    rdfs:label "Tokio ; Buffalo, New York" .
+
+<http://vocab.getty.edu/tgn/7004499> a ns1:E53_Place ;
+    rdfs:label "Hiroshima" .
+
+<http://vocab.getty.edu/tgn/7004660> a ns1:E53_Place ;
+    rdfs:label "Mito" .
+
+<http://vocab.getty.edu/tgn/7004736> a ns1:E53_Place ;
+    rdfs:label "Nagoya" .
+
+<http://vocab.getty.edu/tgn/7007240> a ns1:E53_Place ;
+    rdfs:label "Florida" .
+
+<http://vocab.getty.edu/tgn/7007567http://vocab.getty.edu/tgn/7013463> a ns1:E53_Place ;
+    rdfs:label "New York ; Buffalo" .
+
+<http://vocab.getty.edu/tgn/7007567http://vocab.getty.edu/tgn/7250304> a ns1:E53_Place ;
+    rdfs:label "New York ; Paris" .
+
+<http://vocab.getty.edu/tgn/7008775> a ns1:E53_Place ;
+    rdfs:label "Arles" .
+
+<http://vocab.getty.edu/tgn/7011066http://vocab.getty.edu/tgn/7007279> a ns1:E53_Place ;
+    rdfs:label "Monaco ; Geneve" .
+
+<http://vocab.getty.edu/tgn/7013047> a ns1:E53_Place ;
+    rdfs:label "Hamilton" .
+
+<http://vocab.getty.edu/tgn/7013463http://vocab.getty.edu/tgn/7013547> a ns1:E53_Place ;
+    rdfs:label "Buffalo; Detroit, Michigan" .
+
+<http://vocab.getty.edu/tgn/7013545> a ns1:E53_Place ;
+    rdfs:label "Denver" .
+
+<http://vocab.getty.edu/tgn/7014071> a ns1:E53_Place ;
+    rdfs:label "Milwaukee" .
+
+<http://vocab.getty.edu/tgn/7014406> a ns1:E53_Place ;
+    rdfs:label "Philadelphia" .
+
+<http://vocab.getty.edu/tgn/7014455> a ns1:E53_Place ;
+    rdfs:label "San Diego" .
+
+<http://vocab.getty.edu/tgn/7015822> a ns1:E53_Place ;
+    rdfs:label "Brooklyn" .
+
+<http://vocab.getty.edu/tgn/7023900> a ns1:E53_Place ;
+    rdfs:label "Los Angeles" .
+
+<http://vocab.getty.edu/tgn/7026743> a ns1:E53_Place ;
+    rdfs:label "Swindon" .
+
+<http://vocab.getty.edu/tgn/7250304http://vocab.getty.edu/tgn/7007868> a ns1:E53_Place ;
+    rdfs:label "Paris ; Brussels" .
+
+<http://vocab.getty.edu/tgn/7631950> a ns1:E53_Place ;
+    rdfs:label "La Calade" .
+
+<http://vocab.getty.edu/ulan/500056973> a ns1:E21_Person ;
+    rdfs:label "Sutton, Peter C." .
+
+<http://vocab.getty.edu/ulan/500084574> a ns1:E21_Person ;
+    rdfs:label "Wilenski, Reginald Howard" .
+
+<http://vocab.getty.edu/ulan/500241556> a ns1:E21_Person ;
+    rdfs:label "Barr, Alfred H., Jr." .
+
+<http://vocab.getty.edu/ulan/500242559> a ns1:E39_Actor ;
+    rdfs:label "Denver Art Museum" .
+
+<http://vocab.getty.edu/ulan/500250849> a ns1:E39_Actor ;
+    rdfs:label "Museo Nacional de Bellas Artes" .
+
+<http://vocab.getty.edu/ulan/500265900> a ns1:E39_Actor ;
+    rdfs:label "Fogg Art Museum" .
+
+<http://vocab.getty.edu/ulan/500300349> a ns1:E39_Actor ;
+    rdfs:label "Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500302980> a ns1:E39_Actor ;
+    rdfs:label "Milwaukee Art Museum" .
+
+<http://vocab.getty.edu/ulan/500303002> a ns1:E39_Actor ;
+    rdfs:label "Ibaraki Museum of Modern Art" .
+
+<http://vocab.getty.edu/ulan/500303387> a ns1:E39_Actor ;
+    rdfs:label "Aichi Cultural Center" .
+
+<http://vocab.getty.edu/ulan/500303949> a ns1:E74_Group ;
+    rdfs:label "Hamilton Easter Field" .
+
+<http://vocab.getty.edu/ulan/500307106> a ns1:E74_Group ;
+    rdfs:label "The Buffalo Fine Arts Academy" .
+
+<http://vocab.getty.edu/ulan/500307916> a ns1:E39_Actor ;
+    rdfs:label "Art Gallery of Hamilton" .
+
+<http://vocab.getty.edu/ulan/500308532> a ns1:E39_Actor ;
+    rdfs:label "San Diego Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500311490> a ns1:E39_Actor ;
+    rdfs:label "Washington Gallery of Modern Art" .
+
+<http://vocab.getty.edu/ulan/500314295> a ns1:E74_Group ;
+    rdfs:label "Bernheim Jeune" .
+
+<http://vocab.getty.edu/ulan/500316132> a ns1:E21_Person ;
+    rdfs:label "Lord Douglas (ed.)" .
+
+<http://vocab.getty.edu/ulan/500316150> a ns1:E21_Person ;
+    rdfs:label "Coquiot, Gustave" .
+
+<http://vocab.getty.edu/ulan/500354391> a ns1:E74_Group ;
+    rdfs:label "Piper & Co." .
+
+<http://vocab.getty.edu/ulan/500404081> a ns1:E39_Actor ;
+    rdfs:label "Crystal Bridges Museum of American Art" .
+
+<http://vocab.getty.edu/ulan/500433981> a ns1:E21_Person ;
+    rdfs:label "Terrasse, Charles" .
+
+<http://vocab.getty.edu/ulan/500445050> a ns1:E39_Actor ;
+    rdfs:label "De Hauke & Co." .
+
+<http://vocab.getty.edu/ulan/500643603> a ns1:E21_Person ;
+    rdfs:label "Elgar, Frank" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://buffaloakg.org/artworks/1966922-la-maison-de-la-crau-old-mill> a <http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/1/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Theodore Duret: Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/10> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/10/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/10/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/10/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/10> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/10/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/10/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Arts (15 (1929, April) nr. 4)" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/10/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Fogg Museum Celebrates" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/11> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/11/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/11/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/11/publisher> a ns1:E74_Group ;
+    rdfs:label "Harvard University Press" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/11/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Exhibition of French Painting of the Nineteenth and Twentieth Centuries" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/12/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/12/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalogue of the Exhibition of Nineteenth Century French Art: Paintings, Watercolors, Drawings, Prints, Sculpture" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/13> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/13/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/13/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/13/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Century of Progress: Exhibition of Paintings and Sculpture" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/14/publisher> a ns1:E74_Group ;
+    rdfs:label "Floury" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/14/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, Peintre" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/15/author> a ns1:E21_Person ;
+    rdfs:label "Bulliet, C.J." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/15/publisher> a ns1:E74_Group ;
+    rdfs:label "Halcyon House" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/15/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Significant Moderns and Their Pictures" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/16/author> a ns1:E21_Person ;
+    rdfs:label "Scherjon, W.; de Gruyter, Jos" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/16/publisher> a ns1:E74_Group ;
+    rdfs:label "De Spieghel Ltd." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/16/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh's Great Period: Arles, Saint-Rémy and Auvers-sur-Oise" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/17/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Letters to Emile Bernard" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/18/publisher> a ns1:E74_Group ;
+    rdfs:label "Hyperion Press" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/18/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/19/author> a ns1:E21_Person ;
+    rdfs:label "de Batz, Georges" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/19/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Art and Life of Vincent van Gogh: Loan Exhibition in Aid of American and Dutch War Relief" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Mappe" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/20/author> a ns1:E21_Person ;
+    rdfs:label "Hautecoeur, L." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/20/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/21> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/21/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/21/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/21/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Work by Vincent van Gogh: Catalogue Of a Loan Exhibition at The Cleveland Museum of Art, November 3 Through December 12" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/22/publisher> a ns1:E74_Group ;
+    rdfs:label "Medici Society" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/22/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "French Painting" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/23> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/23/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/23/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/23/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Loan Exhibition for the Benefit of the Public Education Association, March 24-April 30, 1955" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/24/publisher> a ns1:E74_Group ;
+    rdfs:label "Frederick A. Praeger Publishers" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/24/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: A Study of His Life and Work" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/25> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/25/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/25/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/25/publisher> a ns1:E74_Group ;
+    rdfs:label "New York Graphic Society" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/25/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Complete Letters of Vincent Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/26> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/26/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/26/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/26/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings, Drawings, and Sculpture Collected by Yale Alumni" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27/author> a ns1:E21_Person ;
+    rdfs:label "Tellegen, Annet" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/27> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/27/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Museumjournall (ser. II, nos. 1-2, 1966)" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent en de Chamaillard" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/28> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/28/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/28/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/28/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings, Sculpture, Drawings, Prints Collected by A. Conger Goodyear" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/author> a ns1:E21_Person ;
+    rdfs:label "Townsend, Benjamin" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/29> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/29/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Art News (65, no. 9 (January 1967))" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/publisher> a ns1:E74_Group ;
+    rdfs:label "Art News, published by Sadakichi Hartmann" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Albright-Knox-Buffalo: Work in Progress" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/3/publisher> a ns1:E74_Group ;
+    rdfs:label "Ollendorff" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh Avec 24 reproductions hors-texte des oeuvres de Vincent Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/30> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/30/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/30/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/30/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/31> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/31/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/31/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/31/publisher> a ns1:E74_Group ;
+    rdfs:label "Asociación Amigos del Museo Nacional de Bellas Artes" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/31/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "109 obras de Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/32/author> a ns1:E21_Person ;
+    rdfs:label "Tralbaut, M.E." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/32/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/33/author> a ns1:E21_Person ;
+    rdfs:label "Spaeth, Eloise" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/33/publisher> a ns1:E74_Group ;
+    rdfs:label "McGraw-Hill" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/33/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "American Art Museums: An Introduction to Looking" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/34> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/34/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/34/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/34/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Past Rediscovered: French Painting, 1800-1900" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/35/publisher> a ns1:E74_Group ;
+    rdfs:label "Meulenhoff International" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/35/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Work of Vincent van Gogh, His Paintings and Drawings" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/36/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Classici Dell'Arte 52 (vol. 2)" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/36/publisher> a ns1:E74_Group ;
+    rdfs:label "Rizzoli Editore" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/36/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L'Opera Pittorica Completa di Vincent Van Gogh e I Suoi Nessi Grafici" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/37> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/37/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/37/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300311670> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/37/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Visit to the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/38/author> a ns1:E21_Person ;
+    rdfs:label "Petrie, Brian" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/38/publisher> a ns1:E74_Group ;
+    rdfs:label "Phaidon Press Ltd." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/38/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Paintings, Drawings, and Prints: 108 Reproductions" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/39/author> a ns1:E21_Person ;
+    rdfs:label "Treble, Rosemary" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/39/publisher> a ns1:E74_Group ;
+    rdfs:label "The Hamlyn Publishing Group, Ltd." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/39/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and His Art" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/4/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Lettres de Vincent van Gogh à Emile Bernard" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/40/author> a ns1:E21_Person ;
+    rdfs:label "Nash, Steven A.; Kline, Katy; Kotik, Charlotta; Wood, Emese" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/40/publisher> a ns1:E74_Group ;
+    rdfs:label "Rizzoli International Publications, Inc., in association with the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/40/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Albright-Knox Art Gallery: Painting and Sculpture from Antiquity to 1942" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/41/author> a ns1:E21_Person ;
+    rdfs:label "Sherman, Lila" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/41/publisher> a ns1:E74_Group ;
+    rdfs:label "Morrow" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/41/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Art Museums of America: A Guide to Collections in the United States and Canada" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/42/publisher> a ns1:E74_Group ;
+    rdfs:label "Oxford" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/42/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Complete van Gogh: Paintings, Drawings, Sketches" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/43/author> a ns1:E21_Person ;
+    rdfs:label "Clébert, Jean-Paul; Richard, Pièrre" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/43/publisher> a ns1:E74_Group ;
+    rdfs:label "Édisud" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/43/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La Provence de Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/44/author> a ns1:E21_Person ;
+    rdfs:label "Barrielle, Jean-François" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/44/publisher> a ns1:E74_Group ;
+    rdfs:label "ACR Édition Internationale" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/44/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La Vie et l'oeuvre de Vincent Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/45/author> a ns1:E21_Person ;
+    rdfs:label "Pickvance, Ronald" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/45/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Arles" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/46/publisher> a ns1:E74_Group ;
+    rdfs:label "Netherland-American Amity Trust, Inc.; Eerdmans" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/46/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Guide to Dutch Art in America" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/47/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Los Angeles Times" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/47/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Cover of Part VIII of the Los Angeles Times" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/48/author> a ns1:E21_Person ;
+    rdfs:label "Evren, Robert; Kline, Katy; Kotik, Charlotta; Krane, Susan; Moore, Ethel; Nash, Steven; Raye, Helen; Wood, Emese ; Spaulding, Karen Lee (ed.)" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/48/publisher> a ns1:E74_Group ;
+    rdfs:label "Rizzoli International Publications, Inc., in association with the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/48/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "125 Masterpieces from the Collection of the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/author> a ns1:E21_Person ;
+    rdfs:label "Lee, Richard V." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/49> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/49/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Clinical Epidemiology (Vol. 43, No. 5)" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/publisher> a ns1:E74_Group ;
+    rdfs:label "Pergamon Press" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Clinical Picture" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/5> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/5/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/5/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/5> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/5/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/5/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Art News" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Notes on the Colour Plates" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/50> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/50/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/50/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026816> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/50/publisher> a ns1:E74_Group ;
+    rdfs:label "Editons du Chêne" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/50/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh [book of postcards]" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/51> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/51/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/51/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026368> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/51/publisher> a ns1:E74_Group ;
+    rdfs:label "The State of Florida" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/51/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Study Guide for the Florida Teacher Certification Examination: Art K-12" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/52/author> a ns1:E21_Person ;
+    rdfs:label "Pécout, Roland" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/52/publisher> a ns1:E74_Group ;
+    rdfs:label "Editions de Paris" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/52/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Itinéraires de Van Gogh en Provence" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/53> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/53/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/53/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026741> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/53/publisher> a ns1:E74_Group ;
+    rdfs:label "Kunstverlag" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/53/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "1996 Wall Calender" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/54> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/54/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/54/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/54/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces of European Painting from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/55/author> a ns1:E21_Person ;
+    rdfs:label "Bayles, Jennifer; Brutvan, Cheryl A.; Evren, Robert; Kline, Katy; Kotik, Charlotta; Krane, Susan; Mayer, Marc; Moore, Ethel; Nash, Steven; Raye, Helen; Smith, Mariann W.; Wood, Emese; Spaulding, Karen Lee (ed.)" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/55/publisher> a ns1:E74_Group ;
+    rdfs:label "Hudson Hills Press, in association with the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/55/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterworks at the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/56/author> a ns1:E21_Person ;
+    rdfs:label "Dreishpoon, Douglas; Hughes, Holly E.; Smith, Mariann W.; Tejada, Susana" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/56/publisher> a ns1:E74_Group ;
+    rdfs:label "Skira" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/56/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Long Curve: 150 Years of Visionary Collecting at the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/57/author> a ns1:E21_Person ;
+    rdfs:label "Dreishpoon, Douglas; Grachos, Louis; Pagel, David; Pesanti, Heather" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/57/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Decade: Contemporary Collecting 2002-2012" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/58> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/58/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/58/publisher> a ns1:E74_Group ;
+    rdfs:label "Instinctive Product Development Ltd." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/58/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/59/author> a ns1:E21_Person ;
+    rdfs:label "Berkson, Bill; Christian, Diane; Dreishpoon, Douglas; Felder, David; Glass, Simon; Huyssen, Andreas; Lin-Hill, Joe" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/59/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Anselm Kiefer: Beyond Landscape" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/6/publisher> a ns1:E74_Group ;
+    rdfs:label "Van Oest Editions" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L'Oeuvre de Vincent Van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/60/author> a ns1:E21_Person ;
+    rdfs:label "Sirén, Janne" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/60/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Impressionist Revolution and the Advent of Abstract Art" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/61> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/61/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/61/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/61/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Humble and Human: Treasures from the Albright-Knox Art Gallery and the Detroit Institute of Arts: An Exhibition in Honor of Ralph C. Wilson, Jr." .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/62/author> a ns1:E21_Person ;
+    rdfs:label "Esner, Rachel; Hoeven, Joost van der; Krikke, Julia; Shaw, Jill; Stein, susan Alyson; Stolwijk, Chris; Zwikker, Roelie; Chudzicka, Dorota ; Shaw, Jill (ed.)" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/62/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in America" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/63/author> a ns1:E21_Person ;
+    rdfs:label "Berna, Cristina; Thomsen, Eric" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/63/publisher> a ns1:E74_Group ;
+    rdfs:label "MissysClan" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/63/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Landscapes" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalog of a Selection of Nine Paintings by Pierre-Auguste Renoir From the Studio of Durand-Ruel Inc., Supplemented by a Selection of Paintings of the French Modern School From the Collection of A. C. Goodyear, and Other Single Loans, Also Important Examples of French Art in the Permanent Collection" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/8/publisher> a ns1:E74_Group ;
+    rdfs:label "Trustees of the Museum of Modern Art, New York" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "First Loan Exhibition, New York, November, 1929: Cézanne, Gauguin, Seurat, van Gogh" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/9/part> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/9/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/9> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/9/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/9/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "International Studio (93 (1929 June))" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/9/publisher> a ns1:E74_Group ;
+    rdfs:label "International Studio, Inc." .
+
+<https://buffaloakg.org/data/exhibition/485520/1968-05-19/1968-07-21/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/485520/1968-05-19/1968-07-21/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1968-05-19"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1968-07-21"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/487784/1933-06-01/1933-11-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Century of Progress: Exhibition of Paintings and Sculpture" .
+
+<https://buffaloakg.org/data/exhibition/487784/1933-06-01/1933-11-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1933-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1933-11-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/488437/1948-11-03/1948-12-12/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Work by Vincent van Gogh" .
+
+<https://buffaloakg.org/data/exhibition/488437/1948-11-03/1948-12-12/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1948-11-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1948-12-12"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495488/1905-07-01/1905-08-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Tentoonstelling van Schilderijen en Teekeningen door Vincent van Gogh" .
+
+<https://buffaloakg.org/data/exhibition/495488/1905-07-01/1905-08-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-07-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1905-08-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/1928-06-17/1928-08-05/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Selection of Paintings of the French Modern School from the Collection of A. C. Goodyear" .
+
+<https://buffaloakg.org/data/exhibition/495897/1928-06-17/1928-08-05/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1928-06-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1928-08-05"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/1928-07-01/1928-09-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1928-07-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1928-09-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/1932-11-01/1932-11-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Nineteenth Century: French Art in Retrospect, Eighteen Hundred to Nineteen Hundred" .
+
+<https://buffaloakg.org/data/exhibition/495897/1932-11-01/1932-11-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1932-11-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1932-11-30"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/1966-04-30/1966-06-05/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A. Conger Goodyear Collects" .
+
+<https://buffaloakg.org/data/exhibition/495897/1966-04-30/1966-06-05/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1966-04-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1966-06-05"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/1996-07-13/1996-09-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The A. Conger Goodyear Collection" .
+
+<https://buffaloakg.org/data/exhibition/495897/1996-07-13/1996-09-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1996-07-13"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1996-09-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/1998-01-31/1998-03-15/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionism to Surrealism: European Paintings from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/495897/1998-01-31/1998-03-15/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-01-31"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-03-15"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-03-04/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Long Curve: 150 Years of Collecting at the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-03-04/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2011-11-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2012-03-04"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-04-02/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Long Curve [online exhibition]" .
+
+<https://buffaloakg.org/data/exhibition/495897/2011-11-04/2012-04-02/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2011-11-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2012-04-02"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/2013-11-17/2014-10-05/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Anselm Kiefer: Beyond Landscape" .
+
+<https://buffaloakg.org/data/exhibition/495897/2013-11-17/2014-10-05/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2013-11-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-10-05"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/2014-07-05/2014-09-14/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Sincerely Yours: Treasures of the Queen City" .
+
+<https://buffaloakg.org/data/exhibition/495897/2014-07-05/2014-09-14/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-07-05"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-09-14"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/2015-11-15/2016-03-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Monet and the Impressionist Revolution, 1860-1910" .
+
+<https://buffaloakg.org/data/exhibition/495897/2015-11-15/2016-03-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2015-11-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2016-03-20"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/2019-02-02/2019-05-26/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Humble and Human: An Exhibition in Honor of Ralph C. Wilson, Jr. / Treasures from the Albright-Knox Art Gallery and the Detroit Institute of Arts" .
+
+<https://buffaloakg.org/data/exhibition/495897/2019-02-02/2019-05-26/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2019-02-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2019-05-26"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/495897/2023-06-12/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Buffalo AKG Art Museum Inaugural Collection Installation" .
+
+<https://buffaloakg.org/data/exhibition/495897/2023-06-12/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2023-06-12"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500225381/1969-07-03/1969-09-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Past Rediscovered: French Painting, 1800-1900" .
+
+<https://buffaloakg.org/data/exhibition/500225381/1969-07-03/1969-09-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1969-07-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1969-09-07"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500242559/2014-03-02/2014-06-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Long Curve: 150 Years of Collecting at the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500242559/2014-03-02/2014-06-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-03-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2014-06-08"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500250849/1969-10-23/1969-11-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "109 obras de Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500250849/1969-10-23/1969-11-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1969-10-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1969-11-30"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500265900/1929-03-06/1929-04-06/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "French Painting of the Nineteenth and Twentieth Centuries" .
+
+<https://buffaloakg.org/data/exhibition/500265900/1929-03-06/1929-04-06/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1929-03-06"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1929-04-06"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500300349/1998-08-08/1998-09-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionism to Surrealism: European Paintings from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500300349/1998-08-08/1998-09-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-08-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-09-13"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500302980/2015-06-18/2015-09-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Long Curve: 150 Years of Collecting at the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500302980/2015-06-18/2015-09-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2015-06-18"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-09-20"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500303002/1998-09-19/1998-11-03/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionism to Surrealism: European Paintings from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500303002/1998-09-19/1998-11-03/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-09-19"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-11-03"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500303387/1998-06-19/1998-08-02/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionism to Surrealism: European Paintings from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500303387/1998-06-19/1998-08-02/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-06-19"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-08-02"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500303559/1960-05-19/1960-06-26/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings, Drawings and Sculpture Collected by Yale Alumni" .
+
+<https://buffaloakg.org/data/exhibition/500303559/1960-05-19/1960-06-26/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1960-05-19"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1960-06-26"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500304375/1943-10-06/1943-11-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://buffaloakg.org/data/exhibition/500304375/1943-10-06/1943-11-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1943-10-06"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1943-11-07"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500304375/1955-03-01/1955-04-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://buffaloakg.org/data/exhibition/500304375/1955-03-01/1955-04-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1955-03-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1955-04-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500306739/2019-06-23/2019-10-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Humble and Human: An Exhibition in Honor of Ralph C. Wilson, Jr. / Treasures from the Albright-Knox Art Gallery and the Detroit Institute of Arts" .
+
+<https://buffaloakg.org/data/exhibition/500306739/2019-06-23/2019-10-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2019-06-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2019-10-13"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500306739/2022-10-02/2023-01-22/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in America" .
+
+<https://buffaloakg.org/data/exhibition/500306739/2022-10-02/2023-01-22/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2022-10-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2023-01-22"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500307916/2006-05-28/2006-09-23/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Great Masters Series: Vincent van Gogh" .
+
+<https://buffaloakg.org/data/exhibition/500307916/2006-05-28/2006-09-23/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2006-05-28"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2006-09-23"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500308532/2014-10-04/2015-01-27/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Long Curve: 150 Years of Collecting at the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500308532/2014-10-04/2015-01-27/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-10-04"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-01-27"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500311490/1937-01-01/1937-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500404081/2015-02-21/2015-06-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Long Curve: 150 Years of Collecting at the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/500404081/2015-02-21/2015-06-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2015-02-21"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2015-06-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500445050/1927-04-01/1927-04-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Classic of Modern Art" .
+
+<https://buffaloakg.org/data/exhibition/500445050/1927-04-01/1927-04-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1927-04-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1927-04-01"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/500948/1984-10-03/1984-12-30/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh in Arles" .
+
+<https://buffaloakg.org/data/exhibition/500948/1984-10-03/1984-12-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-10-03"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1984-12-30"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/501247/1929-11-08/1929-12-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Cézanne, Gauguin, Seurat, van Gogh" .
+
+<https://buffaloakg.org/data/exhibition/501247/1929-11-08/1929-12-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1929-11-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1929-12-07"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/501247/1935-11-01/1936-01-31/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://buffaloakg.org/data/exhibition/501247/1935-11-01/1936-01-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1935-11-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1936-01-31"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/501259/1936-02-02/1936-03-13/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Post-Impressionists" .
+
+<https://buffaloakg.org/data/exhibition/501259/1936-02-02/1936-03-13/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1936-02-02"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1936-03-13"^^xsd:date .
+
+<https://buffaloakg.org/data/exhibition/organisation/1998-04-16/1998-06-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Impressionism to Surrealism: European Paintings from the Albright-Knox Art Gallery" .
+
+<https://buffaloakg.org/data/exhibition/organisation/1998-04-16/1998-06-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-04-16"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-06-08"^^xsd:date .
+
+<https://buffaloakg.org/data/identifier/1966%3A9.22> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "1966:9.22" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://buffaloakg.org/data/identifier/F550> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F550" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://buffaloakg.org/data/identifier/JH1577> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1577" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1927-12-30/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500444156> ;
+    ns1:P24_transferred_title_of <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1927-12-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1927-12-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1946-12-01"^^xsd:date .
+
+<https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1946-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500444156> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300445014> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1946-01-01/timespan> ;
+    ns1:P9_consists_of <https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1946-01-01/acquisition> .
+
+<https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1946-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500444156> ;
+    ns1:P24_transferred_title_of <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1946-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1946-01-01"^^xsd:date .
+
+<https://buffaloakg.org/data/provenance/Albright-Knox+Art+Gallery/1966-01-15/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/495897> ;
+    ns1:P24_transferred_title_of <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/provenance/Albright-Knox+Art+Gallery/1966-01-15/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "January 15, 1966" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "1966-01-15"^^xsd:date .
+
+<https://buffaloakg.org/data/provenance/Bernheim-Jeune+%26+Cie/1927-11-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500434185> ;
+    ns1:P24_transferred_title_of <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/provenance/Bernheim-Jeune+%26+Cie/1927-11-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "before November 11, 1927" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "1927-11-01"^^xsd:date .
+
+<https://buffaloakg.org/data/provenance/Dr.+Stephen+Goodyear/1946-12-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://buffaloakg.org/data/actor/Dr.+Stephen+Goodyear> ;
+    ns1:P24_transferred_title_of <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/provenance/Dr.+Stephen+Goodyear/1946-12-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1946-12-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1946-01-01"^^xsd:date .
+
+<https://buffaloakg.org/data/provenance/Ernest+Ponthier+de+Chamaillard/1888-10-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/16282> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417637> ;
+    ns1:P4_has_time-span <https://buffaloakg.org/data/provenance/Ernest+Ponthier+de+Chamaillard/1888-10-01/timespan> ;
+    ns1:P9_consists_of <https://buffaloakg.org/data/provenance/Ernest+Ponthier+de+Chamaillard/1888-10-01/acquisition> .
+
+<https://buffaloakg.org/data/provenance/Ernest+Ponthier+de+Chamaillard/1888-10-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/16282> ;
+    ns1:P24_transferred_title_of <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/provenance/Ernest+Ponthier+de+Chamaillard/1888-10-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "around October 1888" ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+    ns1:P82a_begin_of_the_begin "1888-10-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1888-10-01"^^xsd:date .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://data.rkd.nl/artists/347903> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<https://data.rkd.nl/artists/495488> a ns1:E39_Actor ;
+    rdfs:label "Stedelijk Museum Amsterdam" .
+
+<https://data.rkd.nl/artists/500948> a ns1:E39_Actor ;
+    rdfs:label "Metropolitan Museum of Art" .
+
+<https://data.rkd.nl/artists/501259> a ns1:E39_Actor ;
+    rdfs:label "Philadelphia Museum of Art" .
+
+<https://vangoghworldwide.org/data/artwork/F550> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300417637> a ns1:E55_Type ;
+    rdfs:label "gift" .
+
+<http://vocab.getty.edu/aat/300417642> a ns1:E55_Type ;
+    rdfs:label "purchase" .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7005903> a ns1:E53_Place ;
+    rdfs:label "Milan" .
+
+<http://vocab.getty.edu/tgn/7006287> a ns1:E53_Place ;
+    rdfs:label "Buenos Aires" .
+
+<http://vocab.getty.edu/tgn/7013527> a ns1:E53_Place ;
+    rdfs:label "Cambridge" .
+
+<http://vocab.getty.edu/tgn/7013596> a ns1:E53_Place ;
+    rdfs:label "Chicago" .
+
+<http://vocab.getty.edu/tgn/7013608> a ns1:E53_Place ;
+    rdfs:label "Cleveland" .
+
+<http://vocab.getty.edu/tgn/7014080> a ns1:E53_Place ;
+    rdfs:label "Minneapolis" .
+
+<http://vocab.getty.edu/tgn/7014210> a ns1:E53_Place ;
+    rdfs:label "New Haven" .
+
+<http://vocab.getty.edu/ulan/500225381> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Minneapolis Institute of Arts" .
+
+<http://vocab.getty.edu/ulan/500303559> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Yale University Art Gallery" .
+
+<http://vocab.getty.edu/ulan/500434185> a ns1:E39_Actor ;
+    rdfs:label "Bernheim-Jeune & Cie" .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object> a rdfs:Resource .
+
+<https://buffaloakg.org/data/actor/Dr.+Stephen+Goodyear> a ns1:E39_Actor ;
+    rdfs:label "Dr. Stephen Goodyear" .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/10/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/11/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/13/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/14> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/14/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/14/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/14/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/15> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/15/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/15/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/15/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/16> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/16/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/16/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/16/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/17> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/17/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/17/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/17/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/18> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/18/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/18/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/18/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/19> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/19/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/19/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/19/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/2/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/20> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/20/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/20/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/20/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/21/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/22> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/22/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/22/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/22/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/23/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/24> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/24/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/24/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/24/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/25/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/26/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/27/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/27/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/27/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/28/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/29/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/29/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/29/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/3/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/30/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/31/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/32> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/32/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/32/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/32/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/33> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/33/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/33/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/33/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/34/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/35> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/35/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/35/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/35/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/36> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/36/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/36/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/36/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/37/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/38> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/38/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/38/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/38/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/39> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/39/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/39/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/39/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/40> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/40/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/40/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/40/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/41> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/41/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/41/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/41/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/42> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/42/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/42/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/42/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/43> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/43/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/43/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/43/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/44> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/44/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/44/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/44/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/45> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/45/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/45/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/45/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/46> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/46/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/46/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/46/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/47> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/47/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300134989> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/48> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/48/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/48/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/48/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/49/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/49/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/49/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/5/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/50/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/51/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/52> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/52/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/52/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/52/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/53/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/54/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/55> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/55/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/55/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/55/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/56> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/56/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/56/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/56/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/57> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/57/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/57/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/57/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/59> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/59/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/59/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/59/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/6> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/6/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/6/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/60> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/60/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/60/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/60/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/61/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/62> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/62/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/62/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/62/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/63> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/63/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/63/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/63/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/7> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/7/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/7/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/7/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/8> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://buffaloakg.org/data/document/1966%3A9.22/8/part> ;
+    ns1:P1_is_identified_by <https://buffaloakg.org/data/document/1966%3A9.22/8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/8/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://buffaloakg.org/data/document/1966%3A9.22/9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+<https://data.rkd.nl/artists/16282> a ns1:E39_Actor ;
+    rdfs:label "Ernest Ponthier de Chamaillard" .
+
+<https://data.rkd.nl/artists/485520> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "National Gallery of Art" .
+
+<https://data.rkd.nl/artists/487784> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Art Institute of Chicago" .
+
+<https://data.rkd.nl/artists/488437> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Cleveland Museum of Art" .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://vocab.getty.edu/tgn/7013547> a ns1:E53_Place ;
+    rdfs:label "Detroit" .
+
+<http://vocab.getty.edu/tgn/7013962> a ns1:E53_Place ;
+    rdfs:label "Washinton D.C." .
+
+<http://vocab.getty.edu/ulan/500306739> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Detroit Institute of Arts" .
+
+<http://vocab.getty.edu/ulan/500645379> a ns1:E21_Person ;
+    rdfs:label "Faille, J. B. de la" .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<https://data.rkd.nl/artists/501247> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Museum of Modern Art" .
+
+<ttp://vocab.getty.edu/aat/300417819> a ns1:E55_Type ;
+    rdfs:label "museum catalogs" .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/7011781> a ns1:E53_Place ;
+    rdfs:label "London" .
+
+<http://vocab.getty.edu/ulan/500304375> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Wildenstein & Company" .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026061> a ns1:E55_Type ;
+    rdfs:label "catalogue raisonné" .
+
+<http://vocab.getty.edu/ulan/500444156> a ns1:E21_Person,
+        ns1:E39_Actor ;
+    rdfs:label "A. Conger Goodyear",
+        "Conger Goodyear A." .
+
+<http://vocab.getty.edu/aat/300026657> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300048715> a ns1:E55_Type ;
+    rdfs:label "article" .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7250304> a ns1:E53_Place ;
+    rdfs:label "New York",
+        "Paris" .
+
+<http://vocab.getty.edu/tgn/7013463> a ns1:E53_Place ;
+    rdfs:label "Buffalo" .
+
+<https://data.rkd.nl/artists/495897> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Albright Art Gallery",
+        "Albright-Knox Art Gallery",
+        "The Buffalo AKG Art Museum" .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalogs" .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "book" .
+
+<http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York" .
+
+ns1:E39_Actor a rdfs:Resource .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E74_Group a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+<https://buffaloakg.org/data/artwork/1966%3A9.22> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "La maison de La Crau" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "La Maison Haute" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Tall House" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Old Mill" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://buffaloakg.org/data/identifier/1966%3A9.22>,
+        <https://buffaloakg.org/data/identifier/F550>,
+        <https://buffaloakg.org/data/identifier/JH1577> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 64.77 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 53.975 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Vincent" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "signature, undated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/495897> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F550> .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 1; p. 12" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/31/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 177, cat. no. 103" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/45/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill., p. 90" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/20/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 246-249" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/63/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 118" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/44/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill., p. 235" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/10/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. F561" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/6/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. XXX" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/1/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 6" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/37/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 561" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/18/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 42" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/34/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "F550" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/35/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 40, p. 89" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/19/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 18" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/30/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 528" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/49/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. 19; p. 68; p. 128-129" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/60/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "plate XC" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/4/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 62, figure XIX" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/12/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 67, cat. no. 69" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/26/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 43" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/43/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 17, p. 8" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/28/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 35" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/29/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill. March" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/53/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 66" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/38/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/50/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 1577" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/42/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 125" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/24/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 83" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/8/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 36; pl. 27; p. 79; p. 85; p. 213; p. 235" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/62/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 14" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/21/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "plate 59" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/15/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 48-49" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/55/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 76; p. 91" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/59/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 37; fig. 48" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/46/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "returned to A. Conger Goodyear in an exchange" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/provenance/A.+Conger+Goodyear/1946-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill., p. 79" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/14/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 52; p. 164-165; p. 243" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/56/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. 12; p. 28; p. 264-265" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/40/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 91" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/11/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 194" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/41/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill., p. 20" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/9/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/artwork/1966%3A9.22> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 112, cat. no. 86" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/16/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. 30; pp. 114-115, 140" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/61/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 568, pl. LXXIX" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/36/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 379; p. 54" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/13/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 29" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/52/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 33, letter no. 535, letter no. B19 (17)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/25/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill., p. 235" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/32/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 18" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/57/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "ill., p. 47" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/23/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 84" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/33/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 52" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/27/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 79, plate 58" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/39/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 264" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/22/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "received from the artist, around October 1888" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/provenance/Ernest+Ponthier+de+Chamaillard/1888-10-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 47; p. 10, 36" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/7/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 89; letter XIX" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/17/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cat. no. 16; p. 46-47; p. 151" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/54/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 29, fig. C" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/51/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 48-49" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/48/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 63" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/5/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 9" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/2/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 316" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://buffaloakg.org/data/document/1966%3A9.22/3/part> .
+

@@ -1,0 +1,789 @@
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f8a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee4 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee4 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee6 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee5 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee3 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee2 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee1 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee0 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0edf <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/1984.007.0058/9/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0edf <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0edf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebd <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eda <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eda <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eda <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/9.20603068E8/part>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec7 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec6 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/9.781926632186E12/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec1 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/155660811X/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebc <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/8.10917017E8/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebc <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed5 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/9.781926632124E12/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed0 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/8.877370491E9/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecb <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecb <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/document/9.783836557153E12/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eca <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecc <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ede <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb8 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028705>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb3 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028702>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea4 <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea5.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ead <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ead <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300014844>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ead <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300014078>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eae <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eae <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300015638>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eac <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eac <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaf <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaf <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb6 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb7.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb4 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb5.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb2 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb3.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb0 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb1.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea5 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaa <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaa <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eab <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eab <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eab <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea6 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb7 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300207379>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028749>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea8 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300264273>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea8 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea7 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388306>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea7 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea9 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388306>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea9 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300264273>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300418049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435429> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300026687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E56_Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P128_carries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300417641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300264273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7006835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7004446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://www.cidoc-crm.org/cidoc-crm/E74_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7013047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://data.rkd.nl/artists/506933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/506932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/tgn/7013032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7013135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7013057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://data.rkd.nl/artists/506936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/507613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/500949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500434822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://data.rkd.nl/artists/496475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/496475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/ulan/500238023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://vocab.getty.edu/aat/300015638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300417642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://data.rkd.nl/artists/347903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300444173> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300444173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300379538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300053465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300419325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300419323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300207379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/ulan/500452045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://vangoghworldwide.org/data/artwork/F104a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7011798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500313006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/aat/300028749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300417644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/ulan/500237751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/8.877370491E9/title>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecc.
+<https://museum.mcmaster.ca/data/document/8.877370491E9> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/8.877370491E9/part>.
+<https://museum.mcmaster.ca/data/document/155660811X/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/155660811X/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/155660811X/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/155660811X/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/155660811X/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/155660811X>.
+<https://museum.mcmaster.ca/data/document/155660811X/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec0.
+<https://museum.mcmaster.ca/data/document/155660811X/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://museum.mcmaster.ca/data/document/155660811X/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://museum.mcmaster.ca/data/document/155660811X/publisher>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/9.783836557153E12>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500237751>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7004446>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eca.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/155660811X> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/155660811X/title>.
+<https://museum.mcmaster.ca/data/document/155660811X> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://museum.mcmaster.ca/data/document/155660811X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/155660811X> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/155660811X/part>.
+<https://museum.mcmaster.ca/data/document/155660811X> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebd.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://museum.mcmaster.ca/data/document/9.781926632124E12/author>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://museum.mcmaster.ca/data/document/9.781926632124E12>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://museum.mcmaster.ca/data/document/9.783836557153E12/author>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://museum.mcmaster.ca/data/document/9.783836557153E12>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://museum.mcmaster.ca/data/document/8.877370491E9/publisher>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003163>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecf.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/8.877370491E9>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/155660811X/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/8.10917017E8/part>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb8.
+<https://museum.mcmaster.ca/data/document/8.10917017E8> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/8.10917017E8/title>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/155660811X/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed9.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/9.20603068E8>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://museum.mcmaster.ca/data/document/8.877370491E9>.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500238023>.
+<https://museum.mcmaster.ca/data/document/155660811X/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500452045>.
+<https://museum.mcmaster.ca/data/document/155660811X/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://museum.mcmaster.ca/data/document/155660811X/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://museum.mcmaster.ca/data/document/155660811X>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea9.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaa.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea8.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eab.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300015050>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ead.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eae.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea7.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb0.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb2.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb4.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea6.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb6.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/identifier/JH924>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F104a>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/identifier/F104a>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/identifier/1984.007.0058>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033618>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://museum.mcmaster.ca/data/document/9.781926632186E12/author>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://museum.mcmaster.ca/data/document/9.781926632186E12>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://vocab.getty.edu/tgn/7003163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/8.10917017E8>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebb.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007567>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500313006>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026068>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/1984.007.0058/9/title>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/1984.007.0058/9/part>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/9.781926632124E12>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed4.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://museum.mcmaster.ca/data/document/8.10917017E8>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/347903>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/9.20603068E8/part>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed6.
+<https://museum.mcmaster.ca/data/document/9.20603068E8> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/9.20603068E8/title>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec5.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/9.781926632186E12>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011798>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500434822>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/document/1984.007.0058/9>.
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ede.
+<https://museum.mcmaster.ca/data/document/8.877370491E9/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/8.10917017E8/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/9.783836557153E12/title>.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec7.
+<https://museum.mcmaster.ca/data/document/9.783836557153E12> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/9.783836557153E12/part>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/9.781926632186E12/title>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec2.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/9.781926632186E12/part>.
+<https://museum.mcmaster.ca/data/document/9.781926632186E12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/document/9.781926632124E12/title>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed1.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://museum.mcmaster.ca/data/document/9.781926632124E12/part>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://museum.mcmaster.ca/data/document/9.20603068E8/author>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://museum.mcmaster.ca/data/document/9.20603068E8>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://museum.mcmaster.ca/data/document/9.20603068E8/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/507613>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417641>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/acquisition>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/timespan>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/507613>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/actor/Lucretia+Buisjman+%28later+Mrs.+G.+W.+van+Dyk-Buysman%29+of+Nuenen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/timespan> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee5.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/500949>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417642>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/timespan>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/acquisition>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee3.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee6.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/actor/Private+collection%2C+Paris+%28according+to%3A+Faille+1970%2C+p.79%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://museum.mcmaster.ca/data/actor/Private+collection%2C+Great+Britain+%28according+to+Hulsker%2C+1977%2F80+p.204%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/acquisition>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/timespan>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417644>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/500949>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://museum.mcmaster.ca/data/identifier/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<https://museum.mcmaster.ca/data/identifier/1984.007.0058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026687>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300026687>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://media.rkd.nl/iiif/10770903> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://media.rkd.nl/iiif/10770903> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770903> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://museum.mcmaster.ca/data/identifier/F104a> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://museum.mcmaster.ca/data/identifier/F104a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://museum.mcmaster.ca/data/identifier/JH924> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://museum.mcmaster.ca/data/identifier/JH924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/production> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006835>.
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea4.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://museum.mcmaster.ca/data/technical/1984.007.0058/2>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f89.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300053465>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://media.rkd.nl/iiif/10770902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770902> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770902> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770902> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://museum.mcmaster.ca/data/technical/1984.007.0058/2>.
+<https://media.rkd.nl/iiif/10770901> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770901> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://museum.mcmaster.ca/data/technical/1984.007.0058/3>.
+<https://media.rkd.nl/iiif/10770901> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770904> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://museum.mcmaster.ca/data/technical/1984.007.0058/1>.
+<https://media.rkd.nl/iiif/10770904> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770904> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300379538>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f8a.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://museum.mcmaster.ca/data/technical/1984.007.0058/3>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/technical/1984.007.0058/2/title>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300046300>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300046300>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/technical/1984.007.0058/3/title>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300419325>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/technical/1984.007.0058/1/title>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://museum.mcmaster.ca/data/technical/1984.007.0058/1>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f88.
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300419323>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/name>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506932>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/name>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://vocab.getty.edu/ulan/500254710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506936>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/name>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013057>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://data.rkd.nl/artists/506934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/name>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500300919>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7017654>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/name>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/name>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7011798>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/500949>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://vocab.getty.edu/tgn/7013040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/name>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/name>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506933>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013032>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/name>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506934>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013040>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/name>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/tgn/7017654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/name>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/506932>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/496475>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013047>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/name>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://museum.mcmaster.ca/data/artwork/1984.007.0058>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/timespan>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500254710>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013135>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/name>.
+<http://vocab.getty.edu/ulan/500300919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee4 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Auction, XIX and XX Century European Masters. Marlborough Gallery, London, Summer 1958, No. 73, p. 98. Purchase made on May 21, 1959 by Herman Levy.".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The painting officially entered the McMaster collection on August 18, 1990.".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The painting was a bequest gift made in 1984, to be transferred to McMaster upon the death of Mr. Levy (in 1990).".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee3 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Auction date described as \"summer of 1958\".".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "unknown date or method of transfer".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "unknown date or method of transfer".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ee0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "unknown date or method of transfer".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9.781926632124E12".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9.20603068E8".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0edf <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 98, no. 73".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebd <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "155660811X".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eda <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 191 repro. In Faille 1928 as No. F104".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9.781926632186E12".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec7 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "9.783836557153E12".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pp. 148-149; repro. p. 148".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Cat. No. 104a".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebc <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pp. 204-205, cat. 924".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "pp. 134-137, 188-191; repro. p. 134, 188".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 85, cat. 190, F 104a; C.d.A. 189; JH 924; Lettera T 424 and T 427".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecb <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 125 repro. in colour in reverse, Cataloguing references: F[aille] 104a, JH[ulsker] 924".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecc <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "8.877370491E9".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb8 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "8.10917017E8".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Signed at lower left (extremely faint) \"Vincent\" in purple/brown paint".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb3 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "No inscription".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eac <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "oil on canvas".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaf <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Lucretia Buisjman (later Mrs. G. W. van Dyk-Buysman) of Nuenen; Private collection, Paris; Private collection, Great Britain; Purchased by Herman Levy, Hamilton, from Marlborough Fine Art Ltd., London, May, 1959; Gift to McMaster Museum of Art (formerly McMaster University Art Gallery), 1984.".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "September, 1885".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Still Life: Ginger Pot and Onions".
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb7 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "None".
+_:mark_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eb5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "None".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea8 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Still Life with Ginger Jar and Onions".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea7 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Nature morte : pot de gingembre et oignons".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea9 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Nature morte au pot de gingembre et oignons".
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "paintings".
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/2000/01/rdf-schema#label> "signatures".
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/2000/01/rdf-schema#label> "canvas".
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/2000/01/rdf-schema#label> "oil paint".
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/2000/01/rdf-schema#label> "provenance entry".
+<http://vocab.getty.edu/aat/300417641> <http://www.w3.org/2000/01/rdf-schema#label> "Bequest".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/2000/01/rdf-schema#label> "Pagination statement".
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/2000/01/rdf-schema#label> "ISBN".
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/2000/01/rdf-schema#label> "book".
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition".
+<http://vocab.getty.edu/tgn/7006835> <http://www.w3.org/2000/01/rdf-schema#label> "Nuenen, Netherlands".
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/2000/01/rdf-schema#label> "publishing".
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/2000/01/rdf-schema#label> "inscriptions".
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/2000/01/rdf-schema#label> "New York, New York".
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam, Netherlands".
+<http://vocab.getty.edu/tgn/7004446> <http://www.w3.org/2000/01/rdf-schema#label> "Cologne, Germany".
+<http://vocab.getty.edu/tgn/7013047> <http://www.w3.org/2000/01/rdf-schema#label> "Hamilton, Ontario".
+<https://data.rkd.nl/artists/506933> <http://www.w3.org/2000/01/rdf-schema#label> "Art Gallery of Alberta, Edmonton, Alberta".
+<https://data.rkd.nl/artists/506932> <http://www.w3.org/2000/01/rdf-schema#label> "Art Gallery of Hamilton, Hamilton, Ontario".
+<http://vocab.getty.edu/tgn/7013032> <http://www.w3.org/2000/01/rdf-schema#label> "Edmonton, Alberta".
+<http://vocab.getty.edu/tgn/7013135> <http://www.w3.org/2000/01/rdf-schema#label> "Vancouver, B.C.".
+<http://vocab.getty.edu/tgn/7013057> <http://www.w3.org/2000/01/rdf-schema#label> "Kelowna, B.C.".
+<https://data.rkd.nl/artists/506936> <http://www.w3.org/2000/01/rdf-schema#label> "Kelowna Art Gallery, Kelowna, British Columbia".
+<https://data.rkd.nl/artists/507613> <http://www.w3.org/2000/01/rdf-schema#label> "Herman H. Levy".
+<https://data.rkd.nl/artists/500949> <http://www.w3.org/2000/01/rdf-schema#label> "Marlborough Gallery, London, England".
+<https://data.rkd.nl/artists/500949> <http://www.w3.org/2000/01/rdf-schema#label> "Marlborough Gallery (London)".
+<http://vocab.getty.edu/ulan/500434822> <http://www.w3.org/2000/01/rdf-schema#label> "Marlborough Gallery, London, UK".
+<https://data.rkd.nl/artists/496475> <http://www.w3.org/2000/01/rdf-schema#label> "McMaster Museum of Art, McMaster University, Hamilton, Ontario".
+<https://data.rkd.nl/artists/496475> <http://www.w3.org/2000/01/rdf-schema#label> "McMaster Museum of Art".
+<http://vocab.getty.edu/ulan/500238023> <http://www.w3.org/2000/01/rdf-schema#label> "Testori, Giovanni ; Arrigoni, Luisa".
+<http://vocab.getty.edu/aat/300015638> <http://www.w3.org/2000/01/rdf-schema#label> "still life".
+<http://vocab.getty.edu/aat/300417642> <http://www.w3.org/2000/01/rdf-schema#label> "purchase".
+<https://data.rkd.nl/artists/347903> <http://www.w3.org/2000/01/rdf-schema#label> "Hulsker, Jan".
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/2000/01/rdf-schema#label> "photographs".
+<http://vocab.getty.edu/aat/300379538> <http://www.w3.org/2000/01/rdf-schema#label> "Infrared Reflectography (IRR)".
+<http://vocab.getty.edu/aat/300053465> <http://www.w3.org/2000/01/rdf-schema#label> "UV Fluorescence".
+<http://vocab.getty.edu/aat/300419325> <http://www.w3.org/2000/01/rdf-schema#label> "x-radiographs".
+<http://vocab.getty.edu/aat/300419323> <http://www.w3.org/2000/01/rdf-schema#label> "x-radiography".
+<http://vocab.getty.edu/aat/300207379> <http://www.w3.org/2000/01/rdf-schema#label> "stickers".
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/2000/01/rdf-schema#label> "auction catalogue".
+<http://vocab.getty.edu/ulan/500452045> <http://www.w3.org/2000/01/rdf-schema#label> "Faille, J.-B. de la".
+<http://vocab.getty.edu/tgn/7011798> <http://www.w3.org/2000/01/rdf-schema#label> "London, England".
+<http://vocab.getty.edu/ulan/500313006> <http://www.w3.org/2000/01/rdf-schema#label> "Harry N. Abrams".
+<http://vocab.getty.edu/aat/300028749> <http://www.w3.org/2000/01/rdf-schema#label> "watermarks".
+<http://vocab.getty.edu/aat/300417644> <http://www.w3.org/2000/01/rdf-schema#label> "Transfer".
+<http://vocab.getty.edu/ulan/500237751> <http://www.w3.org/2000/01/rdf-schema#label> "Taschen".
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/author> <http://www.w3.org/2000/01/rdf-schema#label> "Walther, Ingo F. ; Metzger, Rainer".
+<https://museum.mcmaster.ca/data/document/8.877370491E9/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Cantini".
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Unvarnished Truth: exploring the material history of paintings".
+<https://museum.mcmaster.ca/data/document/155660811X/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Reynal & Company".
+<https://museum.mcmaster.ca/data/document/155660811X/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The works of Vincent van Gogh".
+<http://vocab.getty.edu/tgn/7003163> <http://www.w3.org/2000/01/rdf-schema#label> "Firenze, Italia".
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "A Cultivating Journey: The Herman H. Levy Collection".
+<https://museum.mcmaster.ca/data/document/8.10917017E8/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Complete Van Gogh: Paintings, Drawings, Sketches".
+<https://museum.mcmaster.ca/data/document/9.20603068E8/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Art Collection of McMaster University: European, Canadian, American, Chinese and Japanese paintings, prints, drawings, sculpture and ceramics".
+<https://museum.mcmaster.ca/data/document/1984.007.0058/9/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "XIX and XX Century European Masters. Marlborough, London, Summer 1958".
+<https://museum.mcmaster.ca/data/document/9.781926632186E12/author> <http://www.w3.org/2000/01/rdf-schema#label> "Holubizky, Ihor, et al.".
+<https://museum.mcmaster.ca/data/document/9.783836557153E12/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh: The Complete Paintings, Volume 1".
+<https://museum.mcmaster.ca/data/document/8.877370491E9/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh, Catalogo completo dei Dipinti".
+<https://museum.mcmaster.ca/data/document/9.781926632124E12/author> <http://www.w3.org/2000/01/rdf-schema#label> "MacDonald, Brandi Lee ; Hathaway, Nenagh, et al.".
+<https://museum.mcmaster.ca/data/document/9.20603068E8/author> <http://www.w3.org/2000/01/rdf-schema#label> "Ness, Kim (compiled by)".
+<https://museum.mcmaster.ca/data/actor/Lucretia+Buisjman+%28later+Mrs.+G.+W.+van+Dyk-Buysman%29+of+Nuenen> <http://www.w3.org/2000/01/rdf-schema#label> "Lucretia Buisjman (later Mrs. G. W. van Dyk-Buysman) of Nuenen".
+<https://museum.mcmaster.ca/data/actor/Private+collection%2C+Paris+%28according+to%3A+Faille+1970%2C+p.79%29> <http://www.w3.org/2000/01/rdf-schema#label> "Private collection, Paris (according to: Faille 1970, p.79)".
+<https://museum.mcmaster.ca/data/actor/Private+collection%2C+Great+Britain+%28according+to+Hulsker%2C+1977%2F80+p.204%29> <http://www.w3.org/2000/01/rdf-schema#label> "Private collection, Great Britain (according to Hulsker, 1977/80 p.204)".
+<https://museum.mcmaster.ca/data/identifier/1984.007.0058> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "1984.007.0058".
+<https://museum.mcmaster.ca/data/artwork/1984.007.0058/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Gift of Herman H. Levy, 1984, McMaster Museum of Art, McMaster University, Hamilton, Ontario".
+<https://museum.mcmaster.ca/data/identifier/F104a> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F104a".
+<https://museum.mcmaster.ca/data/identifier/JH924> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH924".
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "X-radiograph".
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Infrared reflectography".
+<https://museum.mcmaster.ca/data/technical/1984.007.0058/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Ultraviolet fluorescent light".
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Unvarnished Truth: exploring the material history of paintings".
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The World is An Apple: The Still Lifes of Paul Cézanne".
+<http://vocab.getty.edu/ulan/500254710> <http://www.w3.org/2000/01/rdf-schema#label> "Vancouver Art Gallery, Vancouver, British Columbia".
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Herman H. Levy Legacy: A Cultivating Journey".
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Herman H. Levy Legacy: A Cultivating Journey".
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "XIX and XX Century European Masters".
+<https://data.rkd.nl/artists/506934> <http://www.w3.org/2000/01/rdf-schema#label> "Thunder Bay Art Gallery, Thunder Bay, Ontario".
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Oil cloth lunch, and other reasons to be cheerful".
+<http://vocab.getty.edu/tgn/7013040> <http://www.w3.org/2000/01/rdf-schema#label> "Thunder Bay, Ontario".
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Great Masters Series: Vincent van Gogh".
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Synesthesia: Art and the Mind".
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Herman H. Levy Legacy: A Cultivating Journey".
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Unvarnished Truth: exploring the material history of paintings".
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Unvarnished Truth: exploring the material history of paintings".
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Unvarnished Truth: exploring the material history of paintings".
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Herman H. Levy Collection".
+<http://vocab.getty.edu/tgn/7017654> <http://www.w3.org/2000/01/rdf-schema#label> "Kingston, Ontario".
+<http://vocab.getty.edu/ulan/500300919> <http://www.w3.org/2000/01/rdf-schema#label> "Agnes Etherington Art Centre, Queens University, Kingston, Ontario".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eaa <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "34.5"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eab <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "49.5"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f8a <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2011-10-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f8a <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2011-10-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f88 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2012-02-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f88 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2012-02-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f89 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2013-08-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0f89 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2013-08-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec0 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec0 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec5 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2018-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ec5 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2018-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebb <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1980-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ebb <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1980-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed4 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2016-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed4 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2016-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed9 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ed9 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1987-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eca <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1993-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0eca <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1993-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecf <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ecf <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ede <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1958-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ede <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1958-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea4 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1885-09-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-ba0ea4 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1885-09-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1959-05-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/provenance/Herman+H.+Levy/1959-05-21/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1984-08-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1958-06-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/provenance/Marlborough+Gallery+%28London%29/1958-06-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1959-05-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1984-08-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/provenance/McMaster+Museum+of+Art/1984-08-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-08-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2016-10-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506934/2016-10-07/2016-11-27/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2016-11-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2017-01-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/500300919/2017-01-07/2017-04-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2017-04-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2008-09-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2008-09-18/2008-12-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2008-12-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2010-03-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2010-03-12/2010-08-14/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2010-08-14"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2018-03-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/500254710/2018-03-03/2018-05-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2018-05-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2018-06-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506936/2018-06-16/2018-10-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2018-10-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2014-11-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2014-11-01/2015-02-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2015-02-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1958-06-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/500949/1958-06-01/1958-08-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1958-08-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2017-09-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2017-09-01/2017-12-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2017-12-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2015-09-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/2015-09-05/2015-12-19/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2015-12-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2016-04-29"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506933/2016-04-29/2016-09-18/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2016-09-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2006-05-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/506932/2006-05-28/2006-09-23/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2006-09-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1994-06-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://museum.mcmaster.ca/data/exhibition/496475/1994-06-08/2006-05-15/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2006-05-15"^^<http://www.w3.org/2001/XMLSchema#date>.

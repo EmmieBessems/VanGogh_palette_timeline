@@ -1,0 +1,797 @@
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d7 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d7 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/26871/2/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fe <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e1 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/27971/4/part>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417430>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d2 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/26871/1/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ff <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/27971/10/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ff <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fa <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fa <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fa <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/27971/9/part>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e4 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417430>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5eb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5eb <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5eb <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/27971/6/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e6 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/27971/5/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5dc <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/26871/3/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5dc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5dc <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f5 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/27971/8/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f0 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/document/27971/7/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b6 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/26871>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ba <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ba <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028702>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b5 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/26871>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b5 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435429>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5be <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5be <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5be <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388344>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bd <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bd <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bc <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b3 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b3 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c6 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028702>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c2 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c1 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c4 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028705>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b4 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b4 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5af <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b0.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b1 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b1 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c0 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c0 <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b2 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388344>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b8 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028705>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b0 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c3 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c4.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c5 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c6.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bf <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bf <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bb <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bc.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b9 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ba.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b7 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b8.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://vocab.getty.edu/tgn/7008775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300418049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435429> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300026687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E56_Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P128_carries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300435438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300417430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300028051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/ulan/500224093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500224093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/tgn/7006900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500305347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500235923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500235923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/tgn/7003321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7005293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7004333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500275558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/ulan/500275558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300022452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/aat/300022439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500250652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500327786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bd.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c3.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300015018>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300022452>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c5.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300022439>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c0.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bf.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5be.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/identifier/JH1031>.
+<https://www.albertina.at/data/artwork/27971> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F1399>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/identifier/F1399>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/identifier/27971>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973>.
+<https://www.albertina.at/data/artwork/27971> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/artwork/27971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://www.albertina.at/data/document/27971/5/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/27971/9> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/27971/9/title>.
+<https://www.albertina.at/data/document/27971/9> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://www.albertina.at/data/document/27971/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/9> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/9/part>.
+<https://www.albertina.at/data/document/27971/8> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/8/part>.
+<https://www.albertina.at/data/document/27971/8> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/27971/8/title>.
+<https://www.albertina.at/data/document/27971/8> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://www.albertina.at/data/document/27971/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/7> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/7/part>.
+<https://www.albertina.at/data/document/27971/7> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/27971/7/title>.
+<https://www.albertina.at/data/document/27971/7> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://www.albertina.at/data/document/27971/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/6> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/6/part>.
+<https://www.albertina.at/data/document/27971/6> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/27971/6/title>.
+<https://www.albertina.at/data/document/27971/6> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://www.albertina.at/data/document/27971/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/5> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/5/part>.
+<https://www.albertina.at/data/document/27971/5> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/27971/5/title>.
+<https://www.albertina.at/data/document/27971/5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300048715>.
+<https://www.albertina.at/data/document/27971/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/4> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/4/part>.
+<https://www.albertina.at/data/document/27971/4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/27971/4/title>.
+<https://www.albertina.at/data/document/27971/4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://www.albertina.at/data/document/27971/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/10> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/10/part>.
+<https://www.albertina.at/data/document/27971/10> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/27971/10/title>.
+<https://www.albertina.at/data/document/27971/10> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://www.albertina.at/data/document/27971/8/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/tgn/7004446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.albertina.at/data/document/26871/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/26871/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://d-nb.info/gnd/117068969>.
+<https://www.albertina.at/data/document/26871/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.albertina.at/data/document/26871/1>.
+<https://www.albertina.at/data/document/26871/1/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.albertina.at/data/document/26871/2/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<http://vocab.getty.edu/aat/300026657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.albertina.at/data/document/27971/4/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/document/27971/4/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://www.albertina.at/data/document/27971/6/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/document/27971/6/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/0002-4910/Heft+1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/26871/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://www.albertina.at/data/document/26871/2/author>.
+<https://www.albertina.at/data/document/26871/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.albertina.at/data/document/26871/2>.
+<https://www.albertina.at/data/document/26871/2/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.albertina.at/data/document/27971/10/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/27971/6/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/26871/3/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/document/26871/3/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b9.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b7.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300015012>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300022464>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300022439>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b4.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b3.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b2.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b1.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/identifier/JH1495>.
+<https://www.albertina.at/data/artwork/26871> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F1518a>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/identifier/F1518a>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/identifier/26871>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033973>.
+<https://www.albertina.at/data/artwork/26871> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/artwork/26871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://d-nb.info/gnd/117068969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://www.albertina.at/data/document/27971/7/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/27971/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://www.albertina.at/data/document/27971/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.albertina.at/data/document/27971/4>.
+<https://www.albertina.at/data/document/27971/4/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.albertina.at/data/document/26871/1/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/document/26871/1/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/10/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/document/27971/10/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/9/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/9/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/document/27971/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008038>.
+<https://www.albertina.at/data/document/27971/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500310001>.
+<https://www.albertina.at/data/document/27971/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ea.
+<https://www.albertina.at/data/document/27971/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/27971/6>.
+<https://www.albertina.at/data/document/27971/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/27971/6/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/27971/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/document/27971/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/document/27971/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e5.
+<https://www.albertina.at/data/document/27971/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/0002-4910/Heft+1>.
+<https://www.albertina.at/data/document/27971/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/27971/5/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/27971/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500235923>.
+<https://www.albertina.at/data/document/27971/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006900>.
+<https://www.albertina.at/data/document/27971/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ef.
+<https://www.albertina.at/data/document/27971/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/27971/7>.
+<https://www.albertina.at/data/document/27971/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/27971/7/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/27971/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://d-nb.info/gnd/117068969>.
+<https://www.albertina.at/data/document/27971/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://www.albertina.at/data/document/27971/5>.
+<https://www.albertina.at/data/document/27971/5/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://www.albertina.at/data/document/27971/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500327786>.
+<https://www.albertina.at/data/document/27971/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008038>.
+<https://www.albertina.at/data/document/27971/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e0.
+<https://www.albertina.at/data/document/27971/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/27971/4>.
+<https://www.albertina.at/data/document/27971/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/27971/4/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/27971/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/document/27971/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/document/27971/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f4.
+<https://www.albertina.at/data/document/27971/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/27971/8>.
+<https://www.albertina.at/data/document/27971/8/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/27971/8/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/27971/7/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/document/27971/7/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/9/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/27971/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500235923>.
+<https://www.albertina.at/data/document/27971/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006900>.
+<https://www.albertina.at/data/document/27971/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f9.
+<https://www.albertina.at/data/document/27971/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/27971/9>.
+<https://www.albertina.at/data/document/27971/9/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/27971/9/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/26871/1> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/26871/1/part>.
+<https://www.albertina.at/data/document/26871/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/26871/1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300048715>.
+<https://www.albertina.at/data/document/26871/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/26871/1/title>.
+<https://www.albertina.at/data/document/26871/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/26871/2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028051>.
+<https://www.albertina.at/data/document/26871/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/26871/2/title>.
+<https://www.albertina.at/data/document/26871/2> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/26871/2/part>.
+<https://www.albertina.at/data/document/26871/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/26871/3> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://www.albertina.at/data/document/26871/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/26871/3/title>.
+<https://www.albertina.at/data/document/26871/3> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/26871/3/part>.
+<https://www.albertina.at/data/document/26871/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/27971/10/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/27971/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/27971/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/27971/10>.
+<https://www.albertina.at/data/document/27971/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fe.
+<https://www.albertina.at/data/document/27971/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7004446>.
+<https://www.albertina.at/data/document/27971/10/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/document/0002-4910/Heft+1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026657>.
+<https://www.albertina.at/data/document/0002-4910/Heft+1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e4.
+<https://www.albertina.at/data/document/0002-4910/Heft+1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/document/0002-4910/Heft+1/title>.
+<https://www.albertina.at/data/document/0002-4910/Heft+1> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/27971/5>.
+<https://www.albertina.at/data/document/0002-4910/Heft+1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/0002-4910/Heft+1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d0.
+<https://www.albertina.at/data/document/0002-4910/Heft+1> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://www.albertina.at/data/document/26871/1>.
+<https://www.albertina.at/data/document/26871/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/document/26871/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7004446>.
+<https://www.albertina.at/data/document/26871/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5db.
+<https://www.albertina.at/data/document/26871/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/26871/3>.
+<https://www.albertina.at/data/document/26871/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/26871/3/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/26871/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500275558>.
+<https://www.albertina.at/data/document/26871/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://www.albertina.at/data/document/26871/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d6.
+<https://www.albertina.at/data/document/26871/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/26871/2>.
+<https://www.albertina.at/data/document/26871/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/26871/2/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/document/26871/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/document/26871/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/document/26871/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d1.
+<https://www.albertina.at/data/document/26871/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/document/0002-4910/Heft+1>.
+<https://www.albertina.at/data/document/26871/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://www.albertina.at/data/document/26871/1/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E74_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/ulan/500310001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500310001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://www.albertina.at/data/document/26871/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/26871/2/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/26871/2/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/document/27971/4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/document/27971/5/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/5/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/document/27971/8/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/document/27971/8/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<http://vocab.getty.edu/aat/300022464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<https://www.albertina.at/data/identifier/JH1031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.albertina.at/data/identifier/JH1031> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://www.albertina.at/data/artwork/27971/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/artwork/27971/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://www.albertina.at/data/artwork/27971/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<https://www.albertina.at/data/artwork/27971/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300054196>.
+<https://www.albertina.at/data/artwork/27971/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bb.
+<https://www.albertina.at/data/artwork/27971/production> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008038>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f26871.JPG> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://www.albertina.at/data/artwork/26871>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f26871.JPG> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f26871.JPG> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f26871.JPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<http://vocab.getty.edu/aat/300015018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300015012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300054196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300388344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<https://www.albertina.at/data/identifier/JH1495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.albertina.at/data/identifier/JH1495> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://vangoghworldwide.org/data/artwork/F1518a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://www.albertina.at/data/identifier/F1518a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.albertina.at/data/identifier/F1518a> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://www.albertina.at/data/artwork/26871/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.albertina.at/data/artwork/26871/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.albertina.at/data/artwork/26871/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/artwork/26871/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f27971.JPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f27971.JPG> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f27971.JPG> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://www.albertina.at/data/artwork/27971>.
+<https://sammlungenonline.albertina.at/iiif%2Fimages%2f27971.JPG> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://vangoghworldwide.org/data/artwork/F1399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://www.albertina.at/data/identifier/F1399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.albertina.at/data/identifier/F1399> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://www.albertina.at/data/artwork/26871/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/32439>.
+<https://www.albertina.at/data/artwork/26871/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/artwork/26871/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://www.albertina.at/data/artwork/26871/production> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008775>.
+<https://www.albertina.at/data/artwork/26871/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5af.
+<https://www.albertina.at/data/artwork/26871/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300054196>.
+<https://www.albertina.at/data/identifier/26871> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<https://www.albertina.at/data/identifier/26871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.albertina.at/data/artwork/27971/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.albertina.at/data/artwork/27971/credit_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://www.albertina.at/data/artwork/27971/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/artwork/27971/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026687>.
+<https://www.albertina.at/data/identifier/27971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://www.albertina.at/data/identifier/27971> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<http://vocab.getty.edu/tgn/7007048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21/name>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7005293>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500305347>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21/timespan>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08/name>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08/timespan>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08/name>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08/timespan>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24/name>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500275558>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24/timespan>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://vocab.getty.edu/tgn/7013284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500220995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008038>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500310001>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15/timespan>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15/name>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10/name>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10/timespan>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08/name>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7014071>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500302980>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08/timespan>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<http://vocab.getty.edu/ulan/500303594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08/name>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08/timespan>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://vocab.getty.edu/ulan/500452080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500245617>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02/timespan>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013284>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02/name>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31/name>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007048>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://rkd.nl/explore/artists/351573>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31/timespan>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18/name>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007567>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500303594>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18/timespan>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/tgn/7014071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/ulan/500312528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://rkd.nl/explore/artists/351573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01/name>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500220995>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01/timespan>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02/timespan>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02/name>.
+<http://vocab.getty.edu/tgn/7003712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/ulan/500223139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25/name>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7004333>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500250652>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25/timespan>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27/name>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007048>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500223139>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27/timespan>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31/name>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500312528>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31/timespan>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/26871>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/ulan/500302980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28/name>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003321>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500224093>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28/timespan>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29/name>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006900>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500235923>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29/timespan>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05/name>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003712>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500452080>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://www.albertina.at/data/artwork/27971>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05/timespan>.
+<http://vocab.getty.edu/ulan/500245617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d7 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 5".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Tab. XL".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "0002-4910".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 15-20".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ff <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 194".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fa <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 345-351".
+_:identifier_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e4 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "0002-4910".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5eb <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 62-63".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 15-20".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5dc <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 250-253".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 126".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 200".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Johanna van Gogh-Bonger (1862-1925), Amsterdam; Frederik van Eeden (1860-1932), Bussum; J. H. de Bois Art Gallery, Haarlem; Galerie Würthle, Wien; Erwerb bei Galerie Würthle, Wien, 1936".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ba <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Inscribed with handwriting on recto".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b5 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Pencil, reed pen and brown ink".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5be <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Friedhof im Regen".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bd <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Cemetery in the Rain".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bc <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "late autumn 1886".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c6 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Inscribed with handwriting on recto".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Johanna van Gogh-Bonger (1862-1925), Amsterdam; J. H. de Bois Art Gallery, Haarlem; Privatsammlung, Wien; 1937 erworben bei Galerie Würthle, Wien".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Pencil, pen in black".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c4 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Not signed or dated".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b1 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Country Road".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b2 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Landschaft mit Haus und Bäumen".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b8 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Not signed or dated".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b0 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "June 1888".
+<http://vocab.getty.edu/tgn/7008775> <http://www.w3.org/2000/01/rdf-schema#label> "Arles".
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/2000/01/rdf-schema#label> "signatures".
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/2000/01/rdf-schema#label> "Gogh, Vincent van".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<https://data.rkd.nl/artists/32439> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/2000/01/rdf-schema#label> "drawings (visual works)".
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/2000/01/rdf-schema#label> "Pagination statement".
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition".
+<http://vocab.getty.edu/aat/300417430> <http://www.w3.org/2000/01/rdf-schema#label> "ISSN".
+<http://vocab.getty.edu/aat/300028051> <http://www.w3.org/2000/01/rdf-schema#label> "book".
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/2000/01/rdf-schema#label> "publishing".
+<http://vocab.getty.edu/ulan/500224093> <http://www.w3.org/2000/01/rdf-schema#label> "Albertina".
+<http://vocab.getty.edu/tgn/7006900> <http://www.w3.org/2000/01/rdf-schema#label> "Otterlo".
+<http://vocab.getty.edu/ulan/500305347> <http://www.w3.org/2000/01/rdf-schema#label> "Frankfurter Kunstverein".
+<http://vocab.getty.edu/ulan/500235923> <http://www.w3.org/2000/01/rdf-schema#label> "Kröller-Müller Museum".
+<http://vocab.getty.edu/ulan/500235923> <http://www.w3.org/2000/01/rdf-schema#label> "Rijksmuseum Kröller-Müller Museum".
+<http://vocab.getty.edu/tgn/7003321> <http://www.w3.org/2000/01/rdf-schema#label> "Wien".
+<http://vocab.getty.edu/tgn/7003321> <http://www.w3.org/2000/01/rdf-schema#label> "Vienna".
+<http://vocab.getty.edu/tgn/7005293> <http://www.w3.org/2000/01/rdf-schema#label> "Frankfurt".
+<http://vocab.getty.edu/tgn/7004333> <http://www.w3.org/2000/01/rdf-schema#label> "München".
+<http://vocab.getty.edu/ulan/500275558> <http://www.w3.org/2000/01/rdf-schema#label> "Van Gogh Museum".
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/2000/01/rdf-schema#label> "inscriptions".
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/2000/01/rdf-schema#label> "New York".
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam".
+<http://vocab.getty.edu/ulan/500250652> <http://www.w3.org/2000/01/rdf-schema#label> "Städtische Galerie München".
+<http://vocab.getty.edu/ulan/500327786> <http://www.w3.org/2000/01/rdf-schema#label> "Ambroise Vollard".
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/2000/01/rdf-schema#label> "Paris".
+<https://www.albertina.at/data/document/27971/5/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Die Zeichnungen van Goghs in der Albertina".
+<https://www.albertina.at/data/document/27971/8/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Goya bis Picasso".
+<http://vocab.getty.edu/tgn/7004446> <http://www.w3.org/2000/01/rdf-schema#label> "Cologne".
+<https://www.albertina.at/data/document/26871/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Die Zeichnungen van Goghs in der Albertina".
+<https://www.albertina.at/data/document/26871/2/author> <http://www.w3.org/2000/01/rdf-schema#label> "Vellekoop, Marije; Zwikker, Roelie".
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "book".
+<https://www.albertina.at/data/document/0002-4910/Heft+1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Albertina-Studien (Heft 1)".
+<https://www.albertina.at/data/document/27971/10/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh. Gezeichnete Bilder".
+<https://www.albertina.at/data/document/27971/6/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh à Paris".
+<https://d-nb.info/gnd/117068969> <http://www.w3.org/2000/01/rdf-schema#label> "Novotny, Fritz".
+<https://www.albertina.at/data/document/27971/7/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh. Drawings".
+<https://www.albertina.at/data/document/27971/9/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Drawings and prints by Vincent van Gogh in the collection of the Kröller-Müller Museum".
+<https://www.albertina.at/data/document/26871/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh. Gezeichnete Bilder".
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/2000/01/rdf-schema#label> "article".
+<http://vocab.getty.edu/ulan/500310001> <http://www.w3.org/2000/01/rdf-schema#label> "Musée d'Orsay".
+<https://www.albertina.at/data/document/26871/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh - Drawings".
+<https://www.albertina.at/data/document/27971/4/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Lettres de Vincent van Gogh à Emile Bernard".
+<https://www.albertina.at/data/identifier/JH1031> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH1031".
+<http://vocab.getty.edu/aat/300054196> <http://www.w3.org/2000/01/rdf-schema#label> "drawing".
+<https://www.albertina.at/data/identifier/JH1495> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH1495".
+<https://www.albertina.at/data/identifier/F1518a> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F1518a".
+<https://www.albertina.at/data/artwork/26871/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "ALBERTINA, Vienna".
+<https://www.albertina.at/data/identifier/F1399> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F1399".
+<https://www.albertina.at/data/identifier/26871> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "26871".
+<https://www.albertina.at/data/artwork/27971/credit_line> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "ALBERTINA, Vienna".
+<https://www.albertina.at/data/identifier/27971> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "27971".
+<http://vocab.getty.edu/tgn/7007048> <http://www.w3.org/2000/01/rdf-schema#label> "Haarlem".
+<http://vocab.getty.edu/tgn/7013284> <http://www.w3.org/2000/01/rdf-schema#label> "Toronto".
+<http://vocab.getty.edu/ulan/500220995> <http://www.w3.org/2000/01/rdf-schema#label> "Stedelijk Museum".
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh. Zeichnungen und Aquarelle".
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Moderne schilderijen".
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Michelangelo to Picasso: Master Drawings from the Collection of the Albertina, Vienna".
+<http://vocab.getty.edu/ulan/500303594> <http://www.w3.org/2000/01/rdf-schema#label> "The Frick Collection".
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh".
+<http://vocab.getty.edu/ulan/500452080> <http://www.w3.org/2000/01/rdf-schema#label> "Kunstsalon Paul Cassirer".
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Impressionism: Masterworks on Paper".
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh. Drawings".
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Heiliger Frühling. Gustav Klimt und die Anfänge der Wiener Secession 1895-1905".
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Stadt und Land. Zwischen Traum und Realität".
+<http://vocab.getty.edu/tgn/7014071> <http://www.w3.org/2000/01/rdf-schema#label> "Milwaukee".
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Goya bis Picasso. Meisterwerke der Sammlung Jan Krugier und Marie-Anne Krugier-Poniatowski".
+<http://vocab.getty.edu/ulan/500312528> <http://www.w3.org/2000/01/rdf-schema#label> "Österreichische Galerie Belvedere".
+<https://rkd.nl/explore/artists/351573> <http://www.w3.org/2000/01/rdf-schema#label> "J.H. de Bois".
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh à Paris".
+<http://vocab.getty.edu/tgn/7003712> <http://www.w3.org/2000/01/rdf-schema#label> "Berlin".
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh. Zeichnungen und Aquarelle".
+<http://vocab.getty.edu/ulan/500223139> <http://www.w3.org/2000/01/rdf-schema#label> "Frans Hals Museum".
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Tentoonstelling van schilderijen en teekenningen door Vincent van Gogh".
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh and Japan".
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Michelangelo to Picasso: Master Drawings from the Collection of the Albertina, Vienna".
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh".
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh, Cézanne, Matisse, Hodler. Die Sammlung Hahnloser".
+<http://vocab.getty.edu/ulan/500302980> <http://www.w3.org/2000/01/rdf-schema#label> "Milwaukee Art Museum".
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent Van Gogh".
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh. Gezeichnete Bilder".
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh. Gezeichnete Bilder".
+<http://vocab.getty.edu/ulan/500245617> <http://www.w3.org/2000/01/rdf-schema#label> "Art Gallery of Ontario".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b3 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "25.3"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5b4 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "34.5"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5c0 <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "37.0"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bf <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "23.0"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fe <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2008-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5fe <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2008-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d6 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2007-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d6 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2007-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d1 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1963-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5d1 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1963-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e5 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1963-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e5 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1963-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e0 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1911-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5e0 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1911-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f4 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2005-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f4 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2005-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5db <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2008-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5db <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2008-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ef <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ef <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ea <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1988-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5ea <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1988-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f9 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2007-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5f9 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2007-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5af <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1888-06-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5af <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1888-06-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bb <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1886-11-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b5bb <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1886-12-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2005-08-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2005-04-08/2005-08-28/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2005-04-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1914-06-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500452080/1914-06-01/1914-07-05/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1914-07-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2012-01-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500302980/2011-10-14/2012-01-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2011-10-14"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2000-04-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500303594/2000-04-18/2000-06-18/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2000-06-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-03-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500235923/1990-03-30/1990-07-29/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-07-29"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2008-09-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2008-12-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2008-12-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1958-03-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500312528/1958-02-01/1958-03-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1958-02-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1961-05-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500250652/1961-05-23/1961-06-25/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1961-06-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1998-10-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/1998-10-16/1999-01-10/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1999-01-10"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1935-11-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/351573/1935-11-01/1935-12-31/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1935-12-31"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2021-03-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2021-03-26/2021-08-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2021-08-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1988-02-02"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500310001/1988-02-02/1988-05-15/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1988-05-15"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1905-07-15"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500220995/1905-07-15/1905-09-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1905-09-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2008-09-05"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2008-09-05/2018-12-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2018-12-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2020-08-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500224093/2020-08-27/2000-11-02/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2000-11-02"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2000-04-02"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500245617/2000-01-22/2000-04-02/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2000-01-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2018-03-23"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500275558/2018-03-23/2018-06-24/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2018-06-24"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1956-07-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500223139/1956-07-21/1956-08-27/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1956-08-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1970-04-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.albertina.at/data/exhibition/500305347/1970-04-30/1970-06-21/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1970-06-21"^^<http://www.w3.org/2001/XMLSchema#date>.

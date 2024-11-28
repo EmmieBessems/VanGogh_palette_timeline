@@ -1,0 +1,972 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://ago.ca/data/artwork/81%2F556/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Purchased with proceeds from the Annual Giving Fund, 1982" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/81%2F556> .
+
+<https://ago.ca/data/artwork/81%2F556/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://ago.ca/data/artwork/81%2F556> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300053418>,
+        <http://vocab.getty.edu/aat/300182748> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "19th Century, c. 1884" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1884-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1884-12-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006835> .
+
+<https://ago.ca/data/artwork/97%2F156/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Gift of Ann and Lawrence Heisey, 1997" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/artwork/97%2F156/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "19th Century, 1885" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1885-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1885-12-31"^^xsd:date ] .
+
+<https://ago.ca/data/document/81%2F556/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500075234> ;
+    ns1:P94_has_created <https://ago.ca/data/document/81%2F556/1> .
+
+<https://ago.ca/data/document/81%2F556/1/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/81%2F556/1/publisher> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/document/81%2F556/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1910-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1910-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1047629> .
+
+<https://ago.ca/data/document/97%2F156/4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/97%2F156/4/author> ;
+    ns1:P94_has_created <https://ago.ca/data/document/97%2F156/4> .
+
+<https://ago.ca/data/document/97%2F156/4/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/97%2F156/4/publisher> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/document/97%2F156/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007856> .
+
+<https://ago.ca/data/document/9780919777774/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P94_has_created <https://ago.ca/data/document/9780919777774> .
+
+<https://ago.ca/data/document/9780919777774/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/document/9780919777774> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013284> .
+
+<https://ago.ca/data/document/9781858944449/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/9781858944449/author> ;
+    ns1:P94_has_created <https://ago.ca/data/document/9781858944449> .
+
+<https://ago.ca/data/document/9781858944449/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/9781858944449/publisher> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/document/9781858944449> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2008-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2008-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007567> .
+
+<https://ago.ca/data/document/9783822802913/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/9783822802913/author> ;
+    ns1:P94_has_created <https://ago.ca/data/document/9783822802913> .
+
+<https://ago.ca/data/document/9783822802913/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500237751> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/document/9783822802913> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1993-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1993-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004446> .
+
+<https://ago.ca/data/document/9783836572927/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/9783836572927/author> ;
+    ns1:P94_has_created <https://ago.ca/data/document/9783836572927> .
+
+<https://ago.ca/data/document/9783836572927/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/document/9783836572927/publisher> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/document/9783836572927> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1971-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1971-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008038> .
+
+<https://ago.ca/data/exhibition/500245617/1993-04-30/1993-08-29> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/81%2F556> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/500245617/1993-04-30/1993-08-29/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/500245617/1993-04-30/1993-08-29/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013284> .
+
+<https://ago.ca/data/exhibition/500245617/1998-10-24/1999-02-14> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/500245617/1998-10-24/1999-02-14/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/500245617/1998-10-24/1999-02-14/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013284> .
+
+<https://ago.ca/data/exhibition/500245617/2008-11-14/2009-01-18> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/81%2F556> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/500245617/2008-11-14/2009-01-18/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/500245617/2008-11-14/2009-01-18/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013284> .
+
+<https://ago.ca/data/exhibition/500292421/1999-05-15/1999-07-11> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500292421> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/500292421/1999-05-15/1999-07-11/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/500292421/1999-05-15/1999-07-11/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013143> .
+
+<https://ago.ca/data/exhibition/organisation/1932-01-01/1932-01-01> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/organisation/1932-01-01/1932-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/organisation/1932-01-01/1932-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://ago.ca/data/exhibition/organisation/1956-01-01/1956-01-01> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/organisation/1956-01-01/1956-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/organisation/1956-01-01/1956-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://ago.ca/data/exhibition/organisation/2001-04-08/2001-07-08> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/organisation/2001-04-08/2001-07-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/organisation/2001-04-08/2001-07-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013959> .
+
+<https://ago.ca/data/exhibition/organisation/2001-09-08/2001-12-06> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/organisation/2001-09-08/2001-12-06/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/organisation/2001-09-08/2001-12-06/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/2020611> .
+
+<https://ago.ca/data/exhibition/organisation/2006-06-14/2007-01-28> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/exhibition/organisation/2006-06-14/2007-01-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://ago.ca/data/exhibition/organisation/2006-06-14/2007-01-28/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013284> .
+
+<https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1997-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417637> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1997-01-01/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1997-01-01/acquisition> .
+
+<https://ago.ca/data/technical/97%2F156/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://ago.ca/data/technical/97%2F156/1> ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P16_used_specific_object <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300419325> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1997-03-04"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1997-03-04"^^xsd:date ] .
+
+<https://media.rkd.nl/iiif/10770928> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://ago.ca/data/artwork/81%2F556> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770936> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://ago.ca/data/artwork/97%2F156> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300014187> a ns1:E57_Material ;
+    rdfs:label "wove paper" .
+
+<http://vocab.getty.edu/aat/300014638> a ns1:E55_Type ;
+    rdfs:label "photographic film (photographic materials)" .
+
+<http://vocab.getty.edu/aat/300014657> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300015012> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300022443> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300022464> a ns1:E57_Material .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "paintings (visual works)" .
+
+<http://vocab.getty.edu/aat/300033973> a ns1:E55_Type ;
+    rdfs:label "drawings (visual works)" .
+
+<http://vocab.getty.edu/aat/300053418> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300178684> a ns1:E57_Material ;
+    rdfs:label "oil painting (technique)" .
+
+<http://vocab.getty.edu/aat/300182748> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300417637> a ns1:E55_Type ;
+    rdfs:label "gift" .
+
+<http://vocab.getty.edu/aat/300417641> a ns1:E55_Type ;
+    rdfs:label "bequest" .
+
+<http://vocab.getty.edu/aat/300419325> a ns1:E55_Type ;
+    rdfs:label "x-radiographs" .
+
+<http://vocab.getty.edu/tgn/1047629> a ns1:E53_Place ;
+    rdfs:label "Baarn" .
+
+<http://vocab.getty.edu/tgn/2020611> a ns1:E53_Place ;
+    rdfs:label "Ocala" .
+
+<http://vocab.getty.edu/tgn/7004446> a ns1:E53_Place ;
+    rdfs:label "Köln" .
+
+<http://vocab.getty.edu/tgn/7006835> a ns1:E53_Place ;
+    rdfs:label "Nuenen" .
+
+<http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York City" .
+
+<http://vocab.getty.edu/tgn/7007856> a ns1:E53_Place ;
+    rdfs:label "Antwerp" .
+
+<http://vocab.getty.edu/tgn/7008038> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+<http://vocab.getty.edu/tgn/7013143> a ns1:E53_Place ;
+    rdfs:label "Winnipeg" .
+
+<http://vocab.getty.edu/tgn/7013959> a ns1:E53_Place ;
+    rdfs:label "Nashville" .
+
+<http://vocab.getty.edu/ulan/500237751> a ns1:E74_Group ;
+    rdfs:label "Benedikt Taschen" .
+
+<http://vocab.getty.edu/ulan/500292421> a ns1:E39_Actor ;
+    rdfs:label "Winnipeg Art Gallery" .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://ago.ca/data/document/81%2F556/1/publisher> a ns1:E74_Group ;
+    rdfs:label "Van de Ven" .
+
+<https://ago.ca/data/document/81%2F556/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: persoonlijke herinneringen aangaande een kunstenaar" .
+
+<https://ago.ca/data/document/97%2F156/4/author> a ns1:E21_Person ;
+    rdfs:label "Vanbeselaere, Walter" .
+
+<https://ago.ca/data/document/97%2F156/4/publisher> a ns1:E74_Group ;
+    rdfs:label "De Sikkel" .
+
+<https://ago.ca/data/document/97%2F156/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De hollandsche periode (1880-1885) in het werk van Vincent van Gogh (1853-1890)" .
+
+<https://ago.ca/data/document/9780919777774/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Art Gallery of Ontario: Selected Works" .
+
+<https://ago.ca/data/document/9781858944449/author> a ns1:E21_Person ;
+    rdfs:label "Lochnan, Katharine" .
+
+<https://ago.ca/data/document/9781858944449/publisher> a ns1:E74_Group ;
+    rdfs:label "Merrell Publisher Limited" .
+
+<https://ago.ca/data/document/9781858944449/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawing Attention: Selected Works on Paper from the Renaissance to Modernism, Art Gallery of Ontario" .
+
+<https://ago.ca/data/document/9783822802913/author> a ns1:E21_Person ;
+    rdfs:label "Walther, Ingo F." .
+
+<https://ago.ca/data/document/9783822802913/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh : the complete paintings" .
+
+<https://ago.ca/data/document/9783836572927/author> a ns1:E21_Person ;
+    rdfs:label "Lecaldano, Paolo" .
+
+<https://ago.ca/data/document/9783836572927/publisher> a ns1:E74_Group ;
+    rdfs:label "Flammarion" .
+
+<https://ago.ca/data/document/9783836572927/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Tout l'oeuvre peint de Van Gogh" .
+
+<https://ago.ca/data/exhibition/500245617/1993-04-30/1993-08-29/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Graphic Statements: Five Centuries of European Prints and Drawings" .
+
+<https://ago.ca/data/exhibition/500245617/1993-04-30/1993-08-29/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1993-04-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1993-08-29"^^xsd:date .
+
+<https://ago.ca/data/exhibition/500245617/1998-10-24/1999-02-14/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Art in the Age of Van Gogh: Dutch Paintings from the Rijksmuseum" .
+
+<https://ago.ca/data/exhibition/500245617/1998-10-24/1999-02-14/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-10-24"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1999-02-14"^^xsd:date .
+
+<https://ago.ca/data/exhibition/500245617/2008-11-14/2009-01-18/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Drawing Attention: Selected Works on Paper from the Renaissance to Modernism" .
+
+<https://ago.ca/data/exhibition/500245617/2008-11-14/2009-01-18/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2008-11-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2009-01-18"^^xsd:date .
+
+<https://ago.ca/data/exhibition/500292421/1999-05-15/1999-07-11/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Art in the Age of Van Gogh: Dutch Paintings from the Rijksmuseum" .
+
+<https://ago.ca/data/exhibition/500292421/1999-05-15/1999-07-11/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1999-05-15"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1999-07-11"^^xsd:date .
+
+<https://ago.ca/data/exhibition/organisation/1932-01-01/1932-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Schilderijen door Vincent van Gogh" .
+
+<https://ago.ca/data/exhibition/organisation/1932-01-01/1932-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1932-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1932-01-01"^^xsd:date .
+
+<https://ago.ca/data/exhibition/organisation/1956-01-01/1956-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh: Quelques oeuvres de l'epoque 1881-1886, provent de collections particulieres néerlandaises" .
+
+<https://ago.ca/data/exhibition/organisation/1956-01-01/1956-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1956-01-01"^^xsd:date .
+
+<https://ago.ca/data/exhibition/organisation/2001-04-08/2001-07-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "European Masterworks: Paintings from the Art Gallery of Ontario" .
+
+<https://ago.ca/data/exhibition/organisation/2001-04-08/2001-07-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2001-04-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2001-07-08"^^xsd:date .
+
+<https://ago.ca/data/exhibition/organisation/2001-09-08/2001-12-06/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "19th Century European Masterworks from the Collection of the Art Gallery of Ontario" .
+
+<https://ago.ca/data/exhibition/organisation/2001-09-08/2001-12-06/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2001-09-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2001-12-06"^^xsd:date .
+
+<https://ago.ca/data/exhibition/organisation/2006-06-14/2007-01-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Future Now" .
+
+<https://ago.ca/data/exhibition/organisation/2006-06-14/2007-01-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2006-06-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2007-01-28"^^xsd:date .
+
+<https://ago.ca/data/identifier/81%2F556> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "81/556" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://ago.ca/data/identifier/97%2F156> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "97/156" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://ago.ca/data/identifier/F1343> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F1343" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://ago.ca/data/identifier/F95> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F95" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://ago.ca/data/identifier/JH475> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH475" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://ago.ca/data/identifier/JH827> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH827" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://ago.ca/data/provenance/Ann+and+Lawrence+Heisey/1980-07-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/actor/Ann+and+Lawrence+Heisey> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/Ann+and+Lawrence+Heisey/1980-07-01/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/Ann+and+Lawrence+Heisey/1980-07-01/acquisition> .
+
+<https://ago.ca/data/provenance/Ann+and+Lawrence+Heisey/1980-07-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://ago.ca/data/actor/Ann+and+Lawrence+Heisey> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/provenance/Ann+and+Lawrence+Heisey/1980-07-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1980-07-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1980-07-01"^^xsd:date .
+
+<https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1982-03-31> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417642> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1982-03-31/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1982-03-31/acquisition> .
+
+<https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1982-03-31/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/81%2F556> .
+
+<https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1982-03-31/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1982-03-31"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1982-03-31"^^xsd:date .
+
+<https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1997-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1997-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1997-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1997-01-01"^^xsd:date .
+
+<https://ago.ca/data/provenance/C.+Mouwen+Jr/1939-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/actor/C.+Mouwen+Jr> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/C.+Mouwen+Jr/1939-01-01/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/C.+Mouwen+Jr/1939-01-01/acquisition> .
+
+<https://ago.ca/data/provenance/C.+Mouwen+Jr/1939-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://ago.ca/data/actor/C.+Mouwen+Jr> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/provenance/C.+Mouwen+Jr/1939-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1939-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1939-01-01"^^xsd:date .
+
+<https://ago.ca/data/provenance/Elizabeth+Huberta+du+Quesne-van+Gogh/1913-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500075234> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/Elizabeth+Huberta+du+Quesne-van+Gogh/1913-01-01/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/Elizabeth+Huberta+du+Quesne-van+Gogh/1913-01-01/acquisition> .
+
+<https://ago.ca/data/provenance/Elizabeth+Huberta+du+Quesne-van+Gogh/1913-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500075234> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/81%2F556> .
+
+<https://ago.ca/data/provenance/Elizabeth+Huberta+du+Quesne-van+Gogh/1913-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1913-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1913-01-01"^^xsd:date .
+
+<https://ago.ca/data/provenance/F%C3%A9lix+du+Quesne-van+Bruchem/1936-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/actor/F%C3%A9lix+du+Quesne-van+Bruchem> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/F%C3%A9lix+du+Quesne-van+Bruchem/1936-01-01/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/F%C3%A9lix+du+Quesne-van+Bruchem/1936-01-01/acquisition> .
+
+<https://ago.ca/data/provenance/F%C3%A9lix+du+Quesne-van+Bruchem/1936-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://ago.ca/data/actor/F%C3%A9lix+du+Quesne-van+Bruchem> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/81%2F556> .
+
+<https://ago.ca/data/provenance/F%C3%A9lix+du+Quesne-van+Bruchem/1936-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1936-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1936-01-01"^^xsd:date .
+
+<https://ago.ca/data/provenance/G.+Ribbius+Peletier/1956-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/actor/G.+Ribbius+Peletier> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/G.+Ribbius+Peletier/1956-01-01/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/G.+Ribbius+Peletier/1956-01-01/acquisition> .
+
+<https://ago.ca/data/provenance/G.+Ribbius+Peletier/1956-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://ago.ca/data/actor/G.+Ribbius+Peletier> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/provenance/G.+Ribbius+Peletier/1956-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1956-01-01"^^xsd:date .
+
+<https://ago.ca/data/provenance/Stichting+Peletier/1969-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://ago.ca/data/actor/Stichting+Peletier> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417644> ;
+    ns1:P4_has_time-span <https://ago.ca/data/provenance/Stichting+Peletier/1969-01-01/timespan> ;
+    ns1:P9_consists_of <https://ago.ca/data/provenance/Stichting+Peletier/1969-01-01/acquisition> .
+
+<https://ago.ca/data/provenance/Stichting+Peletier/1969-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://ago.ca/data/actor/Stichting+Peletier> ;
+    ns1:P24_transferred_title_of <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/provenance/Stichting+Peletier/1969-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1969-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1969-01-01"^^xsd:date .
+
+<https://ago.ca/data/technical/97%2F156/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://ago.ca/data/technical/97%2F156/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300014638> .
+
+<https://ago.ca/data/technical/97%2F156/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Peasant Woman Digging" .
+
+<https://vangoghworldwide.org/data/artwork/F1343> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/artwork/F95> a rdfs:Resource .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalogs" .
+
+<http://vocab.getty.edu/aat/300028702> a ns1:E55_Type ;
+    rdfs:label "inscriptions" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300139140> a rdfs:Resource ;
+    rdfs:label "genre" .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300417642> a ns1:E55_Type ;
+    rdfs:label "purchase" .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<https://ago.ca/data/actor/Ann+and+Lawrence+Heisey> a ns1:E39_Actor ;
+    rdfs:label "Ann and Lawrence Heisey" .
+
+<https://ago.ca/data/actor/C.+Mouwen+Jr> a ns1:E39_Actor ;
+    rdfs:label "C. Mouwen Jr" .
+
+<https://ago.ca/data/actor/F%C3%A9lix+du+Quesne-van+Bruchem> a ns1:E39_Actor ;
+    rdfs:label "Félix du Quesne-van Bruchem" .
+
+<https://ago.ca/data/actor/G.+Ribbius+Peletier> a ns1:E39_Actor ;
+    rdfs:label "G. Ribbius Peletier" .
+
+<https://ago.ca/data/actor/Stichting+Peletier> a ns1:E39_Actor ;
+    rdfs:label "Stichting Peletier" .
+
+<https://ago.ca/data/document/81%2F556/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://ago.ca/data/document/81%2F556/1/part> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/document/81%2F556/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://ago.ca/data/document/81%2F556/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/81%2F556> .
+
+<https://ago.ca/data/document/97%2F156/4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://ago.ca/data/document/97%2F156/4/part> ;
+    ns1:P1_is_identified_by <https://ago.ca/data/document/97%2F156/4/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://ago.ca/data/document/97%2F156/4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/document/9780919777774> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://ago.ca/data/document/9780919777774/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9780919777774" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://ago.ca/data/document/9780919777774/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://ago.ca/data/document/9780919777774/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/81%2F556> .
+
+<https://ago.ca/data/document/9781858944449> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://ago.ca/data/document/9781858944449/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9781858944449" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://ago.ca/data/document/9781858944449/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://ago.ca/data/document/9781858944449/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/81%2F556> .
+
+<https://ago.ca/data/document/9783822802913> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://ago.ca/data/document/9783822802913/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9783822802913" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://ago.ca/data/document/9783822802913/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://ago.ca/data/document/9783822802913/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/97%2F156> .
+
+<https://ago.ca/data/document/9783836572927> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://ago.ca/data/document/9783836572927/part> ;
+    ns1:P1_is_identified_by [ a ns1:E42_Identifier ;
+            ns1:P190_has_symbolic_content "9783836572927" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ],
+        <https://ago.ca/data/document/9783836572927/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://ago.ca/data/document/9783836572927/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/97%2F156> .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/ulan/500075234> a ns1:E21_Person,
+        ns1:E39_Actor ;
+    rdfs:label "Du Quesne-van Gogh, Elisabeth Huberta",
+        "Elizabeth Huberta du Quesne-van Gogh" .
+
+ns1:E12_Production a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300417644> a ns1:E55_Type ;
+    rdfs:label "transfer" .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+<http://vocab.getty.edu/tgn/7013284> a ns1:E53_Place ;
+    rdfs:label "Toronto" .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E74_Group a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "ISBN",
+        "book" .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E39_Actor a rdfs:Resource .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/ulan/500245617> a ns1:E21_Person,
+        ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Art Gallery of Ontario" .
+
+<https://ago.ca/data/artwork/81%2F556> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Vicarage at Neunen: Seen from the Back, with the Artist's Studio on the Right" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Parsonage, Seen from the Back" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://ago.ca/data/identifier/81%2F556>,
+        <https://ago.ca/data/identifier/F1343>,
+        <https://ago.ca/data/identifier/JH475> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033973> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 37.8 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 25.6 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015012>,
+        <http://vocab.getty.edu/aat/300022443>,
+        <http://vocab.getty.edu/aat/300022464> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not inscribed" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014187> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300139140> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F1343> .
+
+<https://ago.ca/data/artwork/97%2F156> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "A woman with a spade, seen from behind" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Peasant Woman, Digging, Seen from the Back" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://ago.ca/data/identifier/97%2F156>,
+        <https://ago.ca/data/identifier/F95>,
+        <https://ago.ca/data/identifier/JH827> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 32.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 41.7 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300178684> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not inscribed" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028702> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014657> ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500245617> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300139140> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F95> .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "In her possession prior to 1913." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/provenance/Elizabeth+Huberta+du+Quesne-van+Gogh/1913-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 74-75" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://ago.ca/data/document/9781858944449/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Elizabeth's son by her second husband and the nephew of the artist. Félix brought it with him when he immigrated to Canada, where he lived in Quebec." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/provenance/F%C3%A9lix+du+Quesne-van+Bruchem/1936-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 152-153" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://ago.ca/data/document/9780919777774/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Purchased from Sotheby's Toronto on March 31, 1982, lot 612." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/provenance/Art+Gallery+of+Ontario/1982-03-31> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "graphite, pen and brown ink, brown wash, heightened with white on wove paper" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/81%2F556> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "After 1969, owned by \"Stichting Peletier tot behoud van het Landgoed Linschoten\"." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/provenance/Stichting+Peletier/1969-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "During Peletier Jr’s ownership a bracketed note elaborates, “lent to dealer Dr. Ir M. De Wild, The Hague (label on verso) and to Centraal Museum, Utrecht\". No dates for these loans are known." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/provenance/G.+Ribbius+Peletier/1956-01-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 55" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://ago.ca/data/document/81%2F556/1/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Vol. 1, p. 114" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://ago.ca/data/document/9783822802913/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Purchased from Sotheby Parke Bernet & Co. in London on 1 July 1980." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/provenance/Ann+and+Lawrence+Heisey/1980-07-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Not known exactly when it entered C. Mouwen Jr. collection in Breda. Faille 1939, no. 105, no. F. 95 is the earliest published, work found to date, including C. Mouwen, Breda in the provenance." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/provenance/C.+Mouwen+Jr/1939-01-01> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas on wood panel" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/97%2F156> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 176" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://ago.ca/data/document/9783836572927/part> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "C. Mouwen Jr, Breda. Private Collection (Peletier?), Netherlands, by 1956.[1] G. Ribbius Peletier [-1969], Utrecht; upon Peletier’s death, the painting becomes part of “Stichting Peletier tot behoud van het Landgoed Linschoten.”[2] (sale, Sotheby Parke Bernet & Co., London, 1 July 1980). Ann and Lawrence Heisey, Toronto; gift 1997 to AGO Not known exactly when it entered C. Mouwen Jr. collection in Breda.[1] Faille 1939, no. 105, no. F. 95 is the earliest published, work found to date, including C. Mouwen, Breda in the provenance. See also, Wisselingh & Co. (Amsterdam) 1956, no. 21.[2] During Peletier Jr’s ownership a bracketed note elaborates, “lent to dealer Dr. Ir M. De Wild, The Hague (label on verso) and to Centraal Museum, Utrecht; after 1969 owned by Stichting Peletier tot behoud van het Landgoed Linschoten,” anonymous, cataloguing report with heading, “Section 6,” n.d., Accession 97/156. It is unclear when the work was lent to Dr. Ir. De Wild or to the Centraal Museum, Utrecht" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/97%2F156> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Elizabeth Huberta du Quesne-van Gogh, in her possession prior to 1913 until 1936; by inheritance to her son Felix du Quesne-van Bruchem, 1936-82, Montreal; Sotheby's Toronto, 31 March 1982, lot 612; AGO" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://ago.ca/data/artwork/81%2F556> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.300, 352, 415" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://ago.ca/data/document/97%2F156/4/part> .
+

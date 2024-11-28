@@ -1,0 +1,346 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300417641> a ns1:E55_Type ;
+    rdfs:label "bequest" .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770900> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.ngprague.cz/data/artwork/O+3208> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.ngprague.cz/data/actor/Theo+Van+Gogh> a ns1:E39_Actor ;
+    rdfs:label "Theo Van Gogh" .
+
+<https://www.ngprague.cz/data/artwork/O+3208/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "National Gallery Prague" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.ngprague.cz/data/artwork/O+3208> .
+
+<https://www.ngprague.cz/data/artwork/O+3208/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.ngprague.cz/data/artwork/O+3208> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300178684> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "1889" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1889-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1889-12-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009654> .
+
+<https://www.ngprague.cz/data/provenance/Czechoslovak+state/1923-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.ngprague.cz/data/actor/Czechoslovak+state> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://www.ngprague.cz/data/provenance/Czechoslovak+state/1923-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.ngprague.cz/data/provenance/Czechoslovak+state/1923-01-01/acquisition> .
+
+<https://www.ngprague.cz/data/provenance/Ernest+Jacques+Thiel/1905-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.ngprague.cz/data/actor/Ernest+Jacques+Thiel> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://www.ngprague.cz/data/provenance/Ernest+Jacques+Thiel/1905-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.ngprague.cz/data/provenance/Ernest+Jacques+Thiel/1905-01-01/acquisition> .
+
+<https://www.ngprague.cz/data/provenance/Galerie+Paul+Rosenberg/1923-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.ngprague.cz/data/actor/Galerie+Paul+Rosenberg> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://data.rkd.nl/artists/500951> ;
+    ns1:P4_has_time-span <https://www.ngprague.cz/data/provenance/Galerie+Paul+Rosenberg/1923-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.ngprague.cz/data/provenance/Galerie+Paul+Rosenberg/1923-01-01/acquisition> .
+
+<https://www.ngprague.cz/data/provenance/Johanna+Van+Gogh-Bonger/1891-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.ngprague.cz/data/actor/Johanna+Van+Gogh-Bonger> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://data.rkd.nl/artists/350056> ;
+    ns1:P4_has_time-span <https://www.ngprague.cz/data/provenance/Johanna+Van+Gogh-Bonger/1891-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.ngprague.cz/data/provenance/Johanna+Van+Gogh-Bonger/1891-01-01/acquisition> .
+
+<https://www.ngprague.cz/data/provenance/Paul+Cassirer/1905-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.ngprague.cz/data/actor/Paul+Cassirer> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <https://data.rkd.nl/artists/349668> ;
+    ns1:P4_has_time-span <https://www.ngprague.cz/data/provenance/Paul+Cassirer/1905-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.ngprague.cz/data/provenance/Paul+Cassirer/1905-01-01/acquisition> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "landscape" .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033799> a ns1:E55_Type ;
+    rdfs:label "oil paintings (visual works)" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300178684> a ns1:E55_Type ;
+    rdfs:label "painting" .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/7009654> a ns1:E53_Place ;
+    rdfs:label "Saint-Paul de Mausole" .
+
+<http://vocab.getty.edu/ulan/500244830> a ns1:E39_Actor ;
+    rdfs:label "National Gallery Prague" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://data.rkd.nl/artists/349668> a ns1:E55_Type .
+
+<https://data.rkd.nl/artists/350056> a ns1:E55_Type .
+
+<https://data.rkd.nl/artists/500951> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/artwork/F719> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<https://www.ngprague.cz/data/identifier/F719> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F719" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.ngprague.cz/data/identifier/JH1725> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1725" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.ngprague.cz/data/identifier/O+3208> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "O 3208" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.ngprague.cz/data/provenance/Czechoslovak+state/1923-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.ngprague.cz/data/actor/Czechoslovak+state> ;
+    ns1:P24_transferred_title_of <https://www.ngprague.cz/data/artwork/O+3208> .
+
+<https://www.ngprague.cz/data/provenance/Czechoslovak+state/1923-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1923-01-01"^^xsd:date .
+
+<https://www.ngprague.cz/data/provenance/Ernest+Jacques+Thiel/1905-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.ngprague.cz/data/actor/Ernest+Jacques+Thiel> ;
+    ns1:P24_transferred_title_of <https://www.ngprague.cz/data/artwork/O+3208> .
+
+<https://www.ngprague.cz/data/provenance/Ernest+Jacques+Thiel/1905-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date .
+
+<https://www.ngprague.cz/data/provenance/Galerie+Paul+Rosenberg/1923-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.ngprague.cz/data/actor/Galerie+Paul+Rosenberg> ;
+    ns1:P24_transferred_title_of <https://www.ngprague.cz/data/artwork/O+3208> .
+
+<https://www.ngprague.cz/data/provenance/Galerie+Paul+Rosenberg/1923-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1923-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1923-01-01"^^xsd:date .
+
+<https://www.ngprague.cz/data/provenance/Johanna+Van+Gogh-Bonger/1891-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.ngprague.cz/data/actor/Johanna+Van+Gogh-Bonger> ;
+    ns1:P24_transferred_title_of <https://www.ngprague.cz/data/artwork/O+3208> .
+
+<https://www.ngprague.cz/data/provenance/Johanna+Van+Gogh-Bonger/1891-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1891-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1905-01-01"^^xsd:date .
+
+<https://www.ngprague.cz/data/provenance/Paul+Cassirer/1905-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://www.ngprague.cz/data/actor/Paul+Cassirer> ;
+    ns1:P24_transferred_title_of <https://www.ngprague.cz/data/artwork/O+3208> .
+
+<https://www.ngprague.cz/data/provenance/Paul+Cassirer/1905-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1905-01-01"^^xsd:date .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://www.ngprague.cz/data/actor/Czechoslovak+state> a ns1:E39_Actor ;
+    rdfs:label "Czechoslovak state" .
+
+<https://www.ngprague.cz/data/actor/Ernest+Jacques+Thiel> a ns1:E39_Actor ;
+    rdfs:label "Ernest Jacques Thiel" .
+
+<https://www.ngprague.cz/data/actor/Galerie+Paul+Rosenberg> a ns1:E39_Actor ;
+    rdfs:label "Galerie Paul Rosenberg" .
+
+<https://www.ngprague.cz/data/actor/Johanna+Van+Gogh-Bonger> a ns1:E39_Actor ;
+    rdfs:label "Johanna Van Gogh-Bonger" .
+
+<https://www.ngprague.cz/data/actor/Paul+Cassirer> a ns1:E39_Actor ;
+    rdfs:label "Paul Cassirer" .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<https://www.ngprague.cz/data/artwork/O+3208> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Le Champ de blé vert avec cyprès" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Green Wheat Field" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Les blés verts" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        <https://www.ngprague.cz/data/identifier/F719>,
+        <https://www.ngprague.cz/data/identifier/JH1725>,
+        <https://www.ngprague.cz/data/identifier/O+3208> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033799> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 92.5 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 73.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed or dated" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500244830> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F719> .
+
+ns1:E55_Type a rdfs:Resource .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "1923 bought by Czechoslovak state from W. Halvorsen" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.ngprague.cz/data/artwork/O+3208> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.ngprague.cz/data/artwork/O+3208> .
+

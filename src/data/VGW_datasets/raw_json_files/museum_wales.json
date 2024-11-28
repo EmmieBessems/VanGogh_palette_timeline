@@ -1,0 +1,2304 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300444173> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://media.rkd.nl/iiif/10770916> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://museum.wales/data/artwork/NMW+A+2463/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "© Amgueddfa Cymru - National Museum Wales" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/artwork/NMW+A+2463/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1890-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1890-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008030> .
+
+<https://museum.wales/data/document/NMW+A+2463/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/1/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/1> .
+
+<https://museum.wales/data/document/NMW+A+2463/1/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/1> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/1/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026642> .
+
+<https://museum.wales/data/document/NMW+A+2463/1/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/1/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2013-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2013-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/document/NMW+A+2463/10/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/10/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/10> .
+
+<https://museum.wales/data/document/NMW+A+2463/10/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/10> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/10/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026656> .
+
+<https://museum.wales/data/document/NMW+A+2463/10/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/10> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2015-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2015-01-01"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/11/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/11> .
+
+<https://museum.wales/data/document/NMW+A+2463/11/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/11/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/11> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/document/NMW+A+2463/12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/12/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/12/title> .
+
+<https://museum.wales/data/document/NMW+A+2463/12/publication> a ns1:E7_Activity ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003474> .
+
+<https://museum.wales/data/document/NMW+A+2463/13/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500317121> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/13> .
+
+<https://museum.wales/data/document/NMW+A+2463/13/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/13> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1919-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1919-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://museum.wales/data/document/NMW+A+2463/14/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/14/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/14> .
+
+<https://museum.wales/data/document/NMW+A+2463/14/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/14> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/14/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026656> .
+
+<https://museum.wales/data/document/NMW+A+2463/14/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/14> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2015-08-12"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2015-08-12"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/15/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/15/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/15> .
+
+<https://museum.wales/data/document/NMW+A+2463/15/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/15> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1997-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1997-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7018962> .
+
+<https://museum.wales/data/document/NMW+A+2463/16/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/16/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/16> .
+
+<https://museum.wales/data/document/NMW+A+2463/16/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/16/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011931> .
+
+<https://museum.wales/data/document/NMW+A+2463/17/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/17/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/17> .
+
+<https://museum.wales/data/document/NMW+A+2463/17/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501569> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/17> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2009-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2009-01-01"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/18/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500317556> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/18> .
+
+<https://museum.wales/data/document/NMW+A+2463/18/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500305347> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/18> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1908-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1908-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005293> .
+
+<https://museum.wales/data/document/NMW+A+2463/19/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500072180> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/19> .
+
+<https://museum.wales/data/document/NMW+A+2463/19/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/19/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/19> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1988-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1988-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007077> .
+
+<https://museum.wales/data/document/NMW+A+2463/2/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/2/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/2> .
+
+<https://museum.wales/data/document/NMW+A+2463/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501567> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2006-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2006-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009546> .
+
+<https://museum.wales/data/document/NMW+A+2463/20/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/20/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/20> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1984-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1984-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003474> .
+
+<https://museum.wales/data/document/NMW+A+2463/21/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/21/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/21> .
+
+<https://museum.wales/data/document/NMW+A+2463/21/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/21/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/21> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2011-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2011-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008546> .
+
+<https://museum.wales/data/document/NMW+A+2463/22/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/22/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/22> .
+
+<https://museum.wales/data/document/NMW+A+2463/22/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/22/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2017-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2017-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003297> .
+
+<https://museum.wales/data/document/NMW+A+2463/23/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/23/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/23> .
+
+<https://museum.wales/data/document/NMW+A+2463/23/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/23> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1982-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1982-01-01"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/24/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/347903> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/24> .
+
+<https://museum.wales/data/document/NMW+A+2463/24/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/24> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/document/NMW+A+2463/25/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/25/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/25> .
+
+<https://museum.wales/data/document/NMW+A+2463/25/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501569> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/25> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1967-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1967-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7018962> .
+
+<https://museum.wales/data/document/NMW+A+2463/26/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/485864> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/26> .
+
+<https://museum.wales/data/document/NMW+A+2463/26/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500125194> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/26> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2015-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2015-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014630http://vocab.getty.edu/tgn/7014210http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/document/NMW+A+2463/27/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/27/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/27> .
+
+<https://museum.wales/data/document/NMW+A+2463/27/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/494007> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/27/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/document/NMW+A+2463/28/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/28/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/28> .
+
+<https://museum.wales/data/document/NMW+A+2463/28/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500101263> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/28> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2019-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2019-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004333> .
+
+<https://museum.wales/data/document/NMW+A+2463/29/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500455410> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/29> .
+
+<https://museum.wales/data/document/NMW+A+2463/29/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/29/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/29> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2011-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2011-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/document/NMW+A+2463/3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/3/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/3> .
+
+<https://museum.wales/data/document/NMW+A+2463/3/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1981-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1981-01-01"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/30/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500243689> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/30> .
+
+<https://museum.wales/data/document/NMW+A+2463/30/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/30/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/30> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2003-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2003-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/document/NMW+A+2463/31/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/31> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1910-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1911-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/document/NMW+A+2463/32/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/32> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1986-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1986-01-01"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/33/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/33/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/33> .
+
+<https://museum.wales/data/document/NMW+A+2463/33/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/33/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/33> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1987-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1987-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://museum.wales/data/document/NMW+A+2463/34/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/34/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/34> .
+
+<https://museum.wales/data/document/NMW+A+2463/34/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501569> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/34> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2011-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2011-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7018962> .
+
+<https://museum.wales/data/document/NMW+A+2463/35/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/35> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1979-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1979-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/document/NMW+A+2463/36/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/36/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/36> .
+
+<https://museum.wales/data/document/NMW+A+2463/36/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/36> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/37/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/37/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/37> .
+
+<https://museum.wales/data/document/NMW+A+2463/37/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/37> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7018962> .
+
+<https://museum.wales/data/document/NMW+A+2463/38/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/38/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/38> .
+
+<https://museum.wales/data/document/NMW+A+2463/38/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/38/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1920-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1920-01-01"^^xsd:date ] .
+
+<https://museum.wales/data/document/NMW+A+2463/39/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/39/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/39> .
+
+<https://museum.wales/data/document/NMW+A+2463/39/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/39/publisher> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/39> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/document/NMW+A+2463/4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/4/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/4> .
+
+<https://museum.wales/data/document/NMW+A+2463/4/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/4/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1902-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1902-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<https://museum.wales/data/document/NMW+A+2463/40/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/485864> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/40> .
+
+<https://museum.wales/data/document/NMW+A+2463/40/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/494007> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/40> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/document/NMW+A+2463/41/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/41/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/41> .
+
+<https://museum.wales/data/document/NMW+A+2463/41/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/41> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2005-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2005-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7018962> .
+
+<https://museum.wales/data/document/NMW+A+2463/42/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495488> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/42> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1905-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/document/NMW+A+2463/43/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/43/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/43> .
+
+<https://museum.wales/data/document/NMW+A+2463/43/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/43> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2018-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2018-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952http://vocab.getty.edu/tgn/7004805http://vocab.getty.edu/tgn/7007868> .
+
+<https://museum.wales/data/document/NMW+A+2463/44/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/44> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2002-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2002-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1000985> .
+
+<https://museum.wales/data/document/NMW+A+2463/5/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/349668> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1914-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1914-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<https://museum.wales/data/document/NMW+A+2463/6/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501569> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1955-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1955-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7018962> .
+
+<https://museum.wales/data/document/NMW+A+2463/7/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501569> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/7> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1952-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1952-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7018962> .
+
+<https://museum.wales/data/document/NMW+A+2463/8/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://museum.wales/data/document/NMW+A+2463/8/author> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/8> .
+
+<https://museum.wales/data/document/NMW+A+2463/8/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501567> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2016-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2016-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009546> .
+
+<https://museum.wales/data/document/NMW+A+2463/9/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500316150> ;
+    ns1:P94_has_created <https://museum.wales/data/document/NMW+A+2463/9> .
+
+<https://museum.wales/data/document/NMW+A+2463/9/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/document/NMW+A+2463/9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1923-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1923-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://museum.wales/data/exhibition/351572/1920-01-01/1920-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/351572> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/351572/1920-01-01/1920-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7250304> .
+
+<https://museum.wales/data/exhibition/352926/1901-01-01/1902-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/352926> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/352926/1901-01-01/1902-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/352926/1901-01-01/1902-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<https://museum.wales/data/exhibition/352926/1914-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/352926> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/352926/1914-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/352926/1914-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003712> .
+
+<https://museum.wales/data/exhibition/494007/1990-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/494007> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/494007/1990-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/494007/1990-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/exhibition/494007/2018-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/494007> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/494007/2018-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/494007/2018-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/exhibition/495488/1905-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495488> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/495488/1905-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/495488/1905-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006952> .
+
+<https://museum.wales/data/exhibition/495615/2008-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/495615> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/495615/2008-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/495615/2008-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003321> .
+
+<https://museum.wales/data/exhibition/500221358/2010-05-16/2010-08-08> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500221358> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500221358/2010-05-16/2010-08-08/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500221358/2010-05-16/2010-08-08/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013267> .
+
+<https://museum.wales/data/exhibition/500265171/2010-01-30/2010-04-25> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500265171> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500265171/2010-01-30/2010-04-25/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500265171/2010-01-30/2010-04-25/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013962> .
+
+<https://museum.wales/data/exhibition/500300349/1986-06-21/1986-07-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500300349> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500300349/1986-06-21/1986-07-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500300349/1986-06-21/1986-07-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004499> .
+
+<https://museum.wales/data/exhibition/500302011/1956-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302011> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500302011/1956-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500302011/1956-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/exhibition/500303861/2009-06-25/2009-09-20> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500303861> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500303861/2009-06-25/2009-09-20/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500303861/2009-06-25/2009-09-20/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013953> .
+
+<https://museum.wales/data/exhibition/500304182/1986-04-23/1986-05-12> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304182> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500304182/1986-04-23/1986-05-12/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500304182/1986-04-23/1986-05-12/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004756> .
+
+<https://museum.wales/data/exhibition/500304375/1979-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304375> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500304375/1979-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500304375/1979-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/exhibition/500304420/1951-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500304420> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500304420/1951-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500304420/1951-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008841> .
+
+<https://museum.wales/data/exhibition/500305761/1984-01-01/1985-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500305761> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500305761/1984-01-01/1985-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500305761/1984-01-01/1985-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003474> .
+
+<https://museum.wales/data/exhibition/500305812/1986-08-30/1986-09-28> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500305812> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500305812/1986-08-30/1986-09-28/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500305812/1986-08-30/1986-09-28/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004479> .
+
+<https://museum.wales/data/exhibition/500309346/2009-10-08/2010-01-03> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500309346> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500309346/2009-10-08/2010-01-03/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500309346/2009-10-08/2010-01-03/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014561> .
+
+<https://museum.wales/data/exhibition/500437012/2009-03-06/2009-06-07> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500437012> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500437012/2009-03-06/2009-06-07/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500437012/2009-03-06/2009-06-07/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7013641> .
+
+<https://museum.wales/data/exhibition/500783/1908-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/500783> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500783/1908-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500783/1908-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005293> .
+
+<https://museum.wales/data/exhibition/500785/2019-01-01/2020-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/500785> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500785/2019-01-01/2020-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500785/2019-01-01/2020-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7005293> .
+
+<https://museum.wales/data/exhibition/500876/2015-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/500876> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/500876/2015-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/500876/2015-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7014630> .
+
+<https://museum.wales/data/exhibition/501567/2016-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501567> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/501567/2016-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/501567/2016-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7009546> .
+
+<https://museum.wales/data/exhibition/501569/2014-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501569> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/501569/2014-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/501569/2014-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008742> .
+
+<https://museum.wales/data/exhibition/501570/2006-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501570> ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/501570/2006-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/501570/2006-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008178> .
+
+<https://museum.wales/data/exhibition/organisation/1893-01-01/end-date> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/organisation/1893-01-01/end-date/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/organisation/1893-01-01/end-date/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003474> .
+
+<https://museum.wales/data/exhibition/organisation/1910-01-01/1911-01-01> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/organisation/1910-01-01/1911-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/organisation/1910-01-01/1911-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7011781> .
+
+<https://museum.wales/data/exhibition/organisation/1986-03-14/1986-04-15> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/organisation/1986-03-14/1986-04-15/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/organisation/1986-03-14/1986-04-15/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004836> .
+
+<https://museum.wales/data/exhibition/organisation/1986-05-17/1986-06-15> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/organisation/1986-05-17/1986-06-15/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/organisation/1986-05-17/1986-06-15/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004486> .
+
+<https://museum.wales/data/exhibition/organisation/1986-07-26/1986-08-24> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/organisation/1986-07-26/1986-08-24/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/organisation/1986-07-26/1986-08-24/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004481> .
+
+<https://museum.wales/data/exhibition/organisation/1986-10-31/1986-12-14> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/organisation/1986-10-31/1986-12-14/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/organisation/1986-10-31/1986-12-14/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7004889> .
+
+<https://museum.wales/data/exhibition/organisation/2017-01-01/2018-01-01> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://museum.wales/data/artwork/NMW+A+2463> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/exhibition/organisation/2017-01-01/2018-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://museum.wales/data/exhibition/organisation/2017-01-01/2018-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003204> .
+
+<https://museum.wales/data/provenance/National+Museum+of+Wales/1952-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/501569> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://museum.wales/data/provenance/National+Museum+of+Wales/1952-01-01/timespan> ;
+    ns1:P9_consists_of <https://museum.wales/data/provenance/National+Museum+of+Wales/1952-01-01/acquisition> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "Canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil paint" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "Landscapes" .
+
+<http://vocab.getty.edu/aat/300026642> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "Painting" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300264273> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/tgn/1000985> a ns1:E53_Place ;
+    rdfs:label "Hokkaido" .
+
+<http://vocab.getty.edu/tgn/7003204> a ns1:E53_Place ;
+    rdfs:label "Vicenza" .
+
+<http://vocab.getty.edu/tgn/7003297> a ns1:E53_Place ;
+    rdfs:label "Treviso" .
+
+<http://vocab.getty.edu/tgn/7003321> a ns1:E53_Place ;
+    rdfs:label "Vienna" .
+
+<http://vocab.getty.edu/tgn/7004333> a ns1:E53_Place ;
+    rdfs:label "München" .
+
+<http://vocab.getty.edu/tgn/7004479> a ns1:E53_Place ;
+    rdfs:label "Fukushima" .
+
+<http://vocab.getty.edu/tgn/7004481> a ns1:E53_Place ;
+    rdfs:label "Gifu" .
+
+<http://vocab.getty.edu/tgn/7004486> a ns1:E53_Place ;
+    rdfs:label "Himeji" .
+
+<http://vocab.getty.edu/tgn/7004499> a ns1:E53_Place ;
+    rdfs:label "Hiroshima" .
+
+<http://vocab.getty.edu/tgn/7004756> a ns1:E53_Place ;
+    rdfs:label "Osaka" .
+
+<http://vocab.getty.edu/tgn/7004836> a ns1:E53_Place ;
+    rdfs:label "Yokohama" .
+
+<http://vocab.getty.edu/tgn/7004889> a ns1:E53_Place ;
+    rdfs:label "Miyazaki" .
+
+<http://vocab.getty.edu/tgn/7006952http://vocab.getty.edu/tgn/7004805http://vocab.getty.edu/tgn/7007868> a ns1:E53_Place ;
+    rdfs:label "Amsterdam ; Sapporo ; Brussel" .
+
+<http://vocab.getty.edu/tgn/7007077> a ns1:E53_Place ;
+    rdfs:label "Zwolle" .
+
+<http://vocab.getty.edu/tgn/7008030> a ns1:E53_Place ;
+    rdfs:label "Auvers-sur-Oise, Île-de-France, France" .
+
+<http://vocab.getty.edu/tgn/7008178> a ns1:E53_Place ;
+    rdfs:label "Warwickshire" .
+
+<http://vocab.getty.edu/tgn/7008546> a ns1:E53_Place ;
+    rdfs:label "Genoa" .
+
+<http://vocab.getty.edu/tgn/7008742> a ns1:E53_Place ;
+    rdfs:label "Cardiff" .
+
+<http://vocab.getty.edu/tgn/7008841> a ns1:E53_Place ;
+    rdfs:label "Aberystwyth" .
+
+<http://vocab.getty.edu/tgn/7011931> a ns1:E53_Place ;
+    rdfs:label "Oxford" .
+
+<http://vocab.getty.edu/tgn/7013267> a ns1:E53_Place ;
+    rdfs:label "Albuquerque" .
+
+<http://vocab.getty.edu/tgn/7013641> a ns1:E53_Place ;
+    rdfs:label "Columbia" .
+
+<http://vocab.getty.edu/tgn/7013953> a ns1:E53_Place ;
+    rdfs:label "Oklahoma City" .
+
+<http://vocab.getty.edu/tgn/7013962> a ns1:E53_Place ;
+    rdfs:label "Washington D.C." .
+
+<http://vocab.getty.edu/tgn/7014561> a ns1:E53_Place ;
+    rdfs:label "Syracuse" .
+
+<http://vocab.getty.edu/tgn/7014630> a ns1:E53_Place ;
+    rdfs:label "Williamstown" .
+
+<http://vocab.getty.edu/tgn/7014630http://vocab.getty.edu/tgn/7014210http://vocab.getty.edu/tgn/7011781> a ns1:E53_Place ;
+    rdfs:label "Williamstown , Massachusetts ; New Haven ; London" .
+
+<http://vocab.getty.edu/ulan/500072180> a ns1:E21_Person ;
+    rdfs:label "Feilchenfeldt, Walter" .
+
+<http://vocab.getty.edu/ulan/500101263> a ns1:E74_Group ;
+    rdfs:label "Hirmer Verlag" .
+
+<http://vocab.getty.edu/ulan/500125194> a ns1:E74_Group ;
+    rdfs:label "Clark Art Institute ; Yale University Press" .
+
+<http://vocab.getty.edu/ulan/500221358> a ns1:E39_Actor ;
+    rdfs:label "Albuquerque Museum of Art & History" .
+
+<http://vocab.getty.edu/ulan/500243689> a ns1:E21_Person ;
+    rdfs:label "MacGregor, Neil" .
+
+<http://vocab.getty.edu/ulan/500265171> a ns1:E39_Actor ;
+    rdfs:label "Corcoran Gallery of Art" .
+
+<http://vocab.getty.edu/ulan/500300349> a ns1:E39_Actor ;
+    rdfs:label "Hiroshima Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500302011> a ns1:E39_Actor ;
+    rdfs:label "Thomas Agnew & Sons" .
+
+<http://vocab.getty.edu/ulan/500303861> a ns1:E39_Actor ;
+    rdfs:label "Oklahoma City Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500304182> a ns1:E39_Actor ;
+    rdfs:label "The Daimaru Museum" .
+
+<http://vocab.getty.edu/ulan/500304375> a ns1:E39_Actor ;
+    rdfs:label "Wildenstein Gallery" .
+
+<http://vocab.getty.edu/ulan/500304420> a ns1:E39_Actor ;
+    rdfs:label "National Library of Wales" .
+
+<http://vocab.getty.edu/ulan/500305347> a ns1:E74_Group ;
+    rdfs:label "Frankfurter Kunstverein" .
+
+<http://vocab.getty.edu/ulan/500305761> a ns1:E39_Actor ;
+    rdfs:label "Ordrupgaardsamlingen" .
+
+<http://vocab.getty.edu/ulan/500305812> a ns1:E39_Actor ;
+    rdfs:label "Fukushima Prefectural Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500309346> a ns1:E39_Actor ;
+    rdfs:label "Everson Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500316150> a ns1:E21_Person ;
+    rdfs:label "Coquiot, Gustave" .
+
+<http://vocab.getty.edu/ulan/500317121> a ns1:E21_Person ;
+    rdfs:label "Duret, Théodore" .
+
+<http://vocab.getty.edu/ulan/500317556> a ns1:E21_Person ;
+    rdfs:label "Fechter, P." .
+
+<http://vocab.getty.edu/ulan/500437012> a ns1:E39_Actor ;
+    rdfs:label "Columbia Museum of Art" .
+
+<http://vocab.getty.edu/ulan/500455410> a ns1:E21_Person ;
+    rdfs:label "Lloyd, Christopher" .
+
+<http://vocab.getty.edu/ulan/500645379> a ns1:E21_Person ;
+    rdfs:label "Faille, J. B. de la" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://data.rkd.nl/artists/347903> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<https://data.rkd.nl/artists/349668> a ns1:E74_Group ;
+    rdfs:label "Cassirer, Paul" .
+
+<https://data.rkd.nl/artists/495615> a ns1:E39_Actor ;
+    rdfs:label "Albertina" .
+
+<https://data.rkd.nl/artists/500783> a ns1:E39_Actor ;
+    rdfs:label "Frankfurter Kunstverein" .
+
+<https://data.rkd.nl/artists/500785> a ns1:E39_Actor ;
+    rdfs:label "Städel Museum" .
+
+<https://data.rkd.nl/artists/500876> a ns1:E39_Actor ;
+    rdfs:label "Clark Art Institute" .
+
+<https://data.rkd.nl/artists/501570> a ns1:E39_Actor ;
+    rdfs:label "Compton Verney House" .
+
+<https://museum.wales/data/document/NMW+A+2463/1/author> a ns1:E21_Person ;
+    rdfs:label "Brown, Owen" .
+
+<https://museum.wales/data/document/NMW+A+2463/1/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Oil paintings in public ownership" .
+
+<https://museum.wales/data/document/NMW+A+2463/1/publisher> a ns1:E74_Group ;
+    rdfs:label "Public Catalogue Foundation" .
+
+<https://museum.wales/data/document/NMW+A+2463/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Amgueddfa Cymru – National Museum Wales, Oil Paintings in Public Ownership" .
+
+<https://museum.wales/data/document/NMW+A+2463/10/author> a ns1:E21_Person ;
+    rdfs:label "Cotter, H." .
+
+<https://museum.wales/data/document/NMW+A+2463/10/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "New York Times" .
+
+<https://museum.wales/data/document/NMW+A+2463/10/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Nature, Exploring the Outside World in High Relief" .
+
+<https://museum.wales/data/document/NMW+A+2463/11/publisher> a ns1:E74_Group ;
+    rdfs:label "Meulenhoff International" .
+
+<https://museum.wales/data/document/NMW+A+2463/11/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Works of Vincent van Gogh. His Paintings and Drawings" .
+
+<https://museum.wales/data/document/NMW+A+2463/12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Den Fried Udstilling" .
+
+<https://museum.wales/data/document/NMW+A+2463/13/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh, Vincent, édition definitive" .
+
+<https://museum.wales/data/document/NMW+A+2463/14/author> a ns1:E21_Person ;
+    rdfs:label "Esplund, L." .
+
+<https://museum.wales/data/document/NMW+A+2463/14/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Wall Street Journal" .
+
+<https://museum.wales/data/document/NMW+A+2463/14/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Nature Review: A Stunning Connection’" .
+
+<https://museum.wales/data/document/NMW+A+2463/15/author> a ns1:E21_Person ;
+    rdfs:label "Evans, Mark ; Fairclough, Oliver" .
+
+<https://museum.wales/data/document/NMW+A+2463/15/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The National Museum & Gallery Cardiff : a companion guide to the art gallery" .
+
+<https://museum.wales/data/document/NMW+A+2463/16/author> a ns1:E21_Person ;
+    rdfs:label "Evans, Mark" .
+
+<https://museum.wales/data/document/NMW+A+2463/16/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/16> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/16/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://museum.wales/data/document/NMW+A+2463/16/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Journal of the History of Collecting (16)" .
+
+<https://museum.wales/data/document/NMW+A+2463/16/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Davies sisters of Llandinam and Impressionism for Wales, 1908-1923’" .
+
+<https://museum.wales/data/document/NMW+A+2463/17/author> a ns1:E21_Person ;
+    rdfs:label "Fairclough, Oliver ; Dawkes, Bryony" .
+
+<https://museum.wales/data/document/NMW+A+2463/17/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Turner to Cézanne: Masterpieces from the Davies Collection, National Museum Wales" .
+
+<https://museum.wales/data/document/NMW+A+2463/18/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh Ausstellung" .
+
+<https://museum.wales/data/document/NMW+A+2463/19/publisher> a ns1:E74_Group ;
+    rdfs:label "Waanders" .
+
+<https://museum.wales/data/document/NMW+A+2463/19/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh & Paul Cassirer, Berlin: The Reception of Van Gogh in Germany from 1901-1914" .
+
+<https://museum.wales/data/document/NMW+A+2463/2/author> a ns1:E21_Person ;
+    rdfs:label "Bailey, Martin" .
+
+<https://museum.wales/data/document/NMW+A+2463/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Britain: Pioneer Collectors" .
+
+<https://museum.wales/data/document/NMW+A+2463/20> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/20/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/20/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/20/publisher> a ns1:E74_Group ;
+    rdfs:label "Ordrupgaard" .
+
+<https://museum.wales/data/document/NMW+A+2463/20/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Gaugin and van Gogh in Copenhagen in 1893" .
+
+<https://museum.wales/data/document/NMW+A+2463/21/author> a ns1:E21_Person ;
+    rdfs:label "Goldin, Marco" .
+
+<https://museum.wales/data/document/NMW+A+2463/21/publisher> a ns1:E74_Group ;
+    rdfs:label "Linea d’Ombra" .
+
+<https://museum.wales/data/document/NMW+A+2463/21/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Gauguin’s Journey: variations on a theme" .
+
+<https://museum.wales/data/document/NMW+A+2463/22/author> a ns1:E21_Person ;
+    rdfs:label "Goldin, Marco" .
+
+<https://museum.wales/data/document/NMW+A+2463/22/publisher> a ns1:E74_Group ;
+    rdfs:label "Linea d’ombra" .
+
+<https://museum.wales/data/document/NMW+A+2463/22/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: tra il grano e il cielo" .
+
+<https://museum.wales/data/document/NMW+A+2463/23/author> a ns1:E21_Person ;
+    rdfs:label "Hughes, Peter" .
+
+<https://museum.wales/data/document/NMW+A+2463/23/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L’art français du legs Davies" .
+
+<https://museum.wales/data/document/NMW+A+2463/24/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The New Complete Van Gogh: Paintings, Drawings, Sketches" .
+
+<https://museum.wales/data/document/NMW+A+2463/25/author> a ns1:E21_Person ;
+    rdfs:label "Ingamells, John" .
+
+<https://museum.wales/data/document/NMW+A+2463/25/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Davies Collection of French Art, National Museum of Wales" .
+
+<https://museum.wales/data/document/NMW+A+2463/26/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Nature" .
+
+<https://museum.wales/data/document/NMW+A+2463/27/author> a ns1:E21_Person ;
+    rdfs:label "Korn, Madeleine" .
+
+<https://museum.wales/data/document/NMW+A+2463/27/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/27> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/27/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://museum.wales/data/document/NMW+A+2463/27/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh Museum Journal" .
+
+<https://museum.wales/data/document/NMW+A+2463/27/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Collecting Paintings by Van Gogh before the Second World War’" .
+
+<https://museum.wales/data/document/NMW+A+2463/28/author> a ns1:E21_Person ;
+    rdfs:label "Krämer, Felix ; Eiling, Alexander (eds.)" .
+
+<https://museum.wales/data/document/NMW+A+2463/28/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Making Van Gogh : a German love story" .
+
+<https://museum.wales/data/document/NMW+A+2463/29/publisher> a ns1:E74_Group ;
+    rdfs:label "Thames & Hudson" .
+
+<https://museum.wales/data/document/NMW+A+2463/29/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "In Search of a Masterpiece: an art lover’s guide to Great Britain and Ireland" .
+
+<https://museum.wales/data/document/NMW+A+2463/3/author> a ns1:E21_Person ;
+    rdfs:label "Berthier, F." .
+
+<https://museum.wales/data/document/NMW+A+2463/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh et le Japon" .
+
+<https://museum.wales/data/document/NMW+A+2463/30/publisher> a ns1:E74_Group ;
+    rdfs:label "The Daily Telegraph" .
+
+<https://museum.wales/data/document/NMW+A+2463/30/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Story of Art through Masterpieces in British Collections" .
+
+<https://museum.wales/data/document/NMW+A+2463/31> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/31/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/31/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/31/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Manet and the Post-Impressionists" .
+
+<https://museum.wales/data/document/NMW+A+2463/32> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/32/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/32/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> .
+
+<https://museum.wales/data/document/NMW+A+2463/32/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/document/NMW+A+2463/33/author> a ns1:E21_Person ;
+    rdfs:label "Mothe, Alain" .
+
+<https://museum.wales/data/document/NMW+A+2463/33/publisher> a ns1:E74_Group ;
+    rdfs:label "Valhermeil" .
+
+<https://museum.wales/data/document/NMW+A+2463/33/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh à Auvers-sur-Oise" .
+
+<https://museum.wales/data/document/NMW+A+2463/34/author> a ns1:E21_Person ;
+    rdfs:label "Fairclough, Oliver (ed.)" .
+
+<https://museum.wales/data/document/NMW+A+2463/34/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "A Companion Guide to the Welsh National Museum of Art" .
+
+<https://museum.wales/data/document/NMW+A+2463/35> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/35/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/35/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/35/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings from the Davies Collection : a loan exhibition from the National Museum of Wales organised in collaboration with the Welsh Arts Council" .
+
+<https://museum.wales/data/document/NMW+A+2463/36/author> a ns1:E21_Person ;
+    rdfs:label "Pickvance, Ronald et. al." .
+
+<https://museum.wales/data/document/NMW+A+2463/36/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://museum.wales/data/document/NMW+A+2463/37/author> a ns1:E21_Person ;
+    rdfs:label "Rowan, Eric ; Stewart, Carolyn" .
+
+<https://museum.wales/data/document/NMW+A+2463/37/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "An Elusive Tradition" .
+
+<https://museum.wales/data/document/NMW+A+2463/38/author> a ns1:E21_Person ;
+    rdfs:label "Soubeyre, Eugène" .
+
+<https://museum.wales/data/document/NMW+A+2463/38/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/38> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/38/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://museum.wales/data/document/NMW+A+2463/38/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La Nouvelle Revue (vol. 46)" .
+
+<https://museum.wales/data/document/NMW+A+2463/38/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Petites Expositions" .
+
+<https://museum.wales/data/document/NMW+A+2463/39/author> a ns1:E21_Person ;
+    rdfs:label "Stemp, Richard" .
+
+<https://museum.wales/data/document/NMW+A+2463/39/publisher> a ns1:E74_Group ;
+    rdfs:label "BBC" .
+
+<https://museum.wales/data/document/NMW+A+2463/39/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Painting the Weather" .
+
+<https://museum.wales/data/document/NMW+A+2463/4/author> a ns1:E21_Person ;
+    rdfs:label "Bie, Oscar" .
+
+<https://museum.wales/data/document/NMW+A+2463/4/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/4> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/4/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026656> .
+
+<https://museum.wales/data/document/NMW+A+2463/4/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Berliner Börsen-Courier" .
+
+<https://museum.wales/data/document/NMW+A+2463/40/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Account Book of Theo van Gogh and Jo van Gogh-Bonger," .
+
+<https://museum.wales/data/document/NMW+A+2463/41/author> a ns1:E21_Person ;
+    rdfs:label "Sumner, Ann" .
+
+<https://museum.wales/data/document/NMW+A+2463/41/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Colour and Light" .
+
+<https://museum.wales/data/document/NMW+A+2463/42> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/42/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/42/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/42/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Tentoonstelling Vincent van Gogh" .
+
+<https://museum.wales/data/document/NMW+A+2463/43/author> a ns1:E21_Person ;
+    rdfs:label "Van Tilborgh, Louis et. al." .
+
+<https://museum.wales/data/document/NMW+A+2463/43/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh & Japan" .
+
+<https://museum.wales/data/document/NMW+A+2463/44> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/44/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/44/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/44/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent and Theo van Gogh" .
+
+<https://museum.wales/data/document/NMW+A+2463/5> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/5/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/5/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh 30 März 1853-29 July 1890. Zehnte Ausstellung" .
+
+<https://museum.wales/data/document/NMW+A+2463/6> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/6/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalogue of oil-paintings, National Museum of Wales" .
+
+<https://museum.wales/data/document/NMW+A+2463/7> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/7/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Catalogue of the Gwendoline E. Davies bequest of paintings, drawings and sculpture, National Museum of Wales" .
+
+<https://museum.wales/data/document/NMW+A+2463/8/author> a ns1:E21_Person ;
+    rdfs:label "Clarke, Michael et. al." .
+
+<https://museum.wales/data/document/NMW+A+2463/8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Inspiring Impressionism: Daubigny, Monet, Van Gogh" .
+
+<https://museum.wales/data/document/NMW+A+2463/9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh" .
+
+<https://museum.wales/data/exhibition/351572/1920-01-01/1920-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1920-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1920-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/352926/1901-01-01/1902-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Sonderaustellung Vincent van Gogh" .
+
+<https://museum.wales/data/exhibition/352926/1901-01-01/1902-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1901-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1902-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/352926/1914-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh 30 März 1853-29 July 1890. Zehnte Ausstellung" .
+
+<https://museum.wales/data/exhibition/352926/1914-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1914-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/494007/1990-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh" .
+
+<https://museum.wales/data/exhibition/494007/1990-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/494007/2018-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh & Japan" .
+
+<https://museum.wales/data/exhibition/494007/2018-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2018-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/495488/1905-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Tentoonstelling Vincent van Gogh" .
+
+<https://museum.wales/data/exhibition/495488/1905-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1905-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/495615/2008-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Heartfelt Lines" .
+
+<https://museum.wales/data/exhibition/495615/2008-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2008-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500221358/2010-05-16/2010-08-08/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Turner to Cézanne: Masterpieces from the Davies Collection, National Museum Wales" .
+
+<https://museum.wales/data/exhibition/500221358/2010-05-16/2010-08-08/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2010-05-16"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2010-08-08"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500265171/2010-01-30/2010-04-25/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Turner to Cézanne: Masterpieces from the Davies Collection, National Museum Wales" .
+
+<https://museum.wales/data/exhibition/500265171/2010-01-30/2010-04-25/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2010-01-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2010-04-25"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500300349/1986-06-21/1986-07-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/500300349/1986-06-21/1986-07-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-06-21"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1986-07-20"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500302011/1956-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Loan exhibition : some pictures from the National Museum of Wales, exhibited in aid of the Friends of the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/500302011/1956-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500303861/2009-06-25/2009-09-20/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Turner to Cézanne: Masterpieces from the Davies Collection, National Museum Wales" .
+
+<https://museum.wales/data/exhibition/500303861/2009-06-25/2009-09-20/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2009-06-25"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2009-09-20"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500304182/1986-04-23/1986-05-12/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/500304182/1986-04-23/1986-05-12/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-04-23"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1986-05-12"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500304375/1979-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Paintings from the Davies Collection : a loan exhibition from the National Museum of Wales organised in collaboration with the Welsh Arts Council" .
+
+<https://museum.wales/data/exhibition/500304375/1979-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1979-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500304420/1951-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "An exhibition of sixty-one pictures from the Gregynog Collection" .
+
+<https://museum.wales/data/exhibition/500304420/1951-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1951-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500305761/1984-01-01/1985-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Gaugin and Van Gogh in Copenhagen" .
+
+<https://museum.wales/data/exhibition/500305761/1984-01-01/1985-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1984-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1985-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500305812/1986-08-30/1986-09-28/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/500305812/1986-08-30/1986-09-28/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-08-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1986-09-28"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500309346/2009-10-08/2010-01-03/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Turner to Cézanne: Masterpieces from the Davies Collection, National Museum Wales" .
+
+<https://museum.wales/data/exhibition/500309346/2009-10-08/2010-01-03/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2009-10-08"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2010-01-03"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500437012/2009-03-06/2009-06-07/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Turner to Cézanne: Masterpieces from the Davies Collection, National Museum Wales" .
+
+<https://museum.wales/data/exhibition/500437012/2009-03-06/2009-06-07/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2009-03-06"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2009-06-07"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500783/1908-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh Ausstellung" .
+
+<https://museum.wales/data/exhibition/500783/1908-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1908-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500785/2019-01-01/2020-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Making Van Gogh: A German love story" .
+
+<https://museum.wales/data/exhibition/500785/2019-01-01/2020-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2019-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2020-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/500876/2015-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Nature" .
+
+<https://museum.wales/data/exhibition/500876/2015-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2015-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/501567/2016-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Inspiring Impressionism: Daubigny, Monet, Van Gogh" .
+
+<https://museum.wales/data/exhibition/501567/2016-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2016-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/501569/2014-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Constable Salisbury Cathedral from the Meadows" .
+
+<https://museum.wales/data/exhibition/501569/2014-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2014-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/501570/2006-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh and Britain: Pioneer Collectors" .
+
+<https://museum.wales/data/exhibition/501570/2006-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2006-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/organisation/1893-01-01/end-date/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Den Frie Udstilling" .
+
+<https://museum.wales/data/exhibition/organisation/1893-01-01/end-date/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1893-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/organisation/1910-01-01/1911-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Manet and the Post-Impressionists" .
+
+<https://museum.wales/data/exhibition/organisation/1910-01-01/1911-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1910-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1911-01-01"^^xsd:date .
+
+<https://museum.wales/data/exhibition/organisation/1986-03-14/1986-04-15/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/organisation/1986-03-14/1986-04-15/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-03-14"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1986-04-15"^^xsd:date .
+
+<https://museum.wales/data/exhibition/organisation/1986-05-17/1986-06-15/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/organisation/1986-05-17/1986-06-15/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-05-17"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1986-06-15"^^xsd:date .
+
+<https://museum.wales/data/exhibition/organisation/1986-07-26/1986-08-24/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/organisation/1986-07-26/1986-08-24/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-07-26"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1986-08-24"^^xsd:date .
+
+<https://museum.wales/data/exhibition/organisation/1986-10-31/1986-12-14/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Masterpieces from the National Museum of Wales" .
+
+<https://museum.wales/data/exhibition/organisation/1986-10-31/1986-12-14/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1986-10-31"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1986-12-14"^^xsd:date .
+
+<https://museum.wales/data/exhibition/organisation/2017-01-01/2018-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh: Tra il grano e il cielo" .
+
+<https://museum.wales/data/exhibition/organisation/2017-01-01/2018-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "2017-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "2018-01-01"^^xsd:date .
+
+<https://museum.wales/data/identifier/F811> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F811" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://museum.wales/data/identifier/JH2096> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH2096" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://museum.wales/data/identifier/NMW+A+2463> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "NMW A 2463" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://museum.wales/data/provenance/Galerie+Bernheim-Jeune/1911-05-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/351572> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300077989> ;
+    ns1:P4_has_time-span <https://museum.wales/data/provenance/Galerie+Bernheim-Jeune/1911-05-01/timespan> ;
+    ns1:P9_consists_of <https://museum.wales/data/provenance/Galerie+Bernheim-Jeune/1911-05-01/acquisition> .
+
+<https://museum.wales/data/provenance/Galerie+Bernheim-Jeune/1911-05-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/351572> ;
+    ns1:P24_transferred_title_of <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/provenance/Galerie+Bernheim-Jeune/1911-05-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1911-05-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1920-04-30"^^xsd:date .
+
+<https://museum.wales/data/provenance/Gwendoline+Davies/1920-04-30> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500009350> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300077989> ;
+    ns1:P4_has_time-span <https://museum.wales/data/provenance/Gwendoline+Davies/1920-04-30/timespan> ;
+    ns1:P9_consists_of <https://museum.wales/data/provenance/Gwendoline+Davies/1920-04-30/acquisition> .
+
+<https://museum.wales/data/provenance/Gwendoline+Davies/1920-04-30/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <http://vocab.getty.edu/ulan/500009350> ;
+    ns1:P24_transferred_title_of <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/provenance/Gwendoline+Davies/1920-04-30/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1920-04-30"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1951-07-03"^^xsd:date .
+
+<https://museum.wales/data/provenance/Jo+van+Gogh-Bonger+%3B+Andries+Bonger/1891-01-25> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/350056> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://museum.wales/data/provenance/Jo+van+Gogh-Bonger+%3B+Andries+Bonger/1891-01-25/timespan> ;
+    ns1:P9_consists_of <https://museum.wales/data/provenance/Jo+van+Gogh-Bonger+%3B+Andries+Bonger/1891-01-25/acquisition> .
+
+<https://museum.wales/data/provenance/Jo+van+Gogh-Bonger+%3B+Andries+Bonger/1891-01-25/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/350056> ;
+    ns1:P24_transferred_title_of <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/provenance/Jo+van+Gogh-Bonger+%3B+Andries+Bonger/1891-01-25/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1891-01-25"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1911-05-01"^^xsd:date .
+
+<https://museum.wales/data/provenance/National+Museum+of+Wales/1952-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/501569> ;
+    ns1:P24_transferred_title_of <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/provenance/National+Museum+of+Wales/1952-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1952-01-01"^^xsd:date .
+
+<https://museum.wales/data/provenance/Theo+van+Gogh/1890-07-29> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/351830> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863>,
+        <http://vocab.getty.edu/aat/300417641> ;
+    ns1:P4_has_time-span <https://museum.wales/data/provenance/Theo+van+Gogh/1890-07-29/timespan> ;
+    ns1:P9_consists_of <https://museum.wales/data/provenance/Theo+van+Gogh/1890-07-29/acquisition> .
+
+<https://museum.wales/data/provenance/Theo+van+Gogh/1890-07-29/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/351830> ;
+    ns1:P24_transferred_title_of <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/provenance/Theo+van+Gogh/1890-07-29/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1890-07-29"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1891-01-25"^^xsd:date .
+
+<https://vangoghworldwide.org/data/artwork/F811> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300026480> a ns1:E55_Type ;
+    rdfs:label "reviews (documents)" .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300077989> a ns1:E55_Type ;
+    rdfs:label "purchase" .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/ulan/500009350> a ns1:E39_Actor ;
+    rdfs:label "Gwendoline Davies" .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://data.rkd.nl/artists/350056> a ns1:E39_Actor ;
+    rdfs:label "Jo van Gogh-Bonger ; Andries Bonger" .
+
+<https://data.rkd.nl/artists/351830> a ns1:E39_Actor ;
+    rdfs:label "Theo van Gogh" .
+
+<https://data.rkd.nl/artists/352926> a ns1:E39_Actor ;
+    rdfs:label "Kunstsalon Paul Cassirer" .
+
+<https://data.rkd.nl/artists/485864> a ns1:E21_Person ;
+    rdfs:label "Kendall, Richard; Van Heugten, Sjraar ; Stolwijk, Chris",
+        "Stolwijk, Chris ; Veenenbos, Han" .
+
+<https://data.rkd.nl/artists/495488> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Stedelijk Museum",
+        "Stedelijk Museum Amsterdam" .
+
+<https://museum.wales/data/document/NMW+A+2463/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/11> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/11/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/11/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/11/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/13> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/13/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/13/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/13/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/15> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/15/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/16> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/16/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/16/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://museum.wales/data/document/NMW+A+2463/16/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/17> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/17/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/17/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/17/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/18> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/18/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/19> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/19/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/19/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/19/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/2> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/2/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/2/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/20/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/21> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/21/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/21/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/21/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/22> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/22/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/22/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/22/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/23> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/23/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/23/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> .
+
+<https://museum.wales/data/document/NMW+A+2463/23/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/24> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/24/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/24/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/24/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/25> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/25/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/25/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> .
+
+<https://museum.wales/data/document/NMW+A+2463/25/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/26> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/26/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/26/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/26/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/27> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/27/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/27/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://museum.wales/data/document/NMW+A+2463/27/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/28> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/28/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/28/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/28/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/29> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/29/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/29/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/29/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/3/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/3/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/30> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/30/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/31/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/32/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/33> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/33/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/33/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/33/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/34> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/34/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/35/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/36> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/36/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/36/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/36/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/37> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/37/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/37/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/37/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/38> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/38/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/38/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://museum.wales/data/document/NMW+A+2463/38/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/39> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/39/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/4> a ns1:E33_Linguistic_Object ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/40> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/40/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/40/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/40/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/41> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/41/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/41/title> ;
+    ns1:P2_has_type <ttp://vocab.getty.edu/aat/300417819> .
+
+<https://museum.wales/data/document/NMW+A+2463/41/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/42/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/43> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/43/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/43/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://museum.wales/data/document/NMW+A+2463/43/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/44/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/5/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/8> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/9> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/9/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<http://vocab.getty.edu/aat/300026656> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300026657> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300417641> a ns1:E55_Type ;
+    rdfs:label "bequest" .
+
+<http://vocab.getty.edu/tgn/7005293> a ns1:E53_Place ;
+    rdfs:label "Frankfurt am Main" .
+
+<http://vocab.getty.edu/tgn/7009546> a ns1:E53_Place ;
+    rdfs:label "Edinburgh" .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<https://data.rkd.nl/artists/351572> a ns1:E39_Actor ;
+    rdfs:label "Galerie Bernheim Jeune",
+        "Galerie Bernheim-Jeune" .
+
+<https://data.rkd.nl/artists/501567> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "National Galleries of Scotland",
+        "National Gallery of Scotland" .
+
+<https://museum.wales/data/document/NMW+A+2463/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://museum.wales/data/document/NMW+A+2463/1/part> ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417443> .
+
+<https://museum.wales/data/document/NMW+A+2463/10> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/10/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026480> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<https://museum.wales/data/document/NMW+A+2463/14> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://museum.wales/data/document/NMW+A+2463/14/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026480> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+<http://vocab.getty.edu/aat/300048715> a ns1:E55_Type ;
+    rdfs:label "article" .
+
+<http://vocab.getty.edu/tgn/7003474> a ns1:E53_Place ;
+    rdfs:label "Copenhagen",
+        "Kopenhagen" .
+
+<http://vocab.getty.edu/tgn/7003712> a ns1:E53_Place ;
+    rdfs:label "Berlin" .
+
+<http://vocab.getty.edu/tgn/7250304> a ns1:E53_Place ;
+    rdfs:label "Parijs",
+        "Paris" .
+
+<https://data.rkd.nl/artists/494007> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Van Gogh Museum" .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/7018962> a ns1:E53_Place ;
+    rdfs:label "Cardiff" .
+
+<ttp://vocab.getty.edu/aat/300417819> a ns1:E55_Type ;
+    rdfs:label "museum catalogs" .
+
+<http://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam" .
+
+<http://vocab.getty.edu/tgn/7011781> a ns1:E53_Place ;
+    rdfs:label "London" .
+
+<https://data.rkd.nl/artists/501569> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "AFA ; National Museum of Wales",
+        "Amgueddfa Cymru – National Museum Wales",
+        "National Museum of Wales" .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalogs" .
+
+<http://vocab.getty.edu/aat/300417443> a ns1:E55_Type ;
+    rdfs:label "book" .
+
+ns1:E74_Group a rdfs:Resource .
+
+ns1:E39_Actor a rdfs:Resource .
+
+ns1:E55_Type a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+<https://museum.wales/data/artwork/NMW+A+2463> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "La Pluie" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300264273> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Rain, Auvers" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://museum.wales/data/identifier/F811>,
+        <https://museum.wales/data/identifier/JH2096>,
+        <https://museum.wales/data/identifier/NMW+A+2463> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 50.3 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 100.2 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ] ;
+    ns1:P52_has_current_owner <https://data.rkd.nl/artists/501569> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F811> .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no.21" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/5/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 459" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/29/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 134" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/36/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.86-88" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/25/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 46, fig.192, p.224-225 and p.232" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/26/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 358" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/22/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.305 (pp.291-309)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/21/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Presumed bequest; Jo van Gogh Bonger and/or Andries Bonger. (Exhibition at Staedelijk Museum, Amsterdam, 1905, no.212 ‘lent by Mr. A. Bonger’, Jo’s brother Andries.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://museum.wales/data/provenance/Jo+van+Gogh-Bonger+%3B+Andries+Bonger/1891-01-25> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Presumed bequest from Vincent van Gogh" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://museum.wales/data/provenance/Theo+van+Gogh/1890-07-29> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 2096, p. 476" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/24/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no.11, pp.70-71" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/2/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.271" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/44/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.100" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/1/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 181, p.39, p. 132." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/20/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.122-123" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/19/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 33" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/35/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.14" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/33/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 811" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/11/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 66-67" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/28/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no.15, pp.8-9" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/3/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.21-29 and 70-72" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/41/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Purchased from Bernheim-Jeune for 100,000 Frs" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://museum.wales/data/provenance/Gwendoline+Davies/1920-04-30> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "plate XLIII" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/13/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 212" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/42/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 188, p. 136 and 192" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/43/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.192" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/40/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Purchased from Mme. Cohen-Gosschalk" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://museum.wales/data/provenance/Galerie+Bernheim-Jeune/1911-05-01> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.219-253, fig.8" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/16/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Oil paint on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://museum.wales/data/artwork/NMW+A+2463> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.120-137 at p. 136" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/27/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 181" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/12/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.22, no.70" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/31/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no.55, p.152-153" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/17/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.382-383" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/38/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no.63, p.52" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/23/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 63, p.104, p.146" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/32/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pp.124-153" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://museum.wales/data/document/NMW+A+2463/37/part> .
+

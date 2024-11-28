@@ -1,0 +1,1457 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dcterms:conformsTo a rdfs:Resource .
+
+ns1:P106_is_composed_of a rdfs:Resource .
+
+ns1:P108_has_produced a rdfs:Resource .
+
+ns1:P128_carries a rdfs:Resource .
+
+ns1:P138_represents a rdfs:Resource .
+
+ns1:P14_carried_out_by a rdfs:Resource .
+
+ns1:P16_used_specific_object a rdfs:Resource .
+
+ns1:P190_has_symbolic_content a rdfs:Resource .
+
+ns1:P1_is_identified_by a rdfs:Resource .
+
+ns1:P22_transferred_title_to a rdfs:Resource .
+
+ns1:P24_transferred_title_of a rdfs:Resource .
+
+ns1:P2_has_type a rdfs:Resource .
+
+ns1:P32_used_general_technique a rdfs:Resource .
+
+ns1:P43_has_dimension a rdfs:Resource .
+
+ns1:P45_consists_of a rdfs:Resource .
+
+ns1:P46_is_composed_of a rdfs:Resource .
+
+ns1:P4_has_time-span a rdfs:Resource .
+
+ns1:P52_has_current_owner a rdfs:Resource .
+
+ns1:P65_shows_visual_item a rdfs:Resource .
+
+ns1:P67_refers_to a rdfs:Resource .
+
+ns1:P72_has_language a rdfs:Resource .
+
+ns1:P7_took_place_at a rdfs:Resource .
+
+ns1:P82a_begin_of_the_begin a rdfs:Resource .
+
+ns1:P82b_end_of_the_end a rdfs:Resource .
+
+ns1:P90_has_value a rdfs:Resource .
+
+ns1:P91_has_unit a rdfs:Resource .
+
+ns1:P94_has_created a rdfs:Resource .
+
+ns1:P9_consists_of a rdfs:Resource .
+
+rdf:type a rdfs:Resource .
+
+rdfs:label a rdfs:Resource .
+
+rdfs:seeAlso a rdfs:Resource .
+
+<https://data.rkd.nl/artists/348385> a ns1:E39_Actor ;
+    rdfs:label "Johannes Hendricus de Bois (Haarlem)" .
+
+<https://data.rkd.nl/artists/350056> a ns1:E39_Actor ;
+    rdfs:label "Johanna van Gogh Bonger (Amsterdam)" .
+
+<https://data.rkd.nl/artists/499593> a ns1:E39_Actor ;
+    rdfs:label "Anthony van Hoboken (Vienna)" .
+
+<https://media.rkd.nl/iiif/10770794> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770937> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.bellasartes.gob.ar/data/technical/2720/1> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://media.rkd.nl/iiif/10770938> a ns1:E36_Visual_Item ;
+    dcterms:conformsTo <http://iiif.io/api/image> ;
+    ns1:P138_represents <https://www.bellasartes.gob.ar/data/technical/2720/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300215302> .
+
+<https://www.bellasartes.gob.ar/data/artwork/2720/credit_line> a <http://vocab.getty.edu/aat/300026687>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Museo Nacional de Bellas Artes, Buenos Aires" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026687> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/artwork/2720/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/32439> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300054216> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+                    ns1:P190_has_symbolic_content "ca. 1886-1887" ;
+                    ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ] ;
+            ns1:P82a_begin_of_the_begin "1886-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1887-12-31"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7008038> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/1/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/1> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/1/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/1/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/10/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/10/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/10> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/10/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/10> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/11> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/11/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/11/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/11/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/11> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/12> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/12/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/12/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/12/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/12> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1990-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1990-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/13/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/13/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/13> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/13/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500310800> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/13> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1988-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1988-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7002980> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/14/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/14/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/14> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/14/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/14> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1983-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1983-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/15/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/347903> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/15> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/15/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500313006> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/15> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1980-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1980-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7007567> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/16/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/16/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/16> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/16/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/16/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/16> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1976-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1976-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7002808http://vocab.getty.edu/tgn/7010420> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/17/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/17> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/17/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/335005> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/17> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006952https://vocab.getty.edu/tgn/7002980> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/18/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/18/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/18> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/18/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/18/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/18> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1970-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1970-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003150http://vocab.getty.edu/tgn/7007567> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/19/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/19/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/19> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/19/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/19/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/19> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1969-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1969-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7003150> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/2/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/2/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/2> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/2/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/2> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2010-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2010-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/20/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/450771> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/20> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/20/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500303609> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/20> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1962-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1962-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7007567> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/21/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/450771> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/21> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/21/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/21/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/21> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1961-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1961-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7002980> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/22/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500308712> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/22> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1956-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1956-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1020035> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/23/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/23> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/23/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/23/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/23> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1939-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1939-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7002980> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/24> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/24/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/24/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/24> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1936-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1936-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/25> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/25/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/25/publication> a ns1:E7_Activity ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/25> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1935-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1935-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7002980> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/26/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/26> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/26/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/26/in-document> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1934-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1934-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/27/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500645379> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/27> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/27/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/27/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/27> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1928-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1928-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7002980http://vocab.getty.edu/tgn/7007868> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/3/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/3/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/3> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/3/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/3/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/3> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2007-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2007-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/4/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/4/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/4> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/4/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/4/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/4> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2006-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2006-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/5/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/5/author> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/5> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/5/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302652> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/5> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "2000-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "2000-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/8726805> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/6/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500254869> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/6> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/6/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/6> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1999-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1999-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/7/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/347903> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/7> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/7/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/335005> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/7> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006952> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/8/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/347903> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/8> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/8/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://www.bellasartes.gob.ar/data/document/2720/8/publisher> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/8> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006952> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/9/creation> a ns1:E65_Creation ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500254869> ;
+    ns1:P94_has_created <https://www.bellasartes.gob.ar/data/document/2720/9> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/9/publication> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/document/2720/9> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054686> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ;
+            ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+            ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date ] ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/455461> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7006792> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/timespan> ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/timespan> ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/timespan> ;
+    ns1:P7_took_place_at <https://vocab.getty.edu/tgn/7006287> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500302652> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/8726805> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500307518> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/7007269> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500308712> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1020035> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500308774> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/8942194> .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <http://vocab.getty.edu/ulan/500311302> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/name> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300054766> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/timespan> ;
+    ns1:P7_took_place_at <http://vocab.getty.edu/tgn/1019951> .
+
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01> a ns1:E7_Activity ;
+    ns1:P14_carried_out_by <https://data.rkd.nl/artists/439154> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300055863> ;
+    ns1:P4_has_time-span <https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/timespan> ;
+    ns1:P9_consists_of <https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/acquisition> .
+
+<https://www.bellasartes.gob.ar/data/technical/2720/1/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.bellasartes.gob.ar/data/technical/2720/1> ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300224399> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ] .
+
+<https://www.bellasartes.gob.ar/data/technical/2720/2/production> a ns1:E12_Production ;
+    ns1:P108_has_produced <https://www.bellasartes.gob.ar/data/technical/2720/2> ;
+    ns1:P14_carried_out_by <https://vocab.getty.edu/ulan/500250849> ;
+    ns1:P16_used_specific_object <https://www.bellasartes.gob.ar/data/artwork/2720> ;
+    ns1:P32_used_general_technique <http://vocab.getty.edu/aat/300224399> ;
+    ns1:P4_has_time-span [ a ns1:E52_Time-Span ] .
+
+<http://vocab.getty.edu/aat/300014078> a ns1:E57_Material ;
+    rdfs:label "canvas" .
+
+<http://vocab.getty.edu/aat/300014844> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300015050> a ns1:E57_Material ;
+    rdfs:label "oil" .
+
+<http://vocab.getty.edu/aat/300015636> a rdfs:Resource ;
+    rdfs:label "landscape" .
+
+<http://vocab.getty.edu/aat/300026096> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300028705> a ns1:E55_Type ;
+    rdfs:label "signatures" .
+
+<http://vocab.getty.edu/aat/300033618> a ns1:E55_Type ;
+    rdfs:label "painting" .
+
+<http://vocab.getty.edu/aat/300046300> a ns1:E55_Type ;
+    rdfs:label "photographs" .
+
+<http://vocab.getty.edu/aat/300054216> a ns1:E55_Type ;
+    rdfs:label "painting" .
+
+<http://vocab.getty.edu/aat/300055644> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055647> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300055863> a ns1:E55_Type ;
+    rdfs:label "provenance entry" .
+
+<http://vocab.getty.edu/aat/300128347> a ns1:E55_Type ;
+    rdfs:label "black-and-white photographs" .
+
+<http://vocab.getty.edu/aat/300312355> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300388306> a ns1:E56_Language .
+
+<http://vocab.getty.edu/tgn/1019951> a ns1:E53_Place ;
+    rdfs:label "Rosario" .
+
+<http://vocab.getty.edu/tgn/7003150> a ns1:E53_Place ;
+    rdfs:label "Milano" .
+
+<http://vocab.getty.edu/tgn/7003150http://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "Milan ; New York" .
+
+<http://vocab.getty.edu/tgn/7006792> a ns1:E53_Place ;
+    rdfs:label "Rotterdam" .
+
+<http://vocab.getty.edu/tgn/7007269> a ns1:E53_Place ;
+    rdfs:label "Basel" .
+
+<http://vocab.getty.edu/tgn/7008038> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+<http://vocab.getty.edu/tgn/8726805> a ns1:E53_Place ;
+    rdfs:label "Martigny" .
+
+<http://vocab.getty.edu/tgn/8942194> a ns1:E53_Place ;
+    rdfs:label "Sao Paulo" .
+
+<http://vocab.getty.edu/ulan/500307518> a ns1:E39_Actor ;
+    rdfs:label "Kunsthalle Basel" .
+
+<http://vocab.getty.edu/ulan/500308712> a ns1:E39_Actor ;
+    rdfs:label "Museo Provincial de Bellas Artes Rosa Galisteo de Rodríguez" .
+
+<http://vocab.getty.edu/ulan/500308774> a ns1:E39_Actor ;
+    rdfs:label "Fundación Bienal de San Pablo" .
+
+<http://vocab.getty.edu/ulan/500311302> a ns1:E39_Actor ;
+    rdfs:label "Museo Municipal de Bellas Artes Juan B. Castagnino" .
+
+ns1:E58_Measurement_Unit a rdfs:Resource .
+
+ns1:E8_Acquisition a rdfs:Resource .
+
+<https://data.rkd.nl/artists/32439> a ns1:E39_Actor ;
+    rdfs:label "Vincent van Gogh" .
+
+<https://data.rkd.nl/artists/455461> a ns1:E39_Actor ;
+    rdfs:label "Kunstzalen Unger & van Mens" .
+
+<https://vangoghworldwide.org/data/artwork/F348> a rdfs:Resource .
+
+<https://vangoghworldwide.org/data/concept/f_number> a ns1:E55_Type .
+
+<https://vangoghworldwide.org/data/concept/jh_number> a ns1:E55_Type .
+
+<https://vocab.getty.edu/aat/300264578> a ns1:E55_Type ;
+    rdfs:label "web pages (documents)" .
+
+<https://vocab.getty.edu/aat/300417819> a ns1:E55_Type ;
+    rdfs:label "museum catalogs" .
+
+<https://vocab.getty.edu/tgn/7002808http://vocab.getty.edu/tgn/7010420> a ns1:E53_Place ;
+    rdfs:label "Barcelona ; Madrid" .
+
+<https://vocab.getty.edu/tgn/7002980http://vocab.getty.edu/tgn/7007868> a ns1:E53_Place ;
+    rdfs:label "Paris ; Bruxelles" .
+
+<https://vocab.getty.edu/tgn/7006952https://vocab.getty.edu/tgn/7002980> a ns1:E53_Place ;
+    rdfs:label "Amsterdam ; Paris" .
+
+<https://vocab.getty.edu/tgn/8726805> a ns1:E53_Place ;
+    rdfs:label "Martigny" .
+
+<https://vocab.getty.edu/ulan/500303609> a ns1:E74_Group ;
+    rdfs:label "Museum of Modern Art (MoMA)" .
+
+<https://vocab.getty.edu/ulan/500308712> a ns1:E74_Group ;
+    rdfs:label "Museo Provincial de Bellas Artes Rosa Galisteo de Rodríguez" .
+
+<https://vocab.getty.edu/ulan/500310800> a ns1:E74_Group ;
+    rdfs:label "Réunion des musées nationaux" .
+
+<https://vocab.getty.edu/ulan/500313006> a ns1:E74_Group ;
+    rdfs:label "H. N. Abrams" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/author> a ns1:E21_Person ;
+    rdfs:label "Schlesser, Thomas" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/1> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/1/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026096> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Colección del Museo Nacional de Bellas Artes" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/publisher> a ns1:E74_Group ;
+    rdfs:label "Asociación Amigos del MNBA" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent van Gogh. Le Moulin de la Galette" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/10/author> a ns1:E21_Person ;
+    rdfs:label "Pacheco, Marcelo Eduardo; Vazquez Ocampo, Gustavo" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/10/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh y su mundo. Centenario van Gogh" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/11/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Museo Nacional de Bellas Artes (junio)" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/11/publisher> a ns1:E74_Group ;
+    rdfs:label "Fundación Schapire" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/11/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Centenario de la muerte de Vincent Van Gogh" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/12/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Museo Nacional de Bellas Artes (diciembre)" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/12/publisher> a ns1:E74_Group ;
+    rdfs:label "Fundación Schapire" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/12/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Exposiciones 1990" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/13/author> a ns1:E21_Person ;
+    rdfs:label "AA.VV" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/13/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh à Paris" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/14/author> a ns1:E21_Person ;
+    rdfs:label "Witjens, Harmen B. A" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/14/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La pintura holandesa en las colecciones argentinas (Siglos XVI al XX)" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/15/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The Complete Van Gogh : Paintings, Drawings, Sketches" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/16/author> a ns1:E21_Person ;
+    rdfs:label "Lecaldano, Paolo" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/16/publisher> a ns1:E74_Group ;
+    rdfs:label "Noguer-Rizzoli" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/16/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La obra pictórica completa de Van Gogh: de Etten a París" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/17/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L’Oeuvre de Vincent van Gogh. Catalogue raisonné" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/18/author> a ns1:E21_Person ;
+    rdfs:label "Lassaigne, Jacques" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/18/publisher> a ns1:E74_Group ;
+    rdfs:label "Fratelli Fabbri" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/18/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Toulouse- Lautrec and the Paris of the de cabarets" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/19/author> a ns1:E21_Person ;
+    rdfs:label "Lassaigne, Jacques" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/19/publisher> a ns1:E74_Group ;
+    rdfs:label "Fratelli Fabbri" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/19/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Toulouse- Lautrec e la Parigi dei cabarets" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/2/author> a ns1:E21_Person ;
+    rdfs:label "Schlesser, Thomas" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Comentario sobre Le Moulin de la Galette" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/20/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Post-impressionism: from Van to Gauguin" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/21/publisher> a ns1:E74_Group ;
+    rdfs:label "Albin Michel" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/21/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Le post-impressionnisme de Van Gogh à Gauguin" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/22> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/22/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/22/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026096> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/22/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Pintura francesa del siglo XIX" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/23/publisher> a ns1:E74_Group ;
+    rdfs:label "Hypérion" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/23/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Vincent Van Gogh" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/24/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Plástica (no. 5, año II, abril)" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/25/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Beaux Arts (22 de marzo)" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/author> a ns1:E21_Person ;
+    rdfs:label "Da Rocha, Augusto" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/26> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/26/in-document/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026657> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/in-document/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Boletín del Museo Nacional de Bellas Artes (vol. 1, año I, Julio)" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/publisher> a ns1:E74_Group ;
+    rdfs:label "Museo Nacional de Bellas artes" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Algo más sobre Van Gogh y Gauguin" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/27/publisher> a ns1:E74_Group ;
+    rdfs:label "G van Oest" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/27/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "L’Oeuvre de Vincent van Gogh. Catalogue raisonné" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/3/author> a ns1:E21_Person ;
+    rdfs:label "Herrera, María José" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/3/publisher> a ns1:E74_Group ;
+    rdfs:label "Asociación Amigos del MNBA" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/3/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Guía del Museo Nacional de Bellas Artes" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/4/author> a ns1:E21_Person ;
+    rdfs:label "Navarro, Ángel Miguel" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/4/publisher> a ns1:E74_Group ;
+    rdfs:label "Fundación Espigas" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/4/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "El arte flamenco y holandés en la Argentina" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/5/author> a ns1:E21_Person ;
+    rdfs:label "Pickvance, Ronald" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/5/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/6/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Obras Maestras del Museo Nacional de Bellas Artes" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/7/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The complete Van Gogh : Paintings, Drawings, Sketches. Revised and enlarged edition of the catalogue raisonné of the works of Vincent Van Gogh." .
+
+<https://www.bellasartes.gob.ar/data/document/2720/8/publisher> a ns1:E74_Group ;
+    rdfs:label "John Benjamins" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/8/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "The New Complete Van Gogh: Fully revised and enlarged edition of the Catalogue raisonné" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/9/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "De la Escuela de Barbizon a van Gogh" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/455461/1927-04-01/1927-04-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1927-04-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1927-04-01"^^xsd:date .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La pintura holandesa en las colecciones argentinas S.XVI al XX" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1983-06-01/1983-06-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1983-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1983-06-01"^^xsd:date .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh y su mundo" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1990-06-01/1900-07-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1990-06-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1900-07-01"^^xsd:date .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "La Escuela de Barbizon a Van Gogh" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500250849/1996-01-01/1996-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1996-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1996-01-01"^^xsd:date .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Van Gogh" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500302652/36698-01-01/36856-01-01/timespan> a ns1:E52_Time-Span .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Meister des XIX Jahrhunderts" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500307518/11593-01-01/11621-01-01/timespan> a ns1:E52_Time-Span .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Pintura francesa del siglo XIX" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500308712/20580-01-01/20595-01-01/timespan> a ns1:E52_Time-Span .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "XXIV Bienal de San Pablo" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500308774/1998-01-01/1998-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1998-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1998-01-01"^^xsd:date .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/name> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Exposición inaugural" .
+
+<https://www.bellasartes.gob.ar/data/exhibition/500311302/1937-01-01/1937-01-01/timespan> a ns1:E52_Time-Span ;
+    ns1:P82a_begin_of_the_begin "1937-01-01"^^xsd:date ;
+    ns1:P82b_end_of_the_end "1937-01-01"^^xsd:date .
+
+<https://www.bellasartes.gob.ar/data/identifier/2720> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "2720" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300312355> .
+
+<https://www.bellasartes.gob.ar/data/identifier/F348> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "F348" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/f_number> .
+
+<https://www.bellasartes.gob.ar/data/identifier/JH1182> a ns1:E42_Identifier ;
+    ns1:P190_has_symbolic_content "JH1182" ;
+    ns1:P2_has_type <https://vangoghworldwide.org/data/concept/jh_number> .
+
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/acquisition> a ns1:E8_Acquisition ;
+    ns1:P22_transferred_title_to <https://data.rkd.nl/artists/439154> ;
+    ns1:P24_transferred_title_of <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/provenance/Galerie+Thannhauser+%28Berlin%29/12499-01-01/timespan> a ns1:E52_Time-Span .
+
+<https://www.bellasartes.gob.ar/data/technical/2720/1/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Examen ocular de la obra" .
+
+<https://www.bellasartes.gob.ar/data/technical/2720/2/title> a ns1:E33_E41_Linguistic_Appellation ;
+    ns1:P190_has_symbolic_content "Examen ocular de la obra" .
+
+<http://vocab.getty.edu/aat/300026687> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300048715> a ns1:E55_Type ;
+    rdfs:label "article" .
+
+<http://vocab.getty.edu/aat/300224399> a ns1:E55_Type ;
+    rdfs:label "Direct and raking light",
+        "raking light" .
+
+<http://vocab.getty.edu/aat/300379098> a ns1:E58_Measurement_Unit .
+
+<http://vocab.getty.edu/aat/300388277> a ns1:E56_Language .
+
+<http://vocab.getty.edu/aat/300404670> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300418049> a ns1:E55_Type .
+
+<http://vocab.getty.edu/aat/300435429> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/aat/300435438> a ns1:E55_Type ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300418049> .
+
+<http://vocab.getty.edu/tgn/1020035> a ns1:E53_Place ;
+    rdfs:label "Santa Fe" .
+
+<http://vocab.getty.edu/ulan/500302652> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Fondation Pierre Gianadda",
+        "Fundación Pierre Gianadda" .
+
+ns1:E54_Dimension a rdfs:Resource .
+
+ns1:E56_Language a rdfs:Resource .
+
+ns1:E57_Material a rdfs:Resource .
+
+<https://data.rkd.nl/artists/335005> a ns1:E74_Group ;
+    rdfs:label "Meulenhoff",
+        "Meulenhoff International/Vilo" .
+
+<https://data.rkd.nl/artists/439154> a ns1:E39_Actor ;
+    rdfs:label "Galerie Thannhauser (Berlin)" .
+
+<https://data.rkd.nl/artists/450771> a ns1:E21_Person ;
+    rdfs:label "Rewald, John" .
+
+<https://vocab.getty.edu/aat/300026061> a ns1:E55_Type ;
+    rdfs:label "catalogues raisonnés" .
+
+<https://vocab.getty.edu/aat/300215389> a ns1:E55_Type ;
+    rdfs:label "magazines (periodicals)" .
+
+<https://vocab.getty.edu/aat/300311679> a ns1:E55_Type ;
+    rdfs:label "bulletins" .
+
+<https://vocab.getty.edu/tgn/7006952> a ns1:E53_Place ;
+    rdfs:label "Amsterdam",
+        "Amsterdan" .
+
+<https://vocab.getty.edu/tgn/7007567> a ns1:E53_Place ;
+    rdfs:label "New York" .
+
+<https://vocab.getty.edu/ulan/500254869> a ns1:E21_Person ;
+    rdfs:label "Glusberg, Jorge" .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/1/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/1/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/10> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/10/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/10/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417819> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/10/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/11> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/11/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/11/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300311679> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/11/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/12> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/12/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/12/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300311679> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/12/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/13> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/13/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/13/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300028051> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/13/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/14> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/14/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/14/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026096> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/14/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/15> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/15/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/15/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/15/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/16> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/16/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/16/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/16/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/17> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/17/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/17/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/17/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/18> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/18/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/18/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300028051> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/18/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/19> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/19/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/19/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300028051> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/19/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/2> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/2/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300264578> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/20> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/20/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/20/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300028051> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/20/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/21> a ns1:E33_Linguistic_Object ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/21/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300028051> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/22/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/23> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/23/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/23/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300028051> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/23/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/24> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/24/part> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300215389> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/24/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/25> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/25/part> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300215389> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/25/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/26/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/26/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300048715> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/26/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/27> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/27/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/27/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/27/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/3> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/3/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/3/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300417819> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/3/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/4> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/4/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/4/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300028051> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/4/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/5> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/5/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/5/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026096> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/5/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/6> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/6/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/6/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417819> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/6/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/7> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/7/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/7/title> ;
+    ns1:P2_has_type <https://vocab.getty.edu/aat/300026061> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/7/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/8> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/8/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/8/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300026061> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/8/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/9> a ns1:E33_Linguistic_Object ;
+    ns1:P106_is_composed_of <https://www.bellasartes.gob.ar/data/document/2720/9/part> ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/document/2720/9/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300417819> .
+
+<https://www.bellasartes.gob.ar/data/document/2720/9/part> a ns1:E33_Linguistic_Object ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+<https://www.bellasartes.gob.ar/data/technical/2720/1> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/technical/2720/1/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300128347> .
+
+<https://www.bellasartes.gob.ar/data/technical/2720/2> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by <https://www.bellasartes.gob.ar/data/technical/2720/2/title> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300046300> .
+
+<http://iiif.io/api/image> a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300215302> a ns1:E55_Type ;
+    rdfs:label "digital images" .
+
+<http://vocab.getty.edu/aat/300417819> a ns1:E55_Type ;
+    rdfs:label "museum catalogs" .
+
+ns1:E12_Production a rdfs:Resource .
+
+ns1:E42_Identifier a rdfs:Resource .
+
+<https://data.rkd.nl/artists/347903> a ns1:E21_Person ;
+    rdfs:label "Hulsker, Jan" .
+
+<https://vocab.getty.edu/aat/300026096> a ns1:E55_Type ;
+    rdfs:label "exhibition catalogs" .
+
+<https://vocab.getty.edu/ulan/500645379> a ns1:E21_Person ;
+    rdfs:label "Baart de la Faille, Jacob" .
+
+<http://vocab.getty.edu/aat/300026061> a ns1:E55_Type ;
+    rdfs:label "catalogues raisonnés" .
+
+<http://vocab.getty.edu/ulan/500250849> a ns1:E39_Actor ;
+    rdfs:label "Museo Nacional de Bellas Artes",
+        "Museo Nacional de Bellas Artes, Argentina" .
+
+ns1:E36_Visual_Item a rdfs:Resource .
+
+<https://vocab.getty.edu/tgn/7002980> a ns1:E53_Place ;
+    rdfs:label "Paris" .
+
+<http://vocab.getty.edu/aat/300026657> a ns1:E55_Type .
+
+ns1:E22_Human-Made_Object a rdfs:Resource .
+
+<https://vocab.getty.edu/aat/300028051> a ns1:E55_Type ;
+    rdfs:label "books" .
+
+<https://vocab.getty.edu/ulan/500250849> a ns1:E39_Actor,
+        ns1:E74_Group ;
+    rdfs:label "Museo Nacional de Bellas Artes",
+        "Museo Nacional de Bellas artes" .
+
+<http://vocab.getty.edu/aat/300054766> a ns1:E55_Type ;
+    rdfs:label "exhibition" .
+
+ns1:E39_Actor a rdfs:Resource .
+
+<https://vocab.getty.edu/tgn/7006287> a ns1:E53_Place ;
+    rdfs:label "Buenos Aires" .
+
+ns1:E21_Person a rdfs:Resource .
+
+ns1:E53_Place a rdfs:Resource .
+
+ns1:E74_Group a rdfs:Resource .
+
+ns1:E65_Creation a rdfs:Resource .
+
+<http://vocab.getty.edu/aat/300435440> a ns1:E55_Type ;
+    rdfs:label "Pagination statement" .
+
+<http://vocab.getty.edu/aat/300054686> a ns1:E55_Type ;
+    rdfs:label "publishing" .
+
+ns1:E55_Type a rdfs:Resource .
+
+ns1:E7_Activity a rdfs:Resource .
+
+ns1:E52_Time-Span a rdfs:Resource .
+
+ns1:E33_E41_Linguistic_Appellation a rdfs:Resource .
+
+<https://www.bellasartes.gob.ar/data/artwork/2720> a ns1:E22_Human-Made_Object ;
+    ns1:P1_is_identified_by [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "Le Moulin de la Galette" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388306> ],
+        [ a ns1:E33_E41_Linguistic_Appellation ;
+            ns1:P190_has_symbolic_content "The Moulin de la Galette" ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300404670> ;
+            ns1:P72_has_language <http://vocab.getty.edu/aat/300388277> ],
+        <https://www.bellasartes.gob.ar/data/identifier/2720>,
+        <https://www.bellasartes.gob.ar/data/identifier/F348>,
+        <https://www.bellasartes.gob.ar/data/identifier/JH1182> ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300033618> ;
+    ns1:P43_has_dimension [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055644> ;
+            ns1:P90_has_value 61.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ],
+        [ a ns1:E54_Dimension ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300055647> ;
+            ns1:P90_has_value 50.0 ;
+            ns1:P91_has_unit <http://vocab.getty.edu/aat/300379098> ] ;
+    ns1:P45_consists_of <http://vocab.getty.edu/aat/300015050> ;
+    ns1:P46_is_composed_of [ a ns1:E22_Human-Made_Object ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300014844> ;
+            ns1:P45_consists_of <http://vocab.getty.edu/aat/300014078> ],
+        [ a ns1:E22_Human-Made_Object ;
+            ns1:P128_carries [ a ns1:E33_Linguistic_Object ;
+                    ns1:P190_has_symbolic_content "Not signed" ;
+                    ns1:P2_has_type <http://vocab.getty.edu/aat/300028705> ] ] ;
+    ns1:P52_has_current_owner <http://vocab.getty.edu/ulan/500250849> ;
+    ns1:P65_shows_visual_item [ a ns1:E36_Visual_Item ;
+            ns1:P2_has_type <http://vocab.getty.edu/aat/300015636> ] ;
+    rdfs:seeAlso <https://vangoghworldwide.org/data/artwork/F348> .
+
+ns1:E33_Linguistic_Object a rdfs:Resource .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.112, no. 339" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/16/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.61 (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/6/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cover (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/10/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. [1 ] (b&w)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/11/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. 14 (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/18/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 10 (b&w)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/24/part> .
+
+[] a <http://vocab.getty.edu/aat/300435429>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "oil on canvas" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435429> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. XIV (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/19/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 54-61, 78-85" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/13/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 469-471, p. 471 (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/1/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 47 (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/3/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "pl. [2]" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/22/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 260, no.1182" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/8/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 255 (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/4/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "cover (b&w)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/26/part> .
+
+[] a <http://vocab.getty.edu/aat/300435438>,
+        ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "Acquired at Galerie Thannhauser (Berlin) through Galería Müller (Buenos Aires)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435438> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/artwork/2720> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. [60]" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/14/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 266, p. 207 (b&w)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/23/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p . 262, no. 24" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/5/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 348, pl. 94" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/27/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no. 348." ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/17/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 59 (col.)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/9/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. 49 (b&w)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/20/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.260, no. 1182 (b&w)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/7/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "no.116" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/25/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p. [1 ] (b&w)" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/12/part> .
+
+[] a ns1:E33_Linguistic_Object ;
+    ns1:P190_has_symbolic_content "p.260, no. 1182" ;
+    ns1:P2_has_type <http://vocab.getty.edu/aat/300435440> ;
+    ns1:P67_refers_to <https://www.bellasartes.gob.ar/data/document/2720/15/part> .
+

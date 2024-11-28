@@ -1,0 +1,858 @@
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78b <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78b <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78a <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78a <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b789 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b789 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b789 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b788 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b788 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b773 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b773 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b773 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b769 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b778 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b778 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b778 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76a <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76a <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b772 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b786 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b781 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76e <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b782 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b782 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b787 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b787 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b787 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/part>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77d <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77d <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/part>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b72b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b716 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b716 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b717.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b714 <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b715.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b711 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b711 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300014844>.
+_:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b711 <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300014078>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70a <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70b.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70b <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b717 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028702>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b717 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b713 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b713 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b713 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435438>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b713 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b712 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300015636>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b710 <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b710 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435429>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.getty.edu/aat/300435429>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70d <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70d <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300389336>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70c <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300404670>.
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70c <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b715 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b715 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300028705>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70e <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055644>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70e <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E54_Dimension>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70f <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055647>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70f <http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://vocab.getty.edu/aat/300379098>.
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300379098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit>.
+<http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E57_Material> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300014844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/ulan/500303609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300418049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300435429> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P91_has_unit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300404670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E53_Place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://vocab.getty.edu/aat/300312355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://vangoghworldwide.org/data/concept/f_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E12_Production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E55_Type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E54_Dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E57_Material>.
+<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E56_Language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<https://vangoghworldwide.org/data/concept/jh_number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P90_has_value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7009654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300388277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P128_carries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E39_Actor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E7_Activity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://purl.org/dc/terms/conformsTo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300015636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435438> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/aat/300435438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E21_Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://www.cidoc-crm.org/cidoc-crm/E65_Creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7013503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500213367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/tgn/7003474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500275558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7009861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500234181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300026657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://www.cidoc-crm.org/cidoc-crm/E74_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/tgn/7013596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7010413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7007269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7009954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7005289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/tgn/7004905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<http://vocab.getty.edu/ulan/500310292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500339434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/488440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://data.rkd.nl/artists/488440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500302400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500300157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://data.rkd.nl/artists/500790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/ulan/500304669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<http://vocab.getty.edu/aat/300417642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300054216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500234181>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009861>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500275558>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003474>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500242788>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009839>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500302503>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500304669>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013596>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<http://vocab.getty.edu/ulan/500243484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009954>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009954>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7008038>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500310292>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/500790>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7003474>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://vocab.getty.edu/tgn/7009839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b716.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b714.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P65_shows_visual_item> _:visualitem_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b712.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of> _:part_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b711.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P45_consists_of> <http://vocab.getty.edu/aat/300015050>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70f.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P43_has_dimension> _:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70e.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70d.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70c.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/identifier/JH1854>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://vangoghworldwide.org/data/artwork/F586>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/identifier/F586>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/identifier/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300033618>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007269>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500279332>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7004905>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500300157>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500309231>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009861>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500302400>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7010413>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/name>.
+<http://vocab.getty.edu/ulan/500242788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<http://vocab.getty.edu/ulan/500279332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500275558>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500234181>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009861>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/name>.
+<http://vocab.getty.edu/ulan/500309231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009954>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/ulan/500302503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7006952>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500275558>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7005289>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500243484>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7013503>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500213367>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054766>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/timespan>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500303609>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7007567>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/name>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://vocab.getty.edu/ulan/500339434>.
+<http://vocab.getty.edu/aat/300444173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<http://vocab.getty.edu/aat/300444173> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300418049>.
+<http://vocab.getty.edu/ulan/500434185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417642>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/timespan>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/acquisition>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500434185>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/timespan>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/acquisition>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://goteborgskonstmuseum.se/data/actor/Louis%28%3F%29+Bernard>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://goteborgskonstmuseum.se/data/actor/Louis%28%3F%29+Bernard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P24_transferred_title_of> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/acquisition> <http://www.cidoc-crm.org/cidoc-crm/P22_transferred_title_to> <http://vocab.getty.edu/ulan/500434185>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/acquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E8_Acquisition>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/timespan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/acquisition>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/timespan>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/actor/Louis%28%3F%29+Bernard>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01> <http://www.cidoc-crm.org/cidoc-crm/P9_consists_of> <https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/acquisition>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> <https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/timespan>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500339434>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300055863>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/identifier/JH1854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://goteborgskonstmuseum.se/data/identifier/JH1854> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number>.
+<https://goteborgskonstmuseum.se/data/identifier/GKM+0590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://goteborgskonstmuseum.se/data/identifier/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300312355>.
+<https://vangoghworldwide.org/data/artwork/F586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource>.
+<http://vocab.getty.edu/aat/300389336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language>.
+<https://goteborgskonstmuseum.se/data/identifier/F586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier>.
+<https://goteborgskonstmuseum.se/data/identifier/F586> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/f_number>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70a.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300054216>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://vocab.getty.edu/ulan/500115588>.
+<https://goteborgskonstmuseum.se/data/artwork/GKM+0590/production> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009654>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300190692>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/production> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b72b.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/3>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<http://vocab.getty.edu/aat/300379538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300225890>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/6>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/7>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300391245>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/1>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300190692>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/8>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300379538>.
+<http://vocab.getty.edu/aat/300190692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/aat/300053465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/5>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300419323>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300419325>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/aat/300391245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/title>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300051964>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/2>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<http://vocab.getty.edu/aat/300419325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/aat/300225890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/aat/300051964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<http://vocab.getty.edu/aat/300419323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/production> <http://www.cidoc-crm.org/cidoc-crm/P108_has_produced> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/4>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/production> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/production> <http://www.cidoc-crm.org/cidoc-crm/P32_used_general_technique> <http://vocab.getty.edu/aat/300053465>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E21_Person>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/author>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/author>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://goteborgskonstmuseum.se/data/document/GKM+0590/1>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/author>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://goteborgskonstmuseum.se/data/document/GKM+0590/5>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/author>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/part>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/part>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/5/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/part>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300048715>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/part>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/part>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417443>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/3/author>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://goteborgskonstmuseum.se/data/document/GKM+0590/3>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/part>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/author>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://goteborgskonstmuseum.se/data/document/GKM+0590/6>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026096>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/part>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/place> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E53_Place>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/part> <http://www.cidoc-crm.org/cidoc-crm/P67_refers_to> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/part> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document/title>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300026657>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document> <http://www.cidoc-crm.org/cidoc-crm/P106_is_composed_of> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publisher>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009861>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b781.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/document/GKM+0590/6>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009954>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77c.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/document/GKM+0590/5>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publisher>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7/place>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/document/GKM+0590/7>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b786.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/document/GKM+0590/1>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b769.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009861>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publisher>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/creation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E65_Creation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P94_has_created> <https://goteborgskonstmuseum.se/data/document/GKM+0590/2>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/creation> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/author>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/document/GKM+0590/2>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publisher>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009861>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> <http://vocab.getty.edu/tgn/7009954>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <https://data.rkd.nl/artists/488440>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b772.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/document/GKM+0590/3>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E7_Activity>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300054686>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P16_used_specific_object> <https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document>.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/publication> <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> _:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b777.
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation>.
+<https://media.rkd.nl/iiif/10770833> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/artwork/GKM+0590>.
+<https://media.rkd.nl/iiif/10770833> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770833> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770863> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770863> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770863> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/7>.
+<https://media.rkd.nl/iiif/10770862> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/8>.
+<https://media.rkd.nl/iiif/10770862> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770862> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770864> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770864> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/6>.
+<https://media.rkd.nl/iiif/10770864> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770834> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/1>.
+<https://media.rkd.nl/iiif/10770834> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770834> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770836> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/4>.
+<https://media.rkd.nl/iiif/10770836> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770836> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770835> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/3>.
+<https://media.rkd.nl/iiif/10770835> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770835> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770912> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/5>.
+<https://media.rkd.nl/iiif/10770912> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770912> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+<https://media.rkd.nl/iiif/10770837> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302>.
+<https://media.rkd.nl/iiif/10770837> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <https://goteborgskonstmuseum.se/data/technical/GKM+0590/2>.
+<https://media.rkd.nl/iiif/10770837> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image>.
+<https://media.rkd.nl/iiif/10770837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item>.
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78b <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The painting was purchased from Galerie Bernheim-Jeune, Paris in 1917".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b78a <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "29 september 1916 Galerie Bernheim-Jeune".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b789 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "L Bernard was listed as the owner as the work was exhibited as no 5 at Galerie Druet, Paris, Cinquante Tableaux de Vincent Van Gogh November 8-20, 1909".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b788 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "On the inventory list made by Andries Bonger of works in Theo van Goghs possession".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b773 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 28-30, 26 repr.".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b778 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 105".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76a <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 108, 113 repr., 306".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b76e <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 72, 73 repr.".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b782 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "unnumbered repr.".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b787 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 138-139, 144-150, 14 repr., 142 repr.".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77d <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 272-273, 270-271 repr.".
+_:name_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70b <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "November 1889".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b717 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Inscribed with handwriting on verso (upper stretcher bar, left of crossbar): 20£40".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b713 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Theo van Gogh collection 1890, L Bernard collection November 1909, Galerie Bernheim-Jeune September 1916, purchased by Gothenburg Museum of Art at Galerie Bernheim-Jeune 1917".
+_:statement_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b710 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Oil on canvas".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70d <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Olivskog, Saint-Rémy".
+_:title_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70c <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Olive Grove, Saint-Rémy".
+_:inscription_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b715 <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Not signed or dated".
+<http://vocab.getty.edu/ulan/500303609> <http://www.w3.org/2000/01/rdf-schema#label> "Metropolitan Museum of Art".
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "paintings".
+<http://vocab.getty.edu/aat/300028705> <http://www.w3.org/2000/01/rdf-schema#label> "signatures".
+<http://vocab.getty.edu/ulan/500115588> <http://www.w3.org/2000/01/rdf-schema#label> "Vincent van Gogh".
+<http://vocab.getty.edu/aat/300014078> <http://www.w3.org/2000/01/rdf-schema#label> "canvas".
+<http://vocab.getty.edu/aat/300015050> <http://www.w3.org/2000/01/rdf-schema#label> "oil paint".
+<http://vocab.getty.edu/tgn/7009654> <http://www.w3.org/2000/01/rdf-schema#label> "Saint-Rémy-de-Provence".
+<http://vocab.getty.edu/aat/300055863> <http://www.w3.org/2000/01/rdf-schema#label> "provenance entry".
+<http://vocab.getty.edu/aat/300215302> <http://www.w3.org/2000/01/rdf-schema#label> "digital images".
+<http://vocab.getty.edu/aat/300015636> <http://www.w3.org/2000/01/rdf-schema#label> "Landscapes".
+<http://vocab.getty.edu/aat/300435440> <http://www.w3.org/2000/01/rdf-schema#label> "Pagination statement".
+<http://vocab.getty.edu/aat/300417443> <http://www.w3.org/2000/01/rdf-schema#label> "book".
+<http://vocab.getty.edu/aat/300054766> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition".
+<http://vocab.getty.edu/aat/300054686> <http://www.w3.org/2000/01/rdf-schema#label> "publishing".
+<http://vocab.getty.edu/tgn/7013503> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas".
+<http://vocab.getty.edu/ulan/500213367> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas Museum of Art".
+<http://vocab.getty.edu/tgn/7003474> <http://www.w3.org/2000/01/rdf-schema#label> "Copenhagen".
+<http://vocab.getty.edu/ulan/500275558> <http://www.w3.org/2000/01/rdf-schema#label> "Van Gogh Museum".
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/2000/01/rdf-schema#label> "inscriptions".
+<http://vocab.getty.edu/tgn/7007567> <http://www.w3.org/2000/01/rdf-schema#label> "New York".
+<http://vocab.getty.edu/tgn/7006952> <http://www.w3.org/2000/01/rdf-schema#label> "Amsterdam".
+<http://vocab.getty.edu/tgn/7008038> <http://www.w3.org/2000/01/rdf-schema#label> "Paris".
+<http://vocab.getty.edu/tgn/7009861> <http://www.w3.org/2000/01/rdf-schema#label> "Stockholm".
+<http://vocab.getty.edu/ulan/500234181> <http://www.w3.org/2000/01/rdf-schema#label> "Nationalmuseum".
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition catalogs".
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/2000/01/rdf-schema#label> "article".
+<http://vocab.getty.edu/tgn/7013596> <http://www.w3.org/2000/01/rdf-schema#label> "Chicago".
+<http://vocab.getty.edu/tgn/7010413> <http://www.w3.org/2000/01/rdf-schema#label> "Madrid".
+<http://vocab.getty.edu/tgn/7007269> <http://www.w3.org/2000/01/rdf-schema#label> "Basel".
+<http://vocab.getty.edu/tgn/7009954> <http://www.w3.org/2000/01/rdf-schema#label> "Gothenburg".
+<http://vocab.getty.edu/tgn/7005289> <http://www.w3.org/2000/01/rdf-schema#label> "Hamburg".
+<http://vocab.getty.edu/tgn/7004905> <http://www.w3.org/2000/01/rdf-schema#label> "Essen".
+<http://vocab.getty.edu/ulan/500310292> <http://www.w3.org/2000/01/rdf-schema#label> "Galerie E. Druet".
+<http://vocab.getty.edu/ulan/500339434> <http://www.w3.org/2000/01/rdf-schema#label> "Theo van Gogh".
+<https://data.rkd.nl/artists/488440> <http://www.w3.org/2000/01/rdf-schema#label> "Gothenburg Museum of Art".
+<http://vocab.getty.edu/ulan/500302400> <http://www.w3.org/2000/01/rdf-schema#label> "Museo Nacional Thyssen-Bornemisza".
+<http://vocab.getty.edu/ulan/500300157> <http://www.w3.org/2000/01/rdf-schema#label> "Museum Folkwang".
+<https://data.rkd.nl/artists/500790> <http://www.w3.org/2000/01/rdf-schema#label> "Ordrupgaard Museum".
+<http://vocab.getty.edu/ulan/500304669> <http://www.w3.org/2000/01/rdf-schema#label> "Art Institute of Chicago".
+<http://vocab.getty.edu/aat/300417642> <http://www.w3.org/2000/01/rdf-schema#label> "Purchase".
+<http://vocab.getty.edu/aat/300054216> <http://www.w3.org/2000/01/rdf-schema#label> "painting".
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh und die Moderne 1890-1914".
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Luther und die Folgen für die Kunst".
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Cinquante tableaux de Vincent van Gogh".
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh, Gauguin, Bernard. Dramaet i Arles".
+<http://vocab.getty.edu/ulan/500243484> <http://www.w3.org/2000/01/rdf-schema#label> "Hamburger Kunsthalle".
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh. Utställning anordnad till förmån för svenska hollandshjälpen".
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh en Gauguin. Het atelier van het zuiden".
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Cézanne till Picasso. Fransk konst i svensk ägo".
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh zwischen Erde und Himmel: die Landschaften".
+<http://vocab.getty.edu/tgn/7009839> <http://www.w3.org/2000/01/rdf-schema#label> "Malmö".
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh and Gauguin: The Studio of the South".
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh. Schilderijen".
+<http://vocab.getty.edu/ulan/500242788> <http://www.w3.org/2000/01/rdf-schema#label> "Statens Museum for Kunst".
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Impressionismen och Norden".
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh. Utställning anordnad till förmån för svenska hollandshjälpen".
+<http://vocab.getty.edu/ulan/500279332> <http://www.w3.org/2000/01/rdf-schema#label> "Kunstmuseum Basel".
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Gauguin y los orígenes del simbolismo".
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh en de olijfgaarden".
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Friction of ideas: van Gogh, Gauguin, Bernard".
+<http://vocab.getty.edu/ulan/500309231> <http://www.w3.org/2000/01/rdf-schema#label> "Liljevachs Konsthall".
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh in St. Rémy and Auvers".
+<http://vocab.getty.edu/ulan/500302503> <http://www.w3.org/2000/01/rdf-schema#label> "Malmö Museum".
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Impressionismen og Norden".
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Paul Gauguin. A distant paradise".
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh and the Olive Groves".
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/name> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Vincent van Gogh. Utställning anordnad till förmån för svenska hollandshjälpen".
+<http://vocab.getty.edu/ulan/500434185> <http://www.w3.org/2000/01/rdf-schema#label> "Galerie Bernheim-Jeune".
+<https://goteborgskonstmuseum.se/data/actor/Louis%28%3F%29+Bernard> <http://www.w3.org/2000/01/rdf-schema#label> "Louis(?) Bernard".
+<https://goteborgskonstmuseum.se/data/identifier/JH1854> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH1854".
+<https://goteborgskonstmuseum.se/data/identifier/GKM+0590> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "GKM 0590".
+<https://goteborgskonstmuseum.se/data/identifier/F586> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "F586".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/5/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "x-radiography_F586".
+<http://vocab.getty.edu/aat/300379538> <http://www.w3.org/2000/01/rdf-schema#label> "infrared reflectography".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "verso_F586".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/6/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Infrared transmitted light_F586".
+<http://vocab.getty.edu/aat/300190692> <http://www.w3.org/2000/01/rdf-schema#label> "Verso".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "verso before conservation_F586".
+<http://vocab.getty.edu/aat/300053465> <http://www.w3.org/2000/01/rdf-schema#label> "ultraviolet light studies".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/7/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "false-color infrared photography_F586".
+<http://vocab.getty.edu/aat/300391245> <http://www.w3.org/2000/01/rdf-schema#label> "false-color infrared photography".
+<http://vocab.getty.edu/aat/300419325> <http://www.w3.org/2000/01/rdf-schema#label> "X-radiograph".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/4/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "ultraviolet light studies_F586".
+<http://vocab.getty.edu/aat/300225890> <http://www.w3.org/2000/01/rdf-schema#label> "Infrared transmitted light – IRTR".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "daylight_F586".
+<http://vocab.getty.edu/aat/300051964> <http://www.w3.org/2000/01/rdf-schema#label> "Daylight".
+<https://goteborgskonstmuseum.se/data/technical/GKM+0590/8/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "infrared reflectography_F856".
+<http://vocab.getty.edu/aat/300419323> <http://www.w3.org/2000/01/rdf-schema#label> "x-radiography".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/author> <http://www.w3.org/2000/01/rdf-schema#label> "Ryndel, Nils".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/author> <http://www.w3.org/2000/01/rdf-schema#label> "Romdahl, Axel L.".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/author> <http://www.w3.org/2000/01/rdf-schema#label> "Ekelöf, Gunnar".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/in-document/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Konstrevy (vol. XXII, no 3)".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/author> <http://www.w3.org/2000/01/rdf-schema#label> "Bakker, Nienke and Myers, Nicole R.".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/author> <http://www.w3.org/2000/01/rdf-schema#label> "Hoppe, Ragnar".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/author> <http://www.w3.org/2000/01/rdf-schema#label> "Gunnarsson, Torsten and Hedström, Per".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/author> <http://www.w3.org/2000/01/rdf-schema#label> "Arvidsson, Kristoffer, Dahlström, Per and Hyltze, Anna".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas Museum of Art, Yale University Press".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Van Gogh and the Olive Groves".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Konstmonologer i Göteborgs Museum".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Liljevalchs konsthall, Moderna Museets Vänner, Bonnier".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/5/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "The Collection".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Impressionismen och Norden. Franskt avantgarde i det sena 1800-talet och konsten i Norden 1870-1920".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/2/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "P.A. Norstedt & Söners Förlag".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/1/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Atlantis".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/7/place> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas, New Haven, London".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/4/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Den store lärljungen".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/6/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Cézanne till Picasso. Fransk konst i svensk ägo".
+<https://goteborgskonstmuseum.se/data/document/GKM+0590/3/title> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "Franskt måleri i Göteborgs konstmuseum. With a summary in English".
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70e <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "74.5"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:dimension_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70f <http://www.cidoc-crm.org/cidoc-crm/P90_has_value> "92.5"^^<http://www.w3.org/2001/XMLSchema#decimal>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b769 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2002-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b769 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2002-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b777 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1946-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b777 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1946-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b772 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1961-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b772 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1961-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77c <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b77c <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b786 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b786 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b781 <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1954-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b781 <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1954-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b72b <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1989-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b72b <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1989-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70a <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1889-11-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+_:timespan_1a9fec04-409f-4f71-b82e-6aed0653a3dc-2-b9b70a <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1889-11-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1954-09-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500309231/1954-09-03/1954-10-10/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1954-10-10"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-03-30"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/1990-03-30/1990-07-29/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-07-29"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1990-08-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500300157/1990-08-11/1990-11-04/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1990-11-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1909-11-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500310292/1909-11-08/1909-11-20/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1909-11-20"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2014-06-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500790/2014-02-07/2014-06-22/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2014-02-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2002-09-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/2002-09-27/2003-01-12/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2003-01-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2009-09-27"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500279332/2009-04-26/2009-09-27/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2009-04-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2022-06-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2022-03-11/2022-06-12/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2022-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1946-04-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500234181/1946-03-08/1946-04-28/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1946-03-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1946-06-16"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302503/1946-05-29/1946-06-16/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1946-05-29"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2002-01-13"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500304669/2001-09-22/2002-01-13/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2001-09-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2014-07-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2014-07-19/2014-10-19/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2014-10-19"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1984-01-08"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500243484/1983-11-11/1984-01-08/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1983-11-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2005-01-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500302400/2004-09-28/2005-01-09/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2004-09-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1946-05-26"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/1946-05-03/1946-05-26/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1946-05-03"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2021-10-17"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500213367/2021-10-17/2022-02-06/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2022-02-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2001-01-28"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/488440/2000-11-04/2001-01-28/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2000-11-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2002-06-02"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500275558/2002-02-09/2002-06-02/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2002-02-09"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "1987-03-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500303609/1986-11-12/1987-03-22/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1986-11-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> "2003-05-25"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/exhibition/500242788/2003-02-22/2003-05-25/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "2003-02-22"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/provenance/Louis%28%3F%29+Bernard/1909-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1909-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/provenance/Gothenburg+Museum+of+Art/1917-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1917-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/provenance/Galerie+Bernheim-Jeune/1916-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1916-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://goteborgskonstmuseum.se/data/provenance/Theo+van+Gogh/1890-01-01/timespan> <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> "1890-01-01"^^<http://www.w3.org/2001/XMLSchema#date>.
