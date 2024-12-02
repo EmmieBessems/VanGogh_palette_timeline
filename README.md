@@ -37,7 +37,7 @@ In the sections below for each of these views the different preprocessors are de
 3. vgm_painting_preprocessor.py prepares the Van Gogh Museum data specifically for later usage in the tool, but can easily be adjusted for any extracted painting metadata JSON file. It also adds the letter annotations (see painting details for more details). Input (for example) is VGW_datasets/extracted_json_files/vgm_data.json and letter_annotations_data.json, output is painting_data_full_images.
 
 ### Pigment timeline
-1. pigment_loader_preprocessor.json.py loads in the separate pigment tables, combines these, and then preprocesses them for further use in the timeline tool. Input are the five pigment tables present in src/data/pigment_data, output is vgm_pigment_counts.json.
+1. pigment_loader_preprocessor.json.py loads in the separate pigment tables, combines these, and then preprocesses them for further use in the timeline tool. Input are the five pigment tables present in src/data/pigment_data, painting_data_full_images.json, and pigment_colorgroups.json (a supplementary file to match pigments to their associated color group), output is vgm_pigment_counts.json.
 
 ### Painting details
 1. annotation_annotation_loader.py loads the raw data from the N-triple file through SPARQL queries, specifically the letter annotations used to match paintings to the letters they are mentioned in. Input is letters.nt, output is letter_annotation_data_raw.json.
