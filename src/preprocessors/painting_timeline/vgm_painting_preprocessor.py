@@ -5,7 +5,6 @@ vgm_df = pd.read_json('src/data/VGW_datasets/extracted_json_files/vgm_data.json'
 annotation_df = pd.read_json('src/data/letter_annotations_data.json')
 
 # Code to replace unprocessed uri's with human readable strings (for production location and current owner)
-# print(paintings_df.location.unique())
 locationuri_dict = {
     "http://vocab.getty.edu/tgn/7006835": "Nuenen",
     "http://vocab.getty.edu/tgn/7008038": "Paris",
@@ -41,7 +40,7 @@ def uri_replacer(df, column_name: str, uri_dict: dict):
 vgm_df["location"] = uri_replacer(vgm_df, "location", locationuri_dict)
 vgm_df["current_owner"] = uri_replacer(vgm_df, "current_owner", owneruri_dict)
 
-# Code to add image url's and edit the VGWw url's in the extracted data
+# Code to add image URLs and edit the VGWw URLs in the extracted data
 def url_generator(df):
 
     image_url_list = []

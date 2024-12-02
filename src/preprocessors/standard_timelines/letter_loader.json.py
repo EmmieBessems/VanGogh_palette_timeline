@@ -32,9 +32,8 @@ for row in letters:
         "recipient": row.recipient
     })
     count += 1
-    # print(row.id, row.date, row.sender, row.recipient)
+    print(row.id, row.date, row.sender, row.recipient)
 
-print(letter_data)
 print(count)
 
 with open("src/data/letter_data.json", "w") as output:

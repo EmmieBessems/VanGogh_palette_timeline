@@ -29,6 +29,8 @@ theme: "wide"
   <h3>Search for a painting</h3>
 
   ```js
+  // The following blocks contain all code for the user input settings, as well as accompanying code
+
   // Make a combination of main ID and title to ensure the unique look-up of paintings
   const titleIdArray = paintingsImages.map((d) => d.title + ", " + d.fnumber);
 
@@ -57,8 +59,6 @@ theme: "wide"
   <h3>Painting timeline options</h3>
 
   ```js
-  // A toggle to turn the selection of multiple paintings on/off
-  // const multipleSelection = view(Inputs.toggle({label: "Select multiple paintings?", value: false}));
   // A button to add a clicked painting to a painting subset
   let clickArrayContainerContent = document.querySelector("#clickArrayContainer");
 
@@ -108,6 +108,7 @@ theme: "wide"
   ```
 
   ```js
+  // Create radio buttons for selecting the paintings that are displayed based on the "analyzed" feature
   const analyzedChoice = view(Inputs.radio(["All paintings", "Analyzed paintings", "Not analyzed paintings"], 
   {label: "Pigment analysis filter", value: "All paintings"}));
   ```
@@ -115,6 +116,7 @@ theme: "wide"
   <h3>Pigment overview options</h3>
 
   ```js
+  // Create radio buttons for choosing the pigment display
   const pigmentRadio = view(Inputs.radio(new Map([["Pigments", "pigment"], ["Colorgroups", "Colorgroup"]]), {label: "Choose display", value: "pigment"}));
   ```
 
@@ -135,19 +137,14 @@ theme: "wide"
     disabledChoice.push(true)
   };
 
-  // This just creates an array, so way to go is probably to create an empty array under this name and then fill it depending on what option is selected (user selection or painting click)
+  // Create a selection pane to filter on pigment name (disabled when the color group option is selected!)
   let pigmentSelect = [];
   pigmentSelect = view(Inputs.select(pigmentNames, {disabled: disabledChoice[0], multiple: true, label: "Choose pigment(s)"}));
 
   display(Inputs.button("Reset pigment selection (clicked painting)", {reduce: () => setPigmentClicked([])}));
   ```
 
-  ```js
-
-  // Pigment filters: on technique, on uncertainty, on notes (yes/no)
-  // Idea: technique options that are not in the current dataset are greyed out?
-  // Also watch out because entries can be in list form!
-  
+  ```js  
   // Only show options for technique that are present in the current pigment data selection
   const techniqueOptions = [];
 
@@ -165,18 +162,18 @@ theme: "wide"
     }
   }
 
+  // Create checkboxes for filtering pigments on the technique
   const techniqueChoice = view(Inputs.checkbox(techniqueOptions, {label: "Choose technique(s)", value: techniqueOptions}));
   ```
 
   ```js
+  // Create checkboxes for filtering pigments on the uncertainty
   const uncertaintyChoice = view(Inputs.checkbox(["No info", "Possibly", "Probably"], {label: "Choose uncertainty", value: ["No info", "Possibly", "Probably"]}));
   ```
 
-  <!-- ```js
-  const sizeRadio = view(Inputs.radio(["Absolute", "Relative - analyzed paintings", "Relative - per colorgroup", "Relative - per pigment"], {label: "Pigment dot size display", value: "Absolute"}));
-  ``` -->
-
   ```js
+  // The code in the following blocks generates the painting details view
+
   let containerContent = document.querySelector('#container');
   const full_month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
@@ -260,8 +257,6 @@ theme: "wide"
   } 
 
   setPigmentClicked(pigmentClick(paintingsImages, pigment_counts, clickId));
-
-  // display(Inputs.button("Reset pigment selection (clicked painting)", {reduce: () => setPigmentClicked([])}));
   ```
   <div class="container" id="container"></div>
 
@@ -350,24 +345,23 @@ theme: "wide"
   <div class="grid-colspan-3">
   
   ```js
-  // display(clickId);
   // Data imports
   const paintingsRawImages = FileAttachment("./data/painting_data_full_images.json").json();
   // const paintingsRawImages = FileAttachment("./data/paintingdlf_data_full_images.json").json();
-  // const paintingsRawImages = FileAttachment("./data/mockup_painting_images.json").json();
   const pigment_counts_raw = FileAttachment("./data/vgm_pigment_counts.json").json();
   const counts = FileAttachment("./data/vgm_paintings_real_letter_counts.json").json();
   const periods_raw = FileAttachment("./data/period_data.json").json();
   ```
 
   ```js
-  // display(pigmentSelect);
   // Package imports
   import d3Tip from "d3-tip";
   import tippy from "tippy.js"; 
   ```
 
   ```js
+  // The code in the blocks below is used to build the period overview timeline in the standard timelines
+
   function parsePeriods(element) {
     return {
       period: element.period,
@@ -407,7 +401,8 @@ theme: "wide"
   if (periodSubset.length == 0) {
     periodSubset = periods.map((d) => d.period);
   }
-
+  
+  // Create the actual plot
   display(
     Plot.plot({
       height: 100,
@@ -465,9 +460,7 @@ theme: "wide"
   ```
 
   ```js
-  // Letter and painting counts bar chart
-  // TODO: add real data instead of using a mock-up dataset (letters done, paintings only for VGM for now)
-  // Idea: make the letters bar stacked by letter sender, make the paintings bar stacked by analyzed/not analyzed
+  // The code block below build the letter and painting counts bar chart from the standard timelines
   display(
       Plot.plot({
           style: {fontSize: "15px"},
@@ -516,7 +509,9 @@ theme: "wide"
   <div class="clickArrayContainer" id="clickArrayContainer"></div>
 
   ```js
-  // const paintingSubset = view(Inputs.button(html`Add ${paintingsImages[Number(clickId)].fnumber} to subset`, {value: clickId, reduce: value => clickArray.push(value)}));
+  // The code blocks below are used to build the painting timeline
+
+  // Create the painting subset menu with options
   const paintingSubset = view(Inputs.button([
     [html`Add ${paintingsImages[Number(clickId)].fnumber} to subset`, value => clickArray.push(value)],
     ["Show pigment overlap for subset", () => setPigmentClicked(setSubsetPigments(paintingsImages, pigment_counts, clickArray))],
@@ -525,6 +520,7 @@ theme: "wide"
   ```
 
   ```js
+  // Function to set the pigments overview based on the paintings selected in the subset
   function setSubsetPigments(paintingData, pigmentData, subsetArray) {
 
     const resultArray = [];
@@ -621,6 +617,7 @@ theme: "wide"
       d3.ascending(a[END_YEAR], b[END_YEAR])
     );
 
+    // Index assignment for quicker data loading
     for (let i = 0; i < data.length; i++) {
       sortedArray[i].index = i.toString();
     };
@@ -629,7 +626,7 @@ theme: "wide"
   };
 
   const paintingsImages = parseDates(paintingsRawImages)
-  // For now change the index of the second F25 manually to make it match the first (should think of an automated way to fix this!!)
+  // For now change the index of the second F25 manually to make it match the first
   paintingsImages[41].index = 6;
 
   // A filtered dataset based on the pigment analysis radio choice
@@ -804,7 +801,6 @@ theme: "wide"
         let t = d3.select(this).select("title").text(); 
         tippy(this, {
           content: tip(t),
-          // delay: [0, 6000],
           theme: 'custom',
           allowHTML: true,
           maxWidth: 200,
@@ -851,10 +847,8 @@ theme: "wide"
   ```
 
   ```js
+  // The code blocks below are used to build the pigment overview timeline
 
-  ```
-
-  ```js
   // Function for pigment data parsing
   function parseYears(element) {
       return {
@@ -1008,30 +1002,8 @@ theme: "wide"
 
     return result.sort()
   }
-
-  // Perhaps the order should be the same as in the plot?
-  // const pigmentNames = d3.groupSort(pigment_counts, 
-  //     ([d]) => d.colorgroup,
-  //     (d) => d.pigment
-  //   )
-  // const colorgroupNames = extractNames(pigment_counts, 'colorgroup')
-
-  // const pigmentRadio = view(Inputs.radio(new Map([["Pigments", "pigment"], ["Colorgroups", "colorgroup"]]), {label: "Choose display", value: "pigment"}))
   ```
-
-  ```js
-  // const disabledChoice = []
-  // if (pigmentRadio === "pigment") {
-  //   disabledChoice.push(false)
-  // } 
-  // if (pigmentRadio === "colorgroup") {
-  //   disabledChoice.push(true)
-  // }
-
-  // const pigmentChoice = view(Inputs.select(pigmentNames, {disabled: disabledChoice[0], multiple: true, label: "Choose pigment(s)"}));
-
-  // const colorChoice = view(Inputs.select(colorgroupNames, {disabled: !disabledChoice[0], multiple: true, label: "Choose colorgroup(s)"}));
-  ```
+  
   </div>
 </div>
 

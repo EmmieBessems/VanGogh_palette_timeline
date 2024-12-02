@@ -4,6 +4,7 @@ import numpy as np
 import re
 from datetime import datetime
 
+# Load in all separate pigment tables
 antwerp_table = pd.read_csv("src/data/pigment_data/Antwerp_Pigments.csv")
 astra_table = pd.read_csv("src/data/pigment_data/AStRA_Pigments.csv")
 dutch_table = pd.read_csv("src/data/pigment_data/Dutch_Pigments.csv")
@@ -11,7 +12,7 @@ olive_table = pd.read_csv("src/data/pigment_data/OliveGrove_Pigments.csv", encod
 paris_table = pd.read_csv("src/data/pigment_data/Paris_Pigments.csv", encoding='unicode_escape')
 
 # Preprocess Antwerp table: 
-# add F before each De la Faille number, change column names and make all lower case, throw away unncessesary data
+# Add F before each De la Faille number, change column names and make all lower case, throw away unncessesary data
 for row in antwerp_table.index:
     antwerp_table.loc[row, "De la Faille number"] = "F" + str(antwerp_table.loc[row, "De la Faille number"])
 
@@ -27,7 +28,7 @@ antwerp_table.columns = map(str.lower, antwerp_table.columns)
 antwerp_table["source"] = "antwerp_table"
 
 # Preprocess Dutch table: 
-# add F before each De la Faille number, change column names, throw away unncessesary data
+# Add F before each De la Faille number, change column names, throw away unncessesary data
 for row in dutch_table.index:
     dutch_table.loc[row, "F no."] = "F" + str(dutch_table.loc[row, "F no."])
 
@@ -41,7 +42,7 @@ dutch_table.columns = map(str.lower, dutch_table.columns)
 dutch_table["source"] = "dutch_table"
 
 # Preprocess olive table: 
-# add F before each De la Faille number and convert to string, change column names, throw away unncessesary data
+# Add F before each De la Faille number and convert to string, change column names, throw away unncessesary data
 olive_table["F-no"] = olive_table["F-no"].apply(str)
 for row in olive_table.index:
     olive_table.loc[row, "F-no"] = "F" + str(olive_table.loc[row, "F-no"])
@@ -53,7 +54,7 @@ olive_table.columns = map(str.lower, olive_table.columns)
 olive_table["source"] = "olive_table"
 
 # Preprocess Paris table: 
-# add F before each De la Faille number, change column names, throw away unncessesary data
+# Add F before each De la Faille number, change column names, throw away unncessesary data
 for row in paris_table.index:
     paris_table.loc[row, "De la Faille number"] = "F" + str(paris_table.loc[row, "De la Faille number"])
 
@@ -109,8 +110,6 @@ def pigment_occurrence(pigment_table, painting_table, pigment_base_table):
         f_row = painting_table[painting_table["fnumber"] == pigment_table_row.loc[0, "painting"]]
         start = f_row["start"].iloc[0]
         end = f_row["end"].iloc[0]
-        # For now we choose the year based on the start of the range, but this can also be middle, end,
-        # or we can even add multiple years if the range crosses through multiple years
         pigment_table_row["year"] = str(datetime.strptime(start, "%Y-%m-%d").year)
         
         # Add colorgroup based on the pigment base table
@@ -127,7 +126,6 @@ def pigment_occurrence(pigment_table, painting_table, pigment_base_table):
         pigment_table_row["uncertainty"] = None
         pigment_table_row["technique"] = None
         pigment_table_row["notes"] = None
-        # pigment_table_row["element"] = None
 
         # Iteratively alter the pigment rows based on the given details
         for i in range(len(pigment_table_row)):
@@ -184,7 +182,7 @@ def pigment_occurrence(pigment_table, painting_table, pigment_base_table):
                                 pigment_table_row.loc[i, "uncertainty"] = "Possibly"
                             elif element[1].isnumeric():
                                 notes_list.append(notes[element[1]])
-                                # pigment_table_row.loc[i, "notes"] = notes[element[1]]
+
                         # Just in case any comma's within brackets were not removed
                         elif element.startswith("starch"):
                             continue
@@ -204,11 +202,9 @@ def pigment_occurrence(pigment_table, painting_table, pigment_base_table):
                                     if any(chr.isdigit() for chr in element):
                                         note_nr = [i for i in element if i.isdigit()]
                                         notes_list.append(notes[note_nr[0]])
-                                        # pigment_table_row.loc[i, "notes"] = notes[note_nr[0]]
                             else: # This is now all elements that do not end in a bracket, but in a note nr
                                 # Add note to the notes list
                                 notes_list.append(notes[element[-1]])
-                                # pigment_table_row.loc[i, "notes"] = notes[element[-1]]
                                 # Add either an element or change the pigment name depending on the content between brackets
                                 between_brackets = element[element.find("(") + 1: element.find(")")]
                                 if (between_brackets[0] == "y") and (len(between_brackets) == 1):
@@ -249,7 +245,6 @@ def pigment_occurrence(pigment_table, painting_table, pigment_base_table):
                         elif element[2].isnumeric():
                             note_nr = element[2:]
                             notes_list.append(notes[note_nr])
-                            # pigment_table_row.loc[i, "notes"] = notes[note_nr]
                         elif element[2] == "(":
                             between_brackets = element[element.find("(") + 1: element.find(")")]
                             notes_list.append(between_brackets)
@@ -272,10 +267,6 @@ def pigment_occurrence(pigment_table, painting_table, pigment_base_table):
             if pigment_table_row["details"][i] == "?":
                 pigment_table_row.loc[i, "uncertainty"] = "Possibly"
 
-            # # Separate note addition for olive table for viridian pigment
-            # if (pigment_table_row["pigment"][i] == "viridian") and (pigment_table_row["source"][i] == "olive_table"):
-            #     pigment_table_row.loc[i, "notes"] = "By XRF no differentiation can be made between opaque and transparent chromium oxide green (viridian)"
-
         result = result._append(pigment_table_row)
 
     # Final index reset
@@ -285,22 +276,16 @@ def pigment_occurrence(pigment_table, painting_table, pigment_base_table):
     return result
 
 # Combine all datasets into one
-# pigment_table = pd.concat([antwerp_table, paris_table, olive_table, dutch_table, astra_table], axis=0, ignore_index=True)
 pigment_table = pd.concat([antwerp_table, dutch_table, olive_table, paris_table, astra_table], axis=0, ignore_index=True)
-# print(pigment_table["source"].unique())
 
 # Load the pigment names and colorgroups json and the VGM paintings to compare
 pigment_base_table = pd.read_json("src/data/pigment_colorgroups.json")
-painting_table = pd.read_json("src/data/vgm_data_full_images.json")
+painting_table = pd.read_json("src/data/painting_data_full_images.json")
 
 # Filter pigment table based on F-numbers present in the paintings set
 vgm_pigment_table = pigment_table[pigment_table["fnumber"].isin(list(painting_table["fnumber"]))]
-print(vgm_pigment_table[["fnumber", "lead white", "chrome yellow or orange", "eosin lake", "source"]].to_string())
 
-# pigment_occurrence(vgm_pigment_table, painting_table, pigment_base_table)
-# print(pigment_occurrence(vgm_pigment_table, painting_table, pigment_base_table).to_string())
-
-# result_table = pigment_occurrence(vgm_pigment_table, painting_table, pigment_base_table)
-# result_table.to_json(r"./src/data/vgm_pigment_counts.json", orient="records")
+result_table = pigment_occurrence(vgm_pigment_table, painting_table, pigment_base_table)
+result_table.to_json(r"./src/data/vgm_pigment_counts.json", orient="records")
 
 

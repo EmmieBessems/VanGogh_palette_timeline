@@ -3,25 +3,14 @@ import json
 import datetime as dt
 
 g = Graph()
+
+# Parse any file from the green category, in this case the Van Gogh Museum collection dataset
+# (also some additional examples below, commented out)
 g.parse('src/data/VGW_datasets/vgm_amsterdam.nt', format='nt')
 # g.parse('src/data/VGW_datasets/kroller_muller.nt', format='nt')
 # g.parse("src/data/VGW_datasets/centraalmuseum_utrecht.nt", format='nt')
 # g.parse("src/data/VGW_datasets/rijksmuseum_amsterdam.nt", format="nt")
 
-# Query checks for the following
-# Line 21 --> select all distinct titles, begintimes, endtimes, and locations
-# Line 23 --> object has type painting
-# Line 24 --> object is identified by a bnode
-# Line 25 --> bnode has type 'preferred title' (signals it contains the object's title)
-# Line 26 --> bnode has language 'english' to ensure we extract the english title
-# Line 27 --> extract the filtered bnode's symbolic content as the title feature
-# Line 28 --> object has a production node that I name production
-# Line 29 --> production has a time span node that I name period
-# Line 30 --> period has a begin of the begin node that I name begintime
-# Line 31 --> period has an end of the end node that I name endtime
-# Line 32 --> production has a took place at node that I name locationuri
-# Line 33 --> locationuri has a preferred label that I name location
-# Line 34 --> only select the locations that have language 'en' (english)
 painting_query = """
 SELECT DISTINCT ?fnumber ?title ?museumid ?jhnumber ?begintime ?endtime ?displaytime ?location ?currentowner ?link
 WHERE {
@@ -94,5 +83,5 @@ for row in paintings:
     print(row.fnumber, row.jhnumber, row.museumid, row.title, row.begintime, row.endtime, row.displaytime, row.location, row.currentowner, row.link)
 
 print(count)  
-# with open("src/data/VGW_datasets/extracted_json_files/vgm_data.json", "w") as output:
-#     json.dump(vgm_data, output)
+with open("src/data/VGW_datasets/extracted_json_files/vgm_data.json", "w") as output:
+    json.dump(vgm_data, output)

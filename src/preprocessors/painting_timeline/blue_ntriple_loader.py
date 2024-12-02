@@ -2,9 +2,11 @@ from rdflib import Graph
 import json
 
 g = Graph()
+# Parse any file from the blue category, in this case the De La Faille full oeuvre dataset
 g.parse("src/data/VGW_datasets/delafaille.nt", format="nt")
 
-painting_query_dlf = """
+# Query to parse all necesary data
+painting_query_blue = """
 SELECT DISTINCT ?fnumber ?title ?museumid ?jhnumber ?begintime ?endtime ?displaytime ?location (MIN(?currentowners) as ?currentowner) ?link
 WHERE {
     ?object <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> ?bnode1 .
@@ -54,18 +56,8 @@ WHERE {
 GROUP BY ?fnumber
 """
 
-# ?object <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> ?bnode2 .
-    # ?bnode2 <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300417193> .
-    # ?bnode2 <http://www.cidoc-crm.org/cidoc-crm/P73_has_translation> ?titlenode . 
-    # ?titlenode <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <http://vocab.getty.edu/aat/300388277> .
-    # ?titlenode <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> ?title .
-    # ?object <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> ?production .
-    # ?production <http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span> ?period .
-    # ?period <http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin> ?begintime .
-    # ?period <http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end> ?endtime .
-    # ?production <http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at> ?location .
-
-paintings = g.query(painting_query_dlf)
+# Extract the data and store it in a list
+paintings = g.query(painting_query_blue)
 
 painting_list = []
 count = 0
@@ -85,8 +77,8 @@ for row in paintings:
     count += 1
     print(row.fnumber, row.jhnumber, row.museumid, row.title, row.begintime, row.endtime, row.displaytime, row.location, row.currentowner, row.link)
 
-# print(painting_list)
 print(count)
 
-# with open("src/data/VGW_datasets/extracted_json_files/delafaille_data.json", "w") as output:
-#     json.dump(painting_list, output)
+# Save the result as a JSON file
+with open("src/data/VGW_datasets/extracted_json_files/delafaille_data.json", "w") as output:
+    json.dump(painting_list, output)

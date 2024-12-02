@@ -15,7 +15,7 @@ for row in letter_counts.index:
     })
 
 # Merge with the VGM painting data (so not yet all painting data!)
-paintings_df = pd.read_json('src/data/vgm_data_full_images.json')
+paintings_df = pd.read_json('src/data/painting_data_full_images.json')
 
 paintings_year_list = []
 for i in range(len(paintings_df)):
