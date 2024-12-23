@@ -19,9 +19,9 @@ There are four types of data that need to be processed:
 
 Within the src folder you will find the preprocessors folder, which contains all different Python files used for preprocessing the above mentioned datasets. These preprocessing files are ordered by the part of the timeline tool they provide the data for:
 1. The standard timelines, which is a general overview of the production periods and a bar chart showing letter and painting counts for reference.
-3. The painting timeline, which places painting thumbnail images directly on a timeline.
-4. The pigment timeline, which summarizes all pigment records into yearly bins.
-5. The painting details, which displays additional metadata and links for the current painting of interest.
+2. The painting timeline, which places painting thumbnail images directly on a timeline.
+3. The pigment timeline, which summarizes all pigment records into yearly bins.
+4. The painting details, which displays additional metadata and links for the current painting of interest.
 
 In the sections below for each of these views the different preprocessors are described in some more detail.
 
